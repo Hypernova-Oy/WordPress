@@ -4,3 +4,6 @@
 [submodule "wp-content/plugins/sitepress-multilingual-cms"]
 	path = wp-content/plugins/sitepress-multilingual-cms
 	url = https://github.com/wp-premium/sitepress-multilingual-cms.git
+[submodule "wp-content/plugins/so-widgets-bundle"]
+	path = wp-content/plugins/so-widgets-bundle
+	url = https://github.com/siteorigin/so-widgets-bundle.git
