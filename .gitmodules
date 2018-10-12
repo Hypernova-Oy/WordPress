@@ -1,3 +1,6 @@
 [submodule "wp-content/plugins/siteorigin-panels"]
 	path = wp-content/plugins/siteorigin-panels
 	url = https://github.com/siteorigin/siteorigin-panels.git
+[submodule "wp-content/plugins/sitepress-multilingual-cms"]
+	path = wp-content/plugins/sitepress-multilingual-cms
+	url = https://github.com/wp-premium/sitepress-multilingual-cms.git
