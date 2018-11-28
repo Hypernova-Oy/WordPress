@@ -59,6 +59,11 @@ if ( ! function_exists( 'generate_setup' ) ) {
 
 		// This theme styles the visual editor to resemble the theme style.
 		add_editor_style( 'css/admin/editor-style.css' );
+
+                add_filter( 'generate_copyright','tu_custom_copyright' );
+                function tu_custom_copyright() {
+                    echo "Copyright &copy; Hypernova Oy, " . date("Y");
+                }
 	}
 }
 
