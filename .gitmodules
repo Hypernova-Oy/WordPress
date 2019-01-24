@@ -7,3 +7,6 @@
 [submodule "wp-content/plugins/so-widgets-bundle"]
 	path = wp-content/plugins/so-widgets-bundle
 	url = https://github.com/siteorigin/so-widgets-bundle.git
+[submodule "wp-content/plugins/wpml-string-translation"]
+	path = wp-content/plugins/wpml-string-translation
+	url = https://github.com/wp-premium/wpml-string-translation.git
