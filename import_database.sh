@@ -13,5 +13,7 @@ read -e -p "Enter database hostname: " -i "localhost" DB_HOST
 read -e -p "Enter database port: " -i "3306" DB_PORT
 
 mysql -u $DB_USER -p -P$DB_PORT -h $DB_HOST $DB_NAME < $DIR/hypernova.sql
+mysql -u $DB_USER -p -P$DB_PORT -h $DB_HOST $DB_NAME -e "DELETE FROM wp_options WHERE option_name='wpml_language_switcher_template_objects';"
+wp user list --field=ID --allow-root | xargs -n 1 wp user session destroy --all --allow-root
 
 wp search-replace http://homepage $SITE_URL --allow-root
