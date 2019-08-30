@@ -32,3 +32,12 @@
 32	en	/wp-admin/edit.php?lang=fi
 33	en	/wp-admin/post.php?lang=fi
 34	fi	^wp-json/(.*)?
+35	en	/wp-admin/post-new.php?lang=en
+36	fi	ajax-request
+37	en	/wp-content/uploads/2018/10/pexels-photo-316093-300x169.jpeg
+38	en	/wp-content/uploads/2018/12/pexels-photo-796602-300x200.jpeg
+39	en	/wp-content/uploads/2019/02/server-300x157.jpeg
+40	en	(.?.+?)(?:/([0-9]+))?/?$
+41	en	/wp-content/uploads/2019/02/server.jpeg
+42	en	/wp-admin/admin.php?page=wpforms-overview
+43	en	/wp-admin/admin.php?page=wpforms-builder

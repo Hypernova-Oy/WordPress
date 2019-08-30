@@ -61,7 +61,7 @@
 94	33	_wpml_media_featured	1
 95	2	_wpml_media_duplicate	1
 96	33	_wpml_media_duplicate	1
-98	33	_edit_lock	1567204821:1
+98	33	_edit_lock	1567204736:1
 99	33	_generate-sidebar-layout-meta	no-sidebar
 102	2	_generate-disable-headline	true
 103	46	_wp_attached_file	2018/12/pexels-photo-796602.jpeg
@@ -179,7 +179,7 @@
 349	314	_edit_last	1
 350	314	_wpml_media_duplicate	1
 351	314	_wpml_media_featured	1
-352	314	_edit_lock	1550337355:1
+352	314	_edit_lock	1567205548:1
 353	316	_menu_item_type	post_type
 354	316	_menu_item_menu_item_parent	232
 355	316	_menu_item_object_id	314
@@ -851,7 +851,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 452	386	_wpml_media_duplicate	1
 453	386	_wpml_media_featured	1
 454	386	_last_translation_edit_mode	native-editor
-455	386	_edit_lock	1551394565:1
+455	386	_edit_lock	1567205623:1
 456	388	_menu_item_type	post_type
 457	388	_menu_item_menu_item_parent	0
 458	388	_menu_item_object_id	386
@@ -1143,3 +1143,18 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 535 Authentication Failed
 514	2	_yoast_wpseo_content_score	90
 515	33	_last_translation_edit_mode	native-editor
+516	386	_yoast_wpseo_content_score	30
+517	429	_edit_last	1
+518	429	_wp_page_template	
+519	429	_wpml_media_featured	1
+520	429	_wpml_media_duplicate	1
+521	429	_last_translation_edit_mode	native-editor
+522	429	_edit_lock	1567206171:1
+523	429	_yoast_wpseo_content_score	30
+524	439	_edit_last	1
+525	439	_yoast_wpseo_content_score	30
+526	439	_wp_page_template	
+527	439	_wpml_media_duplicate	1
+528	439	_wpml_media_featured	1
+529	439	_last_translation_edit_mode	native-editor
+530	439	_edit_lock	1567206180:1

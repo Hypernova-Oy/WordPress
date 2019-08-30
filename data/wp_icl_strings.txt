@@ -6025,3 +6025,654 @@ All at ###SITENAME###\
 22220	en	default	2a5afebdaf673af187a5ad1fec9be3ee	Return to Themes page	\N	\N		LINE	\N	0		63749431cb410686f87b7d03ddbc524f		\N
 22221	en	default	fb12ca1b838491ad8bbc83b3e86ac581	Return to WordPress Updates page	\N	\N		LINE	\N	0		d59f97cf4453b1900eb33caa73f414de		\N
 22222	en	default	b21219403bc141847d768e3db27d86f2	Your themes are all up to date.	\N	\N		LINE	\N	0		930aa730ba72caf2d1121b586de0152d		\N
+23441	en	default	59c578c00e60a7dd55500ffe2c1ee24d	g:i:s a	\N	\N		LINE	\N	0		b93f39f7edb0806afc9fe0c2564f7e93		\N
+23442	en	default	0d98a24c01d792eb1923eb851e91b5ac	Draft saved at %s.	\N	\N		LINE	\N	0		e2d21b00dcda3969be1aeb3648136fdc		\N
+23443	en	default	638f2dc777f64ffabcb68f4f6ab17abc	about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,was,what,when,where,who,will,with,www	\N	\N		LINE	\N	0	Comma-separated list of search stopwords in your language	3a1e48d12f25236fcf434634c8c87823		\N
+24971	en	wpforms-lite	b3567c3c94335fe7fbdc1aea85da0433	Number of forms per page:	\N	\N		LINE	\N	0		7d7cb91313f5c94a163035eb49d4e318		\N
+24972	en	wpforms-lite	a13367a8e2a3f3bf4f3409079e3fdf87	Activate	\N	\N		LINE	\N	0		30f4305444669c8257d84dc27f164d1d		\N
+24973	en	wpforms-lite	cb456215c3333db0551bd0788bc258c7	Activated	\N	\N		LINE	\N	0		fa174f42518de97b5042e4b6f7131b1a		\N
+24974	en	wpforms-lite	4d3d769b812b6faa6b76e1a8abaece2d	Active	\N	\N		LINE	\N	0		1de4b149cde2ab5be1681345973c0876		\N
+24975	en	wpforms-lite	109fec06829bd79d222cfc8af52aaaf1	Deactivate	\N	\N		LINE	\N	0		3677dd7a5ae1c914e3ff38fec0cc11af		\N
+24976	en	wpforms-lite	3cab03c00dbd11bc3569afa0748013f0	Inactive	\N	\N		LINE	\N	0		e60aff666309b4f4de15724afcb26c47		\N
+24977	en	wpforms-lite	fa4655209176a1f82e6fb86c757c5b30	Install Addon	\N	\N		LINE	\N	0		ec6eaebf6013f6f7ec65eb412a797021		\N
+24978	en	wpforms-lite	1112c61b57269a40988d8bf2b3936d31	Could not install addon. Please download from wpforms.com and install manually.	\N	\N		LINE	\N	0		f13f66efef112d510b29b1ab0e02b1aa		\N
+24979	en	wpforms-lite	40449565ad51bd45e11b0053aacfd1e2	Could not install a plugin. Please download from WordPress.org and install manually.	\N	\N		LINE	\N	0		46efd82d3926c4e6720784e003e0284d		\N
+24980	en	wpforms-lite	81386e9b9c23e09c7a28ed7f6e5492b5	Searching Addons	\N	\N		LINE	\N	0		e7f9e1c567cf3c62b9faf057c279c783		\N
+24981	en	wpforms-lite	f09860c30cfe34d66477090f73d50d4b	Are you sure you want to delete this entry?	\N	\N		LINE	\N	0		a3bb2a367b30355f61b7d0984b47d9a6		\N
+24982	en	wpforms-lite	c74e69c63968780530aa61c57c6c9b13	Are you sure you want to delete ALL entries?	\N	\N		LINE	\N	0		da05afb314a63ad34f1f0983acabd35e		\N
+24983	en	wpforms-lite	dac4b2ec8b63fe4b0747a332f3f8b2a2	Hide Empty Fields	\N	\N		LINE	\N	0		9ba1c85a2741c98a96e134cea18a85cc		\N
+24984	en	wpforms-lite	b4ec64896a7528978f132db00c1718e1	Show Empty Fields	\N	\N		LINE	\N	0		1bccc5e9dcd0cc86c793a916d5d08ec8		\N
+24985	en	wpforms-lite	b26ffa30f4ca9c05486485b13a11d678	Entries Field Columns	\N	\N		LINE	\N	0		d91a14361f06aee481ebfb91a4226b5f		\N
+24986	en	wpforms-lite	c6a0d54ba083d161861d48bfbfbe7bcd	Are you sure you want to delete this note?	\N	\N		LINE	\N	0		526298a32dc05516f30ab5d0767466a5		\N
+24987	en	wpforms-lite	2ca4f91e22131b16714b45860a1cb28c	Unstar entry	\N	\N		LINE	\N	0		dbb788d30d5e1e4d8e9c966c23a0d2e6		\N
+24988	en	wpforms-lite	7e54de58edef04704db1f8bdc774f646	Star entry	\N	\N		LINE	\N	0		7776689e34502fd8d04f574b17728753		\N
+24989	en	wpforms-lite	dc77ec8f0643132f3a00e6dcf402ab49	Mark entry read	\N	\N		LINE	\N	0		6d92fb28014de26d19f089fb0b605597		\N
+24990	en	wpforms-lite	67ab227e109c00c955130feca15c2cd9	Mark entry unread	\N	\N		LINE	\N	0		6c8c826af1f3ae2e05e4b6226890c537		\N
+24991	en	wpforms-lite	221513762a7fbd852d939a8e761913a0	Are you sure you want to delete this form?	\N	\N		LINE	\N	0		11efc1dee690df6735b1b963ada866c8		\N
+24992	en	wpforms-lite	7bfff7e02ccd3b4e7003a05447b6fa60	Are you sure you want to duplicate this form?	\N	\N		LINE	\N	0		3bfe5b3bc56045b15f932055537e5e9a		\N
+24993	en	wpforms-lite	4a6daa160197162779682fb0cb628381	Please select at least one form to import.	\N	\N		LINE	\N	0		f3fd6aa4a71236ffc70b65c28786f8f2		\N
+24994	en	wpforms-lite	4dee9299a7c25df7afe7ea171be06b40	Almost Done	\N	\N		LINE	\N	0		a6ccc25eaaba526612b08f5f12d3ff7b		\N
+24995	en	wpforms-lite	50717588689bf6a591f54c262359f0cc	Oops!	\N	\N		LINE	\N	0		785f7d2c3a9e24d4577ba176d2f1b654		\N
+24996	en	wpforms-lite	e0aa021e21dddbd6d8cecec71e9cf564	OK	\N	\N		LINE	\N	0		f9dcbbcb6c590c6c1511f4639eab7ccf		\N
+24997	en	wpforms-lite	4843d6d53b552b262c933c9ec66de565	Install and Activate	\N	\N		LINE	\N	0		908040ca1f9522fe08a5cdf73942328a		\N
+24998	en	wpforms-lite	5da0bc27d2d99b1fec91d09dd2d3fee3	needs to be installed and activated to import its forms. Would you like us to install and activate it for you?	\N	\N		LINE	\N	0		cb05538590bf43ae9563c06fe23f81dc		\N
+24999	en	wpforms-lite	76b52690ea365056905b00b2c5963d97	needs to be activated to import its forms. Would you like us to activate it for you?	\N	\N		LINE	\N	0		e9afac87db9324b2e214ae1731048a30		\N
+25000	en	wpforms-lite	1560a94ad75a4c1e61708b7944a63998	Are you sure you want to disconnect this account?	\N	\N		LINE	\N	0		aaf413986d27032d524be1eedefbd4f4		\N
+25001	en	wpforms-lite	577c4bebea5234351926292488f2be98	Could not authenticate with the provider.	\N	\N		LINE	\N	0		ffc5edea3b4ecdcb2ccf6af76bd219bc		\N
+25002	en	wpforms-lite	185a5cea96bc51a0c01236556b98bfc9	Save and Refresh	\N	\N		LINE	\N	0		180ec24371463d8f82426ea250ba2cd1		\N
+25003	en	wpforms-lite	1277b14d676e5f0fa84555c15d6b5b45	Unfortunately, there was an server connection error.	\N	\N		LINE	\N	0		17bbb513ded8c645cbba70117438b946		\N
+25004	en	wpforms-lite	b5de6e127d413e5ca2cacca586792eea	You've selected <strong>Base Styling Only</strong>, which may result in styling issues. <a href="%s" target="_blank" rel="noopener noreferrer">Please check out our tutorial</a> for common issues and recommendations.	\N	\N		LINE	\N	0		abb2af1bbb817768301f56ce4f17069d		\N
+25005	en	wpforms-lite	5c4dbf131c17679f07ca82ef79bffa52	You've selected <strong>No Styling</strong>, which will likely result in significant styling issues and is recommended only for developers. <a href="%s" target="_blank" rel="noopener noreferrer">Please check out our tutorial</a> for more details and recommendations.	\N	\N		LINE	\N	0		0bdbddd4de0f08abbe0e37f66b7b9914		\N
+25006	en	wpforms-lite	fa6a5a3224d7da66d9e0bdec25f62cf0	Testing	\N	\N		LINE	\N	0		8240e4aa2426529bf07fd2bdc5f0df5c		\N
+25007	en	wpforms-lite	61dd6006bc883def353d83637b3e80ec	Upgrade was successfully completed!	\N	\N		LINE	\N	0		9a4799c4b0781a456acaf236001d08f0		\N
+25008	en	wpforms-lite	7aeaf3d84e4ff674e97ba26f08f1d4e1	Upload or Choose Your Image	\N	\N		LINE	\N	0		7365c4effee75f78f7251eb601c0caf0		\N
+25009	en	wpforms-lite	0788c01942c51699193ae0c99728553f	Use Image	\N	\N		LINE	\N	0		2ae5256a867b3fb86797adf9fea78eb0		\N
+25010	en	wpforms-lite	98d8879eef6ce3369abd5dac60f7b99e	Thanks for your interest in WPForms Pro!	\N	\N		LINE	\N	0		38491aaf7cce9e3a055b0b526166f1ee		\N
+25011	en	wpforms-lite	f6177fb537ee9308e9b9291b103b95bf	If you have any questions or issues just <a href="%s" target="_blank" rel="noopener noreferrer">let us know</a>.	\N	\N		LINE	\N	0		2733747bb44c538613d25f29e30fdc60		\N
+25012	en	wpforms-lite	f6dabcad00d41c1e4c7ec16ff91274af	After purchasing WPForms Pro, you'll need to <strong>download and install the Pro version of the plugin</strong>, and then <strong>remove the free plugin</strong>.	\N	\N		LINE	\N	0		79cd8702fa4f129fa4ebdc4d835ee51f		\N
+25013	en	wpforms-lite	8dd378e10de550cf148aa4cd669791a1	(Don't worry, all your forms and settings will be preserved.)	\N	\N		LINE	\N	0		051204e698d37a9799a6078c992298d0		\N
+25014	en	wpforms-lite	ed6e9216327637dd1e8234170b9e37ba	Check out <a href="%s" target="_blank" rel="noopener noreferrer">our documentation</a> for step-by-step instructions.	\N	\N		LINE	\N	0		a7f805b139992858fe082062d1e17b91		\N
+25015	en	wpforms-lite	ee9e6ea5c169d60632664be2c2d976e5	Select fields	\N	\N		LINE	\N	0		91ba2ebdeda687239dae2b5d574d7dbf		\N
+25016	en	wpforms-lite	8524de963f07201e5c086830d370797f	Loading...	\N	\N		LINE	\N	0		00d27d56a62b7fac1e026c7c206b3217		\N
+25017	en	wpforms-lite	e576c23d915755d83e2d1f47bd9f6c22	No results found	\N	\N		LINE	\N	0		d7934b199a2914f5600aadcec32266e8		\N
+25018	en	wpforms-lite	ac081d3c6543de7a69dd1d3f72181f3a	No choices to choose from	\N	\N		LINE	\N	0		93ac7f083053566121e06f48dcea7e48		\N
+25019	en	wpforms-lite	7c82cdfd747be6358e27b8f6e0fb4bc5	Press to select	\N	\N		LINE	\N	0		e11c3f1712880ebc27c32dc52cc17b16		\N
+25020	en	wpforms-lite	20bbbd2e0510c43b318e27c0d42c881b	Forms Overview	\N	\N		LINE	\N	0		13dcbdfd03c28d4aa972ef83741c1ce2		\N
+25021	en	wpforms-lite	6feadb455c64759731e453380c52fbd9	Shortcode	\N	\N		LINE	\N	0		c08c8b2da99c05495d282dc24981b3a1		\N
+25022	en	wpforms-lite	0eceeb45861f9585dd7a97a3e36f85c6	Created	\N	\N		LINE	\N	0		c0bc15c74bc1d96469acc3fe2887c6f8		\N
+25023	en	wpforms-lite	f2a6c498fb90ee345d997f888fce3b18	Delete	\N	\N		LINE	\N	0		fa70229f729f9dd795a9531e43096b30		\N
+25024	en	wpforms-lite	20ed6d0b199022281d0be30ced1f0c84	Edit This Form	\N	\N		LINE	\N	0		7a46fb23a176aef5b93cd7cf1572dc78		\N
+25025	en	wpforms-lite	7dce122004969d56ae2e0245cb754d35	Edit	\N	\N		LINE	\N	0		583c3bc23c7eced09672288eca0d5fe5		\N
+25026	en	wpforms-lite	4c914789bf22b864c707170ba9507214	View entries	\N	\N		LINE	\N	0		810ec2dd08a26ede1ce468a736b63af8		\N
+25027	en	wpforms-lite	5f304b5e201f9930f1d4ce21dcd7daee	View preview	\N	\N		LINE	\N	0		ea0b64021f21b53b02d873881d62fbf1		\N
+25028	en	wpforms-lite	31fde7b05ac8952dacf4af8a704074ec	Preview	\N	\N		LINE	\N	0		ac991e9d501d32a0dde8c635b2531336		\N
+25029	en	wpforms-lite	51e167af0ebd0c167b4bd7ed3d6a91f5	Duplicate this form	\N	\N		LINE	\N	0		29045e5e93f8d733dab18ba4c8b35072		\N
+25030	en	wpforms-lite	ed75712b0eb1913c28a3872731ffd48d	Duplicate	\N	\N		LINE	\N	0		76e61a1e9501b30c5b2713d87086201c		\N
+25031	en	wpforms-lite	c109b50dc670d56997cbdc950f8222cc	Delete this form	\N	\N		LINE	\N	0		4e0c867ac72ab2c167cd010c52a2d446		\N
+25032	en	wpforms-lite	0abe1652bc77b1c47fadf6fa96b335d0	Please rate %1$s <a href="%2$s" target="_blank" rel="noopener noreferrer">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href="%3$s" target="_blank" rel="noopener">WordPress.org</a> to help us spread the word. Thank you from the WPForms team!	\N	\N		LINE	\N	0		ad0a964af79bc192994c4feed7083861		\N
+25033	en	wpforms-lite	ad2376beebecdcf7846ba973fa1a005b	Setup	\N	\N		LINE	\N	0		99d0d7e1a557206078d7bb787f9f3e87		\N
+25034	en	wpforms-lite	a4ca5edd20d0b5d502ebece575681f58	Fields	\N	\N		LINE	\N	0		2e67daffbad6c25e2fcaf31b3656409c		\N
+25035	en	wpforms-lite	7cb15e416d62919b1b40298324fbe30b	Marketing	\N	\N		LINE	\N	0		37720529641c68f8665fef4b28f3b425		\N
+25036	en	wpforms-lite	daef64964ee3b9b904f5d467586e217f	Payments	\N	\N		LINE	\N	0		a36c5d340e5beb793ca1520388424ce0		\N
+25037	en	wpforms-lite	2661f04ca49c890e748111fdf3310604	You've just turned off notification emails for this form. Since entries are not stored in WPForms Lite, notification emails are recommended for collecting entry details. For setup steps, <a href="%s" target="_blank" rel="noopener noreferrer">please see our notification tutorial</a>.	\N	\N		LINE	\N	0		93d195d1b42ae8f354eb4ca470023f3d		\N
+25038	en	wpforms-lite	664f5597eb4afd9fa28d200d1bcbca4d	is a PRO Feature	\N	\N		LINE	\N	0		d6c39cd8cdcc2ad8483376b94aed6001		\N
+25039	en	wpforms-lite	0b46bf00e57a0dea6ff95bfda592c386	We're sorry, the %name% is not available on your plan. Please upgrade to the PRO plan to unlock all these awesome features.	\N	\N		LINE	\N	0		a4cf5ea91206e219a66d4202d7918ff1		\N
+25040	en	wpforms-lite	c768266cac14358c3122d3e0868833de	<strong>Bonus:</strong> WPForms Lite users get <span>50% off</span> regular price, automatically applied at checkout.	\N	\N		LINE	\N	0		675387c60dfa8e68642351bad5d16dbb		\N
+25041	en	default	74e1f2f73bf44019997eb8a1f2244e13	Already purchased?	\N	\N		LINE	\N	0		b16f3653ae5b45e275cdb2b9e679a6ad		\N
+25042	en	wpforms-lite	5026e070dc7a4b393cf425dfff96f1ab	Upgrade to PRO	\N	\N		LINE	\N	0		f60e3a503448a2d55cd5f19ae6fe4abf		\N
+25043	en	wpforms-lite	558ffc8f5770d8e4f95f51d822685532	AND	\N	\N		LINE	\N	0		a967a78894f52b458647e611d8bd2897		\N
+25044	en	wpforms-lite	fa421f34ff38bb262e40282f2f8fb764	Add New Choices	\N	\N		LINE	\N	0		3dcfb3577a4c79e2c601940eec6a6875		\N
+25045	en	wpforms-lite	a93806efd0cc7a149f0f03e2b9a0f862	Bulk Add	\N	\N		LINE	\N	0		fd5bfa4ca236024dd785fce1053ad9fa		\N
+25046	en	wpforms-lite	c3159d01ea717a4cd8b5800a5fe304f4	Hide Bulk Add	\N	\N		LINE	\N	0		fb41e73b48a9d6641e04bc237aa4808a		\N
+25047	en	wpforms-lite	5f6006e022b715bac13ac6eabd667692	Add Choices (one per line)	\N	\N		LINE	\N	0		b930a54a04914f9ecc5b0e21e7c975cc		\N
+25048	en	wpforms-lite	2dcda4079f735df60ce3c95b690580a9	Blue\
+Red\
+Green	\N	\N		LINE	\N	0		978c5e2a8be26e359e3f98d079b77d34		\N
+25049	en	wpforms-lite	74b79965e7b0f9c8d032f9b733222657	Show presets	\N	\N		LINE	\N	0		95ccf3f7c1b56314e03205a06ab70c13		\N
+25050	en	wpforms-lite	2c8ac8f8602fea95f2cdd20457ac732e	Hide presets	\N	\N		LINE	\N	0		f006764e4ecfa81eb826c19f56d553f4		\N
+25051	en	wpforms-lite	954eb0599e606ee48e73a077b34ccf5f	The {source} {type} contains over {limit} items ({total}). This may make the field difficult for your visitors to use and/or cause the form to be slow.	\N	\N		LINE	\N	0		6a9fed3345ca690ccc32f99db28e1a5b		\N
+25052	en	wpforms-lite	c766ca027113a050f3442f9a0239ca1c	Due to form changes, conditional logic rules have been removed or updated:	\N	\N		LINE	\N	0		141f601e5394c11b0afef19b13df0a3c		\N
+25053	en	default	78a92a5977a83ff97a0f35df20ce2cc6	Are you sure you want to disable conditional logic? This will remove the rules for this field or setting.	\N	\N		LINE	\N	0		e9cef7b1d61ddbeec6fb85cd0132bad4		\N
+25054	en	wpforms-lite	6f16a5f8ff5d75ab84c018adacdfcbb7	Field	\N	\N		LINE	\N	0		3a5b67c85e06dac3a67e5b5fc8912115		\N
+25055	en	wpforms-lite	3d4a6289d4298fc7c80a2be2bb2be4bd	Field Locked	\N	\N		LINE	\N	0		018a2b55ca76bcb7199a3f58ce180fdb		\N
+25056	en	wpforms-lite	1d3345d109445438ceee87d4f62e4196	This field cannot be deleted or duplicated.	\N	\N		LINE	\N	0		a9238ed91b35a3fcd3e00bfc9669d10c		\N
+25057	en	wpforms-lite	a433c7dc65617f9281a4a9c81c016304	Available Fields	\N	\N		LINE	\N	0		407ab3212dd3eac69ec251b0ffa4e9f8		\N
+25058	en	wpforms-lite	adb81acb9c25954141a0801f96c8916e	No fields available	\N	\N		LINE	\N	0		633c52d27f3eaa862820df1cb9f89697		\N
+25059	en	wpforms-lite	047b39cf1c9a8bc752d12e9812ca7993	No email fields	\N	\N		LINE	\N	0		533f8628278cf3fa381d62ce70b1d10a		\N
+25060	en	wpforms-lite	83fb9e460d33a7cf701a83684d52eed8	Are you sure you want to delete this notification?	\N	\N		LINE	\N	0		c7e548dd7e17acfb5c52948695d2ccea		\N
+25061	en	wpforms-lite	91ef7cd788f74552f91d4b9f939097c7	Enter a notification name	\N	\N		LINE	\N	0		16d256aaf6b36cab41e12944536ca1c5		\N
+25062	en	wpforms-lite	46a4efe491880b7140bf975654f46f01	Eg: User Confirmation	\N	\N		LINE	\N	0		53979904f36ee5636e70bd4ce4215c5c		\N
+25063	en	wpforms-lite	0cd64d84d017227e8d0f94b033eb4bea	You must provide a notification name	\N	\N		LINE	\N	0		8c1f66d5f1a6644907515673db24dbc6		\N
+25064	en	wpforms-lite	9a74e97fee3075f5c1583edf22678a33	Form must contain one notification. To disable all notifications use the Notifications dropdown setting.	\N	\N		LINE	\N	0		a5892f2290b539f48dd12bd49ee16dfe		\N
+25065	en	wpforms-lite	2037265ad93941ece54b46bb5d1653f1	Default Notification	\N	\N		LINE	\N	0		ae2990b373e698006631ce34d6886810		\N
+25066	en	wpforms-lite	2661573fe67b87d30e567a625fc65a96	Are you sure you want to delete this confirmation?	\N	\N		LINE	\N	0		92ab4b7be0000f0b35cd4f20f1c5153c		\N
+25067	en	wpforms-lite	906d3850d45f447b6565b3839d74269c	Enter a confirmation name	\N	\N		LINE	\N	0		cfbd19f1a10fec3014693c50d8016e6c		\N
+25068	en	wpforms-lite	226773fdc9c63da4e83686f10e639aa4	Eg: Alternative Confirmation	\N	\N		LINE	\N	0		94a66ba61698776556f57976e0c4a1b1		\N
+25069	en	wpforms-lite	eddfafb97dc5884c8b68cbe0543bb311	You must provide a confirmation name	\N	\N		LINE	\N	0		033e9696267aeb35195f6aeb9e5d1358		\N
+25070	en	wpforms-lite	bd78aadc8662139100ee479bb0fc16ae	Form must contain at least one confirmation.	\N	\N		LINE	\N	0		6d4b2a7be5fa4ea9b819ebec6e40f207		\N
+25071	en	wpforms-lite	615061ce7895186c5d565460c8751e9d	Default Confirmation	\N	\N		LINE	\N	0		ee73b0fe6dfde24b347d00ada1fb404f		\N
+25072	en	wpforms-lite	c9cc8cce247e49bae79f15173ce97354	Save	\N	\N		LINE	\N	0		14018215956e12e806525a14a6ff7810		\N
+25073	en	wpforms-lite	308c5912c13350620327128cd12cecef	Saving ...	\N	\N		LINE	\N	0		e357424953b501433a30b2909d8e79b7		\N
+25074	en	wpforms-lite	db8ecb61f23a81a38b2c83858269f951	Saved!	\N	\N		LINE	\N	0		70aeedc3ca1e46c44babb070f1e1f63a		\N
+25075	en	wpforms-lite	0d1b74932a9f78bb8e6729bac5254d0b	Save and Exit	\N	\N		LINE	\N	0		9a3082709b630a0ea23807f000ccc787		\N
+25076	en	wpforms-lite	282ec59b6e7e4d1aab660461e561814f	Show Layouts	\N	\N		LINE	\N	0		84d613823271e51a6193398f2f118b23		\N
+25077	en	wpforms-lite	527d4c0843c57abb285a29d88a096236	Hide Layouts	\N	\N		LINE	\N	0		f2e24d3b05e1797152c3b4cb3a03ad9c		\N
+25078	en	wpforms-lite	60a07728fa223819a6b5722b83537171	Select your layout	\N	\N		LINE	\N	0		fc512629ace9b232c19c25d7cfb69488		\N
+25079	en	wpforms-lite	446957e4b0cf0903a7383bbb5080f9a3	Select your column	\N	\N		LINE	\N	0		eec71fa8296a213e8630b4750a20e0fe		\N
+25080	en	wpforms-lite	16bfbf9c462762cf1cba4134ec53c504	Loading	\N	\N		LINE	\N	0		976b11ac4056e494529e03ae5053fa26		\N
+25081	en	wpforms-lite	d013cb2285e14afc5a96fc2ca5b22966	Use Template	\N	\N		LINE	\N	0		cd2b8e2bc11fb49b4248a471a1fca922		\N
+25082	en	wpforms-lite	574a386e6af16e0674582dafe48ba8f9	Changing templates on an existing form will DELETE existing form fields. Are you sure you want apply the new template?	\N	\N		LINE	\N	0		8dd98a63301a4cd0fd9ce9bcf1e40421		\N
+25083	en	wpforms-lite	113f5e5000b3d382e07beb95dd6bda2e	You are almost done. To embed this form on your site, please paste the following shortcode inside a post or page.	\N	\N		LINE	\N	0		f93d81a85ca18c61f641a87dca2ac8bd		\N
+25084	en	wpforms-lite	1d2a6eb3763663a600212da8c8c1cfbe	Or you can follow the instructions in this video.	\N	\N		LINE	\N	0		00c358eb4ea1fe29854eca3610746ed6		\N
+25085	en	wpforms-lite	fef46e5063ce3dc78b8ae64fa474241d	Exit	\N	\N		LINE	\N	0		165dc44185b8143567c6d54fe9c8740a		\N
+25086	en	wpforms-lite	4c12f70892ffd9a79d7b8c7cb133077b	If you exit without saving, your changes will be lost.	\N	\N		LINE	\N	0		f4ea9cac261439a7f818f96abe3c71e8		\N
+25087	en	wpforms-lite	30ae286d8ce89e3cbbcc76e50e1d654e	Are you sure you want to delete this field?	\N	\N		LINE	\N	0		bd209afeba9a45cef13dfe8e20c9979d		\N
+25088	en	wpforms-lite	ac24d44a7c264a1683c0d6a5c1344d04	Are you sure you want to duplicate this field?	\N	\N		LINE	\N	0		248867b68cfa9e099fe8b99c1fb0b39e		\N
+25089	en	wpforms-lite	0a198ede7ab46185f2e9fb2a3628419b	(copy)	\N	\N		LINE	\N	0		6db926f2363abe1db2387748d6fef2ad		\N
+25090	en	wpforms-lite	6d1db7fe8d5dd521ad3571a9a6bd3988	Please enter a form name.	\N	\N		LINE	\N	0		2bb7f657941fcc8d4beea515e8ed8a8b		\N
+25091	en	wpforms-lite	3e20e643f8fe00cba54c3e45370241a9	This item must contain at least one choice.	\N	\N		LINE	\N	0		390840aa413a7b682f9c12126098bb21		\N
+25092	en	wpforms-lite	d15305d7a4e34e02489c74a5ef542f36	Off	\N	\N		LINE	\N	0		1284b37f0b792327145ce82d0790bbeb		\N
+25093	en	wpforms-lite	521c36a31c2762741cf0f8890cbe05e3	On	\N	\N		LINE	\N	0		746a39a80065ed5660493ca62070dd4f		\N
+25094	en	wpforms-lite	e81c4e4f2b7b93b481e13a8553c2ae1b	or	\N	\N		LINE	\N	0		a29ab61206a04b504ebaa640f211f3bc		\N
+25095	en	wpforms-lite	a2a551a6458a8de22446cc76d639a9e9	is	\N	\N		LINE	\N	0		b48a311f3f4df6079ec95eb245331e16		\N
+25096	en	wpforms-lite	b1b55b5b31e435d22ae8d40ff3138d7b	is not	\N	\N		LINE	\N	0		470d4697f75a720928aee1a4fc232700		\N
+25097	en	wpforms-lite	a2e4822a98337283e39f7b60acf85ec9	empty	\N	\N		LINE	\N	0		b454e7a3f2cbbadb64cbfb88f4ae49c7		\N
+25098	en	wpforms-lite	7aedffa4687d37d4007bbd8e7fcf000d	not empty	\N	\N		LINE	\N	0		3232d7692e749b250a21291513aa419b		\N
+25099	en	wpforms-lite	857af22f119fefbfa24769ed2ad6d5e7	contains	\N	\N		LINE	\N	0		078811f1e0e2d2ad55a34ed3a0c6352d		\N
+25100	en	wpforms-lite	8d7e73dd080ef9034a50c7a7719de26b	does not contain	\N	\N		LINE	\N	0		913e007da00f8a3e20536b6d34c57a34		\N
+25101	en	wpforms-lite	0a7f4995e6820457caa233a0fe82bc64	starts with	\N	\N		LINE	\N	0		644715bfd8534b281943660770ea4de7		\N
+25102	en	wpforms-lite	feb972f0513d4da2670631692d44def9	ends with	\N	\N		LINE	\N	0		3312a48cd7953ad8e9e7ac2d928aca2c		\N
+25103	en	wpforms-lite	bde3207d6920ce65500670d7eaf77af9	greater than	\N	\N		LINE	\N	0		e6a08b15260fd14f41786fee83f655d6		\N
+25104	en	wpforms-lite	9df123296d4e8635f1d4ce4144b0edfa	less than	\N	\N		LINE	\N	0		520d934d532a42d83f7bc3f00ec63feb		\N
+25105	en	wpforms-lite	ccc2d8982fa8158dc0c4e2ca53e169dc	Form entries must be stored to accept payments. Please enable saving form entries in the General settings first.	\N	\N		LINE	\N	0		d0ab1602d4af9400ae8809918453b839		\N
+25106	en	wpforms-lite	dd1f775e443ff3b9a89270713580a51b	Previous	\N	\N		LINE	\N	0		2c734cd0904101db26424d6229495662		\N
+25107	en	default	b185487268cde55a7bdf0d425238ab9c	Your form contains required {provider} settings that have not been configured. Please double-check and configure these settings to complete the connection setup.	\N	\N		LINE	\N	0		137092ed3ca7de6492732b93f4209aae		\N
+25108	en	wpforms-lite	572837d66504198c07346fa9f6e9d947	Create new rule	\N	\N		LINE	\N	0		d4cc710bc863df244822a6279012d496		\N
+25109	en	wpforms-lite	3bc18b9a688cd9ee9c915cb0023a8d74	Add new group	\N	\N		LINE	\N	0		4e7ba377dfb66c47c7b9e980969259c9		\N
+25110	en	wpforms-lite	1046a01602e3fa0dbd964056b495efe8	Delete rule	\N	\N		LINE	\N	0		44d5e9daf8759f7775836befab2c6899		\N
+25111	en	wpforms-lite	d81cdc3fdc0662660c36c437fd5119d3	Site Administrator Email	\N	\N		LINE	\N	0		541f31fc6c14d03e1460317cc1e24e2c		\N
+25112	en	wpforms-lite	9390efb0ab450ddc9f275aa2eba38183	Entry ID	\N	\N		LINE	\N	0		70f9e32d3ad35677ac055a024c9c387b		\N
+25113	en	wpforms-lite	7f33b6ddf3923f5771cce5c341c16aea	Form ID	\N	\N		LINE	\N	0		9c44c74260977a5ea01da57b46bfb752		\N
+25114	en	wpforms-lite	7131bdf0443e46147efa8a3e037df678	Form Name	\N	\N		LINE	\N	0		6b1b0831f6a0ba58f99efceecb2ebcd6		\N
+25115	en	wpforms-lite	713ddb1b52674381056ece30facb3bac	Embedded Post/Page Title	\N	\N		LINE	\N	0		240779312b282c285a1604d91329ca9f		\N
+25116	en	wpforms-lite	a88483e6a6bc7b5a8b147402cde1d2bd	Embedded Post/Page URL	\N	\N		LINE	\N	0		87f3ee88d75662e3a48f98ee83a4e59a		\N
+25117	en	wpforms-lite	50fe7e850d74268a3119f073edeb182c	Embedded Post/Page ID	\N	\N		LINE	\N	0		47010d02e9b6bd7193f7323b8cc14a70		\N
+25118	en	wpforms-lite	44749712dbec183e983dcd78a7736c41	Date	\N	\N		LINE	\N	0		a4e69d2a6eb274d18d3d59477b828243		\N
+25119	en	wpforms-lite	8b27fae134a3fd3238254df0a954c962	Query String Variable	\N	\N		LINE	\N	0		cf89effa4dc60553e5a0e9c9de767b36		\N
+25120	en	wpforms-lite	8752ab13c7b414baeeeca71cb9d4edeb	User IP Address	\N	\N		LINE	\N	0		4cec74b137999a9090f2f3ebcefb3977		\N
+25121	en	wpforms-lite	1edcdad89b3a2245d759a169da1bf5a3	User ID	\N	\N		LINE	\N	0		1d8ada0bf3a5b0847f96b55cb926f3bb		\N
+25122	en	wpforms-lite	344705ebf9d608c7c6411fb56eb016dd	User Display Name	\N	\N		LINE	\N	0		ed489175525d80920e67417d0c6b4b36		\N
+25123	en	wpforms-lite	2a3ab7ae1e0680d462e0677a910687bf	User Full Name	\N	\N		LINE	\N	0		50828871f5840197ea53878e2b30102c		\N
+25124	en	wpforms-lite	7160dfa0331b7e9695c3715911e5f7be	User First Name	\N	\N		LINE	\N	0		c6a03abe3ce0836303ab4e82f1b376ab		\N
+25125	en	wpforms-lite	5518f33e4afb8418cece99c4a446cb3a	User Last Name	\N	\N		LINE	\N	0		6e1576c3c1019c06addfe668fc832f8f		\N
+25126	en	wpforms-lite	12137902d0577bca8826245ab754e202	User Email	\N	\N		LINE	\N	0		e05085c0dfcbfce42d4986f95f0bf831		\N
+25127	en	wpforms-lite	c9f1712e842a227db89fb6048edd6736	User Meta	\N	\N		LINE	\N	0		3b6d831a21c2fe8024b7e9a5587e7f4a		\N
+25128	en	wpforms-lite	d3ddd36f67ae31f3894af0826eb45f28	Author ID	\N	\N		LINE	\N	0		754e95e546f087a669c848a19b98f6ea		\N
+25129	en	wpforms-lite	d3a8c7f3441188c70dc138dbebed5af9	Author Name	\N	\N		LINE	\N	0		ec9b17f97d6ad8b5c8bcb64246503d2b		\N
+25130	en	wpforms-lite	1fe6f57aa55cda56cc3bfe8c7d2a7049	Author Email	\N	\N		LINE	\N	0		82cbc90b63dab9bda3de407689514c7d		\N
+25131	en	wpforms-lite	117150274997a29684ea4e142e63c1ac	Referrer URL	\N	\N		LINE	\N	0		1573479743c7e38e2d0889b5b71add32		\N
+25132	en	wpforms-lite	878d8b00111b8327a1a225f17efa8f26	Login URL	\N	\N		LINE	\N	0		70ac2bfe50792989b0d1ed2e4d161b9f		\N
+25133	en	wpforms-lite	dcd2ce0ac116cde912fa5ad1afa05386	Logout URL	\N	\N		LINE	\N	0		0987de9e9c10735ebecde4a128f8854c		\N
+25134	en	wpforms-lite	70fce8ac39ceb418e0c1110a25006fa8	Register URL	\N	\N		LINE	\N	0		8cec4153a2a58bae13d1e50f83fee319		\N
+25135	en	wpforms-lite	97b0df3a6b424c7c9c0fd36261e90a1a	Lost Password URL	\N	\N		LINE	\N	0		3dc96bd6a7c18b3dbd670182fabe7c40		\N
+25136	en	wpforms-lite	295f189d2892efcd8b8ab788766ab133	Show Smart Tags	\N	\N		LINE	\N	0		c9709f28069df4b2fceef5d9f6068ca2		\N
+25137	en	wpforms-lite	c9ff709b7b4cbb1296385dc0b8420fb5	Hide Smart Tags	\N	\N		LINE	\N	0		100b304383ac3a78c6d4a322edfb9835		\N
+25138	en	wpforms-lite	24af1446f7bf0717e1888ae9a70958c2	--- Select Field ---	\N	\N		LINE	\N	0		13b2f3c9f37ad87b44373ce165943778		\N
+25139	en	wpforms-lite	ed5f43ee674bbbed879d139c1f7e866b	--- Select Choice ---	\N	\N		LINE	\N	0		48dc2275358ceb7ab50aa9700a70e4d3		\N
+25140	en	wpforms-lite	fc35ec973f5b3a16f0d4b009834f39a6	Remove Image	\N	\N		LINE	\N	0		414255035de0943ab5a930bac9753f77		\N
+25141	en	wpforms-lite	ec211f7c20af43e742bf2570c3cb84f9	Add	\N	\N		LINE	\N	0		3d76d93a78268a42a513bc8c8646d2c1		\N
+25142	en	wpforms-lite	9ef4ae41a9e953d8192650eb851cc792	We need to save your progress to continue to the Marketing panel. Is that OK?	\N	\N		LINE	\N	0		6ec1362a7a7aefa0849ce24339886ee7		\N
+25143	en	wpforms-lite	d2c460ed76b366e2dd3e070d40157a34	Are you sure you want to delete this connection?	\N	\N		LINE	\N	0		644a9cf184ff40ba7011e4a37ae80c11		\N
+25144	en	wpforms-lite	044ba0096fcf28fa6f574e5ee63ff651	Enter a %type% nickname	\N	\N		LINE	\N	0		3320ddb5e53e163333a967ff1e9a6993		\N
+25145	en	wpforms-lite	1bc469025dc2aaab82e111d99ea76607	Eg: Newsletter Optin	\N	\N		LINE	\N	0		a5a3512f570ee4503ccfea50000a1de3		\N
+25146	en	wpforms-lite	da4941921e3b0b8a19efb8b6d90f0307	You must provide a connection nickname	\N	\N		LINE	\N	0		cd38144e477d5629050015f3391862dc		\N
+25147	en	wpforms-lite	5ad366cc586498f65b4f18a9a87bb1ed	Field required	\N	\N		LINE	\N	0		82e40d3d5bed6e5d5bc1f7ac6940acd6		\N
+25148	en	wpforms-lite	bb39968ea22e266a9b88212463e9b5d2	Sullie the WPForms mascot	\N	\N		LINE	\N	0		f71bf82f74b08a43854b79269c701543		\N
+25149	en	wpforms-lite	632387ead59986f902d12c50f85afc4a	Enter your form name here&hellip;	\N	\N		LINE	\N	0		0639547328e449879eb4965a1901dfe7		\N
+25150	en	wpforms-lite	ce39e884aa24e47f8a59a592bb4973b5	Select a Template	\N	\N		LINE	\N	0		b5347e090d61ec6a94778a1194aae947		\N
+25151	en	wpforms-lite	281013cd48d8db9480cdbbc0dd9bac66	To speed up the process, you can select from one of our pre-made templates or start with a <strong><a href="#" class="wpforms-trigger-blank">blank form.</a></strong>	\N	\N		LINE	\N	0		075dd4e2c85afa26379c556be9762ac0		\N
+25152	en	wpforms-lite	cd4caae677139e21a2680aa2fcf9a8c2	%s template	\N	\N		LINE	\N	0		ccdc7d45ddfe4077e8055ce9e327b139		\N
+25153	en	wpforms-lite	65e942b59a778ee89c6a06f65ff1c67c	Create a %s	\N	\N		LINE	\N	0		693026ce2f038840bc7afe3c4e8f6967		\N
+25154	en	wpforms-lite	47b37a49e8ee52e1110fc0df48602ac6	Additional Templates	\N	\N		LINE	\N	0		a11eb45a3d68029daf245b7dd66aef7e		\N
+25155	en	wpforms-lite	2e81240800347936279898dbed1b93c2	More are available in the <a href="%1$s" target="_blank" rel="noopener noreferrer">Form Templates Pack addon</a> or by <a href="%2$s" target="_blank" rel="noopener noreferrer">creating your own</a>.	\N	\N		LINE	\N	0		78d27d76500329449ffa811d8044a181		\N
+25156	en	wpforms-lite	80cd9ba1847547bfa8d78cf8ca63f790	Request A Quote Form	\N	\N		LINE	\N	0		cda14f78e87816d832acf7c45512ef9e		\N
+25157	en	wpforms-lite	65df0b512d1da67af5af190b82e5d070	Start collecting leads with this pre-made Request a quote form. You can add and remove fields as needed.	\N	\N		LINE	\N	0		7f60d45cb3a8cb7186f36268bcc9d8c1		\N
+25158	en	wpforms-lite	13eaf2eee42aea46cd10cef30787ca85	Donation Form	\N	\N		LINE	\N	0		458905081e02126d30b31522e31a2d6f		\N
+25159	en	wpforms-lite	3a4cf80c7ec14d09ccd00793c43b5f8a	Start collecting donation payments on your website with this ready-made Donation form. You can add and remove fields as needed.	\N	\N		LINE	\N	0		6066c96ab887959d6cbe221b2d6e16bb		\N
+25160	en	wpforms-lite	a7ecdd8664bc41403aef6f646b84548c	Billing / Order Form	\N	\N		LINE	\N	0		260c12caa0c4e0b81c4aeeab86a5e966		\N
+25161	en	wpforms-lite	3583f2c3e07991b6bea9d401135c7fbd	Collect payments for product and service orders with this ready-made form template. You can add and remove fields as needed.	\N	\N		LINE	\N	0		f8f2ce5c8ef97f22a04ecea782b6f7bf		\N
+25162	en	wpforms-lite	f8a85892769bb9a5b16c766c5906861c	Unlock Pre-Made Form Templates	\N	\N		LINE	\N	0		e129b6e20cb286c7355725cae4c915f6		\N
+25163	en	wpforms-lite	f683581d3e75f05f9d9215f9b4696cef	Upgrade	\N	\N		LINE	\N	0		17d7a967aca9867ae2554c76acdb886c		\N
+25164	en	wpforms-lite	712af6529f7af3720db9bbe3e835bd2e	While WPForms Lite allows you to create any type of form, you can speed up the process by unlocking our other pre-built form templates among other features, so you never have to start from scratch again...	\N	\N		LINE	\N	0		0d49bf9412a47766a814716bd77519e0		\N
+25165	en	wpforms-lite	fb6e1d8c9ef17f87fdd6057e46f67511	You need to <a href="#" class="wpforms-panel-switch" data-panel="setup">setup your form</a> before you can manage the fields.	\N	\N		LINE	\N	0		a836c743d63cf8878e2de78d72c1d91d		\N
+25166	en	wpforms	b07377ab536fae00c4d01253f07bae72	%s addon	\N	\N		LINE	\N	0		69a48e98605e35488f835c4e19478fcc		\N
+25167	en	wpforms-lite	65f03e2fa75ed2d8b14af6665811e01b	You need to <a href="#" class="wpforms-panel-switch" data-panel="setup">setup your form</a> before you can manage the settings.	\N	\N		LINE	\N	0		9c87914f283d1e28a336e42271bce180		\N
+25168	en	wpforms-lite	ad5b60bd6b9bf9fa1687496e3f6cf1f5	You need to <a href="#" class="wpforms-panel-switch" data-panel="setup">setup your form</a> before you can manage these settings.	\N	\N		LINE	\N	0		42131a4575c7474470a0901e879e8bc7		\N
+25169	en	wpforms-lite	790d59ef178acbc75d233bf4211763c6	Countries	\N	\N		LINE	\N	0		ce175f001fc17bddf90f6840e1358498		\N
+25170	en	wpforms-lite	6e9767f4f15357401b148b9a8ced14ef	Afghanistan	\N	\N		LINE	\N	0		15f178f64a371a9e828937c3da56faf3		\N
+25171	en	wpforms-lite	d6f5389e8552e94b7015a213b0566577	Åland Islands	\N	\N		LINE	\N	0		ebcd8fbd88aa69182668c83d6a8c66f0		\N
+25172	en	wpforms-lite	c420ddff824a5c0eec70dd23d62496bc	Albania	\N	\N		LINE	\N	0		293da4f4590993b3b1b833a41cb6af2b		\N
+25173	en	wpforms-lite	575b9408b6daa2ddcefbcf6d81c9b4c9	Algeria	\N	\N		LINE	\N	0		573bb3f42eb3ce0c66e4f73da4981c70		\N
+25174	en	wpforms-lite	b86f99753a08d00fa3ca946d07ecac29	American Samoa	\N	\N		LINE	\N	0		ce105d59ba08f9275447238cab4c9a6c		\N
+25175	en	wpforms-lite	68746a7280b143cfc01f967610d3e86d	Andorra	\N	\N		LINE	\N	0		796ab2461981c60b642b18e8d8c97846		\N
+25176	en	wpforms-lite	232bf11cb81bcdb269f76a08fde8b947	Angola	\N	\N		LINE	\N	0		c1a9932687a17b3fde635bc0885a831e		\N
+25177	en	wpforms-lite	cedfc05affe8143cc552076e77407863	Anguilla	\N	\N		LINE	\N	0		097653b238782aaf89e576c096b552d9		\N
+25178	en	wpforms-lite	44b439ba9975f8e802b456777c54a854	Antarctica	\N	\N		LINE	\N	0		239901ba7f6304939f2681f57e49954c		\N
+25179	en	wpforms-lite	f7e68bf0791888ebcd5bfc62e022aa83	Antigua and Barbuda	\N	\N		LINE	\N	0		a773a5bd5881f9c3261356b61727da43		\N
+25180	en	wpforms-lite	3536be57ce0713954e454ae6c53ec023	Argentina	\N	\N		LINE	\N	0		68515055e9add1c487ab3d479e2fad48		\N
+25181	en	wpforms-lite	a00c273f0f497484093fa94865cf5ca5	Armenia	\N	\N		LINE	\N	0		d8875637d15cafd309b29b87bbe81ea5		\N
+25182	en	wpforms-lite	4893b64051cf425047ddd8606dae25f4	Aruba	\N	\N		LINE	\N	0		9f3f1c9cdfe5e118a3ccb3458b56431a		\N
+25183	en	wpforms-lite	4442e4af0916f53a07fb8ca9a49b98ed	Australia	\N	\N		LINE	\N	0		fce074377518053958488312f0cc2d57		\N
+25184	en	wpforms-lite	9891739094756d2605946c867b32ad28	Austria	\N	\N		LINE	\N	0		c8f1fa1802b0ddb89645c107c09e4a04		\N
+25185	en	wpforms-lite	7176f8c3bccfdf02322c73f7a0bc9688	Azerbaijan	\N	\N		LINE	\N	0		a591f7867adb70fb25acf91bb497886b		\N
+25186	en	wpforms-lite	6dbefdc38954fc54ea0c697d0c6ec0a7	Bahamas	\N	\N		LINE	\N	0		fa77d4011807eb7693c3ed9de3e939c3		\N
+25187	en	wpforms-lite	6ddecd8ccd9f648d19dc02c7a566cb4f	Bahrain	\N	\N		LINE	\N	0		85e87fec5c302251cccd8c3079f1cc7c		\N
+25188	en	wpforms-lite	f78a77f631d275aac6a914a17fe1b885	Bangladesh	\N	\N		LINE	\N	0		b7ea9a9dd6607a916fddac3b122d9f88		\N
+25189	en	wpforms-lite	3214c0f21d200a1dae4eb83a53ec2730	Barbados	\N	\N		LINE	\N	0		c6255b828187ac43d9601e2ee8d0cf2a		\N
+25190	en	wpforms-lite	6542f875eaa09a5c550e5f3986400ad9	Belarus	\N	\N		LINE	\N	0		1e2ff8fa944107660b8ae375e31d37b5		\N
+25191	en	wpforms-lite	6c1674d14bf5f95742f572cddb0641a7	Belgium	\N	\N		LINE	\N	0		0d4de942a2ab96ffc94f33c3dbb3c441		\N
+25192	en	wpforms-lite	20bca6785240fa722edb5c85d055a93d	Belize	\N	\N		LINE	\N	0		8e5415ae5b7be07b05bfc637db556075		\N
+25193	en	wpforms-lite	9e7002d53d4db7bfad4f5cf419b0c126	Benin	\N	\N		LINE	\N	0		bcf29e9bb81bc214a668c5948cfbb1e1		\N
+25194	en	wpforms-lite	6653bea16d7ac8a266d752e9a0176c4f	Bermuda	\N	\N		LINE	\N	0		abcb621a88316940395364d1d4877856		\N
+25195	en	wpforms-lite	e65a0ed0e39dd14a9e5af441efb09b37	Bhutan	\N	\N		LINE	\N	0		594fd664f132ef9d89feca32ca4f5fd2		\N
+25196	en	wpforms-lite	c1a2ca165811261c30457b5ede7f93e5	Bolivia (Plurinational State of)	\N	\N		LINE	\N	0		075b76020e1ee88dfe03a4fbff9dfaf9		\N
+25197	en	wpforms-lite	96a6dd711874d4323dc2d3f932bd2ed3	Bosnia and Herzegovina	\N	\N		LINE	\N	0		23ed7571f80771e2d21f521185063316		\N
+25198	en	wpforms-lite	6cd50fb3091b0a9d3c1ac2cf52441390	Botswana	\N	\N		LINE	\N	0		e987aecc605a33512b76b68cd601540b		\N
+25199	en	wpforms-lite	36b5c019128aae727809738c5cfef2c5	Bouvet Island	\N	\N		LINE	\N	0		c597361cf11772e5dfaa2a840a2a7287		\N
+25200	en	wpforms-lite	42537f0fb56e31e20ab9c2305752087d	Brazil	\N	\N		LINE	\N	0		f87c29ebc68362410b227ac6a3775059		\N
+25201	en	wpforms-lite	3cffa9dc661842732076674362898145	British Indian Ocean Territory	\N	\N		LINE	\N	0		17550afa445546a80ebd2162933dacca		\N
+25202	en	wpforms-lite	35564072d637a7b63c6f1547175b1766	Brunei Darussalam	\N	\N		LINE	\N	0		64d2604ffccbe4c0aec8ca299e1dca69		\N
+25203	en	wpforms-lite	01a151debf2bfee8906f43f4342eb10b	Bulgaria	\N	\N		LINE	\N	0		62793038c7bb73e8fd17a6501a494778		\N
+25204	en	wpforms-lite	28814f84db09b59b95f863b9c143c3a9	Burkina Faso	\N	\N		LINE	\N	0		beeef5fc9ebb9f812ac80321e543112c		\N
+25205	en	wpforms-lite	28765464efe1b6583610335965b4d75a	Burundi	\N	\N		LINE	\N	0		c483ccd3a15ce1d8051e1aa334eca686		\N
+25206	en	wpforms-lite	6764a88bc22b8239d23d159043c6b806	Cabo Verde	\N	\N		LINE	\N	0		c3c7835b599c3d7b83f0c8300efa96cc		\N
+25207	en	wpforms-lite	06c7a3c3a3344a62864b951aec4df830	Cambodia	\N	\N		LINE	\N	0		1dfbc6a23ae9741ec3cd681bb7c82f16		\N
+25208	en	wpforms-lite	4be25f9d27da71d4e98775668b5b12af	Cameroon	\N	\N		LINE	\N	0		b27228768af9f0e23fc76f9b3015a826		\N
+25209	en	wpforms-lite	445d337b5cd5de476f99333df6b0c2a7	Canada	\N	\N		LINE	\N	0		8bf247ae92db71643e34d67040d2cc9d		\N
+25210	en	wpforms-lite	6802039d41676bdd09823704b0b9ba92	Cayman Islands	\N	\N		LINE	\N	0		2b6023b9baa6ac1ccfe59542a55eea60		\N
+25211	en	wpforms-lite	aa293d284f52b08da5ba7fe7792fe9c3	Central African Republic	\N	\N		LINE	\N	0		dc1f0881fe87187ba7bdaf15ec9ba154		\N
+25212	en	wpforms-lite	e03653dedd6f4e142f4aca131995964f	Chad	\N	\N		LINE	\N	0		83515dbe6b1457176c4ea61e79733c8d		\N
+25213	en	wpforms-lite	2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	\N	\N		LINE	\N	0		beb48bae7257ae8cfd6994d6132a97ad		\N
+25214	en	wpforms-lite	ae54a5c026f31ada088992587d92cb3a	China	\N	\N		LINE	\N	0		3363cd0202dd3b4c8d369dc9e346869e		\N
+25215	en	wpforms-lite	1c5112b81b010632b5848ed68cae206d	Christmas Island	\N	\N		LINE	\N	0		962230f01aebe9b4f76d62f44b37a201		\N
+25216	en	wpforms-lite	0c090e413a36e797b0a6f837b56e04ed	Cocos (Keeling) Islands	\N	\N		LINE	\N	0		341a68d74d20e37e60462feb89490a27		\N
+25217	en	wpforms-lite	ef3388cc5659bccb742fb8af762f1bfd	Colombia	\N	\N		LINE	\N	0		efcb565cc097d9326fc065bf2527fd04		\N
+25218	en	wpforms-lite	4234d1794dd33c1b6ed975eab5148040	Comoros	\N	\N		LINE	\N	0		c5abd10e0762f327bc3ec2d4f2d9e026		\N
+25219	en	wpforms-lite	e496c53293c4103dc7ef0820eee96954	Congo	\N	\N		LINE	\N	0		207a7f112c6b9c10e216220265f809c1		\N
+25220	en	wpforms-lite	44359c0fe44354fa0879fec25c13bb0b	Congo (Democratic Republic of the)	\N	\N		LINE	\N	0		2108e553aae151f6e61c87633d35b3b0		\N
+25221	en	wpforms-lite	4cddaf95370d849a891c1c6eb5c63243	Cook Islands	\N	\N		LINE	\N	0		f19558fd5f267820c9b4d8ee828d4955		\N
+25222	en	wpforms-lite	5882b568d8a010ef48a6896f53b6eddb	Costa Rica	\N	\N		LINE	\N	0		ae57cc106a155a38b6289946315df1b7		\N
+25223	en	wpforms-lite	04b9348054f102f0170ede9e58ef0a88	Côte d'Ivoire	\N	\N		LINE	\N	0		473e86748c076ea19170aaec80202e6a		\N
+25224	en	wpforms-lite	560d4c6ff431c86546f3fcec72c748c7	Croatia	\N	\N		LINE	\N	0		16a7a48b37e62cbedce826f2287e7291		\N
+25225	en	wpforms-lite	33cac763789c407f405b2cf0dce7df89	Cuba	\N	\N		LINE	\N	0		b3360b99654aa8b514ad3b3676768012		\N
+25226	en	wpforms-lite	9dc527b1d62a3ee167a247a279799239	Curaçao	\N	\N		LINE	\N	0		af1c0c70340d4fa5424ec065f7fcd298		\N
+25227	en	wpforms-lite	ea2ba3f8011e19e3101ce65fdcefbcc4	Cyprus	\N	\N		LINE	\N	0		cfdc10101dd56af6695a1b878f6325c2		\N
+25228	en	wpforms-lite	51802d8bb965d0e5be697f07d16922e8	Czech Republic	\N	\N		LINE	\N	0		d94221ba674cf0aa53e4323881c136b6		\N
+25229	en	wpforms-lite	424214945ba5615eca039bfe5d731c09	Denmark	\N	\N		LINE	\N	0		de931221d8215c02df57d90dd78ec242		\N
+25230	en	wpforms-lite	902f92c09660b797958acb27421fd9ac	Djibouti	\N	\N		LINE	\N	0		1daa01a8b9432c1dc6003ac59b49c156		\N
+25231	en	wpforms-lite	531c552093668f148d3c826fca6e3cc8	Dominica	\N	\N		LINE	\N	0		b3232a35ff8952cfe3f636632ebdf5d2		\N
+25232	en	wpforms-lite	662c15622f9c9c5decc0db80edb6c416	Dominican Republic	\N	\N		LINE	\N	0		d78ac48b009436adfa447b9b7fce24f6		\N
+25233	en	wpforms-lite	4d5d85af33ec2aaedb674d2d6a7d53b6	Ecuador	\N	\N		LINE	\N	0		5d516e712edec279d1886ac9fc0cff75		\N
+25234	en	wpforms-lite	e31959fe2842dacea4d16d36e9813620	Egypt	\N	\N		LINE	\N	0		bc226067395de99c69065d2a851b497f		\N
+25235	en	wpforms-lite	e96d24bdfc024e04f49f1f0cc011ca20	El Salvador	\N	\N		LINE	\N	0		4119a739f4a7e4413a60ad137aad03b9		\N
+25236	en	wpforms-lite	a38c2761908be5cef4a98ef5b3402ac9	Equatorial Guinea	\N	\N		LINE	\N	0		dc912e78eb9e538311c15d5a7639ca78		\N
+25237	en	wpforms-lite	c9c9f116f74ac9d7e60dc415523dfeff	Eritrea	\N	\N		LINE	\N	0		5f9ae7d4e91b0cdc2a332374c2904f88		\N
+25238	en	wpforms-lite	7755415a9fe7022060b98a689236ccd2	Estonia	\N	\N		LINE	\N	0		d56c4e2d3ef84b05ded54946b7659dfe		\N
+25239	en	wpforms-lite	e299d7cb0f7866cce7d90da2af14047c	Ethiopia	\N	\N		LINE	\N	0		23e990fc8f7e3f7fff8b72eff74126cb		\N
+25240	en	wpforms-lite	753546f9ffaba8d8512a2fc92b35dd94	Falkland Islands (Malvinas)	\N	\N		LINE	\N	0		4801293ee1c3707c64c73255d80e9df2		\N
+25241	en	wpforms-lite	76b88e7899abb3bfdd4b55b8c52726b0	Faroe Islands	\N	\N		LINE	\N	0		4e607f11c156bf99dac6ea452751ecdb		\N
+25242	en	wpforms-lite	55b0c4d4efa00b59643b2e6a6e7c18c0	Fiji	\N	\N		LINE	\N	0		7a9b9f4d56e09849b84adc9fa822dcf1		\N
+25243	en	wpforms-lite	6f781c6559a0c605da918096bdb69edf	Finland	\N	\N		LINE	\N	0		4ea0ce4c96d15d2218fc1ccd3a8d39a9		\N
+25244	en	wpforms-lite	0309a6c666a7a803fdb9db95de71cf01	France	\N	\N		LINE	\N	0		11d49fb00d9fea0c52807b53d7663c93		\N
+25245	en	wpforms-lite	1cab30fe45c3aee88dc7bc9f907cd239	French Guiana	\N	\N		LINE	\N	0		821c77df5ae8f998202e954d8056e65f		\N
+25246	en	wpforms-lite	8e49db69269b7f99afa25722e87fa67e	French Polynesia	\N	\N		LINE	\N	0		f7e6a4ca523c234459f36deecca40e94		\N
+25247	en	wpforms-lite	369976b629cf2ee3acb26a10601e291b	French Southern Territories	\N	\N		LINE	\N	0		3feda10c51dfece51da637e89c947d38		\N
+25248	en	wpforms-lite	fceb5af40df295d85851f390f4f8d78d	Gabon	\N	\N		LINE	\N	0		33c5d1ac91268bf05788e123464be0f3		\N
+25249	en	wpforms-lite	e2a96e074e1d8a6f6de56abbd4a4d8dc	Gambia	\N	\N		LINE	\N	0		2d61524671bd0ecc7084e681db894b40		\N
+25250	en	wpforms-lite	eada819634d0164c6a7547bdcc405033	Georgia	\N	\N		LINE	\N	0	Country	7efc9688f426b795982103988929fceb		\N
+25251	en	wpforms-lite	d8b00929dec65d422303256336ada04f	Germany	\N	\N		LINE	\N	0		a7855a9b6e51ffd6cdb523633db4e437		\N
+25252	en	wpforms-lite	e7400496f1ce70cb62c2c44ca2ddc469	Ghana	\N	\N		LINE	\N	0		859025b3518e5afd03c450e63e7d89e4		\N
+25253	en	wpforms-lite	672566a43483aa8212cb365658600b99	Gibraltar	\N	\N		LINE	\N	0		96524f2b09a95dc0512f789dea251d6d		\N
+25254	en	wpforms-lite	6b718641741f992e68ec3712718561b8	Greece	\N	\N		LINE	\N	0		6018df2b2590d50a211bcd73d6a94d3b		\N
+25255	en	wpforms-lite	583eda79d32f7c1cb0840862787a73ca	Greenland	\N	\N		LINE	\N	0		7bf2addeb615c915eeb5fac12883b660		\N
+25256	en	wpforms-lite	45b1cb9a558807139085c645d2f47f07	Grenada	\N	\N		LINE	\N	0		6752c37b76b75b7726ad397dd6232062		\N
+25257	en	wpforms-lite	0dc81c66d1c08d6ca64c7e8b60ae78fb	Guadeloupe	\N	\N		LINE	\N	0		bf99fb73a5a5078dce6bc4392d04a0b7		\N
+25258	en	wpforms-lite	2dc47f81fc4257e14c4d0fcd90d03b9a	Guam	\N	\N		LINE	\N	0		881a8d703fae846c5c88e41f342eddb9		\N
+25259	en	wpforms-lite	948b13d5a3e11e21baadc349e199020e	Guatemala	\N	\N		LINE	\N	0		408ee34f502f41b75f8b9db64a8f5c4b		\N
+25260	en	wpforms-lite	a531abc58761191a634e3d485d0a199b	Guernsey	\N	\N		LINE	\N	0		d5ae4577a3b7874fdc815600327637e2		\N
+25261	en	wpforms-lite	8e4d9eeed250a9d065ac2bb8bdc67b30	Guinea	\N	\N		LINE	\N	0		532e925f2d2dc0357b04a7aa02987027		\N
+25262	en	wpforms-lite	2d65f5236205dd23c6a8212627568fb8	Guinea-Bissau	\N	\N		LINE	\N	0		458ed8ce45c07a807294fb9b49c12b96		\N
+25263	en	wpforms-lite	cf4c7e1169281886577940e361854a84	Guyana	\N	\N		LINE	\N	0		8137775f4fd33b5595bb984db4159da7		\N
+25264	en	wpforms-lite	b88959cb7d907d91065ac7ec19eb0b44	Haiti	\N	\N		LINE	\N	0		4a6a9a81a30a35911d4e2643d8858646		\N
+25265	en	wpforms-lite	ceb6a5d6036c95ec400622d2fbb5eb18	Heard Island and McDonald Islands	\N	\N		LINE	\N	0		a433b62791a08ef3b7dcbe356fe65ecb		\N
+25266	en	wpforms-lite	f4270ce39e7e926052e097a0e4e63bde	Honduras	\N	\N		LINE	\N	0		8639b5b26941a11a5c934891141b29eb		\N
+25267	en	wpforms-lite	8b476ff778119b8d49588f3daadf69a1	Hong Kong	\N	\N		LINE	\N	0		e7079799668ff15e1c04af33ede053f1		\N
+25268	en	wpforms-lite	fa79c3005daec47ecff84a116a0927a1	Hungary	\N	\N		LINE	\N	0		9edda65e1baa26f966e8d7cc1bc78b47		\N
+25269	en	wpforms-lite	b78edab0f52e0d6c195fd0d8c5709d26	Iceland	\N	\N		LINE	\N	0		072f9c34b5a091409e3e06212bea24cd		\N
+25270	en	wpforms-lite	7d31e0da1ab99fe8b08a22118e2f402b	India	\N	\N		LINE	\N	0		60030f1ff8418aafd43e101c6197b4a2		\N
+25271	en	wpforms-lite	4647d00cf81f8fb0ab80f753320d0fc9	Indonesia	\N	\N		LINE	\N	0		d2d184b52dc050251761e1029f8c9fef		\N
+25272	en	wpforms-lite	4be281f13e0ca1c43364f683c90cd43c	Iran (Islamic Republic of)	\N	\N		LINE	\N	0		0308e698eaec0dbffb5058a4ac00de13		\N
+25273	en	wpforms-lite	5ae2ff99743a8487c917e98bbf3db2d3	Iraq	\N	\N		LINE	\N	0		c5a811623905375ac922b5f39a0c49c3		\N
+25274	en	wpforms-lite	fc3810cebda4a5099ce22d69fd8f9dd9	Ireland (Republic of)	\N	\N		LINE	\N	0		0e7e061b57b10f79dbec4c36591e7242		\N
+25275	en	wpforms-lite	9a3075ee78e707359751cecfffedc5b8	Isle of Man	\N	\N		LINE	\N	0		ca915513f85c5a2fe9bea59091a6f2a2		\N
+25276	en	wpforms-lite	5a548c2f5875f10bf5614b7c258876cf	Israel	\N	\N		LINE	\N	0		5cedec42c79ee65d893f67f09c02145f		\N
+25277	en	wpforms-lite	1007e1b7f894dfbf72a0eaa80f3bc57e	Italy	\N	\N		LINE	\N	0		cc2142233c1e6ff6254f8fcbc8518585		\N
+25278	en	wpforms-lite	1add2eb41fcae9b2a15b4a7d68571409	Jamaica	\N	\N		LINE	\N	0		6ea3e94198f3469714b14a94925f9648		\N
+25279	en	wpforms-lite	53a577bb3bc587b0c28ab808390f1c9b	Japan	\N	\N		LINE	\N	0		55ed2df522fde7a5fc193279c85b9c8d		\N
+25280	en	wpforms-lite	3cda26e0c8aedbf662adb42f923ef3ec	Jersey	\N	\N		LINE	\N	0		40fa815ec4a6c97d27cb85a8c5192f06		\N
+25281	en	wpforms-lite	6ea1e24d60afddf388b06f8243c45b70	Jordan	\N	\N		LINE	\N	0		62669b703ec9d651551a3f2f37b757f5		\N
+25282	en	wpforms-lite	7c1a943bf29d2c753fb935e99428482c	Kazakhstan	\N	\N		LINE	\N	0		68f5b1b9c8b73fac3a8af7f0f32e7ece		\N
+25283	en	wpforms-lite	94984a8c4896946d9bafd24959cb6181	Kenya	\N	\N		LINE	\N	0		254804143b00e3bc07f19aced7a6d286		\N
+25284	en	wpforms-lite	5445aab1db1bff113667140ec2e95742	Kiribati	\N	\N		LINE	\N	0		9fbe7a6cc98f000710614340796b79f0		\N
+25285	en	wpforms-lite	d9cfe26e89539d285decd8fcc220f649	Korea (Democratic People's Republic of)	\N	\N		LINE	\N	0		a36e340f9853cbe8e9a5db17e9a710c8		\N
+25286	en	wpforms-lite	8f503c079bc5a00832feeeead47113d7	Korea (Republic of)	\N	\N		LINE	\N	0		922b205a1d9e6b09c8abaa3eb305572f		\N
+25287	en	wpforms-lite	05387f3ca38d7bd84ae35f31f2899ecf	Kuwait	\N	\N		LINE	\N	0		de410fcbed8d3ae19f38195aafe0a797		\N
+25288	en	wpforms-lite	5e4a24f76c22f03700b283dfbdf6eec1	Kyrgyzstan	\N	\N		LINE	\N	0		e70ce6cb570e0dd2c257ec9ad73794d4		\N
+25289	en	wpforms-lite	81a6b6e5e6a1d60ce3bac4eee20444eb	Lao People's Democratic Republic	\N	\N		LINE	\N	0		0fef1784c3abac00184270276e6c8416		\N
+25290	en	wpforms-lite	a09f4b2ae67f0a63ab8912047a1a1b55	Latvia	\N	\N		LINE	\N	0		ba2a9b93fbb012f9d5ddba1b1150274d		\N
+25291	en	wpforms-lite	b45ff92cc522bb89bfc3b8ef3fc21b7d	Lebanon	\N	\N		LINE	\N	0		5fad38692e0e49c34b0178267b09f1d2		\N
+25292	en	wpforms-lite	e99bb6b91ef51dbe4eec9340dc7c68cf	Lesotho	\N	\N		LINE	\N	0		6aa6b5437196c5d739cdae98fde9cec6		\N
+25293	en	wpforms-lite	642cab67fc263bb61ae4ccbd577c8aa4	Liberia	\N	\N		LINE	\N	0		1f46bb30aa26817bbf5108de3f4dd0b6		\N
+25294	en	wpforms-lite	742b8abe5776a6d942a92ce7dc7d84a0	Libya	\N	\N		LINE	\N	0		aafb3d28efe0b5813b1438b1fe892732		\N
+25295	en	wpforms-lite	da4e3775bd2de6c37fadd9b0188f7a4e	Liechtenstein	\N	\N		LINE	\N	0		32779a5240dcce5c1f58701b72532947		\N
+25296	en	wpforms-lite	d9051e0b77f8bb5521389618e70e2ada	Lithuania	\N	\N		LINE	\N	0		bebdcd227bb65f918284d1a943de94de		\N
+25297	en	wpforms-lite	06630c890abadde9228ea818ce52b621	Luxembourg	\N	\N		LINE	\N	0		dcf75e3f2fbc6a8ad485a0bec4d5fcfc		\N
+25298	en	wpforms-lite	35cc0f78d9f676890516c8ebc834a162	Macao	\N	\N		LINE	\N	0		e25779f2520feaff4b4fa1221b33690e		\N
+25299	en	wpforms-lite	9ee78827c29c0c3099f760ff9bb784dc	Macedonia (Republic of)	\N	\N		LINE	\N	0		7524dde00f9fe46ce823f85ce380a15f		\N
+25300	en	wpforms-lite	b5bcce260d9e303ca0e63f055187ed28	Madagascar	\N	\N		LINE	\N	0		facbd5f7b80e2179a747677e0fd2a5e2		\N
+25301	en	wpforms-lite	70965feb0441ff7fc1982fc5c509136e	Malawi	\N	\N		LINE	\N	0		8a491b9e8fb88d42dfd540c321a79bcc		\N
+25302	en	wpforms-lite	3f0e49c46cbde0c7adf5ea04a97ab261	Malaysia	\N	\N		LINE	\N	0		1dbfa15beadb5ebaebba6ad0c094bad7		\N
+25303	en	wpforms-lite	62235142f3fca96e1f2cd0ed4a7de48d	Maldives	\N	\N		LINE	\N	0		dc4e7373d8dc7741435f24782075946a		\N
+25304	en	wpforms-lite	e90c93ceb8ccdcdf3b797f47edee866d	Mali	\N	\N		LINE	\N	0		c211ebcec2b47f667e980acd337d3718		\N
+25305	en	wpforms-lite	92468e8a62373add2b9caefddbcf1303	Malta	\N	\N		LINE	\N	0		73bef0f2bf32c2d05ff0ed20664c86e9		\N
+25306	en	wpforms-lite	0d682c020f9347a5cfaa8fbd18e92ead	Marshall Islands	\N	\N		LINE	\N	0		76425c08d4d3da06384183ee801e4f05		\N
+25307	en	wpforms-lite	899c4b2a0d41d5b86e2dbc3b2f5380cf	Martinique	\N	\N		LINE	\N	0		76bf7787dee9dfe21ba41a901de0fcf6		\N
+25308	en	wpforms-lite	d7fe73b6846dfc672236e636aa2cf6b5	Mauritania	\N	\N		LINE	\N	0		a583c506dcc3542b7e5897133e8e89e0		\N
+25309	en	wpforms-lite	07f3ca235faaa1c9ad16facef5526d8b	Mauritius	\N	\N		LINE	\N	0		f984234cf6510113b4425c8f2756969c		\N
+25310	en	wpforms-lite	9c05c40b81fd906b1585e231c0d896f1	Mayotte	\N	\N		LINE	\N	0		81be9f796618f8110c188b8ef423c4e2		\N
+25311	en	wpforms-lite	8dbb07a18d46f63d8b3c8994d5ccc351	Mexico	\N	\N		LINE	\N	0		aa8fc5c03b95566639035615eab5f141		\N
+25312	en	wpforms-lite	ebc2b1974f7bddebbd09363e4dec7050	Micronesia (Federated States of)	\N	\N		LINE	\N	0		72525743ccaee4d028766e7bbec66498		\N
+25313	en	wpforms-lite	3105b7372899a74136bd55b56e9160e4	Moldova (Republic of)	\N	\N		LINE	\N	0		15dfb895a7c3a57e39259be29233fa04		\N
+25314	en	wpforms-lite	d6a297c6193fd59309453a0db7a51b90	Monaco	\N	\N		LINE	\N	0		ed9eca2f1f10887fcfe2235d9d93469a		\N
+25315	en	wpforms-lite	bb6a72b6a93150d4181e50496fc15f5a	Mongolia	\N	\N		LINE	\N	0		d2363dacbd193cf3321001d55fdb9536		\N
+25316	en	wpforms-lite	4e92f9d2cdf0b8eb493ae3a19709d121	Montenegro	\N	\N		LINE	\N	0		2c90bdc502134f56ad3737571fbdd957		\N
+25317	en	wpforms-lite	3bac87d64d97e96d0e935628a9383379	Montserrat	\N	\N		LINE	\N	0		064974e7fe55d8615228ec8186fc372a		\N
+25318	en	wpforms-lite	4d4a1722d8e85909a576da2c42878ff0	Morocco	\N	\N		LINE	\N	0		fe0af017f19802db33c5628278720a73		\N
+25319	en	wpforms-lite	a6d3bea3fa66775952e080b90bb0c4f1	Mozambique	\N	\N		LINE	\N	0		4c658fa12c641d41adca44568f997be3		\N
+25320	en	wpforms-lite	217fa54cc9351504fcde32147bff005d	Myanmar	\N	\N		LINE	\N	0		7abec3755df26eeb396d7c79c7c3bb84		\N
+25321	en	wpforms-lite	69f4287626aee77f93e2c891b518838b	Namibia	\N	\N		LINE	\N	0		183231109df1fbeccb04ba02f5df58b9		\N
+25322	en	wpforms-lite	d0c5ab6bebe308a495693e990a2947bc	Nauru	\N	\N		LINE	\N	0		69f49e97ce0fdd51d8a3b4264d4be65c		\N
+25323	en	wpforms-lite	7fef6b003c726890ea5ca3708fe8ff56	Nepal	\N	\N		LINE	\N	0		6614047f8916660e50a4218367a8d3e9		\N
+25324	en	wpforms-lite	a67d4cbdd1b59e0ffccc6bafc83eb033	Netherlands	\N	\N		LINE	\N	0		5fb2570a2c516179c7aabc8ee67047ef		\N
+25325	en	wpforms-lite	53a952d732c715fb1b34898400320751	New Caledonia	\N	\N		LINE	\N	0		ae2275e0d289d3d99c23fef3fb8b63a8		\N
+25326	en	wpforms-lite	c51ed580ea5e20c910d951f692512b4d	New Zealand	\N	\N		LINE	\N	0		50baa7b2f787fdb0e8a0cea0d960ee63		\N
+25327	en	wpforms-lite	3bfe17f6c2d1b8941df303de7aec2eb0	Nicaragua	\N	\N		LINE	\N	0		0ec966ab1e2a5e3e64cdc5026c113030		\N
+25328	en	wpforms-lite	bf2ec44b27fc25c6fd8a38792b9ef2a8	Niger	\N	\N		LINE	\N	0		4feb3513eb3d036ec0c930c7b5b6a734		\N
+25329	en	wpforms-lite	5d839147c83e283c1d1bb705dc50586f	Nigeria	\N	\N		LINE	\N	0		e4fbfd0c03c3ed82234c291e026fba89		\N
+25330	en	wpforms-lite	de48fee9c7511bf7158b1e28b3d0baec	Niue	\N	\N		LINE	\N	0		9bdfef42bff7231630c20d1320b938e6		\N
+25331	en	wpforms-lite	9e7a0ea8ab86778f66df4dfc0f75438e	Norfolk Island	\N	\N		LINE	\N	0		551293e6473396ef4418ed418c507aa9		\N
+25332	en	wpforms-lite	d3dbf1b55f9b0c2a605046b9f14f720a	Northern Mariana Islands	\N	\N		LINE	\N	0		bc981df5478e8bec98c8a47a8d507459		\N
+25333	en	wpforms-lite	d5b9290a0b67727d4ba1ca6059dc31a6	Norway	\N	\N		LINE	\N	0		108d71038c541c8ca796da21a7bf0267		\N
+25334	en	wpforms-lite	1c77b9733832da9d1ffac66620f3c006	Oman	\N	\N		LINE	\N	0		ae87572749c2a81fc16d8b7de156ea30		\N
+25335	en	wpforms-lite	b9698b8546220246fe600a949db326bf	Pakistan	\N	\N		LINE	\N	0		2189b4f24ab7536d2f932eed5e96ca8d		\N
+25336	en	wpforms-lite	46096bb96824852d15ce4fa5ba4bf58e	Palau	\N	\N		LINE	\N	0		a80d9e56ea36e59a4e890bd759d222cb		\N
+25337	en	wpforms-lite	6cc9881f43d08e60cc2f065ea783d89a	Palestine (State of)	\N	\N		LINE	\N	0		7106d136e0fa37ee55d801f2aca8a00f		\N
+25338	en	wpforms-lite	6bec347f256837d3539ad619bd489de7	Panama	\N	\N		LINE	\N	0		64adb5621e0d426028ea30eba0827300		\N
+25339	en	wpforms-lite	f670d3806d530c3e5cb1f31dca457751	Papua New Guinea	\N	\N		LINE	\N	0		d9172f49e5f6ccf69f5185ee24cbaada		\N
+25340	en	wpforms-lite	73101738da81e5cbb87b64cd400a4405	Paraguay	\N	\N		LINE	\N	0		69e9fbc3d2471f6961e5aeb06694ab22		\N
+25341	en	wpforms-lite	84c8fa2341f7d052a1ee3a36ff043798	Peru	\N	\N		LINE	\N	0		63e80572842013ffd41fc3ce4851322d		\N
+25342	en	wpforms-lite	77dab2f81a6c8c9136efba7ab2c4c0f2	Philippines	\N	\N		LINE	\N	0		1254de1d5628d2f6bbf624f1aa10d6e7		\N
+25343	en	wpforms-lite	7fad9908f71e4ba29eeff3847d7ccc10	Pitcairn	\N	\N		LINE	\N	0		7eaec6dde4849338863ac01b7dae3f66		\N
+25344	en	wpforms-lite	94880bda83bda77c5692876700711f15	Poland	\N	\N		LINE	\N	0		286aca6bc5951d0bc86dbb412c28f96e		\N
+25345	en	wpforms-lite	ea71b362e3ea9969db085abfccdeb10d	Portugal	\N	\N		LINE	\N	0		782a7758581efbbc3456d4ccfc6d106c		\N
+25346	en	wpforms-lite	f76257271129c703d6c0442c8ac00dae	Puerto Rico	\N	\N		LINE	\N	0		26e4cecae68e413aa8788d5008926a1b		\N
+25347	en	wpforms-lite	7cc7ef17c45527cf90fcf27516794d21	Qatar	\N	\N		LINE	\N	0		d6ae6b0f6434d4fa76ad05ad87e5d923		\N
+25348	en	wpforms-lite	8bf4189cd5775e55e86d05a650d97ceb	Réunion	\N	\N		LINE	\N	0		c73534f5b8d8764348ae5d1e96635486		\N
+25349	en	wpforms-lite	0c7d5ae44b2a0be9ebd7d6b9f7d60f20	Romania	\N	\N		LINE	\N	0		b20a48418b27681dabe7487529698f7d		\N
+25350	en	wpforms-lite	07d62aa19a9a95c07515769b604bad36	Russian Federation	\N	\N		LINE	\N	0		c798596b4185ab04548e41c76d3c4e31		\N
+25351	en	wpforms-lite	9d7ed5d77d647e89c3cc11757d651dc2	Rwanda	\N	\N		LINE	\N	0		9d2fd4ab26b03679920ee33a61f15fb9		\N
+25352	en	wpforms-lite	d067696a37b708677d1fbc300de3024f	Saint Barthélemy	\N	\N		LINE	\N	0		56cef9a2ed9fcfef52ff2ff9e65419f2		\N
+25353	en	wpforms-lite	1f175a7a118c83cd8a0d8d1de74fda56	Saint Helena, Ascension and Tristan da Cunha	\N	\N		LINE	\N	0		beeee118037e8fdc35af4df6e6ba7a6f		\N
+25354	en	wpforms-lite	5976169ac1852fff6f0b9095100407fc	Saint Kitts and Nevis	\N	\N		LINE	\N	0		97d5bc4effa5bc601e35e7c310b1e1cc		\N
+25355	en	wpforms-lite	d1ef233007d706d71aa6d46642d5f804	Saint Lucia	\N	\N		LINE	\N	0		c449d53457e9b2d18b5717746f36dfa2		\N
+25356	en	wpforms-lite	cecb8a10cdf734cc6e5c8adbcc8092bf	Saint Martin (French part)	\N	\N		LINE	\N	0		6075e2935b6d09b487792cee7dd3ac16		\N
+25357	en	wpforms-lite	30ce3dcbcc38394722184a4bfd423d56	Saint Pierre and Miquelon	\N	\N		LINE	\N	0		14fdcc706372995984cbd29295dc4b74		\N
+25358	en	wpforms-lite	c6f5008606ccd26c840a52657d671c4b	Saint Vincent and the Grenadines	\N	\N		LINE	\N	0		3765e477a7a3c39248da7dc411368e42		\N
+25359	en	wpforms-lite	0861134397888c470803c77fb6cd2943	Samoa	\N	\N		LINE	\N	0		06e6308589616a1c1222a01eaedd966f		\N
+25360	en	wpforms-lite	a7db85742c67a70f8764c4d9c53bdb36	San Marino	\N	\N		LINE	\N	0		d48a3f0fb730cf0a397aabbe2a3ecc03		\N
+25361	en	wpforms-lite	aca4f717a9933ddf7ab0ffc877d0ed48	Sao Tome and Principe	\N	\N		LINE	\N	0		3bf1d660914f2fcd65e53a13983ca24e		\N
+25362	en	wpforms-lite	b835b521c29f399c78124c4b59341691	Saudi Arabia	\N	\N		LINE	\N	0		b53eb60d94f2105454a37f9ca49692e3		\N
+25363	en	wpforms-lite	9986531359550785caffb2032622437f	Senegal	\N	\N		LINE	\N	0		6de004c9f6d0595a222cd478ac789ca3		\N
+25364	en	wpforms-lite	2ff6e535bd2f100979a171ad430e642b	Serbia	\N	\N		LINE	\N	0		ae2f0ece97f617e98e0decb6ec51a25d		\N
+25365	en	wpforms-lite	d2e4449b45608e33e472d939a73868f7	Seychelles	\N	\N		LINE	\N	0		0ef4fd6edf8e44d9314bf222378f8feb		\N
+25366	en	wpforms-lite	97527dec0ae1a703599581d4f25dfbce	Sierra Leone	\N	\N		LINE	\N	0		9cfb6f79934d6481b507c8f18f7aade6		\N
+25367	en	wpforms-lite	458e4cbc78201c1aec5fc53a31c59378	Singapore	\N	\N		LINE	\N	0		7893335dbfef45cb3574ea3c27793a79		\N
+25368	en	wpforms-lite	7f09d0f459e75e3516fc1ee9c571a720	Sint Maarten (Dutch part)	\N	\N		LINE	\N	0		4645189b419f79c4497e4cfbbab08b9c		\N
+25369	en	wpforms-lite	88a392b5a8d8f73986d83a2deefb0472	Slovakia	\N	\N		LINE	\N	0		2afde71b83f8b7b3311c5696701aa4ec		\N
+25370	en	wpforms-lite	00247297c394dd443dc97067830c35f4	Slovenia	\N	\N		LINE	\N	0		0f4f4327fe54536574e25b7a2f81abc5		\N
+25371	en	wpforms-lite	a573f4ed911c3b437599818762263a0c	Solomon Islands	\N	\N		LINE	\N	0		bf96ff54eb1641d952a13af924411f02		\N
+25372	en	wpforms-lite	921855f753932de762b780405a50bdf7	Somalia	\N	\N		LINE	\N	0		1a96f7fe2cc5bae962b6c30af7e168de		\N
+25373	en	wpforms-lite	c89bc418c38da77213c6c6e03cac2510	South Africa	\N	\N		LINE	\N	0		29d4c8a861a3337d7829ea1bc6003f01		\N
+25374	en	wpforms-lite	d2e2461617c12efb6ee5ba50ffd707ad	South Georgia and the South Sandwich Islands	\N	\N		LINE	\N	0		eda492c07040d997411f38aa71f5b9ef		\N
+25375	en	wpforms-lite	0a6355f86240762961997e70c5e7087d	South Sudan	\N	\N		LINE	\N	0		26ff5d527e501378125490ea3ecc106e		\N
+25376	en	wpforms-lite	907eba32d950bfab68227fd7ea22999b	Spain	\N	\N		LINE	\N	0		9424f330734a7076b572642d4d5339d1		\N
+25377	en	wpforms-lite	ef547e2d9750443f6d203233dfa38e39	Sri Lanka	\N	\N		LINE	\N	0		d8cf008d9d8ab17e2a27f39136385925		\N
+25378	en	wpforms-lite	74458a3d3e5f3074226b1f9fa23c9163	Sudan	\N	\N		LINE	\N	0		c806117658bf279cd22952bd9deae117		\N
+25379	en	wpforms-lite	64446ac025106d201779cb4bf5ab6b2e	Suriname	\N	\N		LINE	\N	0		eb03316fedb155e49ba6cd43e8407514		\N
+25380	en	wpforms-lite	1ab64d3704503fc7822d8ea1abdb837a	Svalbard and Jan Mayen	\N	\N		LINE	\N	0		41ef6dfb2d256d71601cd46d87583354		\N
+25381	en	wpforms-lite	f82b1495fed28936b2fc31c3ba4f882f	Swaziland	\N	\N		LINE	\N	0		1c018383a5fdcf98450aa22ea7b9cef2		\N
+25382	en	wpforms-lite	c8f4261f9f46e6465709e17ebea7a92b	Sweden	\N	\N		LINE	\N	0		cc9d86e4a11342333cb682799eb4bd2d		\N
+25383	en	wpforms-lite	3ad08396dc5afa78f34f548eea3c1d64	Switzerland	\N	\N		LINE	\N	0		a25922e0a269e9d89fb6e4e46b6efd17		\N
+25384	en	wpforms-lite	783c6baf8592ab8c2e7d03911ba1483f	Syrian Arab Republic	\N	\N		LINE	\N	0		a73ea875d21d3de2fa52fa8884effb8e		\N
+25385	en	wpforms-lite	3fca5d9b4f9f88b1c27274d8cc695673	Taiwan, Province of China	\N	\N		LINE	\N	0		1f767e61e7861e27cd251eee516a2b45		\N
+25386	en	wpforms-lite	b5a9722262bbb7a7449ebc0f4394c901	Tajikistan	\N	\N		LINE	\N	0		4dffe570aca50eed183163b29fbabeaa		\N
+25387	en	wpforms-lite	1d284579334c8b43352cf435cc47adcd	Tanzania (United Republic of)	\N	\N		LINE	\N	0		bbf59f440b184cba51964df7be282bbc		\N
+25388	en	wpforms-lite	103357e3e40a9c0e4e9d36110f7bbc7a	Thailand	\N	\N		LINE	\N	0		a266dbb285a6997d4b82cc835812b779		\N
+25389	en	wpforms-lite	0a25bbf25b60f1908597d7d60e26696e	Timor-Leste	\N	\N		LINE	\N	0		88e48fab5d9a35ac725d290931b17cce		\N
+25390	en	wpforms-lite	1e746c5c85c4c0de3a0858b0dd047476	Togo	\N	\N		LINE	\N	0		ab741bfbf969f7cbd031c08daacec41c		\N
+25391	en	wpforms-lite	a5b0ca0a4bed12b928061e17d453bf13	Tokelau	\N	\N		LINE	\N	0		6d9fe6fdd2158aa9cd415e9e3200bdf8		\N
+25392	en	wpforms-lite	dd5cb49bc56af9d53f9f9e1e5b425ab0	Tonga	\N	\N		LINE	\N	0		91d57e684c7707ab3513d2481a3ef58d		\N
+25393	en	wpforms-lite	63965a52775c39cd64c3ef0248d585b1	Trinidad and Tobago	\N	\N		LINE	\N	0		9e6c048167ee9b66374d4fcbab47a418		\N
+25394	en	wpforms-lite	d6dacba23ab4a1d5b72f223bfb010a05	Tunisia	\N	\N		LINE	\N	0		87a911adc82bc9f98e0abe7f37d2da37		\N
+25395	en	wpforms-lite	221cdfb73049678e244380b45872cbb2	Turkey	\N	\N		LINE	\N	0		4582da52bce194c8653b773c0786dc61		\N
+25396	en	wpforms-lite	f5d993d8e89c037d614ec8dc2559e4b7	Turkmenistan	\N	\N		LINE	\N	0		3cc97bdfa250dab6d386bb26d85b9c88		\N
+25397	en	wpforms-lite	be741c06c32a1f9d444e9607a126832d	Turks and Caicos Islands	\N	\N		LINE	\N	0		df52461c3cdda1c2e5ab22a9b6896da7		\N
+25398	en	wpforms-lite	4e18c1e699d8abc3422d67f2ff82c56b	Tuvalu	\N	\N		LINE	\N	0		865feff27147bee980d8e2dddec21b89		\N
+25399	en	wpforms-lite	53b3c88ea00c4f0e137b4e6fe7bd23f1	Uganda	\N	\N		LINE	\N	0		47636c7ab7c23f39dac51bf1ef7572b5		\N
+25400	en	wpforms-lite	f01fc92b23faa973f3492a23d5a705c5	Ukraine	\N	\N		LINE	\N	0		717ddf72f306bd96d94247b7b4e76b9b		\N
+25401	en	wpforms-lite	8f6f28f0d2061af28bcf49d1725b2cbd	United Arab Emirates	\N	\N		LINE	\N	0		248553341b9f58c9b5bf3f21dfe076d1		\N
+25402	en	wpforms-lite	ce937cf52d098a4d7cc678cec86ef97a	United Kingdom of Great Britain and Northern Ireland	\N	\N		LINE	\N	0		1a4310cbafb683b687a2e7c8901e758b		\N
+25403	en	wpforms-lite	1f122dd19db580fd03635dd699fb49de	United States of America	\N	\N		LINE	\N	0		486db808c04b34df74a51dbe13687f6e		\N
+25404	en	wpforms-lite	f23b8b7e705f96a3219783440e6b3f8e	United States Minor Outlying Islands	\N	\N		LINE	\N	0		cf190cff4efb4727417ed706697965d6		\N
+25405	en	wpforms-lite	75497a22409db78dcc52c291e078bc10	Uruguay	\N	\N		LINE	\N	0		6097adea0bc8b8e1fa85ebe1106dee99		\N
+25406	en	wpforms-lite	a0a3e881895e46eb96218f0988d405b9	Uzbekistan	\N	\N		LINE	\N	0		9710b5055b6e0b7ee4c2982b4176e064		\N
+25407	en	wpforms-lite	fe07e488fe56260f45240c1c8a8882a8	Vanuatu	\N	\N		LINE	\N	0		92d38cdff7d73fe9177ff0ea1d827be6		\N
+25408	en	wpforms-lite	867c9183eae8f45d5a739238e2b0ba17	Vatican City State	\N	\N		LINE	\N	0		7ad1e3a3af0b2e7caa9dbf43ba9d4d23		\N
+25409	en	wpforms-lite	703c8b46cc9a05a0b43de76e5a755cde	Venezuela (Bolivarian Republic of)	\N	\N		LINE	\N	0		d70e91da708fa67ffb8fa241f9e38d91		\N
+25410	en	wpforms-lite	91280c72e717e52c82196d404556fb33	Viet Nam	\N	\N		LINE	\N	0		a5a73e5efd1926cd9ef8917eadf649e8		\N
+25411	en	wpforms-lite	cb2db886bf882370479143c029903037	Virgin Islands (British)	\N	\N		LINE	\N	0		b9e3b26bb92fac8c6b5c3e68880253ec		\N
+25412	en	wpforms-lite	2654f2a503abb376fbbac98b6613f7f4	Virgin Islands (U.S.)	\N	\N		LINE	\N	0		b9e4331846433bf8f6115a9db9018de0		\N
+25413	en	wpforms-lite	0acf723190dd8dde9085a41f42ddccf7	Wallis and Futuna	\N	\N		LINE	\N	0		bcfeb1d206cda37376cc502302f3fc48		\N
+25414	en	wpforms-lite	1bdb61bdbf5bc9a2cdc5db037ab610e0	Western Sahara	\N	\N		LINE	\N	0		36d4df8a19abc43cbf14f72aa8b5a300		\N
+25415	en	wpforms-lite	724bf4ca11a567636547a92a37e397b7	Yemen	\N	\N		LINE	\N	0		6caedddf4cd4bd799d9722b8f848874c		\N
+25416	en	wpforms-lite	b0aa0804e676a38255af4fd70236af7c	Zambia	\N	\N		LINE	\N	0		98d79dc0df25acc371737d34e16cbf73		\N
+25417	en	wpforms-lite	9d5116a2451bc98c2b46b93acbc1b4f0	Zimbabwe	\N	\N		LINE	\N	0		1d71850e888c1cd916c4fb129635ec11		\N
+25418	en	wpforms-lite	4cd207765235888e88708b7d37505302	Countries Postal Code	\N	\N		LINE	\N	0		f9beaf058b6be064a9f58520eb078818		\N
+25419	en	wpforms-lite	b8464cdd84b5f068ad72bf5c4f32163d	States	\N	\N		LINE	\N	0		65dbe477e5311b765f870f765dfe7140		\N
+25420	en	wpforms-lite	213fe69502445ed67ae8b99d22838802	Alabama	\N	\N		LINE	\N	0		642aaf4fc152210c5dab5c1f5fb69d1f		\N
+25421	en	wpforms-lite	e15997c74a71c5d9263df6f7a21bc191	Alaska	\N	\N		LINE	\N	0		5efce2875f8b4ecb79b9c530739d6162		\N
+25422	en	wpforms-lite	3fe5003edc0cb6c83962dbd74d35dd50	Arizona	\N	\N		LINE	\N	0		967b55f362fb3b9b3b477ccbf364b4e8		\N
+25423	en	wpforms-lite	46aaf459104e9ce5d45eaa017ac349c2	Arkansas	\N	\N		LINE	\N	0		187513299714c084df8f0502f7fe85f4		\N
+25424	en	wpforms-lite	356779a9a1696714480f57fa3fb66d4c	California	\N	\N		LINE	\N	0		a71a2b723abddab75efb2515ea245f19		\N
+25425	en	wpforms-lite	15e49475e42539feed93fc5cce25d3cb	Colorado	\N	\N		LINE	\N	0		c029de6cbf564c103a0576d4a53eb262		\N
+25426	en	wpforms-lite	f7529880ccaf91ff331809e9fe98f883	Connecticut	\N	\N		LINE	\N	0		9f401f279fa0797232e12a4466d691f2		\N
+25427	en	wpforms-lite	ba290ff950475708a10987cb31e6274c	Delaware	\N	\N		LINE	\N	0		cf2b0677d99b12ebb2e32a5c3db442b1		\N
+25428	en	wpforms-lite	fab80a2c9e597d3ad1927c09a2cebb24	District of Columbia	\N	\N		LINE	\N	0		bb1b50536b09aad25dd1d13456a378b7		\N
+25429	en	wpforms-lite	eeaca0ed2f6a35370c77de30792debb8	Florida	\N	\N		LINE	\N	0		69a0d79ee612577edd529d12097cf45c		\N
+25430	en	wpforms-lite	eada819634d0164c6a7547bdcc405033	Georgia	\N	\N		LINE	\N	0	US State	64ea2a777210a74c1795c9073dce2cfe		\N
+25431	en	wpforms-lite	a85df3d66bde576d3b62caaf527f2daa	Hawaii	\N	\N		LINE	\N	0		491277a3a2b1d301446f2f0c21e8cf72		\N
+25432	en	wpforms-lite	47b231eae4bf87fa405e34eb9273b741	Idaho	\N	\N		LINE	\N	0		e7aaecf0f510d913be9acae8ed2d30b5		\N
+25433	en	wpforms-lite	66c2b329479ee151b4c6b257c0b7a9b7	Illinois	\N	\N		LINE	\N	0		b7bc90891b54a23da61ad553f6074a12		\N
+25434	en	wpforms-lite	c5376d00573c5858adf7ed894d0491b9	Indiana	\N	\N		LINE	\N	0		f4a7acef5b0071610a80d3922faa6295		\N
+25435	en	wpforms-lite	0daaf4a9abe3920c453a7f1f82a9bb19	Iowa	\N	\N		LINE	\N	0		cf5e63325a5fa1bfbf383bbe7c899b7c		\N
+25436	en	wpforms-lite	7c0e2b92f76ed5847aa48a3a1e70ae7d	Kansas	\N	\N		LINE	\N	0		6e79cb309052ebf9a87ca88e6a90fa81		\N
+25437	en	wpforms-lite	980ceec1dba2d36c2ba867f683b47838	Kentucky	\N	\N		LINE	\N	0		e9bb7609b2db7ad92ed26c28db26fe92		\N
+25438	en	wpforms-lite	39da6b7e3479522718668deaf7e6f304	Louisiana	\N	\N		LINE	\N	0		ae360c31691d774cf65c19e207a41545		\N
+25439	en	wpforms-lite	41695c8c512c53044b7b787368687ac8	Maine	\N	\N		LINE	\N	0		f1811613b871655d280fbdd54b90d9db		\N
+25440	en	wpforms-lite	11ea71f253acf02a2d126a0901e765a7	Maryland	\N	\N		LINE	\N	0		4baf2f1aa0af5df58c7634bef70c795e		\N
+25441	en	wpforms-lite	7d07b15a160712cc823f7a117fb9b2c1	Massachusetts	\N	\N		LINE	\N	0		df096d06f418efab7d96442660b80568		\N
+25442	en	wpforms-lite	8eadc5d3e1f1919c527b6d865e226a88	Michigan	\N	\N		LINE	\N	0		9981d6aad00c4676b532a5e28c5fadaa		\N
+25443	en	wpforms-lite	45009b4a16ef03ba8bb5b15665ef4469	Minnesota	\N	\N		LINE	\N	0		c2f1c9d4f643cf53cf3a66655a7939a8		\N
+25444	en	wpforms-lite	14c5492ce2fe855f408481fdbd13f7a6	Mississippi	\N	\N		LINE	\N	0		29610469814a03e8a288493d0937d125		\N
+25445	en	wpforms-lite	06fa309b609b7c8f7c39a88abe2d507c	Missouri	\N	\N		LINE	\N	0		76e5632dabb15a78862b007467439019		\N
+25446	en	wpforms-lite	a8088b760fb315d2964735686800b203	Montana	\N	\N		LINE	\N	0		e92ba468dadb292dc5b77a4dcddf8009		\N
+25447	en	wpforms-lite	20639b767478006218447b27e4b853cb	Nebraska	\N	\N		LINE	\N	0		97bb3974eaed7eafdbefea5cb6b1e02f		\N
+25448	en	wpforms-lite	8fcebe1ce891c49c60a3c26b317ebafb	Nevada	\N	\N		LINE	\N	0		d79e93f92e6f476725580ef82650e49d		\N
+25449	en	wpforms-lite	49355141b988b1bbd2c1b87db70f431d	New Hampshire	\N	\N		LINE	\N	0		4944c360c25d3a1cd3f82b228d3279c7		\N
+25450	en	wpforms-lite	25095ab19a09de4fe2c1f10ee6292e04	New Jersey	\N	\N		LINE	\N	0		b3bf85890cf496d2ae549049896d2524		\N
+25451	en	wpforms-lite	8c669d3f16b83378ababcd478514d35a	New Mexico	\N	\N		LINE	\N	0		39711fe3e334b9630efc00884be84708		\N
+25452	en	wpforms-lite	87809c954948d8a20507bee3648281b3	New York	\N	\N		LINE	\N	0		0c178dabf95e8731445617bdcfa76031		\N
+25453	en	wpforms-lite	130c7ca8daccb66ef614ec3331a0f665	North Carolina	\N	\N		LINE	\N	0		fd2d262d051d06a504e1f2c1f38da022		\N
+25454	en	wpforms-lite	a82effa03e4112ec840d2eee6306e535	North Dakota	\N	\N		LINE	\N	0		d64402f4444ee89eed3ec6c11d61992d		\N
+25455	en	wpforms-lite	4ec96adb9cc39333f3d2024b28f2503f	Ohio	\N	\N		LINE	\N	0		9d7c1de6b436c9846714026c2eddf547		\N
+25456	en	wpforms-lite	92aec0ba411203aa3a57aec94b108ed6	Oklahoma	\N	\N		LINE	\N	0		b4a86c213c58f2d7621c9830e23d7af6		\N
+25457	en	wpforms-lite	da4d1129a255f83fb03bf32fde034ecc	Oregon	\N	\N		LINE	\N	0		a3617197739ce187af1e54c1e837d370		\N
+25458	en	wpforms-lite	9ac31dfb3a2f5b994f4009eb0a3c0949	Pennsylvania	\N	\N		LINE	\N	0		a8708bbe23ddb58a88a04262ac3ebc85		\N
+25459	en	wpforms-lite	ac2713abe86d88f03326157f22a50869	Rhode Island	\N	\N		LINE	\N	0		ce4683717d475ceb40e5cd6934bb0453		\N
+25460	en	wpforms-lite	c9561c4acf174e05975d0ae90274035a	South Carolina	\N	\N		LINE	\N	0		0eff9bd7839f2c7b06b86db80d9c7ed1		\N
+25461	en	wpforms-lite	f6c375dcb38360402e2c2ff43705c0c2	South Dakota	\N	\N		LINE	\N	0		a562cebc26976a1957ebaaa4ae149b72		\N
+25462	en	wpforms-lite	a5c53b081bf565526eb3779db999becf	Tennessee	\N	\N		LINE	\N	0		a6ea43dca29dda059261db680ed4a41f		\N
+25463	en	wpforms-lite	86871c416a7dbed7e5cc229d143d8d82	Texas	\N	\N		LINE	\N	0		0157a861a57f4b5b513e590ff88e6d62		\N
+25464	en	wpforms-lite	6a382f5bfa3db109c81ec4adbf70ff26	Utah	\N	\N		LINE	\N	0		b23bb61c0e0638f8c9491f6e13b1c4be		\N
+25465	en	wpforms-lite	de30bd840230da1493819f803aff6e9e	Vermont	\N	\N		LINE	\N	0		950ab23c395e96cc55386817c9ac75c0		\N
+25466	en	wpforms-lite	c8b287075ce4f11c834d2a0ada967ddc	Virginia	\N	\N		LINE	\N	0		9ea686225f1bb184abe7f6abc0e442cc		\N
+25467	en	wpforms-lite	6d69689d0056a27bce65398abc70297a	Washington	\N	\N		LINE	\N	0		66901b6e5a6bdaacc8e53298f105d80d		\N
+25468	en	wpforms-lite	7f0a44098c5e23207b742b84a4fc0f43	West Virginia	\N	\N		LINE	\N	0		ca2fe39c5ffc51238d11a90416055e05		\N
+25469	en	wpforms-lite	5aeb407b7ca7f3fe0dc50003b1e0712f	Wisconsin	\N	\N		LINE	\N	0		d462f74e196312a5e37ab1a08e604603		\N
+25470	en	wpforms-lite	823ee6401883db6f9e5865f51c77d97c	Wyoming	\N	\N		LINE	\N	0		e54228ea6544b66b1683b0e42b27818d		\N
+25471	en	wpforms-lite	e4f67b794b3d2a60165f49ddcba34082	States Postal Code	\N	\N		LINE	\N	0		2896661e96741ac19c24d903f388e8cc		\N
+25472	en	wpforms-lite	ef831a7b020689074c3df21c36dfc3c0	Months	\N	\N		LINE	\N	0		79c9de42c8204ec1cf659fd00792bce6		\N
+25473	en	wpforms-lite	86f5978d9b80124f509bdb71786e929e	January	\N	\N		LINE	\N	0		ae203f6d59aa14017fbba8d213a05ad9		\N
+25474	en	wpforms-lite	659e59f062c75f81259d22786d6c44aa	February	\N	\N		LINE	\N	0		11fff5df7bfe97eec9863007425f41fa		\N
+25475	en	wpforms-lite	fa3e5edac607a88d8fd7ecb9d6d67424	March	\N	\N		LINE	\N	0		7502354a4a3d26dade978c67329406cf		\N
+25476	en	wpforms-lite	3fcf026bbfffb63fb24b8de9d0446949	April	\N	\N		LINE	\N	0		b68d844bb172f5ef93df25fb5d25a5a0		\N
+25477	en	wpforms-lite	195fbb57ffe7449796d23466085ce6d8	May	\N	\N		LINE	\N	0		9992894f711fedf1394c6cc866a68f38		\N
+25478	en	wpforms-lite	688937ccaf2a2b0c45a1c9bbba09698d	June	\N	\N		LINE	\N	0		5797d3a991ff37e36a30b7178600dc8f		\N
+25479	en	wpforms-lite	1b539f6f34e8503c97f6d3421346b63c	July	\N	\N		LINE	\N	0		b42829f76d791af022b888a749489700		\N
+25480	en	wpforms-lite	41ba70891fb6f39327d8ccb9b1dafb84	August	\N	\N		LINE	\N	0		528de675939c494224cf9332451dae8a		\N
+25481	en	wpforms-lite	cc5d90569e1c8313c2b1c2aab1401174	September	\N	\N		LINE	\N	0		190c707b7e1ac3da6261e38902f8b45b		\N
+25482	en	wpforms-lite	eca60ae8611369fe28a02e2ab8c5d12e	October	\N	\N		LINE	\N	0		86cfee0ab0662cfccfcf550eaf07e89c		\N
+25483	en	wpforms-lite	7e823b37564da492ca1629b4732289a8	November	\N	\N		LINE	\N	0		ceb055d188e6f75dbaa2a784555621cc		\N
+25484	en	wpforms-lite	82331503174acbae012b2004f6431fa5	December	\N	\N		LINE	\N	0		05c118f9f813387f1bcea9f7dad0d1f5		\N
+25485	en	wpforms-lite	e807d3ccf8d24c8c1a3d86db5da78da8	Days	\N	\N		LINE	\N	0		d9823ec111428e4a67ddd54f4b182586		\N
+25486	en	wpforms-lite	9d1a0949c39e66a0cd65240bc0ac9177	Sunday	\N	\N		LINE	\N	0		6bbf9c15cbae0a74d6d4a229cf1bfb5b		\N
+25487	en	wpforms-lite	6f8522e0610541f1ef215a22ffa66ff6	Monday	\N	\N		LINE	\N	0		5e00761c426ea655badc3a48d323d1d7		\N
+25488	en	wpforms-lite	5792315f09a5d54fb7e3d066672b507f	Tuesday	\N	\N		LINE	\N	0		fde2c126b631ba736118d1d2a4960b5a		\N
+25489	en	wpforms-lite	796c163589f295373e171842f37265d5	Wednesday	\N	\N		LINE	\N	0		056ae8ccaa090603c492b6f590da8135		\N
+25490	en	wpforms-lite	78ae6f0cd191d25147e252dc54768238	Thursday	\N	\N		LINE	\N	0		d24397aa02e2f37e4c344718c905e94d		\N
+25491	en	wpforms-lite	c33b138a163847cdb6caeeb7c9a126b4	Friday	\N	\N		LINE	\N	0		290cbad3e337c5228fbfc1d93be73e90		\N
+25492	en	wpforms-lite	8b7051187b9191cdcdae6ed5a10e5adc	Saturday	\N	\N		LINE	\N	0		cb87bad47042562ad9e9cb24685653b8		\N
+25493	en	wpforms-lite	4a52f636e783a3b0fdfd7e5f143d9ffb	Now editing	\N	\N		LINE	\N	0		22a3f49e6111ee0f08db2a20b910053e		\N
+25494	en	wpforms-lite	c7399d84701814c04258fb3c24529d91	Embed Form	\N	\N		LINE	\N	0		225405c66316b267fcf9cb64ba3453cc		\N
+25495	en	wpforms-lite	f210e321d18ec88515188cb044834bc5	Embed	\N	\N		LINE	\N	0		ceac85b99fe2363cb0eb9b2ae7831fae		\N
+25496	en	wpforms-lite	72f06f4609080265127dfe2bddd98c47	Save Form	\N	\N		LINE	\N	0		e33ac7039579e4ce17c6302f912a04a8		\N
+25497	en	wpforms-lite	91b442d385b54e1418d81adc34871053	Selected	\N	\N		LINE	\N	0		b8a36425978b838e98b942f908969cea		\N
+25498	en	wpforms-lite	24a5ef25f0ad19658a992f32df6f656b	Add Fields	\N	\N		LINE	\N	0		5fd7005bd2e50c5169178612411ee6a4		\N
+25499	en	wpforms-lite	9b3c51f7324d5fb6e94673f589561022	Field Options	\N	\N		LINE	\N	0		19418dea96c9321af1a0a48f314ecbd7		\N
+25500	en	wpforms-lite	f1f95c556ed60ebf6a760a74f4765603	Standard Fields	\N	\N		LINE	\N	0		1496a6c6004fcfc4351745c7aa3de5dd		\N
+25501	en	wpforms-lite	389b7809384763d96ae7d4fb968854ec	Fancy Fields	\N	\N		LINE	\N	0		690938a6a7768203957f45b8a8ca0b4b		\N
+25502	en	wpforms-lite	a4affbb93734c65e0f6e3d9970d1bc8f	Payment Fields	\N	\N		LINE	\N	0		c163eacf0081b244d5a5ecb8874883d5		\N
+25503	en	wpforms-lite	bcc254b55c4a1babdf1dcb82c207506b	Phone	\N	\N		LINE	\N	0		50de973aa328fca540bc2a71020187a2		\N
+25504	en	wpforms-lite	dd7bf230fde8d4836917806aff6a6b27	Address	\N	\N		LINE	\N	0		8bc8cd5212e16f024c3cf323d80c8a51		\N
+25505	en	wpforms-lite	532aa474e2c472a8c8209bd15cae57c5	Date / Time	\N	\N		LINE	\N	0		91b48e8c0fd6f42133e5969b61fa9c14		\N
+25506	en	wpforms-lite	97b2bedb23e405fc32028263d96fb611	Website / URL	\N	\N		LINE	\N	0		5e1d677ef206e609be39480101dc6f85		\N
+25507	en	wpforms-lite	99e8ebaa5ad2fafe4e141574f6b4a73f	File Upload	\N	\N		LINE	\N	0		c85e96c2c3b973ca095c473c425eb3bd		\N
+25508	en	wpforms-lite	dc647eb65e6711e155375218212b3964	Password	\N	\N		LINE	\N	0		ab68aca4d690b61f16d4d5ee9a6af20f		\N
+25509	en	wpforms-lite	5b632cc766c1a4886e185f417c71c93f	Page Break	\N	\N		LINE	\N	0		a56352017538adea7dbd758df22b0832		\N
+25510	en	wpforms-lite	a12b6372838bda2ec5fcf6051c1ed207	Section Divider	\N	\N		LINE	\N	0		9dd2d4f3f47b171ac24065acc8b53d67		\N
+25511	en	wpforms-lite	0eeecdcfe6bf8145cfda1d091729a036	Hidden Field	\N	\N		LINE	\N	0		83f6660fc82f150c73509ea54da7a921		\N
+25512	en	wpforms-lite	4c4ad5fca2e7a3f74dbb1ced00381aa4	HTML	\N	\N		LINE	\N	0		c955eb042bde8f9c74b11a2fcce0298e		\N
+25513	en	wpforms-lite	dda9c06f33071c9b6fc237ee164109d8	Rating	\N	\N		LINE	\N	0		19f013886af6ad39a936d6089dc6953e		\N
+25514	en	wpforms-lite	45d048c35e3cfd449dc0a1b503cd103a	Captcha	\N	\N		LINE	\N	0		4fc13a57ac84438fcb9a72a22f908e83		\N
+25515	en	wpforms-lite	8c09001c99ecb6fdd8d6023fcf039054	Signature	\N	\N		LINE	\N	0		a82d7093bfd4cf2a54ff1e55dacbf060		\N
+25516	en	wpforms-lite	96430bb7c0c11bdc00dddc9d76411ba4	Likert Scale	\N	\N		LINE	\N	0		21c64367c40890236a16ed8b46f10823		\N
+25517	en	wpforms-lite	2b748e7db0ed7c2c6c7ca6eb8eed3396	Net Promoter Score	\N	\N		LINE	\N	0		c21ce12cc06673b6452669c28350d9ef		\N
+25518	en	wpforms-lite	403ec9728d2fa97d66a3b2afd9b998da	Single Item	\N	\N		LINE	\N	0		6c4f36a4293dc87af9e4ed165b7f3951		\N
+25519	en	wpforms-lite	3ae2efe7e3f26a2d44a5f401c89b4d5b	Multiple Items	\N	\N		LINE	\N	0		62ab4670f1bbc67bcc790e9690f63411		\N
+25520	en	wpforms-lite	ad7f13ff06ebbaea12686fdf93981282	Checkbox Items	\N	\N		LINE	\N	0		fe5f8ffc35d4630c2924ee5770a2e22d		\N
+25521	en	wpforms-lite	737c168c6dfdfee1bd701bb1da2e1b57	Dropdown Items	\N	\N		LINE	\N	0		2d19be694b2fc75fc5d95351d4a1de04		\N
+25522	en	wpforms-lite	96b0141273eabab320119c467cdcaf17	Total	\N	\N		LINE	\N	0		197806918ade2ce3be9a3d4157309869		\N
+25523	en	wpforms-lite	5905c091a5b9e362c004eedcb1c26bce	Enter text for the form field label. Field labels are recommended and can be hidden in the Advanced Settings.	\N	\N		LINE	\N	0		a98c3d009a3a087f543ca276fba73de4		\N
+25524	en	wpforms-lite	b021df6aac4654c454f46c77646e745f	Label	\N	\N		LINE	\N	0		7289681cc77c1d3a6eaa927eb11a64b0		\N
+25525	en	wpforms-lite	520d0db389f362bf79ef56ca0af3dcab	Format	\N	\N		LINE	\N	0		d51dca99cd3b1db8f5944c0175f44e50		\N
+25526	en	wpforms-lite	62d5fb2287454259332d8761a0542b63	Select format to use for the name form field	\N	\N		LINE	\N	0		6f777cb6b87bf8b205f9ee6c8077ac47		\N
+25527	en	wpforms-lite	1fbb1e3943c2c6c560247ac8f9289780	Simple	\N	\N		LINE	\N	0		e418b0a5f9207c2f60e2697a47f50aff		\N
+25528	en	wpforms-lite	e83d05ddc1cfb12b7863778656bab215	First Last	\N	\N		LINE	\N	0		bd217f78c2b5404c80aacc3b5772bbcd		\N
+25529	en	wpforms-lite	9a2d0d62083ec9ef62fdbe25423a9937	First Middle Last	\N	\N		LINE	\N	0		e5b265ca2d070d2f85c3f50bcb7161e8		\N
+25530	en	wpforms-lite	900f552e6dbe38729891c9ab3e6b99cd	Enter text for the form field description.	\N	\N		LINE	\N	0		9ba2a6c5198d36be41f0cb0341e9716d		\N
+25531	en	wpforms-lite	b5a7adde1af5c87d7fd797b6245c2a39	Description	\N	\N		LINE	\N	0		3f867b64f2c92d8dcf1553932fddab48		\N
+25532	en	wpforms-lite	54c11bcd14e54208ba830ae2d8b21c69	Check this option to mark the field required. A form will not submit unless all required fields are provided.	\N	\N		LINE	\N	0		83647a1f34b3a2e8ff2d3ee6b93f7815		\N
+25533	en	wpforms-lite	b651efdb98a5d6bd2b3935d0c3f4a5e2	Required	\N	\N		LINE	\N	0		68ad3cec4cf2f0d69917e43208f98307		\N
+25534	en	wpforms-lite	9dfc5d5738312210c3c75e68a468691d	Advanced Options	\N	\N		LINE	\N	0		30774031c96a6a74aac18fdc6e7e2e51		\N
+25535	en	wpforms-lite	cd92717b99cca1776d61f5e48c61009b	Select the default form field size.	\N	\N		LINE	\N	0		a28c68104fd23cea2ebf9cb2bc3881e4		\N
+25536	en	wpforms-lite	2660064e68655415da2628c2ae2f7592	Small	\N	\N		LINE	\N	0		d73d142feeae3759a2b2afaa9db98f39		\N
+25537	en	wpforms-lite	87f8a6ab85c9ced3702b4ea641ad4bb5	Medium	\N	\N		LINE	\N	0		d21688fb77e9b0eb1801bdf9edf17895		\N
+25538	en	wpforms-lite	3a69b34ce86dacb205936a8094f6c743	Large	\N	\N		LINE	\N	0		72f139eb37fefbb1a236add99c82fc81		\N
+25539	en	wpforms-lite	f8b501cb1f2d233128a66b2592d53cf4	Field Size	\N	\N		LINE	\N	0		3dbcfe8a8ba4601bb505e879df52b585		\N
+25540	en	wpforms-lite	ae73cf525758373c5b65ea10d2157572	Name field advanced options.	\N	\N		LINE	\N	0		0458acfe534deab1d58bdf078644bd34		\N
+25541	en	wpforms-lite	68753d36ec0c4d7768b20993268d68d1	Placeholder	\N	\N		LINE	\N	0		862168ac3af42f20141111edad40cce8		\N
+25542	en	wpforms-lite	6b66a61fa66288a9a7ad6474d2e686ec	Default Value	\N	\N		LINE	\N	0		e883cef5a3b30c70354a9a5f744bc60d		\N
+25543	en	wpforms-lite	bc910f8bdf70f29374f496f05be0330c	First Name	\N	\N		LINE	\N	0		23f244bbb830d3cc149b5e8affa3f269		\N
+25544	en	wpforms-lite	926d34a38405d1f23e4662921482c606	First name field advanced options.	\N	\N		LINE	\N	0		46966f8487b08aab19e549f9d0baba6d		\N
+25545	en	wpforms-lite	d3691d297d95c48ef1a2b7d6523ef3f0	Middle Name	\N	\N		LINE	\N	0		fabf42e7dbdcb6c678d9de4531a48183		\N
+25546	en	wpforms-lite	c274cf4c3d4f34e4f43e3ab10b4dbad3	Middle name field advanced options.	\N	\N		LINE	\N	0		16fe6b7d6ad42a78c4f9e067dee8ecd5		\N
+25547	en	wpforms-lite	77587239bf4c54ea493c7033e1dbf636	Last Name	\N	\N		LINE	\N	0		0082c3a3692053454f328caeaa3557f7		\N
+25548	en	wpforms-lite	e2dc2b69a2e460a9919bda80d35432f0	Last name field advanced options.	\N	\N		LINE	\N	0		3967d92d9fdfcde10a80f7f6ce8c4d34		\N
+25549	en	wpforms-lite	f81c6ead926c1c71ec1a4f06c0a9f2d7	Check this option to hide the form field label.	\N	\N		LINE	\N	0		fb3d36ab61f0e954c3c57a02c2055808		\N
+25550	en	wpforms-lite	aefa602736715fc2e315eb2c510a9004	Hide Label	\N	\N		LINE	\N	0		f493397b5afe20960d9f526dc99b241f		\N
+25551	en	wpforms-lite	3826546a76b8c74d9e664de17404532c	Check this option to hide the form field sub-label.	\N	\N		LINE	\N	0		6b5939f2b743147e1d624206ec995bd9		\N
+25552	en	wpforms-lite	aba1e1b62e39bfc16c6fa74a36e703f9	Hide Sub-Labels	\N	\N		LINE	\N	0		4d15f046005219e6df1d3e2e4c849b14		\N
+25553	en	wpforms-lite	df515b9a4e6c26f8977d81e2e934d951	Enter CSS class names for the form field container. Class names should be separated with spaces.	\N	\N		LINE	\N	0		74472a46c193f05c3a02b46130dde3a6		\N
+25554	en	wpforms-lite	9a64f91eb059eb9a1ecf038d3467e09f	CSS Classes	\N	\N		LINE	\N	0		21c35dfd07b18da2612f4f5f4697acd4		\N
+25555	en	wpforms-lite	30ee410700ad532704814aaf5a54ebdc	Conditionals	\N	\N		LINE	\N	0		2c5d1d81d0da46cd4023a580fe508619		\N
+25556	en	wpforms-lite	5fdf3ed6db2a7c155c602ae65bed60df	Enable Email Confirmation	\N	\N		LINE	\N	0		fac8df620e18e45dd9c30b01c8ea6c2d		\N
+25557	en	wpforms-lite	a6a37ab840007759971e7ff6b04effcd	Check this option to ask users to provide an email address twice.	\N	\N		LINE	\N	0		73b80e2f2b2369cc8d95b2e50387bed6		\N
+25558	en	wpforms-lite	78337e683ea452896466bc3aa33876ed	Enter text for the form field placeholder.	\N	\N		LINE	\N	0		abef33cbdc7bddbd36e9f0f127c93572		\N
+25559	en	wpforms-lite	6485c7641245873388f0170f472183c6	Placeholder Text	\N	\N		LINE	\N	0		47bbb1a2d7c73c71746364e62e0f665b		\N
+25560	en	wpforms-lite	5df3a76b92255315d0e654636a753aa5	Confirmation Placeholder Text	\N	\N		LINE	\N	0		c71a3794dda97ec3fad9fb3544d23ac2		\N
+25561	en	wpforms-lite	be531a909b518409f52d5d85838d25cb	Enter text for the confirmation field placeholder.	\N	\N		LINE	\N	0		ed4170f0cca83f6096503c5ba5be6fbc		\N
+25562	en	wpforms-lite	84c7ec69f6318b22d374c6ae7ad4e1d0	Enter text for the default form field value.	\N	\N		LINE	\N	0		1c58d01075cbef34b0c3a0b03f9ab51e		\N
+25563	en	wpforms-lite	068d7fd9cd96e10b823f7a6064120df7	Duplicate Field	\N	\N		LINE	\N	0		e680b730179b803e3e61e711fc779041		\N
+25564	en	wpforms-lite	5a9194cca30a105da055d6bab9866f90	Delete Field	\N	\N		LINE	\N	0		e5ab01aa264d149c2aded6c4dd8a4087		\N
+25565	en	wpforms-lite	1fff1119ade8c4a24417bf16f4b586e2	Click to edit. Drag to reorder.	\N	\N		LINE	\N	0		f7c3f23723c4b0bf08cc24dd0465ad47		\N
+25566	en	wpforms-lite	6b862186923987b6187154138271326d	Confirm Email	\N	\N		LINE	\N	0		e00da23c38b294af1115dde76ff99ae1		\N
+25567	en	wpforms-lite	0db377921f4ce762c62526131097968f	General	\N	\N		LINE	\N	0		12d22538310930fcdf6ee71fd5fa6b09		\N
+25568	en	wpforms-lite	a274f4d4670213a9045ce258c6c56b80	Notifications	\N	\N		LINE	\N	0		e0016eacdd5be3334f5609fe364f5701		\N
+25569	en	wpforms-lite	f4d1ea475eaa85102e2b4e6d95da84bd	Confirmation	\N	\N		LINE	\N	0		fc4017cc364e07c70f9d97cade7efc55		\N
+25570	en	wpforms-lite	447885e52a7c80c10de96da10a8c46c5	Form Description	\N	\N		LINE	\N	0		33a843e6e14f26954e3ae0802e0dee50		\N
+25571	en	wpforms-lite	400180ed8488f969d23c895d1781032b	Form CSS Class	\N	\N		LINE	\N	0		1ee2f86f921b863acd4ac85a80919632		\N
+25572	en	wpforms-lite	f06c2708864cfe02c24e034eb69fa860	Enter CSS class names for the form wrapper. Multiple class names should be separated with spaces.	\N	\N		LINE	\N	0		233fb78e829580c4ef9074c2626402dd		\N
+25573	en	wpforms-lite	7c1eda9cc78f71e886939328ab5a7ff3	Submit Button Text	\N	\N		LINE	\N	0		d713997905eea1c004460a6d865c4f23		\N
+25574	en	wpforms-lite	49d739cb81ef054b82c1a280869bca67	Submit Button Processing Text	\N	\N		LINE	\N	0		aaed4359c92633fb5fb06cb8ea4fe6b8		\N
+25575	en	wpforms-lite	e48c9f319e7caeca5f6693894e96a4da	Enter the submit button text you would like the button display while the form submit is processing.	\N	\N		LINE	\N	0		f8845c814e6354556707fca213208f49		\N
+25576	en	wpforms-lite	37fa3362a4583fb5cc611ab94173f808	Submit Button CSS Class	\N	\N		LINE	\N	0		5dc2d6868890479f5570d14ac0580ae1		\N
+25577	en	wpforms-lite	cda842e431a74768a23f6fc94bf2a954	Enter CSS class names for the form submit button. Multiple names should be separated with spaces.	\N	\N		LINE	\N	0		2bcf20bc8a9fdd7c30ed102fa7fa186c		\N
+25578	en	wpforms-lite	34e589e930f0952ee80ca2db31a54492	Enable anti-spam honeypot	\N	\N		LINE	\N	0		241df1a457262a472028e81137836f24		\N
+25579	en	wpforms-lite	0197b8af4b361606aae6bacbf81c894e	Enable dynamic fields population	\N	\N		LINE	\N	0		23c2b9054e5bdf4b4446c69b4f49dd86		\N
+25580	en	wpforms-lite	431e534dabf2820a555d67d04d5e409d	How to use Dynamic Field Population	\N	\N		LINE	\N	0		9b9e0f94a24cf7abf951633b0222d218		\N
+25581	en	wpforms-lite	c7814d9f54c0de1eca3a247d37c55abc	Enable AJAX form submission	\N	\N		LINE	\N	0		d5faa817b669e0f76e36acc1922c24c1		\N
+25582	en	wpforms-lite	a95fe5a0488405a81c12d0e81697e8fc	Enables form submission without page reload.	\N	\N		LINE	\N	0		7e16597e51476857332811c007a4f273		\N
+25583	en	wpforms-lite	e1e5b950adbe02bfcb14b6b5da1d1327	Multiple notifications	\N	\N		LINE	\N	0		28f6618c4903967789f5e2e1b437ad9e		\N
+25584	en	wpforms-lite	c37fab54651a24c6fce969f77e7d87c6	Add New Notification	\N	\N		LINE	\N	0		b9602180d0c78c2db6548d0908e40f37		\N
+25585	en	wpforms-lite	01ea3f20b2d4389624fdc9c559ca2f30	Send To Email Address	\N	\N		LINE	\N	0		0290e5784842f1869614c98b0189ae88		\N
+25586	en	wpforms-lite	57b62e4dfe5cc49307ed43dd730ad6d6	Enter the email address to receive form entry notifications. For multiple notifications, separate email addresses with a comma.	\N	\N		LINE	\N	0		24c489f009d1ebfb573997761e566719		\N
+25587	en	wpforms-lite	e3868f7e6e90b6b55f60ac7d71dcb8ce	Email Subject	\N	\N		LINE	\N	0		c2c1c7850a60884b9aa28754beea6e53		\N
+25588	en	wpforms-lite	148214e487f573d959fa3d38f3da29e3	New Entry: %s	\N	\N		LINE	\N	0		b93a077e622dce4dfa57273edbf450b9		\N
+25589	en	wpforms-lite	4a4a8fe0c6dfb6bd2a41755d15eb6f0b	From Name	\N	\N		LINE	\N	0		0a30004047c38c31be6257c6acecb188		\N
+25590	en	wpforms-lite	4ca679a383343ab3d4ca1cd7c91b43f7	From Email	\N	\N		LINE	\N	0		441aa19d3b5549656ac8d989e8399b8d		\N
+25591	en	wpforms-lite	a7873fa30fd3bed5c2694065e4e2a460	Reply-To	\N	\N		LINE	\N	0		b1b8b22429efb4754ccbab51432cbb15		\N
+25592	en	wpforms-lite	508c1243ed9c06a56c784ea6022f4d09	To display all form fields, use the %s Smart Tag.	\N	\N		LINE	\N	0		7e6cbf9aee6a2d7b0bc5128c7b232f41		\N
+25593	en	wpforms-lite	7648a6407c100b97a638ac05b600d1bd	Confirmations	\N	\N		LINE	\N	0		d70345c78ec5e23d85bb5641b5be40f8		\N
+25594	en	wpforms-lite	ef6a64784e1395848541bb0732512d0b	Multiple confirmations	\N	\N		LINE	\N	0		4252d536173f75ff133cd080754afced		\N
+25595	en	wpforms-lite	59fdb5b3f384c728fca1ec440beff2c2	Add New Confirmation	\N	\N		LINE	\N	0		536c0d472a910109005f067a3e2de18a		\N
+25596	en	wpforms-lite	2d7bf2e12cb41ca1366f01263ea893ed	Confirmation Type	\N	\N		LINE	\N	0		5a51b9b8da7d8e4021ea80906005ea7a		\N
+25597	en	wpforms-lite	5a6c09d307d092070a6cab8e49b99488	Show Page	\N	\N		LINE	\N	0		ca4c6140199844649442b1e67bdf0eee		\N
+25598	en	wpforms-lite	deaac0add87f4be6c131df733ea542a3	Go to URL (Redirect)	\N	\N		LINE	\N	0		a94ac65e0ef9abf9c416386a865d298b		\N
+25599	en	wpforms-lite	8375a4ac1fa1f01fa798b2a86e603b86	Confirmation Message	\N	\N		LINE	\N	0		94f9590c82bb16ddf88f4d79be3b2336		\N
+25600	en	wpforms-lite	0ebc27841fb2bff0773edf700d36fa24	Automatically scroll to the confirmation message	\N	\N		LINE	\N	0		3a2f3c0d80be86d8c24a1161ba2441c4		\N
+25601	en	wpforms-lite	6e7d9dd12b9ae952b37645e2df1f99d0	Confirmation Page	\N	\N		LINE	\N	0		434f6b0b733b13e44baa0357002ffcb9		\N
+25602	en	wpforms-lite	3b101903fc2ebee763cdb9deed640948	Confirmation Redirect URL	\N	\N		LINE	\N	0		1db0afcba35c87b6b5423dcbab2f4086		\N
+25603	en	wpforms-lite	b07377ab536fae00c4d01253f07bae72	%s addon	\N	\N		LINE	\N	0		5cdf87708671ba9e8aca3ef33fc22a65		\N
+25604	en	wpforms-lite	dc08a4cc9e701bfdf9a27a87522e4cea	Select Your Marketing Integration	\N	\N		LINE	\N	0		94111ada8a3bcae729119948463df980		\N
+25605	en	wpforms-lite	537d57d99cd58f5e2f0766a142f0466c	Select your email marketing service provider or CRM from the options on the left. If you don't see your email marketing service listed, then let us know and we'll do our best to get it added as fast as possible.	\N	\N		LINE	\N	0		26a1994df49b82207fd7a1b611802324		\N
+25606	en	wpforms-lite	12acc7f86f045429f568ed130800c2df	Add New %s	\N	\N		LINE	\N	0		cc53bdc1bf7a5d6c95e22ca190e7c041		\N
+25607	en	wpforms-lite	3ca00ddff2e037d2d27c96d9b81262b2	Get the most out of <strong>WPForms</strong> &mdash; use it with an active Constant Contact account.	\N	\N		LINE	\N	0		e59bba1af43e1657ea4c79a3165304fb		\N
+25608	en	wpforms-lite	9a64856274a8d471f9ed678e85e68a6d	Try Constant Contact for Free	\N	\N		LINE	\N	0		c248850a5a968e202ee47a31ba82537a		\N
+25609	en	wpforms-lite	a769e070149028b506c59aaaa76258b4	Learn More about the <a href="%s" target="_blank" rel="noopener noreferrer">power of email marketing</a>	\N	\N		LINE	\N	0		7bf2d6cc6184f521b95ced9c24c8d83e		\N
+25610	en	wpforms-lite	7a1920d61156abc05a60135aefe8bc67	Default	\N	\N		LINE	\N	0		479bacf2e5598d84a5ef47721a179c4a		\N
+25611	en	wpforms-lite	effbe649eed269332d91d0ac0af1d36f	Form was successfully duplicated.	\N	\N		LINE	\N	0		fb2d41c79c431caba64d9f52a9dbf34d		\N
+25612	en	wpforms-lite	ed3da54a8c600cf78beb95aae802de12	Did you mean {suggestion}?	\N	\N		LINE	\N	0		1cb4b8eb58680f023512b1b472ae8579		\N
+25613	en	wpforms-lite	bdd07e6d01002cfb456f4fd24fb26dc5	Click to accept this suggestion.	\N	\N		LINE	\N	0		c6e7c186c184a444c35c65019b637e7f		\N
+25614	en	wpforms-lite	7724076d0ccc93dbb00326dbedfeee14	Please enter a valid phone number.	\N	\N		LINE	\N	0		2ac1ba0f63d3673132f111793f0304d3		\N
+25615	en	wpforms-lite	c34e589a90394ea666df1c3c30368b02	The total size of the selected files {totalSize} Mb exceeds the allowed limit {maxSize} Mb.	\N	\N		LINE	\N	0		79d128674b142a3c4d3788e010b2fba2		\N
+25616	en	wpforms-lite	f857da320c1355e5c4a496ab5e229098	You have exceeded the number of allowed selections: {#}.	\N	\N		LINE	\N	0		8a927c9f0860c07a76799cb2dcd8aa7f		\N

@@ -6,3 +6,6 @@
 26	https://en.wikipedia.org/wiki/Paperless_office	33	0	external
 27	http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy	33	0	external
 28	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	33	0	external
+42	/koha-hosting-quote	429	0	internal
+49	/koha-hosting/	386	429	internal
+50	/koha-hosting/	386	429	internal

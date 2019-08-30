@@ -8421,7 +8421,7 @@ kanssa.</p>\
 <p>Palvelimemme sijaitsevat uunituoreessa Data Center Park Helsingissä. Niin ohjelmistomme kuin palvelinkeskuksemme täyttävät EU:n sensitiivisen datan käsittelyn vaatimat säädökset.</p>\
 <!-- /wp:paragraph -->	Kohan ylläpitopalvelu		inherit	closed	closed		314-revision-v1			2019-02-16 16:57:19	2019-02-16 16:57:19		314	http://homepage/314-revision-v1/	0	revision		0
 347	1	2019-02-16 16:59:04	2019-02-16 16:59:04		hosting		inherit	open	closed		hosting			2019-02-16 16:59:04	2019-02-16 16:59:04		314	http://homepage/wp-content/uploads/2019/02/hosting.png	0	attachment	image/png	0
-348	1	2019-02-16 16:59:04	2019-02-16 16:59:04		hosting		inherit	open	closed		hosting-2			2019-02-16 16:59:04	2019-02-16 16:59:04		0	http://homepage/wp-content/uploads/2019/02/hosting.png	0	attachment	image/png	0
+348	1	2019-02-16 16:59:04	2019-02-16 16:59:04		hosting		inherit	open	closed		hosting-2			2019-08-30 22:43:08	2019-08-30 22:43:08		429	http://homepage/wp-content/uploads/2019/02/hosting.png	0	attachment	image/png	0
 349	1	2019-02-16 17:00:02	2019-02-16 17:00:02	<!-- wp:paragraph -->\
 <p>Tarjoamme edullisen Koha-asennus- ja ylläpitopalvelun. Huolehdimme siitä, että kirjastojärjestelmä on aina saatavilla ja että tieto on turvallisesti ja asianmukaisesti säilötty sekä varmuuskopioitu.</p>\
 <!-- /wp:paragraph -->\
@@ -9138,13 +9138,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 385	1	2019-02-17 17:53:39	2019-02-17 17:53:39	<!-- wp:shortcode -->\
 [wpforms id="374"]\
 <!-- /wp:shortcode -->	Koha ylläpitopalvelu - tarjouspyyntö		inherit	closed	closed		366-revision-v1			2019-02-17 17:53:39	2019-02-17 17:53:39		366	http://homepage/366-revision-v1/	0	revision		0
-386	1	2019-02-17 17:55:48	2019-02-17 17:55:48	<!-- wp:html -->\
-<script type="text/javascript">\
-window.location.replace("/fi/koha");\
-</script>\
-<!-- /wp:html -->\
-\
-<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
+386	1	2019-02-17 17:55:48	2019-02-17 17:55:48	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
 <p style="margin-top: 50px; font-size: 38px; text-align: center;"><strong><em>The best library system in the world.</em></strong></p>\
 <!-- /wp:html --></div></div>\
@@ -9215,7 +9209,7 @@ window.location.replace("/fi/koha");\
 <!-- /wp:spacer -->\
 \
 <!-- wp:heading {"align":"center"} -->\
-<h2 style="text-align:center"><strong><a href="/fi/kohan-yllapitopalvelu/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
+<h2 style="text-align:center"><strong><a href="/koha-hosting/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
 <!-- /wp:heading -->\
 \
 <!-- wp:spacer {"height":10} -->\
@@ -9223,8 +9217,8 @@ window.location.replace("/fi/koha");\
 <!-- /wp:spacer -->\
 \
 <!-- wp:button {"customBackgroundColor":"#7cc445","customTextColor":"#000000","align":"center","className":"is-style-default"} -->\
-<div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" href="/fi/kohan-yllapitopalvelu" style="background-color:#7cc445;color:#000000">Read more<br></a></div>\
-<!-- /wp:button -->	Koha		publish	closed	closed		koha			2019-02-28 21:42:54	2019-02-28 21:42:54		0	http://homepage/?page_id=386	0	page		0
+<div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" href="/koha-hosting/" style="background-color:#7cc445;color:#000000">Read more<br></a></div>\
+<!-- /wp:button -->	Koha		publish	closed	closed		koha			2019-08-30 22:55:48	2019-08-30 22:55:48		0	http://homepage/?page_id=386	0	page		0
 387	1	2019-02-17 17:55:48	2019-02-17 17:55:48	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns: 29% auto;">\
 <figure class="wp-block-media-text__media"><img class="wp-image-261" src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" /></figure>\
@@ -11307,3 +11301,374 @@ Content-Transfer-Encoding: quoted-printable\
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2019-08-30 22:40:20	2019-08-30 22:40:20		33	http://homepage/33-revision-v1/	0	revision		0
+428	1	2019-08-30 22:41:53	2019-08-30 22:41:53	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
+<p style="margin-top: 50px; font-size: 38px; text-align: center;"><strong><em>The best library system in the world.</em></strong></p>\
+<!-- /wp:html --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Free and open source library system</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is an open source library system with a large user and developer community. Due to principles of free software, the functionality and development of Koha is transparent. A service funded by public funds can therefore enjoy the benefits of free and open source software.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Flexible for your needs</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is a flexible system with number of features - practically everything a library needs. Koha integrates with multiple other services via APIs (application programming interfaces) such as SIP2 and REST API that expose most functionality of the library system.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Our solid experience<br></strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Our professionals have together more than ten year of experience. Our team is active in participating to many Koha and free and open source events around the world. Transparency and honesty are important values to us. With Koha, we are able to share these values with our partners.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:sowb/widget-block {"widgetClass":"SiteOrigin_Widget_Headline_Widget","widgetData":{"headline":{"text":"","destination_url":"","new_window":false,"tag":"h1","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"open"},"sub_headline":{"text":"","destination_url":"","new_window":false,"tag":"h3","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"closed"},"divider":{"style":"solid","color":"#EEEEEE","thickness":"1","align":"center","width":"80","width_unit":"%","margin":"","margin_unit":"px","so_field_container_state":"closed"},"order":"headline,divider,sub_headline","fittext":false,"fittext_compressor":"0.85","_sow_form_id":"10502596455c682a0b97c1f087220978","_sow_form_timestamp":""}} /-->\
+\
+<!-- wp:spacer {"height":50} -->\
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:heading {"align":"center"} -->\
+<h2 style="text-align:center"><strong><a href="/fi/kohan-yllapitopalvelu/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
+<!-- /wp:heading -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:button {"customBackgroundColor":"#7cc445","customTextColor":"#000000","align":"center","className":"is-style-default"} -->\
+<div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" href="/fi/kohan-yllapitopalvelu" style="background-color:#7cc445;color:#000000">Read more<br></a></div>\
+<!-- /wp:button -->	Koha		inherit	closed	closed		386-revision-v1			2019-08-30 22:41:53	2019-08-30 22:41:53		386	http://homepage/386-revision-v1/	0	revision		0
+429	1	2019-08-30 22:50:50	2019-08-30 22:50:50	<!-- wp:paragraph -->\
+<p>&nbsp;</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:media-text {"align":"","mediaId":348,"mediaType":"image","mediaWidth":10,"isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:10% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/hosting.png" alt="" class="wp-image-348"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->\
+<p><figure class="wp-block-media-text__media"><figure class="wp-block-media-text__media">Hypernova offers an affordable and professional Koha installation and hosting service. Our service ensures your library system is always online and your data is securely stored and backed up. Our servers are located in brand new Data Center Park in Helsinki, Finland. Our software, servers and data centers are GDPR compatible.</figure></p>\
+<!-- /wp:paragraph --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:button {"customBackgroundColor":"#d12020","customTextColor":"#ffffff","align":"center","className":"is-style-outline"} -->\
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-background" href="/koha-hosting-quote" style="background-color:#d12020;color:#ffffff">Request for quotation!\
+</a></div>\
+<!-- /wp:button -->\
+\
+<!-- wp:paragraph -->\
+<p>Our service includes</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:list -->\
+<ul><li>Latest Koha version</li><li>Koha software update twice a year</li><li>Maintenance and automatic monitoring service. We are constantly monitoring the availability of your ILS and quickly react to any problems.</li><li>Backups and a backup restoration service</li><li>Networking (firewalls, DNS, IPv4) and SSL certificates</li></ul>\
+<!-- /wp:list -->	Koha hosting		publish	closed	closed		koha-hosting			2019-08-30 22:54:35	2019-08-30 22:54:35		0	http://homepage/?page_id=429	0	page		0
+430	1	2019-08-30 22:50:50	2019-08-30 22:50:50	<!-- wp:paragraph -->\
+\
+&nbsp;\
+\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:media-text {"align":"","mediaId":347,"mediaType":"image","mediaWidth":10,"isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns: 10% auto;">\
+<figure class="wp-block-media-text__media"></figure>\
+<div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->\
+<figure class="wp-block-media-text__media">\
+<figure class="wp-block-media-text__media"><img class="wp-image-347" src="http://homepage/wp-content/uploads/2019/02/hosting.png" alt="" width="107" height="110" /></figure>\
+</figure>\
+Hypernova offers an affordable and professional Koha installation and hosting service. Our service ensures your library system is always online and your data is securely stored and backed up. Our servers are located in brand new Data Center Park in Helsinki, Finland. Our software, servers and data centers are GDPR compatible.\
+\
+<!-- /wp:paragraph -->\
+\
+</div>\
+</div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:button {"customBackgroundColor":"#d12020","customTextColor":"#ffffff","align":"center","className":"is-style-outline"} -->\
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-background" style="background-color: #d12020; color: #ffffff;" href="/koha-hosting-quote">Request for quotation!\
+</a></div>\
+<!-- /wp:button -->\
+\
+<!-- wp:paragraph -->\
+\
+Our service includes\
+\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:list -->\
+<ul>\
+ \	<li>Latest Koha version</li>\
+ \	<li>Koha software update twice a year</li>\
+ \	<li>Maintenance and automatic monitoring service. We are constantly monitoring the availability of your ILS and quickly react to any problems.</li>\
+ \	<li>Backups and a backup restoration service</li>\
+ \	<li>Networking (firewalls, DNS, IPv4) and SSL certificates</li>\
+</ul>\
+<!-- /wp:list -->	Kohan ylläpitopalvelu		inherit	closed	closed		429-revision-v1			2019-08-30 22:50:50	2019-08-30 22:50:50		429	http://homepage/429-revision-v1/	0	revision		0
+431	1	2019-08-30 22:51:17	0000-00-00 00:00:00		Auto Draft		auto-draft	closed	closed					2019-08-30 22:51:17	0000-00-00 00:00:00		0	http://homepage/?page_id=431	0	page		0
+432	1	2019-08-30 22:51:18	0000-00-00 00:00:00		Auto Draft		auto-draft	closed	closed					2019-08-30 22:51:18	0000-00-00 00:00:00		0	http://homepage/?page_id=432	0	page		0
+433	1	2019-08-30 22:52:18	0000-00-00 00:00:00		Auto Draft		auto-draft	closed	closed					2019-08-30 22:52:18	0000-00-00 00:00:00		0	http://homepage/?page_id=433	0	page		0
+434	1	2019-08-30 22:52:19	0000-00-00 00:00:00		Auto Draft		auto-draft	closed	closed					2019-08-30 22:52:19	0000-00-00 00:00:00		0	http://homepage/?page_id=434	0	page		0
+435	1	2019-08-30 22:52:47	2019-08-30 22:52:47	<!-- wp:paragraph -->\
+<p>&nbsp;</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:media-text {"align":"","mediaId":347,"mediaType":"image","mediaWidth":10,"isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:10% auto"><figure class="wp-block-media-text__media"><img alt="" class="wp-image-347"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->\
+<p><figure class="wp-block-media-text__media">\
+<figure class="wp-block-media-text__media"><img class="wp-image-347" src="http://homepage/wp-content/uploads/2019/02/hosting.png" alt="" width="107" height="110"></figure>\
+</figure>\
+Hypernova offers an affordable and professional Koha installation and hosting service. Our service ensures your library system is always online and your data is securely stored and backed up. Our servers are located in brand new Data Center Park in Helsinki, Finland. Our software, servers and data centers are GDPR compatible.</p>\
+<!-- /wp:paragraph --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:button {"customBackgroundColor":"#d12020","customTextColor":"#ffffff","align":"center","className":"is-style-outline"} -->\
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-background" href="/koha-hosting-quote" style="background-color:#d12020;color:#ffffff">Request for quotation!\
+</a></div>\
+<!-- /wp:button -->\
+\
+<!-- wp:paragraph -->\
+<p>Our service includes</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:list -->\
+<ul><li>Latest Koha version</li><li>Koha software update twice a year</li><li>Maintenance and automatic monitoring service. We are constantly monitoring the availability of your ILS and quickly react to any problems.</li><li>Backups and a backup restoration service</li><li>Networking (firewalls, DNS, IPv4) and SSL certificates</li></ul>\
+<!-- /wp:list -->	Koha hosting		inherit	closed	closed		429-revision-v1			2019-08-30 22:52:47	2019-08-30 22:52:47		429	http://homepage/429-revision-v1/	0	revision		0
+436	1	2019-08-30 22:54:35	2019-08-30 22:54:35	<!-- wp:paragraph -->\
+<p>&nbsp;</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:media-text {"align":"","mediaId":348,"mediaType":"image","mediaWidth":10,"isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:10% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/hosting.png" alt="" class="wp-image-348"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->\
+<p><figure class="wp-block-media-text__media"><figure class="wp-block-media-text__media">Hypernova offers an affordable and professional Koha installation and hosting service. Our service ensures your library system is always online and your data is securely stored and backed up. Our servers are located in brand new Data Center Park in Helsinki, Finland. Our software, servers and data centers are GDPR compatible.</figure></p>\
+<!-- /wp:paragraph --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:button {"customBackgroundColor":"#d12020","customTextColor":"#ffffff","align":"center","className":"is-style-outline"} -->\
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link has-text-color has-background" href="/koha-hosting-quote" style="background-color:#d12020;color:#ffffff">Request for quotation!\
+</a></div>\
+<!-- /wp:button -->\
+\
+<!-- wp:paragraph -->\
+<p>Our service includes</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:list -->\
+<ul><li>Latest Koha version</li><li>Koha software update twice a year</li><li>Maintenance and automatic monitoring service. We are constantly monitoring the availability of your ILS and quickly react to any problems.</li><li>Backups and a backup restoration service</li><li>Networking (firewalls, DNS, IPv4) and SSL certificates</li></ul>\
+<!-- /wp:list -->	Koha hosting		inherit	closed	closed		429-revision-v1			2019-08-30 22:54:35	2019-08-30 22:54:35		429	http://homepage/429-revision-v1/	0	revision		0
+437	1	2019-08-30 22:55:34	2019-08-30 22:55:34	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
+<p style="margin-top: 50px; font-size: 38px; text-align: center;"><strong><em>The best library system in the world.</em></strong></p>\
+<!-- /wp:html --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Free and open source library system</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is an open source library system with a large user and developer community. Due to principles of free software, the functionality and development of Koha is transparent. A service funded by public funds can therefore enjoy the benefits of free and open source software.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Flexible for your needs</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is a flexible system with number of features - practically everything a library needs. Koha integrates with multiple other services via APIs (application programming interfaces) such as SIP2 and REST API that expose most functionality of the library system.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Our solid experience<br></strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Our professionals have together more than ten year of experience. Our team is active in participating to many Koha and free and open source events around the world. Transparency and honesty are important values to us. With Koha, we are able to share these values with our partners.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:sowb/widget-block {"widgetClass":"SiteOrigin_Widget_Headline_Widget","widgetData":{"headline":{"text":"","destination_url":"","new_window":false,"tag":"h1","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"open"},"sub_headline":{"text":"","destination_url":"","new_window":false,"tag":"h3","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"closed"},"divider":{"style":"solid","color":"#EEEEEE","thickness":"1","align":"center","width":"80","width_unit":"%","margin":"","margin_unit":"px","so_field_container_state":"closed"},"order":"headline,divider,sub_headline","fittext":false,"fittext_compressor":"0.85","_sow_form_id":"10502596455c682a0b97c1f087220978","_sow_form_timestamp":""}} /-->\
+\
+<!-- wp:spacer {"height":50} -->\
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:heading {"align":"center"} -->\
+<h2 style="text-align:center"><strong><a href="http://koha-hosting/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
+<!-- /wp:heading -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:button {"customBackgroundColor":"#7cc445","customTextColor":"#000000","align":"center","className":"is-style-default"} -->\
+<div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" href="/koha-hosting/" style="background-color:#7cc445;color:#000000">Read more<br></a></div>\
+<!-- /wp:button -->	Koha		inherit	closed	closed		386-revision-v1			2019-08-30 22:55:34	2019-08-30 22:55:34		386	http://homepage/386-revision-v1/	0	revision		0
+438	1	2019-08-30 22:55:47	2019-08-30 22:55:47	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
+<p style="margin-top: 50px; font-size: 38px; text-align: center;"><strong><em>The best library system in the world.</em></strong></p>\
+<!-- /wp:html --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Free and open source library system</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is an open source library system with a large user and developer community. Due to principles of free software, the functionality and development of Koha is transparent. A service funded by public funds can therefore enjoy the benefits of free and open source software.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Flexible for your needs</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is a flexible system with number of features - practically everything a library needs. Koha integrates with multiple other services via APIs (application programming interfaces) such as SIP2 and REST API that expose most functionality of the library system.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Our solid experience<br></strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Our professionals have together more than ten year of experience. Our team is active in participating to many Koha and free and open source events around the world. Transparency and honesty are important values to us. With Koha, we are able to share these values with our partners.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:sowb/widget-block {"widgetClass":"SiteOrigin_Widget_Headline_Widget","widgetData":{"headline":{"text":"","destination_url":"","new_window":false,"tag":"h1","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"open"},"sub_headline":{"text":"","destination_url":"","new_window":false,"tag":"h3","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"closed"},"divider":{"style":"solid","color":"#EEEEEE","thickness":"1","align":"center","width":"80","width_unit":"%","margin":"","margin_unit":"px","so_field_container_state":"closed"},"order":"headline,divider,sub_headline","fittext":false,"fittext_compressor":"0.85","_sow_form_id":"10502596455c682a0b97c1f087220978","_sow_form_timestamp":""}} /-->\
+\
+<!-- wp:spacer {"height":50} -->\
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:heading {"align":"center"} -->\
+<h2 style="text-align:center"><strong><a href="/koha-hosting/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
+<!-- /wp:heading -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:button {"customBackgroundColor":"#7cc445","customTextColor":"#000000","align":"center","className":"is-style-default"} -->\
+<div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" href="/koha-hosting/" style="background-color:#7cc445;color:#000000">Read more<br></a></div>\
+<!-- /wp:button -->	Koha		inherit	closed	closed		386-revision-v1			2019-08-30 22:55:47	2019-08-30 22:55:47		386	http://homepage/386-revision-v1/	0	revision		0
+439	1	2019-08-30 22:56:28	2019-08-30 22:56:28	<!-- wp:shortcode -->\
+[wpforms id="444"]\
+<!-- /wp:shortcode -->	Koha hosting - Request for Quotation		publish	closed	closed		koha-hosting-quote			2019-08-30 23:02:59	2019-08-30 23:02:59		0	http://homepage/?page_id=439	0	page		0
+440	1	2019-08-30 22:56:28	2019-08-30 22:56:28	<!-- wp:shortcode -->[wpforms id="374"]\
+<!-- /wp:shortcode -->	Koha ylläpitopalvelu - tarjouspyyntö		inherit	closed	closed		439-revision-v1			2019-08-30 22:56:28	2019-08-30 22:56:28		439	http://homepage/439-revision-v1/	0	revision		0
+441	1	2019-08-30 22:56:40	0000-00-00 00:00:00		Auto Draft		auto-draft	closed	closed					2019-08-30 22:56:40	0000-00-00 00:00:00		0	http://homepage/?page_id=441	0	page		0
+442	1	2019-08-30 22:56:41	0000-00-00 00:00:00		Auto Draft		auto-draft	closed	closed					2019-08-30 22:56:41	0000-00-00 00:00:00		0	http://homepage/?page_id=442	0	page		0
+443	1	2019-08-30 22:57:15	2019-08-30 22:57:15	<!-- wp:shortcode -->\
+[wpforms id="374"]\
+<!-- /wp:shortcode -->	Koha hosting - Request for Quotation		inherit	closed	closed		439-revision-v1			2019-08-30 22:57:15	2019-08-30 22:57:15		439	http://homepage/439-revision-v1/	0	revision		0
+444	1	2019-08-30 22:57:37	2019-08-30 22:57:37	{"id":"444","field_id":3,"fields":[{"id":"0","type":"name","label":"Name","format":"first-last","description":"","required":"1","size":"medium","simple_placeholder":"","simple_default":"","first_placeholder":"Organization","first_default":"","middle_placeholder":"","middle_default":"","last_placeholder":"Contact person","last_default":"","sublabel_hide":"1","css":""},{"id":"1","type":"email","label":"Email","description":"","required":"1","size":"medium","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},{"id":"2","type":"textarea","label":"Additional information","description":"Please specify:\\r\\n<ul>\\r\\n<li>Annual circulation<\\/li>\\r\\n<li>Number of bibliographic records<\\/li>\\r\\n<li>Number of patrons<\\/li>\\r\\n<li>Number of librarians<\\/li>\\r\\n<li>SIP2 clients (check-in, checkout machines etc.)<\\/li>\\r\\n<li>Need SMTP for sending emails?<\\/li>\\r\\n<li>SMS notifications for patrons?<\\/li>\\r\\n<\\/ul>","required":"1","size":"medium","placeholder":"","css":""}],"settings":{"form_title":"Koha hosting quotation (ID #444)","form_desc":"","form_class":"","submit_text":"Request for Quotation","submit_text_processing":"Submitting....","submit_class":"","honeypot":"1","notification_enable":"1","notifications":{"1":{"email":"lari.taskula@hypernova.fi, olli-antti.kivilahti@hypernova.fi","subject":"Koha tarjouspyynt\\u00f6","sender_name":"{field_id=\\"0\\"}","sender_address":"{admin_email}","replyto":"{field_id=\\"1\\"}","message":"{all_fields}"}},"confirmations":{"1":{"type":"message","message":"<p>Thank you for your request! We will contact you shortly.<\\/p>","message_scroll":"1","page":"85","redirect":""}}},"meta":{"template":"contact"}}	Koha hosting quotation (ID #444)		publish	closed	closed		koha-tarjouspyynto-2			2019-08-30 23:02:39	2019-08-30 23:02:39		0	http://homepage/?post_type=wpforms&#038;p=444	0	wpforms		0
+445	1	2019-08-30 23:02:59	2019-08-30 23:02:59	<!-- wp:shortcode -->\
+[wpforms id="444"]\
+<!-- /wp:shortcode -->	Koha hosting - Request for Quotation		inherit	closed	closed		439-revision-v1			2019-08-30 23:02:59	2019-08-30 23:02:59		439	http://homepage/439-revision-v1/	0	revision		0

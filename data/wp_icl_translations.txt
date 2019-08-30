@@ -44,3 +44,5 @@
 54	post_page	366	50	fi	\N
 55	post_page	386	41	en	fi
 56	post_nav_menu_item	388	51	en	\N
+57	post_page	429	46	en	fi
+58	post_page	439	50	en	fi
