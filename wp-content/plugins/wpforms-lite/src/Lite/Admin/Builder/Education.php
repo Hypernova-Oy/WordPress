@@ -36,6 +36,8 @@ class Education {
 			return;
 		}
 
+		\add_action( 'wpforms_field_options_after_advanced-options', array( $this, 'field_conditional_logic' ), 10, 2 );
+
 		\add_filter( 'wpforms_lite_builder_strings', array( $this, 'js_strings' ) );
 
 		\add_action( 'wpforms_builder_enqueues_before', array( $this, 'enqueues' ) );
@@ -43,6 +45,8 @@ class Education {
 		\add_action( 'wpforms_setup_panel_after', array( $this, 'templates' ) );
 
 		\add_filter( 'wpforms_builder_fields_buttons', array( $this, 'fields' ), 50 );
+
+		\add_action( 'wpforms_builder_after_panel_sidebar', array( $this, 'settings' ), 100, 2 );
 
 		\add_action( 'wpforms_providers_panel_sidebar', array( $this, 'providers' ), 50 );
 
@@ -169,9 +173,9 @@ class Education {
 
 		$fields['fancy']['fields'] = array(
 			array(
-				'icon'  => 'fa-link',
-				'name'  => \esc_html__( 'Website / URL', 'wpforms-lite' ),
-				'type'  => 'url',
+				'icon'  => 'fa-phone',
+				'name'  => \esc_html__( 'Phone', 'wpforms-lite' ),
+				'type'  => 'phone',
 				'order' => '1',
 				'class' => 'upgrade-modal',
 			),
@@ -183,58 +187,58 @@ class Education {
 				'class' => 'upgrade-modal',
 			),
 			array(
-				'icon'  => 'fa-lock',
-				'name'  => \esc_html__( 'Password', 'wpforms-lite' ),
-				'type'  => 'password',
+				'icon'  => 'fa-calendar-o',
+				'name'  => \esc_html__( 'Date / Time', 'wpforms-lite' ),
+				'type'  => 'date-time',
 				'order' => '3',
 				'class' => 'upgrade-modal',
 			),
 			array(
-				'icon'  => 'fa-phone',
-				'name'  => \esc_html__( 'Phone', 'wpforms-lite' ),
-				'type'  => 'phone',
+				'icon'  => 'fa-link',
+				'name'  => \esc_html__( 'Website / URL', 'wpforms-lite' ),
+				'type'  => 'url',
 				'order' => '4',
-				'class' => 'upgrade-modal',
-			),
-			array(
-				'icon'  => 'fa-calendar-o',
-				'name'  => \esc_html__( 'Date / Time', 'wpforms-lite' ),
-				'type'  => 'date-time',
-				'order' => '5',
-				'class' => 'upgrade-modal',
-			),
-			array(
-				'icon'  => 'fa-eye-slash',
-				'name'  => \esc_html__( 'Hidden Field', 'wpforms-lite' ),
-				'type'  => 'hidden',
-				'order' => '6',
-				'class' => 'upgrade-modal',
-			),
-			array(
-				'icon'  => 'fa-code',
-				'name'  => \esc_html__( 'HTML', 'wpforms-lite' ),
-				'type'  => 'html',
-				'order' => '7',
 				'class' => 'upgrade-modal',
 			),
 			array(
 				'icon'  => 'fa-upload',
 				'name'  => \esc_html__( 'File Upload', 'wpforms-lite' ),
 				'type'  => 'file-upload',
-				'order' => '8',
+				'order' => '5',
+				'class' => 'upgrade-modal',
+			),
+			array(
+				'icon'  => 'fa-lock',
+				'name'  => \esc_html__( 'Password', 'wpforms-lite' ),
+				'type'  => 'password',
+				'order' => '6',
 				'class' => 'upgrade-modal',
 			),
 			array(
 				'icon'  => 'fa-files-o',
 				'name'  => \esc_html__( 'Page Break', 'wpforms-lite' ),
 				'type'  => 'pagebreak',
-				'order' => '9',
+				'order' => '7',
 				'class' => 'upgrade-modal',
 			),
 			array(
 				'icon'  => 'fa-arrows-h',
 				'name'  => \esc_html__( 'Section Divider', 'wpforms-lite' ),
 				'type'  => 'divider',
+				'order' => '8',
+				'class' => 'upgrade-modal',
+			),
+			array(
+				'icon'  => 'fa-eye-slash',
+				'name'  => \esc_html__( 'Hidden Field', 'wpforms-lite' ),
+				'type'  => 'hidden',
+				'order' => '9',
+				'class' => 'upgrade-modal',
+			),
+			array(
+				'icon'  => 'fa-code',
+				'name'  => \esc_html__( 'HTML', 'wpforms-lite' ),
+				'type'  => 'html',
 				'order' => '10',
 				'class' => 'upgrade-modal',
 			),
@@ -270,7 +274,7 @@ class Education {
 				'icon'  => 'fa-tachometer',
 				'name'  => \esc_html__( 'Net Promoter Score', 'wpforms-lite' ),
 				'type'  => 'net_promoter_score',
-				'order' => '14',
+				'order' => '15',
 				'class' => 'upgrade-modal',
 			),
 		);
@@ -317,44 +321,108 @@ class Education {
 	}
 
 	/**
+	 * Displays conditional logic settings section for fields inside the form builder.
+	 *
+	 * @since 1.5.5
+	 *
+	 * @param array  $field    Field data.
+	 * @param object $instance Builder instance.
+	 */
+	public function field_conditional_logic( $field, $instance ) {
+
+		// Certain fields don't support conditional logic.
+		if ( in_array( $field['type'], array( 'pagebreak', 'divider', 'hidden' ), true ) ) {
+			return;
+		}
+		?>
+
+		<div class="wpforms-field-option-group">
+
+			<a href="#" class="wpforms-field-option-group-toggle upgrade-modal" data-name="Conditional Logic">
+				<?php esc_html_e( 'Conditionals', 'wpforms-lite' ); ?> <i class="fa fa-angle-right"></i>
+			</a>
+
+		</div>
+		<?php
+	}
+
+	/**
+	 * Display settings panels.
+	 *
+	 * @since 1.5.1
+	 *
+	 * @param object $form Current form.
+	 * @param string $slug Panel slug.
+	 */
+	public function settings( $form, $slug ) {
+
+		if ( 'settings' !== $slug ) {
+			return;
+		}
+
+		$settings = array(
+			array(
+				'name'        => 'Conversational Forms',
+				'slug'        => 'conversational-forms',
+				'plugin'      => 'wpforms-conversational-forms/wpforms-conversational-forms.php',
+				'plugin_slug' => 'wpforms-conversational-forms',
+			),
+			array(
+				'name'        => 'Surveys and Polls',
+				'slug'        => 'surveys-polls',
+				'plugin'      => 'wpforms-surveys-polls/wpforms-surveys-polls.php',
+				'plugin_slug' => 'wpforms-surveys-polls',
+			),
+			array(
+				'name'        => 'Form Pages',
+				'slug'        => 'form-pages',
+				'plugin'      => 'wpforms-form-pages/wpforms-form-pages.php',
+				'plugin_slug' => 'wpforms-form-pages',
+			),
+			array(
+				'name'        => 'Form Locker',
+				'slug'        => 'form-locker',
+				'plugin'      => 'wpforms-form-locker/wpforms-form-locker.php',
+				'plugin_slug' => 'wpforms-form-locker',
+			),
+			array(
+				'name'        => 'Form Abandonment',
+				'slug'        => 'form-abandonment',
+				'plugin'      => 'wpforms-form-abandonment/wpforms-form-abandonment.php',
+				'plugin_slug' => 'wpforms-form-abandonment',
+			),
+			array(
+				'name'        => 'Post Submissions',
+				'slug'        => 'post-submissions',
+				'plugin'      => 'wpforms-post-submissions/wpforms-post-submissions.php',
+				'plugin_slug' => 'wpforms-post-submissions',
+			),
+		);
+
+		foreach ( $settings as $setting ) {
+
+			/* translators: %s - addon name*/
+			$modal_name = sprintf( \esc_html__( '%s addon', 'wpforms' ), $setting['name'] );
+			printf(
+				'<a href="#" class="wpforms-panel-sidebar-section wpforms-panel-sidebar-section-%s upgrade-modal" data-name="%s">',
+				\esc_attr( $setting['slug'] ),
+				\esc_attr( $modal_name ),
+				\esc_attr( $setting['name'] )
+			);
+				echo \esc_html( $setting['name'] );
+				echo '<i class="fa fa-angle-right wpforms-toggle-arrow"></i>';
+			echo '</a>';
+		}
+	}
+
+	/**
 	 * Display providers.
 	 *
 	 * @since 1.5.1
 	 */
 	public function providers() {
 
-		$providers = array(
-			array(
-				'name' => 'AWeber',
-				'slug' => 'aweber',
-				'img'  => 'addon-icon-aweber.png',
-			),
-			array(
-				'name' => 'Campaign Monitor',
-				'slug' => 'campaign-monitor',
-				'img'  => 'addon-icon-campaign-monitor.png',
-			),
-			array(
-				'name' => 'Drip',
-				'slug' => 'drip',
-				'img'  => 'addon-icon-drip.png',
-			),
-			array(
-				'name' => 'GetResponse',
-				'slug' => 'getresponse',
-				'img'  => 'addon-icon-getresponse.png',
-			),
-			array(
-				'name' => 'MailChimp',
-				'slug' => 'mailchimp',
-				'img'  => 'addon-icon-mailchimp.png',
-			),
-			array(
-				'name' => 'Zapier',
-				'slug' => 'zapier',
-				'img'  => 'addon-icon-zapier.png',
-			),
-		);
+		$providers = wpforms_get_providers_all();
 
 		foreach ( $providers as $provider ) {
 
