@@ -1,0 +1,7 @@
+4	https://en.wikipedia.org/wiki/Free_and_open-source_software	33	0	external
+5	https://en.wikipedia.org/wiki/Paperless_office	33	0	external
+6	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	33	0	external
+17	https://en.wikipedia.org/wiki/Free_and_open-source_software	2	0	external
+18	https://en.wikipedia.org/wiki/Paperless_office	2	0	external
+19	http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy	2	0	external
+20	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	2	0	external

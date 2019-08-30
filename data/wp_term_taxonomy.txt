@@ -1,0 +1,4 @@
+1	1	category		0	0
+2	2	category		0	0
+3	3	nav_menu		0	4
+4	4	nav_menu		0	5
