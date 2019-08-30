@@ -6002,3 +6002,26 @@ All at ###SITENAME###\
 18284	en	default	af665433097ec5b1ab3a522f9f992b26	Once Every 15 Days	\N	\N		LINE	\N	0		a9d7281f27b60bcd6902c0ae4f63ebbf		\N
 18285	en	wpforms-lite	818a7d4a99d6f6e244bd89224972f3b7	Weekly WPForms Email Summaries	\N	\N		LINE	\N	0		4fb47f713ba859511f79dc283ab4ae31		\N
 18286	en	default	5ec2118f437bb6a9882c139fbca36625	Usage of the title attribute on the login logo is not recommended for accessibility reasons. Use the link text instead.	\N	\N		LINE	\N	0		08821dd32da9e98ff05c543573368f91		\N
+21066	en	default	5eb83ac2d3cb88a8c2b4ce094ee52384	Your session has expired. Please log in to continue where you left off.	\N	\N		LINE	\N	0		ebfededf992365b0c690a4dcc2af61ce		\N
+22201	en	default	d063063893ef546d984b1fdf20dcb5f1	<strong>Important:</strong> Before updating, please <a href="https://codex.wordpress.org/WordPress_Backups">back up your database and files</a>. For help with updates, visit the <a href="https://codex.wordpress.org/Updating_WordPress">Updating WordPress</a> Codex page.	\N	\N		LINE	\N	0		fb8ffcf8d4f086cf2f64a15ba0ad1dfe		\N
+22202	en	default	1466100fbff81a57757aea86e2efffb2	https://developer.wordpress.org/themes/advanced-topics/child-themes/	\N	\N		LINE	\N	0		3e4d5ced98f9487c02a77c5a16db68d3		\N
+22203	en	default	a98a907dac5b506dc49903adae945388	Update progress	\N	\N		LINE	\N	0		be646e08e0412e28c757ab7b8b03a41e		\N
+22204	en	default	434d53474e8837b767dae5052bdbe9f9	The update process is starting. This process may take a while on some hosts, so please be patient.	\N	\N		LINE	\N	0		449135c995cffae7672d84671342f40f		\N
+22205	en	default	6fdbd8b45ec0b365f0a1e43e26a2b13f	An error occurred while updating %1$s: %2$s	\N	\N		LINE	\N	0		5a17d8e83b20558e0adb316d6fc03bef		\N
+22206	en	default	9fbd486a1e1c7276228148c6cbd00ff0	The update of %s failed.	\N	\N		LINE	\N	0		bf8d23786a82506ac4a026b53a40b7bb		\N
+22207	en	default	94c76dac6cbce0c529c309b10cbadee6	%s updated successfully.	\N	\N		LINE	\N	0		0abd645b4099faeec166f9cb4e4356aa		\N
+22208	en	default	1a6ee6911dca7bbe5f3a7d984504d56a	All updates have been completed.	\N	\N		LINE	\N	0		8a8a04cf942eec845253c600c53f23da		\N
+22209	en	default	d8808f200658dd9134b9aef488f94e27	Updating Theme %1$s (%2$d/%3$d)	\N	\N		LINE	\N	0		e5a86b98776d02afe3dae19231613eef		\N
+22210	en	default	6557962c2f31513e3f7f5f2de69ab61d	The theme is at the latest version.	\N	\N		LINE	\N	0		44552b64d95f98488655b5d2134e3b5c		\N
+22211	en	default	40251e99bc451f3383ee38c639d7696f	Update package not available.	\N	\N		LINE	\N	0		f45df38f7bd9140c695c52806fdd270a		\N
+22212	en	default	d2c5c0149717c75b967cd57b5351c399	Downloading update from %s&#8230;	\N	\N		LINE	\N	0		5155b1cd0a65027c396a00a316f36119		\N
+22213	en	default	097a4b99f3457981fee594cc2dc76537	Unpacking the update&#8230;	\N	\N		LINE	\N	0		9f295589fd568b437151e72a8466d421		\N
+22214	en	default	84e6f08de4b63c6d9445ef0904032a48	Removing the old version of the theme&#8230;	\N	\N		LINE	\N	0		69e6828068b6cedae13f9f456103544a		\N
+22215	en	default	476bab291e39ae1f4f28865fb3a515b9	Could not remove the old theme.	\N	\N		LINE	\N	0		6f7a96041eae9656caf9324e1512c0ac		\N
+22216	en	default	75ee1ece1c7fbf1fea730f5ece09c6e5	Theme update failed.	\N	\N		LINE	\N	0		1fd8fd47c08ab6646df7d47861a0c867		\N
+22217	en	default	b53ae8d84b1d984eba8172330332c945	Theme updated successfully.	\N	\N		LINE	\N	0		e0123414938bad06af078c8429fd5566		\N
+22218	en	default	5b03ff53f46b8e6fb8c3f50cac9e10e6	The authenticity of %s could not be verified as no signature was found.	\N	\N		LINE	\N	0		262c02533cbb4c59ab7aa02b412ffce9		\N
+22219	en	default	3a90a09671e807bf0dd878fabe2c69d0	Show details.	\N	\N		LINE	\N	0		b52871794ace39d222e455fa4178cf54		\N
+22220	en	default	2a5afebdaf673af187a5ad1fec9be3ee	Return to Themes page	\N	\N		LINE	\N	0		63749431cb410686f87b7d03ddbc524f		\N
+22221	en	default	fb12ca1b838491ad8bbc83b3e86ac581	Return to WordPress Updates page	\N	\N		LINE	\N	0		d59f97cf4453b1900eb33caa73f414de		\N
+22222	en	default	b21219403bc141847d768e3db27d86f2	Your themes are all up to date.	\N	\N		LINE	\N	0		930aa730ba72caf2d1121b586de0152d		\N

@@ -26,3 +26,9 @@
 26	en	
 27	en	/
 28	en	/wp-admin/
+29	en	/wp-admin/admin.php?page=postman%2Femail_test
+30	en	/wp-admin/update-core.php
+31	en	/wp-admin/update.php
+32	en	/wp-admin/edit.php?lang=fi
+33	en	/wp-admin/post.php?lang=fi
+34	fi	^wp-json/(.*)?

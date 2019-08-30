@@ -24,11 +24,11 @@
 25	1	screen_layout_page	2
 26	1	managenav-menuscolumnshidden	a:5:{i:0;s:11:"link-target";i:1;s:11:"css-classes";i:2;s:3:"xfn";i:3;s:11:"description";i:4;s:15:"title-attribute";}
 27	1	metaboxhidden_nav-menus	a:2:{i:0;s:12:"add-post_tag";i:1;s:15:"add-post_format";}
-28	1	wp_nav_menu_recently_edited	3
+28	1	wp_nav_menu_recently_edited	4
 29	1	nav_menu_recently_edited	3
 30	1	so_panels_directory_enabled	1
 31	1	wpmdb_dismiss_muplugin_failed_update_1.2	1
 32	1	_wpml_user_dismissed_notices	\N
 33	1	icl_admin_language	en
 40	1	wp_yoast_promo_hide_premium_upsell_admin_block	1
-57	1	session_tokens	a:1:{s:64:"3c30806e53e53f905d4d00afcca178cbb1e8a0d57faebc08a2120b70c90a010d";a:4:{s:10:"expiration";i:1567374979;s:2:"ip";s:11:"10.78.167.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0";s:5:"login";i:1567202179;}}
+58	1	session_tokens	a:1:{s:64:"2c68c63584e298819997b4cef65215c733e48ce8a0d502c382e6395f4c7a64dc";a:4:{s:10:"expiration";i:1567376709;s:2:"ip";s:11:"10.78.167.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0";s:5:"login";i:1567203909;}}

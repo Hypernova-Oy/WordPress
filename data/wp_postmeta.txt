@@ -1,7 +1,7 @@
 1	2	_wp_page_template	default
 2	3	_wp_page_template	default
 3	3	_edit_lock	1545235404:1
-4	2	_edit_lock	1567202551:1
+4	2	_edit_lock	1567204540:1
 7	2	_edit_last	1
 8	2	bento_sidebar_layout	full-width
 9	2	bento_title_position	left
@@ -61,7 +61,7 @@
 94	33	_wpml_media_featured	1
 95	2	_wpml_media_duplicate	1
 96	33	_wpml_media_duplicate	1
-98	33	_edit_lock	1559856179:1
+98	33	_edit_lock	1567204821:1
 99	33	_generate-sidebar-layout-meta	no-sidebar
 102	2	_generate-disable-headline	true
 103	46	_wp_attached_file	2018/12/pexels-photo-796602.jpeg
@@ -1142,3 +1142,4 @@ bm8tcmVwbHlAbWFpbC5oeXBlcm5vdmEuZmk=\
 cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 535 Authentication Failed
 514	2	_yoast_wpseo_content_score	90
+515	33	_last_translation_edit_mode	native-editor

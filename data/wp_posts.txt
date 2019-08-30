@@ -70,14 +70,14 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 <!-- /wp:separator -->\
 \
 <p><strong>Hypernova Oy</strong> on joensuulainen ohjelmistoyritys. Toteutamme ja käytämme moderneja <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>vapaita ja avoimen lähdekoodin</em></a> sovelluksia. Säästämme aikaa, rahaa ja resursseja hyödyntämällä tuotteissamme vapaan ja avoimen lähdekoodin ratkaisuja. Tämä perustuu ajatukseen, jonka mukaan ohjelmistot ovat vapaasti käytettävissä, muokattavissa ja jaettavissa. Koska toimintaan liittyy useita kansainvälisiä yhteisöjä, ammattilaisillamme on aina laajan yhteisön taustatuki.</p>\
-<p>Organisaatiomme toiminta on avointa ja läpinäkyvää. Mielestämme läpinäkyvyys on avaintekijä vakaisiin ja luotettaviin asiakassuhteisiin. Kantavana ajatuksenamme on minimoida ylimääräiset kustannukset ja turha paperityö. Pystymme tuottamaan palvelumme hyvin kilpailukykyiseen hintaan käyttäen moderneja ja automatisoituja tukipalveluita. Toimintamme on lähes kokonaan digitalisoitu ja pyrimme toimimaan kokonaan ympäristöystävällisenä <em><a href="https://en.wikipedia.org/wiki/Paperless_office">paperittomana organisaationa</a></em>.</p>\
+<p>Organisaatiomme toiminta on avointa ja läpinäkyvää. Mielestämme läpinäkyvyys on avaintekijä vakaisiin ja luotettaviin asiakassuhteisiin. Kantavana ajatuksenamme on minimoida ylimääräiset kustannukset ja turha paperityö. Pystymme tuottamaan palvelumme hyvin kilpailukykyiseen hintaan käyttäen moderneja ja automatisoituja tukipalveluita. Toimintamme on lähes kokonaan digitalisoitu ja pyrimme toimimaan kokonaan ympäristöystävällisenä <em><a href="https://en.wikipedia.org/wiki/Paperless_office">paperittomana organisaationa</a></em>. Sen osoittaaksemme <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">olemme solmineet ilmastokumppanuuden</a> Joensuun kaupungin kanssa.</p>\
 <p>Asiakkainamme on kuntia sekä kotimaisia että ulkomaisia yrityksiä.</p>\
 <p>Ohjelmistotuotannon ohella yrityksessämme on Linux-palvelinympäristöjen erikoisosaamista. Kaikki palvelimemme sijaitsevat Suomessa.</p>\
 <p>Kuten moni muu projektimme, myös tämä sivusto <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">on julkaistu GitHubissa</a>.</p>\
 \
 <!-- wp:paragraph -->\
 <p></p>\
-<!-- /wp:paragraph -->	Etusivu		publish	closed	open		hypernova			2019-06-06 21:22:59	2019-06-06 21:22:59		0	http://homepage/?page_id=33	0	page		0
+<!-- /wp:paragraph -->	Etusivu		publish	closed	open		hypernova			2019-08-30 22:40:21	2019-08-30 22:40:21		0	http://homepage/?page_id=33	0	page		0
 34	1	2018-12-19 14:21:32	2018-12-19 14:21:32		Hypernova		inherit	closed	closed		33-revision-v1			2018-12-19 14:21:32	2018-12-19 14:21:32		33	http://homepage/33-revision-v1/	0	revision		0
 36	1	2018-12-19 14:24:22	2018-12-19 14:24:22	<p>Our products</p>\
 \
@@ -11294,3 +11294,16 @@ Content-Transfer-Encoding: quoted-printable\
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Home		inherit	closed	closed		2-revision-v1			2019-08-30 22:00:38	2019-08-30 22:00:38		2	http://homepage/2-revision-v1/	0	revision		0
+427	1	2019-08-30 22:40:20	2019-08-30 22:40:20	<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<p><strong>Hypernova Oy</strong> on joensuulainen ohjelmistoyritys. Toteutamme ja käytämme moderneja <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>vapaita ja avoimen lähdekoodin</em></a> sovelluksia. Säästämme aikaa, rahaa ja resursseja hyödyntämällä tuotteissamme vapaan ja avoimen lähdekoodin ratkaisuja. Tämä perustuu ajatukseen, jonka mukaan ohjelmistot ovat vapaasti käytettävissä, muokattavissa ja jaettavissa. Koska toimintaan liittyy useita kansainvälisiä yhteisöjä, ammattilaisillamme on aina laajan yhteisön taustatuki.</p>\
+<p>Organisaatiomme toiminta on avointa ja läpinäkyvää. Mielestämme läpinäkyvyys on avaintekijä vakaisiin ja luotettaviin asiakassuhteisiin. Kantavana ajatuksenamme on minimoida ylimääräiset kustannukset ja turha paperityö. Pystymme tuottamaan palvelumme hyvin kilpailukykyiseen hintaan käyttäen moderneja ja automatisoituja tukipalveluita. Toimintamme on lähes kokonaan digitalisoitu ja pyrimme toimimaan kokonaan ympäristöystävällisenä <em><a href="https://en.wikipedia.org/wiki/Paperless_office">paperittomana organisaationa</a></em>. Sen osoittaaksemme <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">olemme solmineet ilmastokumppanuuden</a> Joensuun kaupungin kanssa.</p>\
+<p>Asiakkainamme on kuntia sekä kotimaisia että ulkomaisia yrityksiä.</p>\
+<p>Ohjelmistotuotannon ohella yrityksessämme on Linux-palvelinympäristöjen erikoisosaamista. Kaikki palvelimemme sijaitsevat Suomessa.</p>\
+<p>Kuten moni muu projektimme, myös tämä sivusto <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">on julkaistu GitHubissa</a>.</p>\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2019-08-30 22:40:20	2019-08-30 22:40:20		33	http://homepage/33-revision-v1/	0	revision		0
