@@ -42,3 +42,7 @@
 42	en	/wp-admin/admin.php?page=wpforms-overview
 43	en	/wp-admin/admin.php?page=wpforms-builder
 44	en	/wp-content/uploads/2018/12/pexels-photo-796602.jpeg
+45	en	/wp-content/uploads/2018/10/pexels-photo-316093.jpeg
+46	en	/wp-admin/themes.php
+47	en	/wp-admin/customize.php
+48	fi	(.?.+?)(?:/([0-9]+))?/?$

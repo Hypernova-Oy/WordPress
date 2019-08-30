@@ -6676,3 +6676,37 @@ Green	\N	\N		LINE	\N	0		978c5e2a8be26e359e3f98d079b77d34		\N
 25614	en	wpforms-lite	7724076d0ccc93dbb00326dbedfeee14	Please enter a valid phone number.	\N	\N		LINE	\N	0		2ac1ba0f63d3673132f111793f0304d3		\N
 25615	en	wpforms-lite	c34e589a90394ea666df1c3c30368b02	The total size of the selected files {totalSize} Mb exceeds the allowed limit {maxSize} Mb.	\N	\N		LINE	\N	0		79d128674b142a3c4d3788e010b2fba2		\N
 25616	en	wpforms-lite	f857da320c1355e5c4a496ab5e229098	You have exceeded the number of allowed selections: {#}.	\N	\N		LINE	\N	0		8a927c9f0860c07a76799cb2dcd8aa7f		\N
+25617	en	default	8a6ba56a0f4b379e789ebf01be7a6d49	Select site icon	\N	\N		LINE	\N	0		35b111087e5684a615fd3906c04b21d3		\N
+25618	en	wordpress-seo	5d16932e16d5815894cdb5ae9ec03aef	%s Breadcrumbs	\N	\N		LINE	\N	0		23b5d9478eca15accbd3cea91239976e		\N
+25619	en	wordpress-seo	1869cda4a32dcd1bc24fb50cdddb1368	Show blog page in breadcrumbs	\N	\N		LINE	\N	0		4f851b0261f7d3be524fdb759b81042d		\N
+25620	en	wordpress-seo	23c9914e27f920ed401949bce23dbf26	Breadcrumbs separator:	\N	\N		LINE	\N	0		05d2f311907b873a772c5fa3b3571fe7		\N
+25621	en	wordpress-seo	e2c4bd09979626904382511947a7a4f5	Anchor text for the homepage:	\N	\N		LINE	\N	0		0ded919b2f2500d103a257d800e8b805		\N
+25622	en	wordpress-seo	1787fcb7f76416e26f5cd3522974fcfa	Prefix for breadcrumbs:	\N	\N		LINE	\N	0		e7c1c7e0e87400bc88b25f26925cece7		\N
+25623	en	wordpress-seo	07b19355644628e3d115dada49586e9e	Prefix for archive pages:	\N	\N		LINE	\N	0		807a245e8e9d936739ce8d61cf9c0d52		\N
+25624	en	wordpress-seo	e48ebca2d49db778abca3c336fa904dd	Prefix for search result pages:	\N	\N		LINE	\N	0		8044593a4ddc77642b67eba9e7878bc4		\N
+25625	en	wordpress-seo	8ba6a84cca78fa8735a1f73cefb16b62	Breadcrumb for 404 pages:	\N	\N		LINE	\N	0		67d75a23446e0068d315916b53d7f19a		\N
+25626	en	generatepress	43d7d6a27b1ad42be0c7b0c8eb2c8242	Place logo next to title	\N	\N		LINE	\N	0		fa52918ad24949983566c71a3facb7f4		\N
+25627	en	generatepress	4084a169e594e6e068fecc52ea5ad8ee	Container Alignment	\N	\N		LINE	\N	0		848d9178c07aea7e086fe22500cfebb0		\N
+25628	en	generatepress	185ec3ece71e6873edf517d5401192a5	Boxes	\N	\N		LINE	\N	0		d7515e639d67eb9ce961ac9ffde97896		\N
+25629	en	generatepress	9dffbf69ffba8bc38bc4e01abf4b1675	Text	\N	\N		LINE	\N	0		e2fdf62a63da05caa5e959112774ab95		\N
+25630	en	generatepress	95ba6a44ba93b9682e79fe73c3c0f137	Icon Type	\N	\N		LINE	\N	0		0bdcd788bb594f98ec89a5fbe61d05da		\N
+25631	en	generatepress	cd15a75c26008696647b31a3f0de43b3	SVG	\N	\N		LINE	\N	0		dc21a4727dd7d695211c6346b7deac1f		\N
+25632	en	generatepress	194f5394ae2e9c74dc3c441b92862d1d	Font	\N	\N		LINE	\N	0		1504eacefe4025147fd82da1e1399980		\N
+25633	en	generatepress	13f2280316b1851466606e2ec2b598a6	Combine CSS	\N	\N		LINE	\N	0		11a8cc8beb491f4c83c03b483be8367a		\N
+25634	en	generatepress	aeac06c49f014a9d5eafa5070ccbb7d4	Reduce the number of CSS file requests and use a lite version of our grid system.	\N	\N		LINE	\N	0		6b6466903d74bc05d34bb1454d30b64b		\N
+25635	en	default	e6248a75c0a43755cfd16e84915f00e0	Add widget: %s	\N	\N		LINE	\N	0		f1f97cde9115cf388499b7e20ee79824		\N
+25636	en	default	be53fb19dff984c68f2cacbcb2f474dd	Keep widget settings and move it to the inactive widgets	\N	\N		LINE	\N	0		c68f01c8247d53129209ff071d8ae46c		\N
+25637	en	loftloader	2e9d42b96bc0f06cb7e4d5bb15a8f795	How to Load LoftLoader's JavaScript	\N	\N		LINE	\N	0		12fbaef993ea2c4088851fb848404af8		\N
+25638	en	loftloader	c74baa11f340483dfeb8c94345e4a04e	External JavaScript	\N	\N		LINE	\N	0		5b7b95d3a1794769ad40321114ebc7ba		\N
+25639	en	loftloader	32cbbfd6fc93445fce24910ff250669d	Inline JavaScript	\N	\N		LINE	\N	0		5ec387b4ba92479871675b49ed928601		\N
+25953	en	default	827ac42f1bc60fab16ae517ddb410e31	The uploaded file exceeds the upload_max_filesize directive in php.ini.	\N	\N		LINE	\N	0		00a9ae6cbdd8a70f8206ca0e2d3cd48f		\N
+25954	en	default	8d9086cb60c50b568ba57e0951dc4025	The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form.	\N	\N		LINE	\N	0		3332364ab364cd9a59fe11aef2b09193		\N
+25955	en	default	4f12b222c9659d62afa795987259933f	The uploaded file was only partially uploaded.	\N	\N		LINE	\N	0		00572bbfd732b690a9a38b15a792f454		\N
+25956	en	default	8c9067e52e4440d8a20e74fdc745b0c6	No file was uploaded.	\N	\N		LINE	\N	0		973e3d270086932f67a4dd4c8598fdc4		\N
+25957	en	default	7623dae1dc1a0906e7062e209e36cbdb	Missing a temporary folder.	\N	\N		LINE	\N	0		af5163fea058b8f4b064b75f5436915c		\N
+25958	en	default	93252348cf3a42ca5e38b70d5f866d33	Failed to write file to disk.	\N	\N		LINE	\N	0		21362c23192f3a58dfa2dcce9f28c689		\N
+25959	en	default	361e040fc0355a657b76e6727118e6e9	File upload stopped by extension.	\N	\N		LINE	\N	0		6c0fa666d771be9f81ab2e2c05a7cb62		\N
+25960	en	default	f76a1d1d0a948422fa9f1f324d556b5f	The uploaded file could not be moved to %s.	\N	\N		LINE	\N	0		247ef7685396bc09c789ba3a19a187c4		\N
+25961	en	default	4b656867f512d822c59bb202c47ba04f	Could not calculate resized image dimensions	\N	\N		LINE	\N	0		363f9fd6f3e99c5d25b24a9aa671f0a4		\N
+25962	en	default	913fcc0d2b7aef2a632471a00f37823e	%1$s is not one of %2$s.	\N	\N		LINE	\N	0		1482a0f309a7ea9c9d4328438d75b133		\N
+25963	en	Widgets	widget title - a6eb2d3c35efbe6bf37ca47e47d1deee	Ilmastokumppanuus	\N	\N		LINE	\N	0		685ed27d588d0ba8fb985aadb23e1cfe		\N
