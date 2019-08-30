@@ -851,7 +851,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 452	386	_wpml_media_duplicate	1
 453	386	_wpml_media_featured	1
 454	386	_last_translation_edit_mode	native-editor
-455	386	_edit_lock	1567205623:1
+455	386	_edit_lock	1567207183:1
 456	388	_menu_item_type	post_type
 457	388	_menu_item_menu_item_parent	0
 458	388	_menu_item_object_id	386
@@ -1157,4 +1157,4 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 527	439	_wpml_media_duplicate	1
 528	439	_wpml_media_featured	1
 529	439	_last_translation_edit_mode	native-editor
-530	439	_edit_lock	1567206180:1
+530	439	_edit_lock	1567206899:1

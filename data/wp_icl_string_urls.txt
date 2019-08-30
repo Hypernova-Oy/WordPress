@@ -41,3 +41,4 @@
 41	en	/wp-content/uploads/2019/02/server.jpeg
 42	en	/wp-admin/admin.php?page=wpforms-overview
 43	en	/wp-admin/admin.php?page=wpforms-builder
+44	en	/wp-content/uploads/2018/12/pexels-photo-796602.jpeg
