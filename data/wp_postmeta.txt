@@ -1182,7 +1182,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 552	459	_edit_last	1
 553	459	_wpml_media_featured	1
 554	459	_wpml_media_duplicate	1
-555	459	_edit_lock	1568230803:1
+555	459	_edit_lock	1568231435:1
 556	461	_menu_item_type	post_type
 557	461	_menu_item_menu_item_parent	0
 558	461	_menu_item_object_id	459
@@ -1210,7 +1210,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 581	475	_wp_page_template	
 582	475	_wpml_media_featured	1
 583	475	_wpml_media_duplicate	1
-584	475	_edit_lock	1568230625:1
+584	475	_edit_lock	1568231466:1
 585	477	_menu_item_type	post_type
 586	477	_menu_item_menu_item_parent	0
 587	477	_menu_item_object_id	475
@@ -1219,3 +1219,4 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 590	477	_menu_item_classes	a:1:{i:0;s:0:"";}
 591	477	_menu_item_xfn	
 592	477	_menu_item_url	
+593	475	_yoast_wpseo_content_score	60
