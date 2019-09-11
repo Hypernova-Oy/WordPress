@@ -1175,3 +1175,47 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 545	455	_wp_trash_meta_time	1567208793
 546	456	_wp_trash_meta_status	publish
 547	456	_wp_trash_meta_time	1567208807
+548	458	_edit_last	1
+549	458	_wpml_media_featured	1
+550	458	_wpml_media_duplicate	1
+551	458	_edit_lock	1568213989:1
+552	459	_edit_last	1
+553	459	_wpml_media_featured	1
+554	459	_wpml_media_duplicate	1
+555	459	_edit_lock	1568230803:1
+556	461	_menu_item_type	post_type
+557	461	_menu_item_menu_item_parent	0
+558	461	_menu_item_object_id	459
+559	461	_menu_item_object	page
+560	461	_menu_item_target	
+561	461	_menu_item_classes	a:1:{i:0;s:0:"";}
+562	461	_menu_item_xfn	
+563	461	_menu_item_url	
+565	463	_wp_attached_file	2019/09/photo_2019-09-11_18-13-57.jpg
+566	464	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:37:"2019/09/photo_2019-09-11_18-13-57.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-57-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-57-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:38:"photo_2019-09-11_18-13-57-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"photo_2019-09-11_18-13-57-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-57-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
+567	464	_wp_attached_file	2019/09/photo_2019-09-11_18-13-57.jpg
+568	464	wpml_media_processed	1
+569	463	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:37:"2019/09/photo_2019-09-11_18-13-57.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-57-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-57-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:38:"photo_2019-09-11_18-13-57-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"photo_2019-09-11_18-13-57-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-57-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
+570	465	_wp_attached_file	2019/09/photo_2019-09-11_18-13-39.jpg
+571	466	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:37:"2019/09/photo_2019-09-11_18-13-39.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-39-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-39-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:38:"photo_2019-09-11_18-13-39-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"photo_2019-09-11_18-13-39-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-39-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
+572	466	_wp_attached_file	2019/09/photo_2019-09-11_18-13-39.jpg
+573	466	wpml_media_processed	1
+574	465	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:37:"2019/09/photo_2019-09-11_18-13-39.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-39-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-39-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:38:"photo_2019-09-11_18-13-39-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"photo_2019-09-11_18-13-39-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:37:"photo_2019-09-11_18-13-39-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
+575	463	_wp_attachment_image_alt	Lainuri
+576	464	_wp_attachment_image_alt	Lainuri
+577	465	_wp_attachment_image_alt	Lainuri
+578	466	_wp_attachment_image_alt	Lainuri
+579	459	_yoast_wpseo_content_score	60
+580	475	_edit_last	1
+581	475	_wp_page_template	
+582	475	_wpml_media_featured	1
+583	475	_wpml_media_duplicate	1
+584	475	_edit_lock	1568230625:1
+585	477	_menu_item_type	post_type
+586	477	_menu_item_menu_item_parent	0
+587	477	_menu_item_object_id	475
+588	477	_menu_item_object	page
+589	477	_menu_item_target	
+590	477	_menu_item_classes	a:1:{i:0;s:0:"";}
+591	477	_menu_item_xfn	
+592	477	_menu_item_url	
