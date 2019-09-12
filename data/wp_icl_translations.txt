@@ -57,3 +57,7 @@
 67	post_attachment	466	57	en	fi
 68	post_page	475	54	en	fi
 69	post_nav_menu_item	477	58	en	\N
+70	post_attachment	480	59	en	\N
+71	post_attachment	481	59	fi	en
+72	post_attachment	482	60	en	\N
+73	post_attachment	483	60	fi	en

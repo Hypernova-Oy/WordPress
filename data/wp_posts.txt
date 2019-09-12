@@ -12414,8 +12414,8 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 \
 <!-- wp:columns -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
-<div class="wp-block-column"><!-- wp:image {"id":463} -->\
-<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-57-768x1024.jpg" alt="Lainuri" class="wp-image-463"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä.</figcaption></figure>\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä.</figcaption></figure>\
 <!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
@@ -12424,8 +12424,8 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:column -->\
 \
 <!-- wp:column -->\
-<div class="wp-block-column"><!-- wp:image {"id":465} -->\
-<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-39-768x1024.jpg" alt="Lainuri" class="wp-image-465"/><figcaption>Kotelointi tummaa tammiviilua.</figcaption></figure>\
+<div class="wp-block-column"><!-- wp:image {"id":480} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-768x1024.png" alt="Lainuri" class="wp-image-480"/><figcaption>Kotelointi tummaa tammiviilua.</figcaption></figure>\
 <!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
@@ -12449,7 +12449,7 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 \
 <!-- wp:paragraph -->\
 <p>Pyydä meiltä tarjousta!</p>\
-<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2019-09-11 19:51:06	2019-09-11 19:51:06		0	http://homepage/?page_id=475	0	page		0
+<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2019-09-12 14:31:14	2019-09-12 14:31:14		0	http://homepage/?page_id=475	0	page		0
 476	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
 \
 Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.\
@@ -12648,3 +12648,65 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p>Pyydä meiltä tarjousta!</p>\
 <!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2019-09-11 19:51:05	2019-09-11 19:51:05		475	http://homepage/475-revision-v1/	0	revision		0
+480	1	2019-09-12 14:13:09	2019-09-12 14:13:09	Lainuri	Lainuri	Kotelointi tummaa tammiviilua.	inherit	open	closed		lainuri2			2019-09-12 14:31:10	2019-09-12 14:31:10		0	http://homepage/wp-content/uploads/2019/09/lainuri2.png	0	attachment	image/png	0
+481	1	2019-09-12 14:13:09	2019-09-12 14:13:09		lainuri2	Kotelointi tummaa tammiviilua.	inherit	open	closed		lainuri2-2			2019-09-12 14:31:10	2019-09-12 14:31:10		0	http://homepage/wp-content/uploads/2019/09/lainuri2.png	0	attachment	image/png	0
+482	1	2019-09-12 14:29:34	2019-09-12 14:29:34	Lainuri	Lainuri	Kuittitulostin kompaktisti laitteen sisällä.	inherit	open	closed		lainuri			2019-09-12 14:30:54	2019-09-12 14:30:54		0	http://homepage/wp-content/uploads/2019/09/lainuri.png	0	attachment	image/png	0
+483	1	2019-09-12 14:29:34	2019-09-12 14:29:34	Lainuri	lainuri	Kuittitulostin kompaktisti laitteen sisällä.	inherit	open	closed		lainuri-2			2019-09-12 14:30:54	2019-09-12 14:30:54		0	http://homepage/wp-content/uploads/2019/09/lainuri.png	0	attachment	image/png	0
+484	1	2019-09-12 14:31:14	2019-09-12 14:31:14	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään - Ei turhaa turaamista - Valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":480} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-768x1024.png" alt="Lainuri" class="wp-image-480"/><figcaption>Kotelointi tummaa tammiviilua.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>.\
+Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Pyydä meiltä tarjousta!</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2019-09-12 14:31:14	2019-09-12 14:31:14		475	http://homepage/475-revision-v1/	0	revision		0
