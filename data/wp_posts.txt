@@ -467,7 +467,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:paragraph -->\
 <p>Yhteystiedot löytyvät sivun alalaidasta.<br></p>\
-<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri			2019-01-24 15:46:04	2019-01-24 15:46:04		0	http://homepage/?page_id=128	0	page		0
+<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-kulunvalvontalaite			2019-09-12 14:55:22	2019-09-12 14:55:22		0	http://homepage/?page_id=128	0	page		0
 129	1	2018-12-27 18:17:20	2018-12-27 18:17:20	<!-- wp:columns -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:image {"id":121} -->\
@@ -1640,14 +1640,14 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- /wp:heading -->\
 \
 <!-- wp:html -->\
-🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
+🌐 <a href="https://toveri.hypernova.fi" target="_blank" rel="noopener noreferrer">https://toveri.hypernova.fi</a><br>\
 📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
 <!-- wp:paragraph -->\
 <p><br></p>\
-<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri			2019-01-24 15:47:53	2019-01-24 15:47:53		0	http://homepage/toveri-2/	0	page		0
+<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-access-control-device			2019-09-12 14:52:56	2019-09-12 14:52:56		0	http://homepage/toveri-2/	0	page		0
 155	1	2018-12-27 18:43:29	2018-12-27 18:43:29	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS. Contact us for more software integrations.</p>\
 \
 <!-- wp:columns -->\
@@ -12448,7 +12448,7 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 \
 <!-- wp:paragraph -->\
 <p>Ask us for a quotation!</p>\
-<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2019-09-12 14:47:31	2019-09-12 14:47:31		0	http://homepage/?page_id=475	0	page		0
+<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-self-check-in-machine			2019-09-12 14:52:02	2019-09-12 14:52:02		0	http://homepage/?page_id=475	0	page		0
 476	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
 \
 Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.\
@@ -12823,3 +12823,56 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p>Ask us for a quotation!</p>\
 <!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2019-09-12 14:47:13	2019-09-12 14:47:13		475	http://homepage/475-revision-v1/	0	revision		0
+488	1	2019-09-12 14:52:56	2019-09-12 14:52:56	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS.</p>\
+\
+<!-- wp:media-text {"align":"","mediaId":120,"mediaType":"image","isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Eno Toveri" class="wp-image-120"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->\
+<p><em>Toveri at Eno Library.</em></p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Toveri is the only Free Software access control device in Finland.</h3>\
+<!-- /wp:heading -->\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Toveri is designed to withstand extreme weather conditions.</h3>\
+<!-- /wp:heading --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client without any patents nor copyrights from us. However, the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Contact Us</h3>\
+<!-- /wp:heading -->\
+\
+<!-- wp:html -->\
+🌐 <a href="https://toveri.hypernova.fi" target="_blank" rel="noopener noreferrer">https://toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📱 <a href="tel:+358408383158">+358408383158</a><br>\
+<!-- /wp:html -->\
+\
+<!-- wp:paragraph -->\
+<p><br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2019-09-12 14:52:56	2019-09-12 14:52:56		153	http://homepage/153-revision-v1/	0	revision		0
