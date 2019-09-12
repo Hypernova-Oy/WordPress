@@ -10,8 +10,8 @@
 72	/koha-hosting/	386	429	internal
 73	/koha-hosting/	386	429	internal
 74	https://koha-community.org	386	0	external
-93	https://cotter.co/materials	459	0	external
-99	https://cotter.co/materials	475	0	external
 103	https://toveri.hypernova.fi	153	0	external
 104	mailto:asiakaspalvelu@toveri.hypernova.fi	153	0	external
 105	tel:+358408383158	153	0	external
+107	https://cotter.co/materials	459	0	external
+109	https://cotter.co/materials	475	0	external

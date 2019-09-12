@@ -118,7 +118,7 @@
 218	120	_wp_attachment_metadata	a:5:{s:5:"width";i:771;s:6:"height";i:1028;s:4:"file";s:15:"2018/12/Eno.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"Eno-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"Eno-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:15:"Eno-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"1.9";s:6:"credit";s:0:"";s:6:"camera";s:9:"SM-J510FN";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1497436890";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"3.7";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:18:"0.0092592592592593";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}
 219	120	_wp_attachment_image_alt	Eno Toveri
 220	121	_wp_attachment_image_alt	Toveri Enon kirjastossa
-221	128	_edit_lock	1568300122:1
+221	128	_edit_lock	1568300260:1
 222	128	_edit_last	1
 223	128	_generate-sidebar-layout-meta	no-sidebar
 224	128	_wp_page_template	
@@ -1182,7 +1182,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 552	459	_edit_last	1
 553	459	_wpml_media_featured	1
 554	459	_wpml_media_duplicate	1
-555	459	_edit_lock	1568299950:1
+555	459	_edit_lock	1568300782:1
 556	461	_menu_item_type	post_type
 557	461	_menu_item_menu_item_parent	0
 558	461	_menu_item_object_id	459
@@ -1210,7 +1210,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 581	475	_wp_page_template	
 582	475	_wpml_media_featured	1
 583	475	_wpml_media_duplicate	1
-584	475	_edit_lock	1568299922:1
+584	475	_edit_lock	1568300869:1
 585	477	_menu_item_type	post_type
 586	477	_menu_item_menu_item_parent	0
 587	477	_menu_item_object_id	475
@@ -1221,9 +1221,6 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 592	477	_menu_item_url	
 593	475	_yoast_wpseo_content_score	30
 594	480	_wp_attached_file	2019/09/lainuri2.png
-595	481	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:20:"2019/09/lainuri2.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"lainuri2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:20:"lainuri2-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:21:"lainuri2-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:21:"lainuri2-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:20:"lainuri2-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
-596	481	_wp_attached_file	2019/09/lainuri2.png
-597	481	wpml_media_processed	1
 598	480	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:20:"2019/09/lainuri2.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"lainuri2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:20:"lainuri2-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:21:"lainuri2-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:21:"lainuri2-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:20:"lainuri2-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
 599	480	_edit_lock	1568297477:1
 600	480	_wp_attachment_image_alt	Lainuri
@@ -1235,6 +1232,12 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 606	482	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:19:"2019/09/lainuri.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"lainuri-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:19:"lainuri-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:20:"lainuri-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:20:"lainuri-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:19:"lainuri-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
 607	482	_wp_attachment_image_alt	Lainuri
 608	483	_wp_attachment_image_alt	Lainuri
-609	481	_wp_attachment_image_alt	Lainuri
 610	153	_yoast_wpseo_content_score	30
 611	128	_yoast_wpseo_content_score	30
+612	489	_wp_attached_file	2019/09/lainuri2-1.png
+613	490	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:22:"2019/09/lainuri2-1.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"lainuri2-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:22:"lainuri2-1-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:23:"lainuri2-1-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:23:"lainuri2-1-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:22:"lainuri2-1-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
+614	490	_wp_attached_file	2019/09/lainuri2-1.png
+615	490	wpml_media_processed	1
+616	489	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:22:"2019/09/lainuri2-1.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"lainuri2-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:22:"lainuri2-1-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:23:"lainuri2-1-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:23:"lainuri2-1-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:22:"lainuri2-1-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
+617	489	_wp_attachment_image_alt	Lainuri
+618	490	_wp_attachment_image_alt	Lainuri
