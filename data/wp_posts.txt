@@ -12393,29 +12393,29 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <p>Pyydä meiltä tarjousta!</p>\
 <!-- /wp:paragraph -->	Lainuri-lainausautomaatti		inherit	closed	closed		459-revision-v1			2019-09-11 19:19:02	2019-09-11 19:19:02		459	http://homepage/459-revision-v1/	0	revision		0
 475	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
-<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" self-check in machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Lainuri uses common and open standards for easy and effective usability, installability and maintainability.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<p>Let your staff relax and choose Lainuri!</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään - Ei turhaa turaamista - Valitse Lainuri!</p>\
+<p>We send Lainuri by post - You plug it in - No hassle - Get Lainuri!</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:columns -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:image {"id":482} -->\
-<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä.</figcaption></figure>\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers.</figcaption></figure>\
 <!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
@@ -12425,7 +12425,7 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 \
 <!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:image {"id":480} -->\
-<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-768x1024.png" alt="Lainuri" class="wp-image-480"/><figcaption>Kotelointi tummaa tammiviilua.</figcaption></figure>\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-768x1024.png" alt="Lainuri" class="wp-image-480"/><figcaption>Many types of covers.</figcaption></figure>\
 <!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
@@ -12435,21 +12435,20 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:columns -->\
 \
 <!-- wp:paragraph -->\
-<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>.\
-Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
+<p>Choose your own material and color via our partner's <a href="https://cotter.co/materials">material selection</a>. Lainuri comes with your logo by default.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan.</p>\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<p>Lainuri requires a wireless internet connection and a power socket.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Pyydä meiltä tarjousta!</p>\
-<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2019-09-12 14:31:14	2019-09-12 14:31:14		0	http://homepage/?page_id=475	0	page		0
+<p>Ask us for a quotation!</p>\
+<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2019-09-12 14:47:31	2019-09-12 14:47:31		0	http://homepage/?page_id=475	0	page		0
 476	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
 \
 Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.\
@@ -12767,3 +12766,60 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p>Pyydä meiltä tarjousta!</p>\
 <!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		459-revision-v1			2019-09-12 14:33:16	2019-09-12 14:33:16		459	http://homepage/459-revision-v1/	0	revision		0
+487	1	2019-09-12 14:47:13	2019-09-12 14:47:13	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" self-check in machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri uses common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>We send Lainuri by post - You plug it in - No hassle - Get Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":480} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-768x1024.png" alt="Lainuri" class="wp-image-480"/><figcaption>Many types of covers.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Choose your own material and color via our partner's <a href="https://cotter.co/materials">material selection</a>. Lainuri comes with your logo by default.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Ask us for a quotation!</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2019-09-12 14:47:13	2019-09-12 14:47:13		475	http://homepage/475-revision-v1/	0	revision		0
