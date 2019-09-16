@@ -9130,7 +9130,7 @@ http://homepage/wp-admin/options.php?adminhash=2b10889643cbe426fa21abd904c8d706\
 You can safely ignore and delete this email if you do not want to\
 take this action.\
 \
-This email has been sent to no-reply@mail.hypernova.fi\
+This email has been sent to no-reply@hypernova.fi\
 \
 Regards,\
 All at Hypernova Oy\
@@ -10784,7 +10784,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 This notice confirms that your password was changed on Hypernova Oy.\
 \
 If you did not change your password, please contact the Site Administrator at\
-no-reply@mail.hypernova.fi\
+no-reply@hypernova.fi\
 \
 This email has been sent to info@hypernova.fi\
 \
@@ -10796,7 +10796,7 @@ http://homepage	[Hypernova Oy] Notice of Password Change		private	closed	closed	
 This notice confirms that your password was changed on Hypernova Oy.\
 \
 If you did not change your password, please contact the Site Administrator at\
-no-reply@mail.hypernova.fi\
+no-reply@hypernova.fi\
 \
 This email has been sent to info@hypernova.fi\
 \
@@ -10809,7 +10809,7 @@ http://homepage	[Hypernova Oy] Notice of Password Change	Authentication Failed\
 This notice confirms that your password was changed on Hypernova Oy.\
 \
 If you did not change your password, please contact the Site Administrator at\
-no-reply@mail.hypernova.fi\
+no-reply@hypernova.fi\
 \
 This email has been sent to info@hypernova.fi\
 \
@@ -10821,7 +10821,7 @@ http://homepage	[Hypernova Oy] Notice of Password Change		private	closed	closed	
 This notice confirms that your password was changed on Hypernova Oy.\
 \
 If you did not change your password, please contact the Site Administrator at\
-no-reply@mail.hypernova.fi\
+no-reply@hypernova.fi\
 \
 This email has been sent to info@hypernova.fi\
 \

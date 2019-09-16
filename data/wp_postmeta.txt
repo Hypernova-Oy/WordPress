@@ -118,7 +118,7 @@
 218	120	_wp_attachment_metadata	a:5:{s:5:"width";i:771;s:6:"height";i:1028;s:4:"file";s:15:"2018/12/Eno.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"Eno-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"Eno-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:15:"Eno-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"1.9";s:6:"credit";s:0:"";s:6:"camera";s:9:"SM-J510FN";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1497436890";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"3.7";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:18:"0.0092592592592593";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}
 219	120	_wp_attachment_image_alt	Eno Toveri
 220	121	_wp_attachment_image_alt	Toveri Enon kirjastossa
-221	128	_edit_lock	1568300260:1
+221	128	_edit_lock	1568671564:1
 222	128	_edit_last	1
 223	128	_generate-sidebar-layout-meta	no-sidebar
 224	128	_wp_page_template	
@@ -126,7 +126,7 @@
 226	128	_wpml_media_featured	1
 227	128	_oembed_a68ba0532a7543884e52bfe9250f91cc	<blockquote class="wp-embedded-content" data-secret="Yu9czdYcD3"><a href="https://toveri.hypernova.fi/">Etusivu</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://toveri.hypernova.fi/embed/#?secret=Yu9czdYcD3" data-secret="Yu9czdYcD3" width="600" height="338" title="&#8220;Etusivu&#8221; &#8212; Toveri" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 228	128	_oembed_time_a68ba0532a7543884e52bfe9250f91cc	1545935285
-241	153	_edit_lock	1568299977:1
+241	153	_edit_lock	1568671554:1
 242	153	_edit_last	1
 243	153	_wp_page_template	
 244	160	_menu_item_type	post_type
@@ -202,7 +202,7 @@
 376	366	_edit_lock	1550425946:1
 377	366	_generate-sidebar-layout-meta	no-sidebar
 378	377	success	
-379	377	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+379	377	from_header	Hypernova Oy <no-reply@hypernova.fi>
 380	377	to_header	info@hypernova.fi
 381	377	transport_uri	smtp:tls:plain://smtp.zoho.com:587
 382	377	original_to	info@hypernova.fi
@@ -274,7 +274,7 @@ AG5vLXJlcGx5QG1haWwuaHlwZW5vdmEuZmkAQlRuaXNlcGluV21W\
 535 Authentication Failed\
 
 387	378	success	
-388	378	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+388	378	from_header	Hypernova Oy <no-reply@hypernova.fi>
 389	378	to_header	lari@taskula.fi
 390	378	transport_uri	smtp:tls:login://smtp.zoho.com:587
 391	378	original_to	lari@taskula.fi
@@ -348,7 +348,7 @@ QlRuaXNlcGluV21W\
 535 Authentication Failed\
 
 396	379	success	
-397	379	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+397	379	from_header	Hypernova Oy <no-reply@hypernova.fi>
 398	379	to_header	info@hypernova.fi
 399	379	transport_uri	smtp:tls:login://smtp.zoho.com:587
 400	379	original_to	info@hypernova.fi
@@ -422,7 +422,7 @@ QlRuaXNlcGluV21W\
 535 Authentication Failed\
 
 405	380	success	
-406	380	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+406	380	from_header	Hypernova Oy <no-reply@hypernova.fi>
 407	380	to_header	info@hypernova.fi
 408	380	transport_uri	smtp:tls:login://smtp.zoho.com:587
 409	380	original_to	info@hypernova.fi
@@ -496,7 +496,7 @@ QlRuaXNlcGluV21W\
 535 Authentication Failed\
 
 414	381	success	
-415	381	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+415	381	from_header	Hypernova Oy <no-reply@hypernova.fi>
 416	381	to_header	info@hypernova.fi
 417	381	transport_uri	smtp:tls:login://smtp.zoho.com:587
 418	381	original_to	info@hypernova.fi
@@ -570,7 +570,7 @@ Zzl0M3hGdXU3c3hJ\
 535 Authentication Failed\
 
 423	382	success	1
-424	382	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+424	382	from_header	Hypernova Oy <no-reply@hypernova.fi>
 425	382	to_header	info@hypernova.fi
 426	382	transport_uri	smtp:tls:login://smtp.zoho.com:587
 427	382	original_to	info@hypernova.fi
@@ -642,8 +642,8 @@ bm8tcmVwbHlAbWFpbC5oeXBlcm5vdmEuZmk=\
 334 UGFzc3dvcmQ6\
 Zzl0M3hGdXU3c3hJ\
 235 Authentication Successful\
-MAIL FROM:<no-reply@mail.hypernova.fi>\
-250 Sender <no-reply@mail.hypernova.fi> OK\
+MAIL FROM:<no-reply@hypernova.fi>\
+250 Sender <no-reply@hypernova.fi> OK\
 RCPT TO:<info@hypernova.fi>\
 250 Recipient <info@hypernova.fi> OK\
 DATA\
@@ -651,8 +651,8 @@ DATA\
 X-Mailer: Postman SMTP 1.9.6 for WordPress (https://wordpress.org/plugins/post-smtp/)\
 Content-Type: multipart/alternative;\
  boundary="=_db6fe09d85ff4fe7c305abb50b56bd3a"\
-From: Hypernova Oy <no-reply@mail.hypernova.fi>\
-Sender: no-reply@mail.hypernova.fi\
+From: Hypernova Oy <no-reply@hypernova.fi>\
+Sender: no-reply@hypernova.fi\
 To: info@hypernova.fi\
 Subject: Postman SMTP Test (homepage)\
 Date: Sun, 17 Feb 2019 16:58:46 +0000\
@@ -709,7 +709,7 @@ tbody>=0D=09=09</table>=0D</body>=0D</html>\
 250 Message received\
 
 432	383	success	1
-433	383	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+433	383	from_header	Hypernova Oy <no-reply@hypernova.fi>
 434	383	to_header	no-reply@info.hypernova.fi
 435	383	transport_uri	smtp:tls:login://smtp.zoho.com:587
 436	383	original_to	no-reply@info.hypernova.fi
@@ -750,16 +750,16 @@ bm8tcmVwbHlAbWFpbC5oeXBlcm5vdmEuZmk=\
 334 UGFzc3dvcmQ6\
 Ylo4ZzJISGptRU5z\
 235 Authentication Successful\
-MAIL FROM:<no-reply@mail.hypernova.fi>\
-250 Sender <no-reply@mail.hypernova.fi> OK\
+MAIL FROM:<no-reply@hypernova.fi>\
+250 Sender <no-reply@hypernova.fi> OK\
 RCPT TO:<no-reply@info.hypernova.fi>\
 250 Recipient <no-reply@info.hypernova.fi> OK\
 DATA\
 354 Ok Send data ending with <CRLF>.<CRLF>\
 X-Mailer: Postman SMTP 1.9.6 for WordPress (https://wordpress.org/plugins/post-smtp/)\
 Content-Type: text/plain; charset=UTF-8\
-From: Hypernova Oy <no-reply@mail.hypernova.fi>\
-Sender: no-reply@mail.hypernova.fi\
+From: Hypernova Oy <no-reply@hypernova.fi>\
+Sender: no-reply@hypernova.fi\
 To: no-reply@info.hypernova.fi\
 Subject: [Hypernova Oy] New Admin Email Address\
 Date: Sun, 17 Feb 2019 17:36:09 +0000\
@@ -778,10 +778,10 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 250 Message received\
 
 441	384	success	1
-442	384	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
-443	384	to_header	no-reply@mail.hypernova.fi
+442	384	from_header	Hypernova Oy <no-reply@hypernova.fi>
+443	384	to_header	no-reply@hypernova.fi
 444	384	transport_uri	smtp:tls:login://smtp.zoho.com:587
-445	384	original_to	no-reply@mail.hypernova.fi
+445	384	original_to	no-reply@hypernova.fi
 446	384	original_subject	[Hypernova Oy] New Admin Email Address
 447	384	original_message	Howdy hypernova,\
 \
@@ -794,7 +794,7 @@ http://homepage/wp-admin/options.php?adminhash=2b10889643cbe426fa21abd904c8d706\
 You can safely ignore and delete this email if you do not want to\
 take this action.\
 \
-This email has been sent to no-reply@mail.hypernova.fi\
+This email has been sent to no-reply@hypernova.fi\
 \
 Regards,\
 All at Hypernova Oy\
@@ -819,17 +819,17 @@ bm8tcmVwbHlAbWFpbC5oeXBlcm5vdmEuZmk=\
 334 UGFzc3dvcmQ6\
 Ylo4ZzJISGptRU5z\
 235 Authentication Successful\
-MAIL FROM:<no-reply@mail.hypernova.fi>\
-250 Sender <no-reply@mail.hypernova.fi> OK\
-RCPT TO:<no-reply@mail.hypernova.fi>\
-250 Recipient <no-reply@mail.hypernova.fi> OK\
+MAIL FROM:<no-reply@hypernova.fi>\
+250 Sender <no-reply@hypernova.fi> OK\
+RCPT TO:<no-reply@hypernova.fi>\
+250 Recipient <no-reply@hypernova.fi> OK\
 DATA\
 354 Ok Send data ending with <CRLF>.<CRLF>\
 X-Mailer: Postman SMTP 1.9.6 for WordPress (https://wordpress.org/plugins/post-smtp/)\
 Content-Type: text/plain; charset=UTF-8\
-From: Hypernova Oy <no-reply@mail.hypernova.fi>\
-Sender: no-reply@mail.hypernova.fi\
-To: no-reply@mail.hypernova.fi\
+From: Hypernova Oy <no-reply@hypernova.fi>\
+Sender: no-reply@hypernova.fi\
+To: no-reply@hypernova.fi\
 Subject: [Hypernova Oy] New Admin Email Address\
 Date: Sun, 17 Feb 2019 17:36:23 +0000\
 Content-Transfer-Encoding: quoted-printable\
@@ -841,7 +841,7 @@ Howdy hypernova,=0A=0AYou recently requested to have the administration=\
 lick on the following link to change it:=0Ahttp://homepage/wp-admin/opti=\
 ons.php?adminhash=3D2b10889643cbe426fa21abd904c8d706=0A=0AYou can safely=\
  ignore and delete this email if you do not want to=0Atake this action.=\
-=0A=0AThis email has been sent to no-reply@mail.hypernova.fi=0A=0ARegard=\
+=0A=0AThis email has been sent to no-reply@hypernova.fi=0A=0ARegard=\
 s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 .\
 250 Message received\
@@ -861,7 +861,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 462	388	_menu_item_xfn	
 463	388	_menu_item_url	
 465	407	success	1
-466	407	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+466	407	from_header	Hypernova Oy <no-reply@hypernova.fi>
 467	407	to_header	info@hypernova.fi
 468	407	transport_uri	smtp:tls:login://smtp.zoho.com:587
 469	407	original_to	info@hypernova.fi
@@ -871,7 +871,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 This notice confirms that your password was changed on Hypernova Oy.\
 \
 If you did not change your password, please contact the Site Administrator at\
-no-reply@mail.hypernova.fi\
+no-reply@hypernova.fi\
 \
 This email has been sent to info@hypernova.fi\
 \
@@ -898,16 +898,16 @@ bm8tcmVwbHlAbWFpbC5oeXBlcm5vdmEuZmk=\
 334 UGFzc3dvcmQ6\
 SndoeHVrMkpoeUFp\
 235 Authentication Successful\
-MAIL FROM:<no-reply@mail.hypernova.fi>\
-250 Sender <no-reply@mail.hypernova.fi> OK\
+MAIL FROM:<no-reply@hypernova.fi>\
+250 Sender <no-reply@hypernova.fi> OK\
 RCPT TO:<info@hypernova.fi>\
 250 Recipient <info@hypernova.fi> OK\
 DATA\
 354 Ok Send data ending with <CRLF>.<CRLF>\
 X-Mailer: Postman SMTP 1.9.6 for WordPress (https://wordpress.org/plugins/post-smtp/)\
 Content-Type: text/plain; charset=UTF-8\
-From: Hypernova Oy <no-reply@mail.hypernova.fi>\
-Sender: no-reply@mail.hypernova.fi\
+From: Hypernova Oy <no-reply@hypernova.fi>\
+Sender: no-reply@hypernova.fi\
 To: info@hypernova.fi\
 Subject: [Hypernova Oy] Notice of Password Change\
 Date: Mon, 18 Feb 2019 18:20:05 +0000\
@@ -917,14 +917,14 @@ MIME-Version: 1.0\
 \
 Hi hypernova,=0A=0AThis notice confirms that your password was changed o=\
 n Hypernova Oy.=0A=0AIf you did not change your password, please contact=\
- the Site Administrator at=0Ano-reply@mail.hypernova.fi=0A=0AThis email=\
+ the Site Administrator at=0Ano-reply@hypernova.fi=0A=0AThis email=\
  has been sent to info@hypernova.fi=0A=0ARegards,=0AAll at Hypernova Oy=\
 =0Ahttp://homepage\
 .\
 250 Message received\
 
 474	408	success	
-475	408	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+475	408	from_header	Hypernova Oy <no-reply@hypernova.fi>
 476	408	to_header	info@hypernova.fi
 477	408	transport_uri	smtp:tls:login://smtp.zoho.com:587
 478	408	original_to	info@hypernova.fi
@@ -934,7 +934,7 @@ n Hypernova Oy.=0A=0AIf you did not change your password, please contact=\
 This notice confirms that your password was changed on Hypernova Oy.\
 \
 If you did not change your password, please contact the Site Administrator at\
-no-reply@mail.hypernova.fi\
+no-reply@hypernova.fi\
 \
 This email has been sent to info@hypernova.fi\
 \
@@ -963,7 +963,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 535 Authentication Failed\
 
 483	409	success	1
-484	409	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+484	409	from_header	Hypernova Oy <no-reply@hypernova.fi>
 485	409	to_header	info@hypernova.fi
 486	409	transport_uri	smtp:tls:login://smtp.zoho.com:587
 487	409	original_to	info@hypernova.fi
@@ -973,7 +973,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 This notice confirms that your password was changed on Hypernova Oy.\
 \
 If you did not change your password, please contact the Site Administrator at\
-no-reply@mail.hypernova.fi\
+no-reply@hypernova.fi\
 \
 This email has been sent to info@hypernova.fi\
 \
@@ -1000,16 +1000,16 @@ bm8tcmVwbHlAbWFpbC5oeXBlcm5vdmEuZmk=\
 334 UGFzc3dvcmQ6\
 SndoeHVrMkpoeUFp\
 235 Authentication Successful\
-MAIL FROM:<no-reply@mail.hypernova.fi>\
-250 Sender <no-reply@mail.hypernova.fi> OK\
+MAIL FROM:<no-reply@hypernova.fi>\
+250 Sender <no-reply@hypernova.fi> OK\
 RCPT TO:<info@hypernova.fi>\
 250 Recipient <info@hypernova.fi> OK\
 DATA\
 354 Ok Send data ending with <CRLF>.<CRLF>\
 X-Mailer: Postman SMTP 1.9.6 for WordPress (https://wordpress.org/plugins/post-smtp/)\
 Content-Type: text/plain; charset=UTF-8\
-From: Hypernova Oy <no-reply@mail.hypernova.fi>\
-Sender: no-reply@mail.hypernova.fi\
+From: Hypernova Oy <no-reply@hypernova.fi>\
+Sender: no-reply@hypernova.fi\
 To: info@hypernova.fi\
 Subject: [Hypernova Oy] Notice of Password Change\
 Date: Mon, 18 Feb 2019 18:43:08 +0000\
@@ -1019,14 +1019,14 @@ MIME-Version: 1.0\
 \
 Hi hypernova,=0A=0AThis notice confirms that your password was changed o=\
 n Hypernova Oy.=0A=0AIf you did not change your password, please contact=\
- the Site Administrator at=0Ano-reply@mail.hypernova.fi=0A=0AThis email=\
+ the Site Administrator at=0Ano-reply@hypernova.fi=0A=0AThis email=\
  has been sent to info@hypernova.fi=0A=0ARegards,=0AAll at Hypernova Oy=\
 =0Ahttp://homepage\
 .\
 250 Message received\
 
 492	410	success	
-493	410	from_header	Hypernova Oy <no-reply@mail.hypernova.fi>
+493	410	from_header	Hypernova Oy <no-reply@hypernova.fi>
 494	410	to_header	info@hypernova.fi
 495	410	transport_uri	smtp:tls:login://smtp.zoho.com:587
 496	410	original_to	info@hypernova.fi
@@ -1036,7 +1036,7 @@ n Hypernova Oy.=0A=0AIf you did not change your password, please contact=\
 This notice confirms that your password was changed on Hypernova Oy.\
 \
 If you did not change your password, please contact the Site Administrator at\
-no-reply@mail.hypernova.fi\
+no-reply@hypernova.fi\
 \
 This email has been sent to info@hypernova.fi\
 \
