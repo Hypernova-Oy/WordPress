@@ -1322,7 +1322,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- /wp:heading -->\
 \
 <!-- wp:paragraph -->\
-<p><a href="mailto:info@hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br></p>\
+<p><a href="mailto:info@hypernova.fi">toveri@hypernova.fi</a><br></p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
@@ -1411,7 +1411,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- /wp:heading -->\
 \
 <!-- wp:paragraph -->\
-<p><a href="mailto:info@hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br></p>\
+<p><a href="mailto:info@hypernova.fi">toveri@hypernova.fi</a><br></p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
@@ -1501,7 +1501,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 &#127760; <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-&#128231; <a href="mailto:info@hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br />\
+&#128231; <a href="mailto:info@hypernova.fi">toveri@hypernova.fi</a><br />\
 &#128241; <a href="tel:+358408383158">+358408383158</a><br />\
 <!-- /wp:html -->\
 \
@@ -1588,7 +1588,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 &#127760; <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-&#128231; <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br />\
+&#128231; <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br />\
 &#128241; <a href="tel:+358408383158">+358408383158</a><br />\
 <!-- /wp:html -->\
 \
@@ -1641,7 +1641,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank" rel="noopener noreferrer">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -1728,7 +1728,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -1815,7 +1815,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -1901,7 +1901,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -1952,7 +1952,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2042,7 +2042,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2122,7 +2122,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2202,7 +2202,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2301,7 +2301,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2388,7 +2388,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2468,7 +2468,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2600,7 +2600,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2648,7 +2648,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -2698,7 +2698,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:38:59	2019-01-24 15:38:59		128	http://homepage/128-revision-v1/	0	revision		0
 200	1	2019-01-24 15:39:38	2019-01-24 15:39:38	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -2744,7 +2744,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:39:38	2019-01-24 15:39:38		128	http://homepage/128-revision-v1/	0	revision		0
 201	1	2019-01-24 15:40:09	2019-01-24 15:40:09	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -2794,7 +2794,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:40:09	2019-01-24 15:40:09		128	http://homepage/128-revision-v1/	0	revision		0
 203	1	2019-01-24 15:40:47	2019-01-24 15:40:47	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -2848,7 +2848,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:40:47	2019-01-24 15:40:47		128	http://homepage/128-revision-v1/	0	revision		0
 204	1	2019-01-24 15:41:22	2019-01-24 15:41:22	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -2894,7 +2894,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:41:22	2019-01-24 15:41:22		128	http://homepage/128-revision-v1/	0	revision		0
 205	1	2019-01-24 15:41:30	2019-01-24 15:41:30	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -2940,7 +2940,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:41:30	2019-01-24 15:41:30		128	http://homepage/128-revision-v1/	0	revision		0
 206	1	2019-01-24 15:41:38	2019-01-24 15:41:38	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -2986,7 +2986,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:41:38	2019-01-24 15:41:38		128	http://homepage/128-revision-v1/	0	revision		0
 207	1	2019-01-24 15:41:58	2019-01-24 15:41:58	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -3032,7 +3032,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:41:58	2019-01-24 15:41:58		128	http://homepage/128-revision-v1/	0	revision		0
 208	1	2019-01-24 15:42:13	2019-01-24 15:42:13	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -3082,7 +3082,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->	Toveri		inherit	closed	closed		128-revision-v1			2019-01-24 15:42:13	2019-01-24 15:42:13		128	http://homepage/128-revision-v1/	0	revision		0
 210	1	2019-01-24 15:43:41	2019-01-24 15:43:41	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat.</p>\
@@ -3431,7 +3431,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -3484,7 +3484,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -3537,7 +3537,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -12868,7 +12868,7 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 \
 <!-- wp:html -->\
 🌐 <a href="https://toveri.hypernova.fi" target="_blank" rel="noopener noreferrer">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:asiakaspalvelu@toveri.hypernova.fi">asiakaspalvelu@toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
 📱 <a href="tel:+358408383158">+358408383158</a><br>\
 <!-- /wp:html -->\
 \
@@ -12991,3 +12991,16 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p>Ask us for a quotation!</p>\
 <!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2019-09-12 15:07:48	2019-09-12 15:07:48		475	http://homepage/475-revision-v1/	0	revision		0
+493	1	2019-09-16 21:58:36	0000-00-00 00:00:00	{\
+    "widget_custom_html[3]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1NjA6IkthdXBwYWthdHUgMjUgQyA0MDk8YnIgLz4NCjgwMTAwIEpvZW5zdXU8YnIgLz4NCjxzdHJvbmc+RklOTEFORDwvc3Ryb25nPjxiciAvPg0KPGJyIC8+DQo8aT5WQVQgSUQ6IEZJMjkyNTY3NjM8L2k+PGJyIC8+DQo8YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86aW5mb0BoeXBlcm5vdmEuZmkiPmluZm9AaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLXBob25lLXNxdWFyZSI+PC9pPiA8YSBocmVmPSJ0ZWw6KzM1ODQ0OTg1NzMzNyI+KzM1ODQ0OTg1NzMzNzwvYT48YnIgLz4NCjxiciAvPg0KPGgzPlRvdmVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86YXNpYWthc3BhbHZlbHVAdG92ZXJpLmh5cGVybm92YS5maSI+YXNpYWthc3BhbHZlbHVAdG92ZXJpLmh5cGVybm92YS5maTwvYT48YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1waG9uZS1zcXVhcmUiPjwvaT4gPGEgaHJlZj0idGVsOiszNTg0MDgzODMxNTgiPiszNTg0MDgzODMxNTg8L2E+PGJyIC8+IjtzOjEzOiJ3cG1sX2xhbmd1YWdlIjtzOjI6ImVuIjt9",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "b28abbb14ee98ce7601cc5abee04c9a1"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2019-09-16 21:58:36"\
+    }\
+}			auto-draft	closed	closed		271c219e-125f-44ea-8cd7-e890fc5db1ba			2019-09-16 21:58:36	0000-00-00 00:00:00		0	http://homepage/?p=493	0	customize_changeset		0
