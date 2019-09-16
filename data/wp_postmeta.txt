@@ -204,7 +204,7 @@
 378	377	success	
 379	377	from_header	Hypernova Oy <no-reply@hypernova.fi>
 380	377	to_header	info@hypernova.fi
-381	377	transport_uri	smtp:tls:plain://smtp.zoho.com:587
+381	377	transport_uri	smtp:tls:plain://mail.runbox.com:587
 382	377	original_to	info@hypernova.fi
 383	377	original_subject	Postman SMTP Test (homepage)
 384	377	original_message	Content-Type: text/plain; charset = "UTF-8"\
@@ -255,7 +255,7 @@ Content-Transfer-Encoding: quoted-printable\
 </body>\
 </html>
 385	377	original_headers	Content-Type: multipart/alternative;
-386	377	session_transcript	smtp:tls:plain://smtp.zoho.com:587\
+386	377	session_transcript	smtp:tls:plain://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 17, 2019 8:36:55 AM PST\
 EHLO homepage\
@@ -276,7 +276,7 @@ AG5vLXJlcGx5QG1haWwuaHlwZW5vdmEuZmkAQlRuaXNlcGluV21W\
 387	378	success	
 388	378	from_header	Hypernova Oy <no-reply@hypernova.fi>
 389	378	to_header	lari@taskula.fi
-390	378	transport_uri	smtp:tls:login://smtp.zoho.com:587
+390	378	transport_uri	smtp:tls:login://mail.runbox.com:587
 391	378	original_to	lari@taskula.fi
 392	378	original_subject	Postman SMTP Test (homepage)
 393	378	original_message	Content-Type: text/plain; charset = "UTF-8"\
@@ -327,7 +327,7 @@ Content-Transfer-Encoding: quoted-printable\
 </body>\
 </html>
 394	378	original_headers	Content-Type: multipart/alternative;
-395	378	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+395	378	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 17, 2019 8:37:41 AM PST\
 EHLO homepage\
@@ -350,7 +350,7 @@ QlRuaXNlcGluV21W\
 396	379	success	
 397	379	from_header	Hypernova Oy <no-reply@hypernova.fi>
 398	379	to_header	info@hypernova.fi
-399	379	transport_uri	smtp:tls:login://smtp.zoho.com:587
+399	379	transport_uri	smtp:tls:login://mail.runbox.com:587
 400	379	original_to	info@hypernova.fi
 401	379	original_subject	Postman SMTP Test (homepage)
 402	379	original_message	Content-Type: text/plain; charset = "UTF-8"\
@@ -401,7 +401,7 @@ Content-Transfer-Encoding: quoted-printable\
 </body>\
 </html>
 403	379	original_headers	Content-Type: multipart/alternative;
-404	379	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+404	379	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 17, 2019 8:40:32 AM PST\
 EHLO homepage\
@@ -424,7 +424,7 @@ QlRuaXNlcGluV21W\
 405	380	success	
 406	380	from_header	Hypernova Oy <no-reply@hypernova.fi>
 407	380	to_header	info@hypernova.fi
-408	380	transport_uri	smtp:tls:login://smtp.zoho.com:587
+408	380	transport_uri	smtp:tls:login://mail.runbox.com:587
 409	380	original_to	info@hypernova.fi
 410	380	original_subject	Postman SMTP Test (homepage)
 411	380	original_message	Content-Type: text/plain; charset = "UTF-8"\
@@ -475,7 +475,7 @@ Content-Transfer-Encoding: quoted-printable\
 </body>\
 </html>
 412	380	original_headers	Content-Type: multipart/alternative;
-413	380	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+413	380	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 17, 2019 8:41:07 AM PST\
 EHLO homepage\
@@ -498,7 +498,7 @@ QlRuaXNlcGluV21W\
 414	381	success	
 415	381	from_header	Hypernova Oy <no-reply@hypernova.fi>
 416	381	to_header	info@hypernova.fi
-417	381	transport_uri	smtp:tls:login://smtp.zoho.com:587
+417	381	transport_uri	smtp:tls:login://mail.runbox.com:587
 418	381	original_to	info@hypernova.fi
 419	381	original_subject	Postman SMTP Test (homepage)
 420	381	original_message	Content-Type: text/plain; charset = "UTF-8"\
@@ -549,7 +549,7 @@ Content-Transfer-Encoding: quoted-printable\
 </body>\
 </html>
 421	381	original_headers	Content-Type: multipart/alternative;
-422	381	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+422	381	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 17, 2019 8:58:16 AM PST\
 EHLO homepage\
@@ -572,7 +572,7 @@ Zzl0M3hGdXU3c3hJ\
 423	382	success	1
 424	382	from_header	Hypernova Oy <no-reply@hypernova.fi>
 425	382	to_header	info@hypernova.fi
-426	382	transport_uri	smtp:tls:login://smtp.zoho.com:587
+426	382	transport_uri	smtp:tls:login://mail.runbox.com:587
 427	382	original_to	info@hypernova.fi
 428	382	original_subject	Postman SMTP Test (homepage)
 429	382	original_message	Content-Type: text/plain; charset = "UTF-8"\
@@ -623,7 +623,7 @@ Content-Transfer-Encoding: quoted-printable\
 </body>\
 </html>
 430	382	original_headers	Content-Type: multipart/alternative;
-431	382	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+431	382	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 17, 2019 8:58:46 AM PST\
 EHLO homepage\
@@ -711,7 +711,7 @@ tbody>=0D=09=09</table>=0D</body>=0D</html>\
 432	383	success	1
 433	383	from_header	Hypernova Oy <no-reply@hypernova.fi>
 434	383	to_header	no-reply@info.hypernova.fi
-435	383	transport_uri	smtp:tls:login://smtp.zoho.com:587
+435	383	transport_uri	smtp:tls:login://mail.runbox.com:587
 436	383	original_to	no-reply@info.hypernova.fi
 437	383	original_subject	[Hypernova Oy] New Admin Email Address
 438	383	original_message	Howdy hypernova,\
@@ -731,7 +731,7 @@ Regards,\
 All at Hypernova Oy\
 http://homepage
 439	383	original_headers	
-440	383	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+440	383	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 17, 2019 9:36:10 AM PST\
 EHLO homepage\
@@ -780,7 +780,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 441	384	success	1
 442	384	from_header	Hypernova Oy <no-reply@hypernova.fi>
 443	384	to_header	no-reply@hypernova.fi
-444	384	transport_uri	smtp:tls:login://smtp.zoho.com:587
+444	384	transport_uri	smtp:tls:login://mail.runbox.com:587
 445	384	original_to	no-reply@hypernova.fi
 446	384	original_subject	[Hypernova Oy] New Admin Email Address
 447	384	original_message	Howdy hypernova,\
@@ -800,7 +800,7 @@ Regards,\
 All at Hypernova Oy\
 http://homepage
 448	384	original_headers	
-449	384	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+449	384	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 17, 2019 9:36:24 AM PST\
 EHLO homepage\
@@ -863,7 +863,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 465	407	success	1
 466	407	from_header	Hypernova Oy <no-reply@hypernova.fi>
 467	407	to_header	info@hypernova.fi
-468	407	transport_uri	smtp:tls:login://smtp.zoho.com:587
+468	407	transport_uri	smtp:tls:login://mail.runbox.com:587
 469	407	original_to	info@hypernova.fi
 470	407	original_subject	[Hypernova Oy] Notice of Password Change
 471	407	original_message	Hi hypernova,\
@@ -879,7 +879,7 @@ Regards,\
 All at Hypernova Oy\
 http://homepage
 472	407	original_headers	
-473	407	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+473	407	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 18, 2019 10:20:05 AM PST\
 EHLO dev-hypernova.fi\
@@ -926,7 +926,7 @@ n Hypernova Oy.=0A=0AIf you did not change your password, please contact=\
 474	408	success	
 475	408	from_header	Hypernova Oy <no-reply@hypernova.fi>
 476	408	to_header	info@hypernova.fi
-477	408	transport_uri	smtp:tls:login://smtp.zoho.com:587
+477	408	transport_uri	smtp:tls:login://mail.runbox.com:587
 478	408	original_to	info@hypernova.fi
 479	408	original_subject	[Hypernova Oy] Notice of Password Change
 480	408	original_message	Hi hypernova,\
@@ -942,7 +942,7 @@ Regards,\
 All at Hypernova Oy\
 http://homepage
 481	408	original_headers	
-482	408	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+482	408	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 18, 2019 10:27:24 AM PST\
 EHLO homepage\
@@ -965,7 +965,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 483	409	success	1
 484	409	from_header	Hypernova Oy <no-reply@hypernova.fi>
 485	409	to_header	info@hypernova.fi
-486	409	transport_uri	smtp:tls:login://smtp.zoho.com:587
+486	409	transport_uri	smtp:tls:login://mail.runbox.com:587
 487	409	original_to	info@hypernova.fi
 488	409	original_subject	[Hypernova Oy] Notice of Password Change
 489	409	original_message	Hi hypernova,\
@@ -981,7 +981,7 @@ Regards,\
 All at Hypernova Oy\
 http://homepage
 490	409	original_headers	
-491	409	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+491	409	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 18, 2019 10:43:08 AM PST\
 EHLO dev-hypernova.fi\
@@ -1028,7 +1028,7 @@ n Hypernova Oy.=0A=0AIf you did not change your password, please contact=\
 492	410	success	
 493	410	from_header	Hypernova Oy <no-reply@hypernova.fi>
 494	410	to_header	info@hypernova.fi
-495	410	transport_uri	smtp:tls:login://smtp.zoho.com:587
+495	410	transport_uri	smtp:tls:login://mail.runbox.com:587
 496	410	original_to	info@hypernova.fi
 497	410	original_subject	[Hypernova Oy] Notice of Password Change
 498	410	original_message	Hi hypernova,\
@@ -1044,7 +1044,7 @@ Regards,\
 All at Hypernova Oy\
 http://homepage
 499	410	original_headers	
-500	410	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+500	410	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready February 18, 2019 10:47:20 AM PST\
 EHLO homepage\
@@ -1071,7 +1071,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 505	423	success	
 506	423	from_header	Hypernova Oy
 507	423	to_header	info@hypernova.fi
-508	423	transport_uri	smtp:tls:login://smtp.zoho.com:587
+508	423	transport_uri	smtp:tls:login://mail.runbox.com:587
 509	423	original_to	info@hypernova.fi
 510	423	original_subject	Postman SMTP Test (localhost)
 511	423	original_message	Content-Type: text/plain; charset = "UTF-8"\
@@ -1122,7 +1122,7 @@ Content-Transfer-Encoding: quoted-printable\
 \
 
 512	423	original_headers	Content-Type: multipart/alternative;
-513	423	session_transcript	smtp:tls:login://smtp.zoho.com:587\
+513	423	session_transcript	smtp:tls:login://mail.runbox.com:587\
 \
 220 mx.zohomail.com SMTP Server ready August 30, 2019 1:50:32 PM PDT\
 EHLO localhost\
