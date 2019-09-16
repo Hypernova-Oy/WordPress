@@ -13004,3 +13004,27 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
         "date_modified_gmt": "2019-09-16 21:58:36"\
     }\
 }			auto-draft	closed	closed		271c219e-125f-44ea-8cd7-e890fc5db1ba			2019-09-16 21:58:36	0000-00-00 00:00:00		0	http://homepage/?p=493	0	customize_changeset		0
+494	1	2019-09-16 22:06:28	2019-09-16 22:06:28	{\
+    "widget_custom_html[3]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo3NTM6IkthdXBwYWthdHUgMjUgQyA0MDk8YnIgLz4NCjgwMTAwIEpvZW5zdXU8YnIgLz4NCjxzdHJvbmc+RklOTEFORDwvc3Ryb25nPjxiciAvPg0KPGJyIC8+DQo8aT5WQVQgSUQ6IEZJMjkyNTY3NjM8L2k+PGJyIC8+DQo8YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86aW5mb0BoeXBlcm5vdmEuZmkiPmluZm9AaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLXBob25lLXNxdWFyZSI+PC9pPiA8YSBocmVmPSJ0ZWw6KzM1ODQ0OTg1NzMzNyI+KzM1ODQ0OTg1NzMzNzwvYT48YnIgLz4NCjxiciAvPg0KPGgzPlRvdmVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86dG92ZXJpQGh5cGVybm92YS5maSI+dG92ZXJpQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1waG9uZS1zcXVhcmUiPjwvaT4gPGEgaHJlZj0idGVsOiszNTg0MDgzODMxNTgiPiszNTg0MDgzODMxNTg8L2E+PGJyIC8+DQo8YnIgLz4NCjxoMz5MYWludXJpIFN1cHBvcnQ8L2gzPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzpsYWludXJpQGh5cGVybm92YS5maSI+bGFpbnVyaUBoeXBlcm5vdmEuZmk8L2E+PGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtcGhvbmUtc3F1YXJlIj48L2k+IDxhIGhyZWY9InRlbDorMzU4NDA4MzgzMTU4Ij4rMzU4NDA4MzgzMTU4PC9hPjxiciAvPiI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJlbiI7fQ==",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "f45a92abcbda8cc4a8b65355a1e48306"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2019-09-16 22:06:20"\
+    },\
+    "widget_custom_html[9]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo3NjY6IkthdXBwYWthdHUgMjUgQyA0MDk8YnIgLz4NCjgwMTAwIEpvZW5zdXU8YnIgLz4NCjxzdHJvbmc+U1VPTUk8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPGk+WS10dW5udXM6IDI5MjU2NzYtMzwvaT48YnIgLz4NCjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzppbmZvQGh5cGVybm92YS5maSI+aW5mb0BoeXBlcm5vdmEuZmk8L2E+PGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtcGhvbmUtc3F1YXJlIj48L2k+IDxhIGhyZWY9InRlbDorMzU4NDQ5ODU3MzM3Ij4rMzU4NDQ5ODU3MzM3PC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+VG92ZXJpIGFzaWFrYXNwYWx2ZWx1PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86dG92ZXJpQGh5cGVybm92YS5maSI+dG92ZXJpQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1waG9uZS1zcXVhcmUiPjwvaT4gPGEgaHJlZj0idGVsOiszNTg0MDgzODMxNTgiPiszNTg0MDgzODMxNTg8L2E+PGJyIC8+DQo8YnIgLz4NCjxoMz5MYWludXJpIGFzaWFrYXNwYWx2ZWx1PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86bGFpbnVyaUBoeXBlcm5vdmEuZmkiPmxhaW51cmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLXBob25lLXNxdWFyZSI+PC9pPiA8YSBocmVmPSJ0ZWw6KzM1ODQwODM4MzE1OCI+KzM1ODQwODM4MzE1ODwvYT48YnIgLz4iO3M6MTM6IndwbWxfbGFuZ3VhZ2UiO3M6MjoiZmkiO30=",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "fd6393b3305805f93f02ab87582b7e63"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2019-09-16 22:06:28"\
+    }\
+}			trash	closed	closed		e0c66b5e-dfd3-4b51-ae0c-5aad2ed24759			2019-09-16 22:06:28	2019-09-16 22:06:28		0	http://homepage/?p=494	0	customize_changeset		0

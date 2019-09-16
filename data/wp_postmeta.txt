@@ -81,7 +81,7 @@
 149	85	_edit_last	1
 150	85	_wpml_media_featured	1
 151	85	_wpml_media_duplicate	1
-152	85	_edit_lock	1548343378:1
+152	85	_edit_lock	1568671498:1
 153	90	_edit_last	1
 154	90	_wp_page_template	
 155	90	_wpml_media_featured	1
@@ -1242,3 +1242,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 617	489	_wp_attachment_image_alt	Lainuri
 618	490	_wp_attachment_image_alt	Lainuri
 619	493	_edit_lock	1568671116:1
+620	493	_customize_restore_dismissed	1
+621	494	_edit_lock	1568671580:1
+622	494	_wp_trash_meta_status	publish
+623	494	_wp_trash_meta_time	1568671588
