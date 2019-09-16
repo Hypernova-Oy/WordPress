@@ -24,7 +24,12 @@ echo "Truncating data..."
 mysql --user=$DB_USER --password=$DB_PASS -e "DROP DATABASE $DB_NAME; CREATE DATABASE $DB_NAME" -P$DB_PORT -h $DB_HOST $DB_NAME;
 mysql --user=$DB_USER --password=$DB_PASS -P$DB_PORT -h $DB_HOST $DB_NAME < $DIR/hypernova-schema.sql;
 
-echo "Importing dump..."
+echo "Importing dump... (requires GRANT FILE on *.* to $DB_USER@%)"
+
+if [ "$EUID" -eq 0 ]
+  then mysql -e "GRANT FILE ON *.* TO '$DB_USER'@'%';"
+fi
+
 for filename in $DIR/data/*.txt
 do
 tablename=`basename $filename .txt`
