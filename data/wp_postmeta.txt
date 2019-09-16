@@ -1246,3 +1246,27 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 621	494	_edit_lock	1568671580:1
 622	494	_wp_trash_meta_status	publish
 623	494	_wp_trash_meta_time	1568671588
+624	495	_menu_item_type	post_type
+625	495	_menu_item_menu_item_parent	388
+626	495	_menu_item_object_id	429
+627	495	_menu_item_object	page
+628	495	_menu_item_target	
+629	495	_menu_item_classes	a:1:{i:0;s:0:"";}
+630	495	_menu_item_xfn	
+631	495	_menu_item_url	
+633	496	_menu_item_type	post_type
+634	496	_menu_item_menu_item_parent	495
+635	496	_menu_item_object_id	439
+636	496	_menu_item_object	page
+637	496	_menu_item_target	
+638	496	_menu_item_classes	a:1:{i:0;s:0:"";}
+639	496	_menu_item_xfn	
+640	496	_menu_item_url	
+642	497	_menu_item_type	post_type
+643	497	_menu_item_menu_item_parent	316
+644	497	_menu_item_object_id	366
+645	497	_menu_item_object	page
+646	497	_menu_item_target	
+647	497	_menu_item_classes	a:1:{i:0;s:0:"";}
+648	497	_menu_item_xfn	
+649	497	_menu_item_url	

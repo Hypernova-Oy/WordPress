@@ -60,7 +60,7 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 17	1	2018-10-26 17:55:21	2018-10-26 17:55:21		hypernova-white-gradient-no-text-1024x1024		inherit	open	closed		hypernova-white-gradient-no-text-1024x1024			2018-10-26 17:55:21	2018-10-26 17:55:21		0	http://homepage/wp-content/uploads/2018/10/hypernova-white-gradient-no-text-1024x1024.png	0	attachment	image/png	0
 19	1	2018-10-26 18:05:51	2018-10-26 18:05:51		favicon-32x32	hypernova-favicon-32x32	inherit	open	closed		favicon-32x32			2018-10-26 18:06:17	2018-10-26 18:06:17		0	http://homepage/wp-content/uploads/2018/10/favicon-32x32.png	0	attachment	image/png	0
 21	1	2018-12-19 13:55:43	2018-12-19 13:55:43	asfddsafskkhjkh	Hypernova		inherit	closed	closed		2-revision-v1			2018-12-19 13:55:43	2018-12-19 13:55:43		2	http://homepage/2018/12/19/2-revision-v1/	0	revision		0
-22	1	2018-12-19 13:56:23	2018-12-19 13:56:23	 			publish	closed	closed		22			2019-09-11 19:38:48	2019-09-11 19:38:48		0	http://homepage/?p=22	1	nav_menu_item		0
+22	1	2018-12-19 13:56:23	2018-12-19 13:56:23	 			publish	closed	closed		22			2019-09-16 23:01:05	2019-09-16 23:01:05		0	http://homepage/?p=22	1	nav_menu_item		0
 28	1	2018-10-26 17:50:51	2018-10-26 17:50:51		pexels-photo-316093		inherit	open	closed		pexels-photo-316093-2			2018-10-26 17:50:51	2018-10-26 17:50:51		0	http://homepage/wp-content/uploads/2018/10/pexels-photo-316093.jpeg	0	attachment	image/jpeg	0
 29	1	2018-10-26 17:54:30	2018-10-26 17:54:30	Hypernova Oy	hypernova-black-gradient-no-text-1024x1024		inherit	open	closed		hypernova-black-gradient-no-text-1024x1024-2			2019-02-28 23:02:03	2019-02-28 23:02:03		0	http://homepage/wp-content/uploads/2018/10/hypernova-black-gradient-no-text-1024x1024.png	0	attachment	image/png	0
 30	1	2018-10-26 17:55:21	2018-10-26 17:55:21		hypernova-white-gradient-no-text-1024x1024		inherit	open	closed		hypernova-white-gradient-no-text-1024x1024-2			2018-10-26 17:55:21	2018-10-26 17:55:21		0	http://homepage/wp-content/uploads/2018/10/hypernova-white-gradient-no-text-1024x1024.png	0	attachment	image/png	0
@@ -227,7 +227,7 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2018-12-19 15:36:53	2018-12-19 15:36:53		33	http://homepage/33-revision-v1/	0	revision		0
-81	1	2018-12-19 15:38:06	2018-12-19 15:38:06	 			publish	closed	closed		81			2019-09-11 15:02:27	2019-09-11 15:02:27		0	http://homepage/?p=81	1	nav_menu_item		0
+81	1	2018-12-19 15:38:06	2018-12-19 15:38:06	 			publish	closed	closed		81			2019-09-16 23:01:16	2019-09-16 23:01:16		0	http://homepage/?p=81	1	nav_menu_item		0
 85	1	2018-12-19 15:39:59	2018-12-19 15:39:59	<!-- wp:html -->\
 <p>Our contact information can be found at the bottom of this website.</p>\
 <h3>Billing Contact</h3>\
@@ -263,8 +263,8 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Yhteystiedot		inherit	closed	closed		90-revision-v1			2018-12-19 15:47:57	2018-12-19 15:47:57		90	http://homepage/90-revision-v1/	0	revision		0
-101	1	2018-12-19 15:52:09	2018-12-19 15:52:09	 			publish	closed	closed		101			2019-09-11 19:38:51	2019-09-11 19:38:51		0	http://homepage/?p=101	5	nav_menu_item		0
-102	1	2018-12-19 15:52:15	2018-12-19 15:52:15	 			publish	closed	closed		102			2019-09-11 15:02:28	2019-09-11 15:02:28		0	http://homepage/?p=102	6	nav_menu_item		0
+101	1	2018-12-19 15:52:09	2018-12-19 15:52:09	 			publish	closed	closed		101			2019-09-16 23:01:06	2019-09-16 23:01:06		0	http://homepage/?p=101	7	nav_menu_item		0
+102	1	2018-12-19 15:52:15	2018-12-19 15:52:15	 			publish	closed	closed		102			2019-09-16 23:01:16	2019-09-16 23:01:16		0	http://homepage/?p=102	7	nav_menu_item		0
 104	1	2018-12-19 15:53:53	2018-12-19 15:53:53	<div id="content" class="site-content">\
 <h2>Rekisteri- ja tietosuojaseloste</h2>\
 Tämä on Yrityksen henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 28.11.2018. Viimeisin muutos 28.11.2018.\
@@ -1968,8 +1968,8 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Home		inherit	closed	closed		2-revision-v1			2018-12-27 19:16:29	2018-12-27 19:16:29		2	http://homepage/2-revision-v1/	0	revision		0
-160	1	2018-12-27 19:16:58	2018-12-27 19:16:58	 			publish	closed	closed		160			2019-09-11 19:38:48	2019-09-11 19:38:48		0	http://homepage/?p=160	3	nav_menu_item		0
-161	1	2018-12-27 19:17:10	2018-12-27 19:17:10	 			publish	closed	closed		161			2019-09-11 15:02:27	2019-09-11 15:02:27		0	http://homepage/?p=161	4	nav_menu_item		0
+160	1	2018-12-27 19:16:58	2018-12-27 19:16:58	 			publish	closed	closed		160			2019-09-16 23:01:06	2019-09-16 23:01:06		0	http://homepage/?p=160	5	nav_menu_item		0
+161	1	2018-12-27 19:17:10	2018-12-27 19:17:10	 			publish	closed	closed		161			2019-09-16 23:01:16	2019-09-16 23:01:16		0	http://homepage/?p=161	5	nav_menu_item		0
 164	1	2018-12-27 19:19:03	2018-12-27 19:19:03	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS. Contact us for more software integrations.</p>\
 \
 <!-- wp:columns -->\
@@ -3664,7 +3664,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <p class="has-medium-font-size">Asenna oma Kohasi:<br>   <a href="https://koha-community.org/download-koha/">https://koha-community.org/download-koha/</a></p>\
 <!-- /wp:paragraph -->	Koha		publish	closed	closed		koha			2019-02-28 21:24:30	2019-02-28 21:24:30		0	http://homepage/?page_id=230	0	page		0
 231	1	2019-02-16 14:25:23	2019-02-16 14:25:23	asdasd	Koha-ylläpito		inherit	closed	closed		230-revision-v1			2019-02-16 14:25:23	2019-02-16 14:25:23		230	http://homepage/230-revision-v1/	0	revision		0
-232	1	2019-02-16 14:27:32	2019-02-16 14:27:32	 			publish	closed	closed		232			2019-09-11 15:02:27	2019-09-11 15:02:27		0	http://homepage/?p=232	2	nav_menu_item		0
+232	1	2019-02-16 14:27:32	2019-02-16 14:27:32	 			publish	closed	closed		232			2019-09-16 23:01:16	2019-09-16 23:01:16		0	http://homepage/?p=232	2	nav_menu_item		0
 236	1	2019-02-16 14:37:37	2019-02-16 14:37:37	<!-- wp:columns {"columns":3} -->\
 <div class="wp-block-columns has-3-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
@@ -7633,7 +7633,7 @@ kanssa.</p>\
 <ul><li>Tuoreimman Kohan yhteisöversion tai Koha-Suomi-version asennuksen</li><li>Koha-versiopäivitys kaksi kertaa vuodessa</li><li>Ylläpito- ja monitorointipalvelun. Vastaamme kirjastojärjestelmän saatavuudesta ja reagoimme mahdollisiin vikatilanteisiin nopeasti</li><li>Varmuuskopioinnit ja mahdolliset palautukset</li><li>Verkkoliikenne (palomuuri, DNS, tarvittaessa IPv4-osoite) ja verkkoyhteyksien suojaus (SSL-sertifikaatit)</li></ul>\
 <!-- /wp:list -->	Kohan ylläpitopalvelu		publish	closed	closed		kohan-yllapitopalvelu			2019-02-16 17:15:53	2019-02-16 17:15:53		0	http://homepage/?page_id=314	0	page		0
 315	1	2019-02-16 15:48:18	2019-02-16 15:48:18		Kohan ylläpitopalvelu		inherit	closed	closed		314-revision-v1			2019-02-16 15:48:18	2019-02-16 15:48:18		314	http://homepage/314-revision-v1/	0	revision		0
-316	1	2019-02-16 15:48:38	2019-02-16 15:48:38	 			publish	closed	closed		316			2019-09-11 15:02:27	2019-09-11 15:02:27		0	http://homepage/?p=316	3	nav_menu_item		0
+316	1	2019-02-16 15:48:38	2019-02-16 15:48:38	 			publish	closed	closed		316			2019-09-16 23:01:16	2019-09-16 23:01:16		0	http://homepage/?p=316	3	nav_menu_item		0
 318	1	2019-02-16 15:50:19	2019-02-16 15:50:19	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"align":"center","placeholder":"Content…","customFontSize":38} -->\
 <p style="font-size:38px;text-align:center"><strong><em>Pienille kirjastoille maailman paras kirjastojärjestelmäratkaisu.</em></strong></p>\
@@ -9334,7 +9334,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 <div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" style="background-color: #7cc445; color: #000000;" href="/fi/kohan-yllapitopalvelu">Lue lisää\
 </a></div>\
 <!-- /wp:button -->	Koha		inherit	closed	closed		386-revision-v1			2019-02-17 17:55:48	2019-02-17 17:55:48		386	http://homepage/386-revision-v1/	0	revision		0
-388	1	2019-02-17 17:56:10	2019-02-17 17:56:10	 			publish	closed	closed		388			2019-09-11 19:38:48	2019-09-11 19:38:48		0	http://homepage/?p=388	2	nav_menu_item		0
+388	1	2019-02-17 17:56:10	2019-02-17 17:56:10	 			publish	closed	closed		388			2019-09-16 23:01:05	2019-09-16 23:01:05		0	http://homepage/?p=388	2	nav_menu_item		0
 389	1	2019-02-17 17:57:52	2019-02-17 17:57:52	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
 <p style="margin-top:50px;font-size:38px;text-align:center"><strong><em>Pienille kirjastoille maailman paras kirjasto&﻿shy;järjestelmä&﻿shy;ratkaisu.</em></strong></p>\
@@ -12162,7 +12162,7 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <p>Pyydä meiltä tarjousta!</p>\
 <!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2019-09-12 15:06:22	2019-09-12 15:06:22		0	http://homepage/?page_id=459	0	page		0
 460	1	2019-09-11 15:00:54	2019-09-11 15:00:54	pimppi	Lainuri		inherit	closed	closed		459-revision-v1			2019-09-11 15:00:54	2019-09-11 15:00:54		459	http://homepage/459-revision-v1/	0	revision		0
-461	1	2019-09-11 15:01:50	2019-09-11 15:01:50	 			publish	closed	closed		461			2019-09-11 15:02:28	2019-09-11 15:02:28		0	http://homepage/?p=461	5	nav_menu_item		0
+461	1	2019-09-11 15:01:50	2019-09-11 15:01:50	 			publish	closed	closed		461			2019-09-16 23:01:16	2019-09-16 23:01:16		0	http://homepage/?p=461	6	nav_menu_item		0
 463	1	2019-09-11 15:15:28	2019-09-11 15:15:28		Lainuri		inherit	open	closed		photo_2019-09-11_18-13-57			2019-09-11 15:17:01	2019-09-11 15:17:01		459	http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-57.jpg	0	attachment	image/jpeg	0
 464	1	2019-09-11 15:15:28	2019-09-11 15:15:28		photo_2019-09-11_18-13-57	Lainuri	inherit	open	closed		photo_2019-09-11_18-13-57-2			2019-09-11 19:36:00	2019-09-11 19:36:00		475	http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-57.jpg	0	attachment	image/jpeg	0
 465	1	2019-09-11 15:15:37	2019-09-11 15:15:37		Lainuri		inherit	open	closed		photo_2019-09-11_18-13-39			2019-09-11 15:17:33	2019-09-11 15:17:33		459	http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-39.jpg	0	attachment	image/jpeg	0
@@ -12531,7 +12531,7 @@ Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.\
 Pyydä meiltä tarjousta!\
 \
 <!-- /wp:paragraph -->	Lainuri-lainausautomaatti		inherit	closed	closed		475-revision-v1			2019-09-11 19:36:18	2019-09-11 19:36:18		475	http://homepage/475-revision-v1/	0	revision		0
-477	1	2019-09-11 19:38:48	2019-09-11 19:38:48	 			publish	closed	closed		477			2019-09-11 19:38:48	2019-09-11 19:38:48		0	http://homepage/?p=477	4	nav_menu_item		0
+477	1	2019-09-11 19:38:48	2019-09-11 19:38:48	 			publish	closed	closed		477			2019-09-16 23:01:06	2019-09-16 23:01:06		0	http://homepage/?p=477	6	nav_menu_item		0
 478	1	2019-09-11 19:50:35	2019-09-11 19:50:35	<!-- wp:paragraph -->\
 <p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
 <!-- /wp:paragraph -->\
@@ -13028,3 +13028,6 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
         "date_modified_gmt": "2019-09-16 22:06:28"\
     }\
 }			trash	closed	closed		e0c66b5e-dfd3-4b51-ae0c-5aad2ed24759			2019-09-16 22:06:28	2019-09-16 22:06:28		0	http://homepage/?p=494	0	customize_changeset		0
+495	1	2019-09-16 23:01:05	2019-09-16 23:01:05	 			publish	closed	closed		495			2019-09-16 23:01:05	2019-09-16 23:01:05		0	http://homepage/?p=495	3	nav_menu_item		0
+496	1	2019-09-16 23:01:05	2019-09-16 23:01:05		Koha hosting – Request for Quotation		publish	closed	closed		koha-hosting-request-for-quotation			2019-09-16 23:01:05	2019-09-16 23:01:05		0	http://homepage/?p=496	4	nav_menu_item		0
+497	1	2019-09-16 23:01:16	2019-09-16 23:01:16		Koha ylläpitopalvelu – tarjouspyyntö		publish	closed	closed		koha-yllapitopalvelu-tarjouspyynto			2019-09-16 23:01:16	2019-09-16 23:01:16		0	http://homepage/?p=497	4	nav_menu_item		0
