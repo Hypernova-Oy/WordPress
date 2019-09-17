@@ -81,7 +81,7 @@
 149	85	_edit_last	1
 150	85	_wpml_media_featured	1
 151	85	_wpml_media_duplicate	1
-152	85	_edit_lock	1568671498:1
+152	85	_edit_lock	1568758040:1
 153	90	_edit_last	1
 154	90	_wp_page_template	
 155	90	_wpml_media_featured	1

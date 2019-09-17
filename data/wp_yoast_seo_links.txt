@@ -15,3 +15,14 @@
 105	tel:+358408383158	153	0	external
 107	https://cotter.co/materials	459	0	external
 109	https://cotter.co/materials	475	0	external
+110	mailto:info@hypernova.fi	85	0	external
+111	mailto:info@hypernova.fi	90	0	external
+112	/fi/kohan-yllapitopalvelu/	230	314	internal
+113	/fi/kohan-yllapitopalvelu	230	314	internal
+114	https://koha-community.org/manual/178.05/html/	230	0	external
+115	https://www.youtube.com/results?search_query=koha+ils	230	0	external
+116	https://vimeo.com/search?q=koha%20ils	230	0	external
+117	https://vimeo.com/128966803	230	0	external
+118	https://github.com/KohaSuomi/Koha	230	0	external
+119	https://koha-community.org/download-koha/	230	0	external
+120	/fi/koha-yllapito-tarjouspyynto	314	366	internal
