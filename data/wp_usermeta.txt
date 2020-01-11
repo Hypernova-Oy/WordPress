@@ -30,5 +30,4 @@
 31	1	wpmdb_dismiss_muplugin_failed_update_1.2	1
 32	1	_wpml_user_dismissed_notices	\N
 33	1	icl_admin_language	en
-40	1	wp_yoast_promo_hide_premium_upsell_admin_block	1
 62	1	session_tokens	a:1:{s:64:"13d7220bdcef8c49b4feaa32d46f9f70a5a8e4a56dc7d7a75fcd772d13a1454d";a:4:{s:10:"expiration";i:1578874217;s:2:"ip";s:11:"10.108.16.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0";s:5:"login";i:1578701417;}}
