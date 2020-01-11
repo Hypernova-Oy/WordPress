@@ -2,9 +2,9 @@
 Contributors: loftocean
 Tags: loader, load, preloader, page preloader, prelader spinner, preloader with custom logo, animated preloader, CSS3 preloader, customize
 Donate link:
-Requires at least: 4.3
-Tested up to: 5.2
-Stable tag: 2.1.9
+Requires at least: 4.7
+Tested up to: 5.3
+Stable tag: 2.1.12
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -68,6 +68,8 @@ LoftLoader Pro is available. [Upgrade to pro version](https://codecanyon.net/ite
 
 Check some [examples](http://www.loftocean.com/loftloader/example-13/) created by pro version.
 
+**Please note**: Although you may find that LoftLoader Lite (the free version) can run on older versions of WordPress (below v4.7), **LoftLoader Pro only supports WordPress v4.7 or higher**. Because the Pro version has more features than the Lite version, including some new features introduced after WordPress 4.7. We always recommend using the latest versions of WordPress to ensure compatibility with your theme and other plugins.
+
 == Installation ==
 
 1. Install the plugin either via the WordPress.org plugin directory, or by uploading the files to your server (in the /wp-content/plugins/ directory).
@@ -94,6 +96,18 @@ Check some [examples](http://www.loftocean.com/loftloader/example-13/) created b
 8. Pro version: Load Time, Device Control & Smooth Page Transition
 
 == Changelog ==
+= 2.1.12
+* Fixed: Minor style issues in LoftLoader Settings panel for WordPress 5.3
+* Fixed: Minor CSS issues of Settings Panel UI for RTL sites
+
+= 2.1.11 =
+* Fixed: Compatibility issue with ConveyThis Translate plugin
+* Fixed: Media Library doesn't show on LoftLoader Settings panel
+
+= 2.1.10 =
+* Fixed: Image moves while loading with Custom Image Loading loader
+* Changed: Pro version link on settings page
+
 = 2.1.9 =
 * Fixed: Compatibility issue with the pro version of Loftloader when both plugins are activated
 

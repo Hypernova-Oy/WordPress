@@ -6,7 +6,7 @@
  * Author: Kaylolo Yinxi Chen @Loft.Ocean
  * Author URI: http://www.loftocean.com
  * Description: LoftLoader (Lite Version) is a plugin for adding beautiful and smooth preload animation to your WordPress website. With setting options, you can choose from preset animations, add custom logo image, choose colours to match your branding, and amuse and impress your visitors while loading site content.
- * Version: 2.1.9
+ * Version: 2.1.12
 */
 
 
@@ -52,6 +52,12 @@ $description-color: #888;
             letter-spacing: 0.05em;
             font-weight: bold;
             color: $text-color;
+            
+            .rtl & {
+                float: left;
+                padding-right: 0;
+                padding-left: 5px;
+            }
 
             input {
                 width: 60px;
@@ -64,6 +70,10 @@ $description-color: #888;
                 font-weight: bold;
                 color: $text-color;
                 text-align: right;
+                
+                .rtl & {
+                    text-align: left;
+                }
             }
         }
     }
@@ -136,6 +146,10 @@ $description-color: #888;
     #customize-control-loftloader_show_close_tip input[type="text"] {
         width: 100%;
         text-align: left;
+        
+        .rtl & {
+            text-align: right;
+        }
     }
 
     button.button.remove-button:hover {
@@ -152,20 +166,21 @@ $description-color: #888;
         border: 2px solid $primary-color;
         box-shadow: none;
         font-size: 0;
+        
+        .rtl & {
+            float: left;
+        }
 
         &:checked:before {
             position: absolute;
             top: 50%;
             left: 50%;
             @include transform(translate(-50%, -50%));
-            margin: 0 0 0 -3px;
+            margin: 0 0 0 -1px;
+            width: 21px;
+            height: 21px;
             color: $primary-color;
-
-            @media screen and (max-width: 782px) {
-                & {
-                    margin: 0 0 0 -8px;
-                }
-            }
+            font: 21px dashicons;
         }
 
         &:hover {
@@ -209,6 +224,10 @@ $description-color: #888;
 
             & + div {
                 float: right;
+                
+                .rtl & {
+                    float: left;
+                }
             }
         }
     }
@@ -253,6 +272,8 @@ $description-color: #888;
         .wp-color-result {
             width: 24px;
             height: 24px;
+            max-height: 24px;
+            min-height: 24px;
             padding: 0;
             margin-top: 2px;
             border: 1px solid rgba(#000, 0.1);
@@ -291,6 +312,10 @@ $description-color: #888;
             float: right;
             margin-top: -2px;
             width: auto;
+            
+            .rtl & {
+                margin-left: 15px;
+            }
         }
 
         input[type="text"].wp-color-picker {
@@ -399,6 +424,10 @@ $description-color: #888;
             background: $primary-color;
             border-radius: 50%;
             border: none;
+            
+            .rtl & {
+                float: left;
+            }
 
             &:before {
                 position: absolute;
@@ -439,8 +468,11 @@ $description-color: #888;
                 height: 45px;
                 margin: 0 -2px -2px 0;
                 padding: 0;
-
                 @include animations(8);
+                
+                .rtl & {
+                    float: right;
+                }
 
                 .loftloader-radiobtn {
                     & + span {
@@ -490,6 +522,10 @@ $description-color: #888;
             border: 2px solid $primary-color;
             box-shadow: none;
             font-size: 0;
+            
+            .rtl & {
+                float: left;
+            }
 
             &:before,
             &:after {
@@ -541,9 +577,18 @@ $description-color: #888;
                 font-weight: bold;
                 letter-spacing: 0.05em;
                 color: $text-color;
+                
+                .rtl & {
+                    float: left;
+                }
 
                 input[type="number"] {
                     margin-right: 5px;
+                    
+                    .rtl & {
+                        margin-right: 0;
+                        margin-left: 5px;
+                    }
                 }
             }
         }

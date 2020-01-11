@@ -23,7 +23,7 @@ function loftloader_customize_promotion( $wp_customize ) {
 		'type' => 'loftloader-ad',
 		'label' => '',
 		'img' => LOFTLOADER_URI . 'assets/img/pro-ad.jpg',
-		'href' => esc_url( 'https://codecanyon.net/item/loftloader-pro-preloader-plugin-for-wordpress/17339671?ref=LoftOcean' ),
+		'href' => esc_url( 'https://1.envato.market/EgdPe' ),
 		'section' => 'loftloader_promo',
 		'settings' => 'loftloader_promo'
 	) ) );

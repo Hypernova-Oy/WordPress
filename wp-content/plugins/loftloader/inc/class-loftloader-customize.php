@@ -46,7 +46,7 @@ if ( ! class_exists( 'LoftLoader_Customize' ) ) {
 		public function customize_scripts() {
 			global $wp_scripts, $wp_styles;
 			$js_url = LOFTLOADER_URI . 'assets/js/customize.min.js';
-			$js_dep = array('jquery', 'wp-color-picker', 'jquery-ui-slider', 'customize-controls');
+			$js_dep = array('jquery', 'wp-color-picker', 'jquery-ui-slider', 'customize-controls', 'media-editor' );
 			$ui_css = LOFTLOADER_URI . 'assets/css/jquery-ui.css';
 			$loader_css = LOFTLOADER_URI . 'assets/css/loftloader-settings.min.css';
 
@@ -57,12 +57,12 @@ if ( ! class_exists( 'LoftLoader_Customize' ) ) {
 			wp_enqueue_style( 'loftloader-lite-ui', $ui_css, array(), LOFTLOADER_ASSET_VERSION );
 			wp_enqueue_style( 'loftloader-lite-customize', $loader_css, array(), LOFTLOADER_ASSET_VERSION );
 
-			foreach ( $wp_scripts->registered as $h => $o ) { 
+			foreach ( $wp_scripts->registered as $h => $o ) {
 				if ( strpos($o->src, 'wp-content/themes') !== false ) {
 					wp_dequeue_script( $h );
 				}
 			};
-			foreach ( $wp_styles->registered as $h => $o ) { 
+			foreach ( $wp_styles->registered as $h => $o ) {
 				if ( strpos($o->src, 'wp-content/themes') !== false ) {
 					wp_dequeue_style( $h );
 				}
@@ -102,8 +102,8 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 				$switch = $this->manager->get_setting('loftloader_main_switch')->value();
 				$classes = 'accordion-section control-section control-section-' . $this->type; ?>
 
-				<li 
-					id="accordion-section-<?php echo esc_attr( $this->id ); ?>" 
+				<li
+					id="accordion-section-<?php echo esc_attr( $this->id ); ?>"
 					class="accordion-section control-section control-section-<?php echo esc_attr( $this->type ); ?>"
 				>
 					<h3 class="accordion-section-title" tabindex="0">
@@ -127,7 +127,7 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 							endif; ?>
 						</li>
 					</ul>
-				</li> <?php 
+				</li> <?php
 			else :
 				parent::render();
 			endif;
@@ -139,7 +139,7 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 		public $filter = false;
 		public $parent_setting_id = '';
 		public $show_filter = array();
-		public $img = ''; 
+		public $img = '';
 		public $href = '';
 		public function active_callback() {
 			if ( $this->filter && ( $this->manager->get_setting($this->parent_setting_id ) instanceof WP_Customize_Setting ) && ! empty( $this->show_filter ) ) {
@@ -151,28 +151,28 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 		public function render_content() {
 			switch ( $this->type ) {
 				case 'loftloader-ad':
-					if ( ! empty( $this->label ) ) : ?> 
-						<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span> <?php 
+					if ( ! empty( $this->label ) ) : ?>
+						<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span> <?php
 					endif;
-					if ( ! empty( $this->img ) ) : ?> 
+					if ( ! empty( $this->img ) ) : ?>
 						<a href="<?php echo esc_url( $this->href ); ?>" target="_blank">
 							<img src="<?php echo esc_url( $this->img ); ?>" >
-						</a> <?php 
+						</a> <?php
 					endif; ?>
 					<div class="customize-control-notifications-container"></div> <?php
 					break;
 				case 'loftloader-any-page':
-					if ( ! empty( $this->label ) ) : ?> 
-						<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span> <?php 
+					if ( ! empty( $this->label ) ) : ?>
+						<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span> <?php
 					endif;
-					if ( ! empty( $this->description ) ) : ?> 
-						<span class="description customize-control-description"><?php echo wp_kses_post( $this->description ); ?></span> <?php 
+					if ( ! empty( $this->description ) ) : ?>
+						<span class="description customize-control-description"><?php echo wp_kses_post( $this->description ); ?></span> <?php
 					endif; ?>
-					<input 
-						type="button" 
-						<?php $this->link(); ?> 
-						class="button button-primary loftloader-any-page-generate" 
-						value="<?php esc_attr_e( 'Generate', 'loftloader' ); ?>" 
+					<input
+						type="button"
+						<?php $this->link(); ?>
+						class="button button-primary loftloader-any-page-generate"
+						value="<?php esc_attr_e( 'Generate', 'loftloader' ); ?>"
 					/><br/><br/>
 					<textarea class="loftloader-any-page-shortcode" cols="30" rows="4"></textarea>
 					<div class="customize-control-notifications-container"></div> <?php
@@ -183,7 +183,7 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 							<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span> <?php
 						endif;
 						if ( ! empty( $this->description ) ) : ?>
-							<span class="description customize-control-description"><?php echo wp_kses_post( $this->description ); ?></span> <?php 
+							<span class="description customize-control-description"><?php echo wp_kses_post( $this->description ); ?></span> <?php
 						endif; ?>
 							<input class="loftlader-checkbox" type="checkbox" value="on" name="<?php echo esc_attr( $this->id ); ?>" <?php checked( 'on', $this->value() ); ?> />
 							<input style="display:none;" type="checkbox" value="on" <?php $this->link(); ?> <?php checked( 'on', $this->value() ); ?> />
@@ -230,16 +230,16 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 
 			<label class="amount opacity"> <?php
 			if ( ! empty( $this->label ) ) : ?>
-				<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span> <?php 
+				<span class="customize-control-title"><?php echo esc_html( $this->label ); ?></span> <?php
 			endif; ?>
 				<span class="<?php echo esc_attr( $this->input_class ); ?>">
 					<input readonly="readonly" type="text" <?php $this->link(); ?> value="<?php echo esc_attr( $this->value() ); ?>" >
 					<?php echo wp_kses_post( $this->after_text ); ?>
 				</span>
 			</label>
-			<div 
-				class="ui-slider loader-ui-slider" 
-				data-value="<?php echo esc_attr( $this->manager->get_setting($this->id)->value() ); ?>" 
+			<div
+				class="ui-slider loader-ui-slider"
+				data-value="<?php echo esc_attr( $this->manager->get_setting($this->id)->value() ); ?>"
 				<?php $this->input_attrs(); ?>
 			>
 			</div>
@@ -275,15 +275,15 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 					$item_id = sanitize_title( $this->id . '-' . $value );
 				?>
 				<label for="<?php echo esc_attr( $item_id ); ?>" title="<?php echo esc_attr($attrs['label']); ?>">
-					<input 
-						id="<?php echo esc_attr( $item_id ); ?>" 
-						class="loftloader-radiobtn <?php echo esc_attr( $value ); ?>" 
-						type="radio" 
-						value="<?php echo esc_attr( $value ); ?>" 
-						name="<?php echo esc_attr( $name ); ?>" 
+					<input
+						id="<?php echo esc_attr( $item_id ); ?>"
+						class="loftloader-radiobtn <?php echo esc_attr( $value ); ?>"
+						type="radio"
+						value="<?php echo esc_attr( $value ); ?>"
+						name="<?php echo esc_attr( $name ); ?>"
 						<?php $this->link(); ?>
-						<?php checked( $this->value(), $value ); ?> 
-						<?php echo wp_kses_post( $attr ); ?> 
+						<?php checked( $this->value(), $value ); ?>
+						<?php echo wp_kses_post( $attr ); ?>
 					/>
 					<span></span>
 				</label>
@@ -306,12 +306,12 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 					<span class="description customize-control-description"><?php echo wp_kses_post( $this->description ); ?></span>
 				<?php endif; ?>
 				<span class="<?php echo esc_attr($this->input_wrap_class); ?>">
-					<input 
-						class="<?php echo esc_attr( $this->input_class ); ?>" 
-						type="<?php echo esc_attr( $this->type ); ?>" 
-						<?php $this->input_attrs(); ?> 
-						value="<?php echo esc_attr( $this->value() ); ?>" 
-						<?php $this->link(); ?> 
+					<input
+						class="<?php echo esc_attr( $this->input_class ); ?>"
+						type="<?php echo esc_attr( $this->type ); ?>"
+						<?php $this->input_attrs(); ?>
+						value="<?php echo esc_attr( $this->value() ); ?>"
+						<?php $this->link(); ?>
 					/>
 					<?php echo esc_attr( $this->after_text ); ?>
 				</span>

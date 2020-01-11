@@ -6,7 +6,7 @@
  * Author: Kaylolo Yinxi Chen @Loft.Ocean
  * Author URI: http://www.loftocean.com
  * Description: LoftLoader (Lite Version) is a plugin for adding beautiful and smooth preload animation to your WordPress website. With setting options, you can choose from preset animations, add custom logo image, choose colours to match your branding, and amuse and impress your visitors while loading site content.
- * Version: 2.1.9
+ * Version: 2.1.12
 */
 @-webkit-keyframes spinReturn {
   0% {
@@ -539,7 +539,7 @@ body {
     margin: 0 auto; }
   #loftloader-wrapper.pl-imgloading #loader img {
     opacity: 0.3; }
-  #loftloader-wrapper.pl-imgloading #loader span {
+  #loftloader-wrapper.pl-imgloading #loader .imgloading-container {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -548,11 +548,23 @@ body {
     width: 100%;
     height: 0%;
     transition: 0s;
+    overflow: hidden;
+    -webkit-animation: imgLoading 6s linear infinite;
+    animation: imgLoading 6s linear infinite;
+    will-change: height, opacity;
+    transform-origin: 0 100%; }
+  #loftloader-wrapper.pl-imgloading #loader span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 3;
+    display: block;
+    width: 100%;
+    height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center bottom;
-    -webkit-animation: imgLoading 6s linear infinite;
-    animation: imgLoading 6s linear infinite; }
+    transition: 0s; }
 
 /* ==========================================================================
    Loading - Beating

@@ -17,7 +17,7 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 		protected $type; // Get the loader settings
 		public function __construct() {
 			$this->get_settings();
-			$this->start_cache();
+			$this->init_cache();
 			if ( $this->loader_enabled() ) {
 				add_action( 'wp_enqueue_scripts', array( $this, 'enqueue_scripts' ) );
 				add_action( 'wp_head', array( $this, 'loader_custom_styles' ), 100 );
@@ -26,14 +26,20 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 			}
 		}
 		/**
+		* Init cache for outputing
+		*/
+		public function init_cache() {
+			// Only for front view
+			if ( ! is_admin() ) {
+				add_action( 'wp_head', array( $this, 'start_cache' ) );
+				add_action( 'wp_footer', array( $this, 'modify_html' ), 99999 );
+			}
+		}
+		/**
 		* Start cache for outputing
 		*/
 		public function start_cache() {
-			// Only for front view
-			if ( ! is_admin() ) {
-				// Start cache the output with callback function
-				ob_start( array( $this, 'modify_html' ) );
-			}
+			ob_start();
 		}
 		/**
 		* Will be called when flush cache
@@ -41,11 +47,12 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 		* @param string cached string
 		* @return string modified cached string
 		*/
-		public function modify_html( $html ) {
+		public function modify_html() {
+			$html = ob_get_clean();
 			if ( $this->site_header_loaded && $this->site_footer_loaded ) {
-				return apply_filters( 'loftloader_modify_html', $html );
+				echo apply_filters( 'loftloader_modify_html', $html );
 			} else {
-				return $html;
+				echo $html;
 			}
 		}
 		/**
@@ -163,8 +170,17 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 
 					$html  = '<div id="loftloader-wrapper" class="pl-' . $this->type . '"' . $this->loader_attributes() . '>';
 					$html .= '<div class="loader-inner"><div id="loader">';
-					$html .= in_array($this->type, array('frame', 'imgloading'))
-						? ('<span></span>' . (empty($image) ? '' : ('<img src="' . $image . '" alt="preloder">'))) : '<span></span>';
+
+					if ( ! empty( $image ) ) {
+						// <!-- Only  image loading need the span with background -->
+						if ( in_array( $this->type, array( 'imgloading' ) ) ) {
+							$html .= $this->get_loader_type_loading_bg_image( $image );
+						}
+						if ( in_array( $this->type, array( 'frame', 'imgloading' ) ) ) {
+							$html .= sprintf( '<img alt="%1$s" src="%2$s">', esc_attr__( 'loader image', 'loftloader-pro' ), esc_url( $image ) );
+						}
+					}
+					$html .= in_array( $this->type, array( 'imgloading' ) ) ? '' : '<span></span>';
 					$html .= '</div></div>';
 					switch($ending){
 						case 'fade':
@@ -196,6 +212,18 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 				}
 			}
 			return $origin;
+		}
+		/**
+		* Background image for loader type loading with custom image
+		*
+		* @param url image url
+		* @return string html
+		*/
+		private function get_loader_type_loading_bg_image( $image ) {
+			return sprintf(
+				'<div class="imgloading-container"><span style="background-image: url(%s);"></span></div>',
+				esc_url( $image )
+			);
 		}
 		/**
 		* Helper function to add manual loader settings
