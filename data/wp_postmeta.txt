@@ -156,7 +156,7 @@
 311	230	_wp_page_template	
 312	230	_wpml_media_featured	1
 313	230	_wpml_media_duplicate	1
-314	230	_edit_lock	1567208323:1
+314	230	_edit_lock	1578701486:1
 315	232	_menu_item_type	post_type
 316	232	_menu_item_menu_item_parent	0
 317	232	_menu_item_object_id	230
@@ -1163,18 +1163,6 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 533	451	_wp_attached_file	2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png
 534	451	wpml_media_processed	1
 535	450	_wp_attachment_metadata	a:5:{s:5:"width";i:744;s:6:"height";i:744;s:4:"file";s:50:"2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
-536	452	_edit_lock	1567208641:1
-537	452	_wp_trash_meta_status	publish
-538	452	_wp_trash_meta_time	1567208674
-539	453	_edit_lock	1567208728:1
-540	453	_wp_trash_meta_status	publish
-541	453	_wp_trash_meta_time	1567208734
-542	454	_wp_trash_meta_status	publish
-543	454	_wp_trash_meta_time	1567208762
-544	455	_wp_trash_meta_status	publish
-545	455	_wp_trash_meta_time	1567208793
-546	456	_wp_trash_meta_status	publish
-547	456	_wp_trash_meta_time	1567208807
 548	458	_edit_last	1
 549	458	_wpml_media_featured	1
 550	458	_wpml_media_duplicate	1
@@ -1182,7 +1170,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 552	459	_edit_last	1
 553	459	_wpml_media_featured	1
 554	459	_wpml_media_duplicate	1
-555	459	_edit_lock	1568300782:1
+555	459	_edit_lock	1578701353:1
 556	461	_menu_item_type	post_type
 557	461	_menu_item_menu_item_parent	0
 558	461	_menu_item_object_id	459
@@ -1210,7 +1198,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 581	475	_wp_page_template	
 582	475	_wpml_media_featured	1
 583	475	_wpml_media_duplicate	1
-584	475	_edit_lock	1568300869:1
+584	475	_edit_lock	1578701537:1
 585	477	_menu_item_type	post_type
 586	477	_menu_item_menu_item_parent	0
 587	477	_menu_item_object_id	475
@@ -1241,11 +1229,6 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 616	489	_wp_attachment_metadata	a:5:{s:5:"width";i:960;s:6:"height";i:1280;s:4:"file";s:22:"2019/09/lainuri2-1.png";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:22:"lainuri2-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:22:"lainuri2-1-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:23:"lainuri2-1-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:23:"lainuri2-1-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:22:"lainuri2-1-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
 617	489	_wp_attachment_image_alt	Lainuri
 618	490	_wp_attachment_image_alt	Lainuri
-619	493	_edit_lock	1568671116:1
-620	493	_customize_restore_dismissed	1
-621	494	_edit_lock	1568671580:1
-622	494	_wp_trash_meta_status	publish
-623	494	_wp_trash_meta_time	1568671588
 624	495	_menu_item_type	post_type
 625	495	_menu_item_menu_item_parent	388
 626	495	_menu_item_object_id	429

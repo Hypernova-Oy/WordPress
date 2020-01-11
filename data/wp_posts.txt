@@ -12018,91 +12018,6 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:paragraph -->	Koha		inherit	closed	closed		386-revision-v1			2019-08-30 23:19:42	2019-08-30 23:19:42		386	http://homepage/386-revision-v1/	0	revision		0
 450	1	2019-08-30 23:42:29	2019-08-30 23:42:29		logo_teemme-ilmastotyota_ilmantekstiä		inherit	open	closed		logo_teemme-ilmastotyota_ilmantekstia			2019-08-30 23:42:29	2019-08-30 23:42:29		0	http://homepage/wp-content/uploads/2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png	0	attachment	image/png	0
 451	1	2019-08-30 23:42:29	2019-08-30 23:42:29		logo_teemme-ilmastotyota_ilmantekstiä		inherit	open	closed		logo_teemme-ilmastotyota_ilmantekstia-2			2019-08-30 23:42:29	2019-08-30 23:42:29		0	http://homepage/wp-content/uploads/2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png	0	attachment	image/png	0
-452	1	2019-08-30 23:44:34	2019-08-30 23:44:34	{\
-    "sidebars_widgets[footer-3]": {\
-        "value": [\
-            "media_image-3",\
-            "media_image-5"\
-        ],\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-08-30 23:43:06"\
-    },\
-    "widget_media_image[5]": {\
-        "value": {\
-            "encoded_serialized_instance": "YToxNjp7czo0OiJzaXplIjtzOjk6InRodW1ibmFpbCI7czo1OiJ3aWR0aCI7aToxNTA7czo2OiJoZWlnaHQiO2k6MTUwO3M6NzoiY2FwdGlvbiI7czowOiIiO3M6MzoiYWx0IjtzOjIyOiJUZWVtbWUgaWxtYXN0b3R5w7Z0w6QhIjtzOjk6ImxpbmtfdHlwZSI7czo2OiJjdXN0b20iO3M6ODoibGlua191cmwiO3M6NTU6Imh0dHA6Ly9jbGltYXRlam9lbnN1dS5maS8tL2lsbWFzdG9rdW1wcGFuaS1oeXBlcm5vdmEtb3kiO3M6MTM6ImltYWdlX2NsYXNzZXMiO3M6MDoiIjtzOjEyOiJsaW5rX2NsYXNzZXMiO3M6MDoiIjtzOjg6ImxpbmtfcmVsIjtzOjA6IiI7czoxNzoibGlua190YXJnZXRfYmxhbmsiO2I6MDtzOjExOiJpbWFnZV90aXRsZSI7czowOiIiO3M6MTM6ImF0dGFjaG1lbnRfaWQiO2k6NDUwO3M6MzoidXJsIjtzOjkzOiJodHRwOi8vaG9tZXBhZ2Uvd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDgvbG9nb190ZWVtbWUtaWxtYXN0b3R5b3RhX2lsbWFudGVrc3Rpw6QtMTUweDE1MC5wbmciO3M6NToidGl0bGUiO3M6MTc6IklsbWFzdG9rdW1wcGFudXVzIjtzOjEzOiJ3cG1sX2xhbmd1YWdlIjtzOjI6ImZpIjt9",\
-            "title": "Ilmastokumppanuus",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "be7fe4981476c2b9977df40dbc1f4d0e"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-08-30 23:44:34"\
-    }\
-}			trash	closed	closed		bb68f7cd-3145-4142-97c3-00f40cc0fc4a			2019-08-30 23:44:34	2019-08-30 23:44:34		0	http://homepage/?p=452	0	customize_changeset		0
-453	1	2019-08-30 23:45:34	2019-08-30 23:45:34	{\
-    "sidebars_widgets[footer-3]": {\
-        "value": [\
-            "media_image-3",\
-            "media_image-5",\
-            "media_image-6"\
-        ],\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-08-30 23:45:07"\
-    },\
-    "widget_media_image[6]": {\
-        "value": {\
-            "encoded_serialized_instance": "YToxNjp7czo0OiJzaXplIjtzOjk6InRodW1ibmFpbCI7czo1OiJ3aWR0aCI7aToxNTA7czo2OiJoZWlnaHQiO2k6MTUwO3M6NzoiY2FwdGlvbiI7czo4MzoiV29ya2luZyBmb3IgdGhlIGNsaW1hdGUhIEh5cGVybm92YSBPeSBhbmQgdGhlIGNpdHkgb2YgSm9lbnN1dSBhcmUgY2xpbWF0ZSBwYXJ0bmVycy4iO3M6MzoiYWx0IjtzOjI0OiJXb3JraW5nIGZvciB0aGUgY2xpbWF0ZSEiO3M6OToibGlua190eXBlIjtzOjY6ImN1c3RvbSI7czo4OiJsaW5rX3VybCI7czo1NToiaHR0cDovL2NsaW1hdGVqb2Vuc3V1LmZpLy0vaWxtYXN0b2t1bXBwYW5pLWh5cGVybm92YS1veSI7czoxMzoiaW1hZ2VfY2xhc3NlcyI7czowOiIiO3M6MTI6ImxpbmtfY2xhc3NlcyI7czowOiIiO3M6ODoibGlua19yZWwiO3M6MDoiIjtzOjE3OiJsaW5rX3RhcmdldF9ibGFuayI7YjowO3M6MTE6ImltYWdlX3RpdGxlIjtzOjA6IiI7czoxMzoiYXR0YWNobWVudF9pZCI7aTo0NTA7czozOiJ1cmwiO3M6OTM6Imh0dHA6Ly9ob21lcGFnZS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wOC9sb2dvX3RlZW1tZS1pbG1hc3RvdHlvdGFfaWxtYW50ZWtzdGnDpC0xNTB4MTUwLnBuZyI7czo1OiJ0aXRsZSI7czowOiIiO3M6MTM6IndwbWxfbGFuZ3VhZ2UiO3M6MjoiZW4iO30=",\
-            "title": "",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "b4c195c370913094f8cfa8ea43026aa2"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-08-30 23:45:34"\
-    }\
-}			trash	closed	closed		59257952-b9c8-4e7d-b664-0b339b2bee6b			2019-08-30 23:45:34	2019-08-30 23:45:34		0	http://homepage/?p=453	0	customize_changeset		0
-454	1	2019-08-30 23:46:02	2019-08-30 23:46:02	{\
-    "widget_media_image[5]": {\
-        "value": {\
-            "encoded_serialized_instance": "YToxNjp7czo0OiJzaXplIjtzOjk6InRodW1ibmFpbCI7czo1OiJ3aWR0aCI7aToxNTA7czo2OiJoZWlnaHQiO2k6MTUwO3M6NzoiY2FwdGlvbiI7czo4MToiVGVlbW1lIGlsbWFzdG90ecO2dMOkISBIeXBlcm5vdmEgT3kgamEgSm9lbnN1dW4ga2F1cHVua2kgb3ZhdCBpbG1hc3Rva3VtcHBhbmVpdGEuIjtzOjM6ImFsdCI7czoyMjoiVGVlbW1lIGlsbWFzdG90ecO2dMOkISI7czo5OiJsaW5rX3R5cGUiO3M6NjoiY3VzdG9tIjtzOjg6ImxpbmtfdXJsIjtzOjU1OiJodHRwOi8vY2xpbWF0ZWpvZW5zdXUuZmkvLS9pbG1hc3Rva3VtcHBhbmktaHlwZXJub3ZhLW95IjtzOjEzOiJpbWFnZV9jbGFzc2VzIjtzOjA6IiI7czoxMjoibGlua19jbGFzc2VzIjtzOjA6IiI7czo4OiJsaW5rX3JlbCI7czowOiIiO3M6MTc6ImxpbmtfdGFyZ2V0X2JsYW5rIjtiOjA7czoxMToiaW1hZ2VfdGl0bGUiO3M6MTc6IklsbWFzdG9rdW1wcGFudXVzIjtzOjEzOiJhdHRhY2htZW50X2lkIjtpOjQ1MDtzOjM6InVybCI7czo5MzoiaHR0cDovL2hvbWVwYWdlL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA4L2xvZ29fdGVlbW1lLWlsbWFzdG90eW90YV9pbG1hbnRla3N0acOkLTE1MHgxNTAucG5nIjtzOjU6InRpdGxlIjtzOjE3OiJJbG1hc3Rva3VtcHBhbnV1cyI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJmaSI7fQ==",\
-            "title": "Ilmastokumppanuus",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "2fc18a3430bbedc0f15fa2a156e40566"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-08-30 23:46:02"\
-    }\
-}			trash	closed	closed		68587928-c0a4-4455-bc4c-9a0f1c20195d			2019-08-30 23:46:02	2019-08-30 23:46:02		0	http://homepage/68587928-c0a4-4455-bc4c-9a0f1c20195d/	0	customize_changeset		0
-455	1	2019-08-30 23:46:33	2019-08-30 23:46:33	{\
-    "widget_media_image[5]": {\
-        "value": {\
-            "encoded_serialized_instance": "YToxNjp7czo0OiJzaXplIjtzOjY6Im1lZGl1bSI7czo1OiJ3aWR0aCI7aTozMDA7czo2OiJoZWlnaHQiO2k6MzAwO3M6NzoiY2FwdGlvbiI7czo4MToiVGVlbW1lIGlsbWFzdG90ecO2dMOkISBIeXBlcm5vdmEgT3kgamEgSm9lbnN1dW4ga2F1cHVua2kgb3ZhdCBpbG1hc3Rva3VtcHBhbmVpdGEuIjtzOjM6ImFsdCI7czoyMjoiVGVlbW1lIGlsbWFzdG90ecO2dMOkISI7czo5OiJsaW5rX3R5cGUiO3M6NjoiY3VzdG9tIjtzOjg6ImxpbmtfdXJsIjtzOjU1OiJodHRwOi8vY2xpbWF0ZWpvZW5zdXUuZmkvLS9pbG1hc3Rva3VtcHBhbmktaHlwZXJub3ZhLW95IjtzOjEzOiJpbWFnZV9jbGFzc2VzIjtzOjA6IiI7czoxMjoibGlua19jbGFzc2VzIjtzOjA6IiI7czo4OiJsaW5rX3JlbCI7czowOiIiO3M6MTc6ImxpbmtfdGFyZ2V0X2JsYW5rIjtiOjA7czoxMToiaW1hZ2VfdGl0bGUiO3M6MTc6IklsbWFzdG9rdW1wcGFudXVzIjtzOjEzOiJhdHRhY2htZW50X2lkIjtpOjQ1MDtzOjM6InVybCI7czo5MzoiaHR0cDovL2hvbWVwYWdlL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzA4L2xvZ29fdGVlbW1lLWlsbWFzdG90eW90YV9pbG1hbnRla3N0acOkLTMwMHgzMDAucG5nIjtzOjU6InRpdGxlIjtzOjE3OiJJbG1hc3Rva3VtcHBhbnV1cyI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJmaSI7fQ==",\
-            "title": "Ilmastokumppanuus",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "1cac8a6ae21058b5c8bdbce173c4f29c"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-08-30 23:46:33"\
-    }\
-}			trash	closed	closed		9739627c-d0b0-44e2-b4e2-0f73c5045ce8			2019-08-30 23:46:33	2019-08-30 23:46:33		0	http://homepage/9739627c-d0b0-44e2-b4e2-0f73c5045ce8/	0	customize_changeset		0
-456	1	2019-08-30 23:46:47	2019-08-30 23:46:47	{\
-    "widget_media_image[6]": {\
-        "value": {\
-            "encoded_serialized_instance": "YToxNjp7czo0OiJzaXplIjtzOjY6Im1lZGl1bSI7czo1OiJ3aWR0aCI7aTozMDA7czo2OiJoZWlnaHQiO2k6MzAwO3M6NzoiY2FwdGlvbiI7czo4MzoiV29ya2luZyBmb3IgdGhlIGNsaW1hdGUhIEh5cGVybm92YSBPeSBhbmQgdGhlIGNpdHkgb2YgSm9lbnN1dSBhcmUgY2xpbWF0ZSBwYXJ0bmVycy4iO3M6MzoiYWx0IjtzOjI0OiJXb3JraW5nIGZvciB0aGUgY2xpbWF0ZSEiO3M6OToibGlua190eXBlIjtzOjY6ImN1c3RvbSI7czo4OiJsaW5rX3VybCI7czo1NToiaHR0cDovL2NsaW1hdGVqb2Vuc3V1LmZpLy0vaWxtYXN0b2t1bXBwYW5pLWh5cGVybm92YS1veSI7czoxMzoiaW1hZ2VfY2xhc3NlcyI7czowOiIiO3M6MTI6ImxpbmtfY2xhc3NlcyI7czowOiIiO3M6ODoibGlua19yZWwiO3M6MDoiIjtzOjE3OiJsaW5rX3RhcmdldF9ibGFuayI7YjowO3M6MTE6ImltYWdlX3RpdGxlIjtzOjA6IiI7czoxMzoiYXR0YWNobWVudF9pZCI7aTo0NTA7czozOiJ1cmwiO3M6OTM6Imh0dHA6Ly9ob21lcGFnZS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wOC9sb2dvX3RlZW1tZS1pbG1hc3RvdHlvdGFfaWxtYW50ZWtzdGnDpC0zMDB4MzAwLnBuZyI7czo1OiJ0aXRsZSI7czowOiIiO3M6MTM6IndwbWxfbGFuZ3VhZ2UiO3M6MjoiZW4iO30=",\
-            "title": "",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "f751aa25163bcae46913b95f6e3e0d30"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-08-30 23:46:47"\
-    }\
-}			trash	closed	closed		81814ecf-7fac-4f20-b176-a2914ec3e010			2019-08-30 23:46:47	2019-08-30 23:46:47		0	http://homepage/81814ecf-7fac-4f20-b176-a2914ec3e010/	0	customize_changeset		0
-457	1	2019-09-11 14:59:26	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2019-09-11 14:59:26	0000-00-00 00:00:00		0	http://homepage/?p=457	0	post		0
 458	1	2019-09-11 14:59:49	0000-00-00 00:00:00		Lainuri		draft	open	open					2019-09-11 14:59:49	2019-09-11 14:59:49		0	http://homepage/?p=458	0	post		0
 459	1	2019-09-11 15:00:54	2019-09-11 15:00:54	<!-- wp:paragraph -->\
 <p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
@@ -12393,7 +12308,7 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <p>Pyydä meiltä tarjousta!</p>\
 <!-- /wp:paragraph -->	Lainuri-lainausautomaatti		inherit	closed	closed		459-revision-v1			2019-09-11 19:19:02	2019-09-11 19:19:02		459	http://homepage/459-revision-v1/	0	revision		0
 475	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
-<p>Lainuri is a free and open source and hardware "plug &amp; play" self-check in machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work.</p>\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
@@ -12448,7 +12363,7 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 \
 <!-- wp:paragraph -->\
 <p>Ask us for a quotation!</p>\
-<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-self-check-in-machine			2019-09-12 15:07:49	2019-09-12 15:07:49		0	http://homepage/?page_id=475	0	page		0
+<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-self-check-in-machine			2020-01-11 00:12:17	2020-01-11 00:12:17		0	http://homepage/?page_id=475	0	page		0
 476	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
 \
 Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.\
@@ -12991,43 +12906,121 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p>Ask us for a quotation!</p>\
 <!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2019-09-12 15:07:48	2019-09-12 15:07:48		475	http://homepage/475-revision-v1/	0	revision		0
-493	1	2019-09-16 21:58:36	0000-00-00 00:00:00	{\
-    "widget_custom_html[3]": {\
-        "value": {\
-            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1NjA6IkthdXBwYWthdHUgMjUgQyA0MDk8YnIgLz4NCjgwMTAwIEpvZW5zdXU8YnIgLz4NCjxzdHJvbmc+RklOTEFORDwvc3Ryb25nPjxiciAvPg0KPGJyIC8+DQo8aT5WQVQgSUQ6IEZJMjkyNTY3NjM8L2k+PGJyIC8+DQo8YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86aW5mb0BoeXBlcm5vdmEuZmkiPmluZm9AaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLXBob25lLXNxdWFyZSI+PC9pPiA8YSBocmVmPSJ0ZWw6KzM1ODQ0OTg1NzMzNyI+KzM1ODQ0OTg1NzMzNzwvYT48YnIgLz4NCjxiciAvPg0KPGgzPlRvdmVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86YXNpYWthc3BhbHZlbHVAdG92ZXJpLmh5cGVybm92YS5maSI+YXNpYWthc3BhbHZlbHVAdG92ZXJpLmh5cGVybm92YS5maTwvYT48YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1waG9uZS1zcXVhcmUiPjwvaT4gPGEgaHJlZj0idGVsOiszNTg0MDgzODMxNTgiPiszNTg0MDgzODMxNTg8L2E+PGJyIC8+IjtzOjEzOiJ3cG1sX2xhbmd1YWdlIjtzOjI6ImVuIjt9",\
-            "title": "Hypernova Oy",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "b28abbb14ee98ce7601cc5abee04c9a1"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-09-16 21:58:36"\
-    }\
-}			auto-draft	closed	closed		271c219e-125f-44ea-8cd7-e890fc5db1ba			2019-09-16 21:58:36	0000-00-00 00:00:00		0	http://homepage/?p=493	0	customize_changeset		0
-494	1	2019-09-16 22:06:28	2019-09-16 22:06:28	{\
-    "widget_custom_html[3]": {\
-        "value": {\
-            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo3NTM6IkthdXBwYWthdHUgMjUgQyA0MDk8YnIgLz4NCjgwMTAwIEpvZW5zdXU8YnIgLz4NCjxzdHJvbmc+RklOTEFORDwvc3Ryb25nPjxiciAvPg0KPGJyIC8+DQo8aT5WQVQgSUQ6IEZJMjkyNTY3NjM8L2k+PGJyIC8+DQo8YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86aW5mb0BoeXBlcm5vdmEuZmkiPmluZm9AaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLXBob25lLXNxdWFyZSI+PC9pPiA8YSBocmVmPSJ0ZWw6KzM1ODQ0OTg1NzMzNyI+KzM1ODQ0OTg1NzMzNzwvYT48YnIgLz4NCjxiciAvPg0KPGgzPlRvdmVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86dG92ZXJpQGh5cGVybm92YS5maSI+dG92ZXJpQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1waG9uZS1zcXVhcmUiPjwvaT4gPGEgaHJlZj0idGVsOiszNTg0MDgzODMxNTgiPiszNTg0MDgzODMxNTg8L2E+PGJyIC8+DQo8YnIgLz4NCjxoMz5MYWludXJpIFN1cHBvcnQ8L2gzPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzpsYWludXJpQGh5cGVybm92YS5maSI+bGFpbnVyaUBoeXBlcm5vdmEuZmk8L2E+PGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtcGhvbmUtc3F1YXJlIj48L2k+IDxhIGhyZWY9InRlbDorMzU4NDA4MzgzMTU4Ij4rMzU4NDA4MzgzMTU4PC9hPjxiciAvPiI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJlbiI7fQ==",\
-            "title": "Hypernova Oy",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "f45a92abcbda8cc4a8b65355a1e48306"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-09-16 22:06:20"\
-    },\
-    "widget_custom_html[9]": {\
-        "value": {\
-            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo3NjY6IkthdXBwYWthdHUgMjUgQyA0MDk8YnIgLz4NCjgwMTAwIEpvZW5zdXU8YnIgLz4NCjxzdHJvbmc+U1VPTUk8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPGk+WS10dW5udXM6IDI5MjU2NzYtMzwvaT48YnIgLz4NCjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzppbmZvQGh5cGVybm92YS5maSI+aW5mb0BoeXBlcm5vdmEuZmk8L2E+PGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtcGhvbmUtc3F1YXJlIj48L2k+IDxhIGhyZWY9InRlbDorMzU4NDQ5ODU3MzM3Ij4rMzU4NDQ5ODU3MzM3PC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+VG92ZXJpIGFzaWFrYXNwYWx2ZWx1PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86dG92ZXJpQGh5cGVybm92YS5maSI+dG92ZXJpQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1waG9uZS1zcXVhcmUiPjwvaT4gPGEgaHJlZj0idGVsOiszNTg0MDgzODMxNTgiPiszNTg0MDgzODMxNTg8L2E+PGJyIC8+DQo8YnIgLz4NCjxoMz5MYWludXJpIGFzaWFrYXNwYWx2ZWx1PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86bGFpbnVyaUBoeXBlcm5vdmEuZmkiPmxhaW51cmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLXBob25lLXNxdWFyZSI+PC9pPiA8YSBocmVmPSJ0ZWw6KzM1ODQwODM4MzE1OCI+KzM1ODQwODM4MzE1ODwvYT48YnIgLz4iO3M6MTM6IndwbWxfbGFuZ3VhZ2UiO3M6MjoiZmkiO30=",\
-            "title": "Hypernova Oy",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "fd6393b3305805f93f02ab87582b7e63"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2019-09-16 22:06:28"\
-    }\
-}			trash	closed	closed		e0c66b5e-dfd3-4b51-ae0c-5aad2ed24759			2019-09-16 22:06:28	2019-09-16 22:06:28		0	http://homepage/?p=494	0	customize_changeset		0
 495	1	2019-09-16 23:01:05	2019-09-16 23:01:05	 			publish	closed	closed		495			2019-09-16 23:01:05	2019-09-16 23:01:05		0	http://homepage/?p=495	3	nav_menu_item		0
 496	1	2019-09-16 23:01:05	2019-09-16 23:01:05		Koha hosting – Request for Quotation		publish	closed	closed		koha-hosting-request-for-quotation			2019-09-16 23:01:05	2019-09-16 23:01:05		0	http://homepage/?p=496	4	nav_menu_item		0
 497	1	2019-09-16 23:01:16	2019-09-16 23:01:16		Koha ylläpitopalvelu – tarjouspyyntö		publish	closed	closed		koha-yllapitopalvelu-tarjouspyynto			2019-09-16 23:01:16	2019-09-16 23:01:16		0	http://homepage/?p=497	4	nav_menu_item		0
+498	1	2020-01-11 00:10:21	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-01-11 00:10:21	0000-00-00 00:00:00		0	http://homepage/?p=498	0	post		0
+499	1	2020-01-11 00:11:14	2020-01-11 00:11:14	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout (and check-in) in machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri uses common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>We send Lainuri by post - You plug it in - No hassle - Get Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":490} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-1-768x1024.png" alt="Lainuri" class="wp-image-490"/><figcaption>Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Choose your own material and color via our partner's <a href="https://cotter.co/materials">material selection</a>. Lainuri comes with your logo by default.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Ask us for a quotation!</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-01-11 00:11:14	2020-01-11 00:11:14		475	http://homepage/475-revision-v1/	0	revision		0
+500	1	2020-01-11 00:12:16	2020-01-11 00:12:16	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri uses common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>We send Lainuri by post - You plug it in - No hassle - Get Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":490} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-1-768x1024.png" alt="Lainuri" class="wp-image-490"/><figcaption>Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Choose your own material and color via our partner's <a href="https://cotter.co/materials">material selection</a>. Lainuri comes with your logo by default.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Ask us for a quotation!</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-01-11 00:12:16	2020-01-11 00:12:16		475	http://homepage/475-revision-v1/	0	revision		0
