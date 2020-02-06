@@ -2,3 +2,5 @@
 2	Uncategorized @fi	uncategorized-fi	0
 3	Top menu	top-menu	0
 4	FI - Top menu	fi-top-menu	0
+5	Services	services	0
+6	Palvelut	palvelut	0

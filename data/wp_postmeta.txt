@@ -1,7 +1,7 @@
 1	2	_wp_page_template	default
 2	3	_wp_page_template	default
 3	3	_edit_lock	1545235404:1
-4	2	_edit_lock	1567208314:1
+4	2	_edit_lock	1581005257:1
 7	2	_edit_last	1
 8	2	bento_sidebar_layout	full-width
 9	2	bento_title_position	left
@@ -61,7 +61,7 @@
 94	33	_wpml_media_featured	1
 95	2	_wpml_media_duplicate	1
 96	33	_wpml_media_duplicate	1
-98	33	_edit_lock	1567208352:1
+98	33	_edit_lock	1581007670:1
 99	33	_generate-sidebar-layout-meta	no-sidebar
 102	2	_generate-disable-headline	true
 103	46	_wp_attached_file	2018/12/pexels-photo-796602.jpeg
@@ -130,7 +130,7 @@
 242	153	_edit_last	1
 243	153	_wp_page_template	
 244	160	_menu_item_type	post_type
-245	160	_menu_item_menu_item_parent	0
+245	160	_menu_item_menu_item_parent	527
 246	160	_menu_item_object_id	153
 247	160	_menu_item_object	page
 248	160	_menu_item_target	
@@ -138,7 +138,7 @@
 250	160	_menu_item_xfn	
 251	160	_menu_item_url	
 253	161	_menu_item_type	post_type
-254	161	_menu_item_menu_item_parent	0
+254	161	_menu_item_menu_item_parent	528
 255	161	_menu_item_object_id	128
 256	161	_menu_item_object	page
 257	161	_menu_item_target	
@@ -158,7 +158,7 @@
 313	230	_wpml_media_duplicate	1
 314	230	_edit_lock	1578701486:1
 315	232	_menu_item_type	post_type
-316	232	_menu_item_menu_item_parent	0
+316	232	_menu_item_menu_item_parent	528
 317	232	_menu_item_object_id	230
 318	232	_menu_item_object	page
 319	232	_menu_item_target	
@@ -853,7 +853,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 454	386	_last_translation_edit_mode	native-editor
 455	386	_edit_lock	1567208305:1
 456	388	_menu_item_type	post_type
-457	388	_menu_item_menu_item_parent	0
+457	388	_menu_item_menu_item_parent	527
 458	388	_menu_item_object_id	386
 459	388	_menu_item_object	page
 460	388	_menu_item_target	
@@ -1141,7 +1141,7 @@ bm8tcmVwbHlAbWFpbC5oeXBlcm5vdmEuZmk=\
 334 UGFzc3dvcmQ6\
 cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 535 Authentication Failed
-514	2	_yoast_wpseo_content_score	90
+514	2	_yoast_wpseo_content_score	60
 515	33	_last_translation_edit_mode	native-editor
 516	386	_yoast_wpseo_content_score	30
 517	429	_edit_last	1
@@ -1170,9 +1170,9 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 552	459	_edit_last	1
 553	459	_wpml_media_featured	1
 554	459	_wpml_media_duplicate	1
-555	459	_edit_lock	1578701353:1
+555	459	_edit_lock	1581007550:1
 556	461	_menu_item_type	post_type
-557	461	_menu_item_menu_item_parent	0
+557	461	_menu_item_menu_item_parent	528
 558	461	_menu_item_object_id	459
 559	461	_menu_item_object	page
 560	461	_menu_item_target	
@@ -1200,7 +1200,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 583	475	_wpml_media_duplicate	1
 584	475	_edit_lock	1581002654:1
 585	477	_menu_item_type	post_type
-586	477	_menu_item_menu_item_parent	0
+586	477	_menu_item_menu_item_parent	527
 587	477	_menu_item_object_id	475
 588	477	_menu_item_object	page
 589	477	_menu_item_target	
@@ -1253,3 +1253,35 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 647	497	_menu_item_classes	a:1:{i:0;s:0:"";}
 648	497	_menu_item_xfn	
 649	497	_menu_item_url	
+650	525	_menu_item_type	custom
+651	525	_menu_item_menu_item_parent	0
+652	525	_menu_item_object_id	525
+653	525	_menu_item_object	custom
+654	525	_menu_item_target	_blank
+655	525	_menu_item_classes	a:1:{i:0;s:0:"";}
+656	525	_menu_item_xfn	
+657	525	_menu_item_url	https://redmine.hypernova.fi
+659	526	_menu_item_type	custom
+660	526	_menu_item_menu_item_parent	0
+661	526	_menu_item_object_id	526
+662	526	_menu_item_object	custom
+663	526	_menu_item_target	_blank
+664	526	_menu_item_classes	a:1:{i:0;s:0:"";}
+665	526	_menu_item_xfn	
+666	526	_menu_item_url	https://redmine.hypernova.fi
+668	527	_menu_item_type	taxonomy
+669	527	_menu_item_menu_item_parent	0
+670	527	_menu_item_object_id	5
+671	527	_menu_item_object	category
+672	527	_menu_item_target	
+673	527	_menu_item_classes	a:1:{i:0;s:0:"";}
+674	527	_menu_item_xfn	
+675	527	_menu_item_url	
+677	528	_menu_item_type	taxonomy
+678	528	_menu_item_menu_item_parent	0
+679	528	_menu_item_object_id	6
+680	528	_menu_item_object	category
+681	528	_menu_item_target	
+682	528	_menu_item_classes	a:1:{i:0;s:0:"";}
+683	528	_menu_item_xfn	
+684	528	_menu_item_url	

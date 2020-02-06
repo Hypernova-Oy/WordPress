@@ -65,3 +65,9 @@
 76	post_nav_menu_item	495	62	en	\N
 77	post_nav_menu_item	496	63	en	\N
 78	post_nav_menu_item	497	64	fi	\N
+79	post_nav_menu_item	525	65	en	\N
+80	post_nav_menu_item	526	66	fi	\N
+81	tax_category	5	67	en	\N
+82	tax_category	6	67	fi	en
+83	post_nav_menu_item	527	68	en	\N
+84	post_nav_menu_item	528	69	fi	\N
