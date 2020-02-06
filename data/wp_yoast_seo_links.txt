@@ -25,4 +25,4 @@
 118	https://github.com/KohaSuomi/Koha	230	0	external
 119	https://koha-community.org/download-koha/	230	0	external
 120	/fi/koha-yllapito-tarjouspyynto	314	366	internal
-124	https://cotter.co/materials	475	0	external
+126	https://cotter.co/materials	475	0	external
