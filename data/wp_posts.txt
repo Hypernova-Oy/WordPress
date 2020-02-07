@@ -71,13 +71,13 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 \
 <p><strong>Hypernova Oy</strong> on joensuulainen IT-järjestelmien asiantuntijayritys. Kutsumuksemme on edistää vapautta ja läpinäkyvyyttä yhteiskunnassa <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>vapaiden ja avoimien</em></a> järjestelmien avulla. Sen mukaisesti järjestelmät ovat vapaasti kaikkien käytettävissä, muokattavissa ja jaettavissa.</p>\
 <p>Kantavana ajatuksenamme on minimoida ylimääräiset kustannukset ja turha paperityö. Pystymme tuottamaan palvelumme hyvin kilpailukykyiseen hintaan käyttäen moderneja ja automatisoituja tukipalveluita. Toimintamme on lähes kokonaan digitalisoitu ja pyrimme toimimaan kokonaan ympäristöystävällisenä <em><a href="https://en.wikipedia.org/wiki/Paperless_office">paperittomana organisaationa</a></em>. Sen osoittaaksemme <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">olemme solmineet ilmastokumppanuuden</a> Joensuun kaupungin kanssa.</p>\
-<p>Avointen järjestelmien käyttämisen ja tukemisen ohella teemme julkista työajanseurantaa. Koska useat asiakkaamme tilaavat palveluitamme verovaroilla, koemme, että myös meidän työn täytyy olla läpinäkyvää. Veronmaksajalla on oikeus saada tietää miten hänen veroeuronsa käytetään. Siispä tsekkaa vaikka <a href="https://redmine.hypernova.fi/activity">mitä teimme tällä viikolla</a>. Voit seurata projektejamme <a href="https://redmine.hypernova.fi/">dokumentaatiojärjestelmästämme</a>. Kunnioitamme toisaalta myös yksityisiä yrityksiä ja neuvottelemme tapauskohtaisesti kyseisten asiakkaiden projektien avoimuuden.</p>\
+<p>Avointen järjestelmien käyttämisen ja tukemisen ohella teemme julkista työajanseurantaa. Katso <a href="https://redmine.hypernova.fi/activity">viimeaikaiset kirjauksemme</a> ja seuraa projektejamme <a href="https://redmine.hypernova.fi/">dokumentaatiojärjestelmässämme</a>.</p>\
 <p>Asiakkainamme on kuntia sekä kotimaisia että ulkomaisia yrityksiä. Kaikki palvelimemme sijaitsevat EU-alueella ja suurin osa Suomessa.</p>\
 <p>Kuten moni muu projektimme, myös tämä sivusto <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">on julkaistu GitHubissa</a>.</p>\
 \
 <!-- wp:paragraph -->\
 <p></p>\
-<!-- /wp:paragraph -->	Etusivu		publish	closed	open		hypernova			2020-02-06 16:44:54	2020-02-06 16:44:54		0	http://homepage/?page_id=33	0	page		0
+<!-- /wp:paragraph -->	Etusivu		publish	closed	open		hypernova			2020-02-07 14:57:12	2020-02-07 14:57:12		0	http://homepage/?page_id=33	0	page		0
 34	1	2018-12-19 14:21:32	2018-12-19 14:21:32		Hypernova		inherit	closed	closed		33-revision-v1			2018-12-19 14:21:32	2018-12-19 14:21:32		33	http://homepage/33-revision-v1/	0	revision		0
 36	1	2018-12-19 14:24:22	2018-12-19 14:24:22	<p>Our products</p>\
 \
@@ -13367,3 +13367,16 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 526	1	2020-02-06 16:46:04	2020-02-06 16:46:04		Dokumentaatio		publish	closed	closed		dokumentaatio			2020-02-06 16:50:11	2020-02-06 16:50:11		0	http://homepage/?p=526	8	nav_menu_item		0
 527	1	2020-02-06 16:49:47	2020-02-06 16:49:47	 			publish	closed	closed		527			2020-02-06 16:49:47	2020-02-06 16:49:47		0	http://homepage/?p=527	2	nav_menu_item		0
 528	1	2020-02-06 16:50:10	2020-02-06 16:50:10	 			publish	closed	closed		528			2020-02-06 16:50:10	2020-02-06 16:50:10		0	http://homepage/?p=528	2	nav_menu_item		0
+529	1	2020-02-07 14:57:11	2020-02-07 14:57:11	<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<p><strong>Hypernova Oy</strong> on joensuulainen IT-järjestelmien asiantuntijayritys. Kutsumuksemme on edistää vapautta ja läpinäkyvyyttä yhteiskunnassa <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>vapaiden ja avoimien</em></a> järjestelmien avulla. Sen mukaisesti järjestelmät ovat vapaasti kaikkien käytettävissä, muokattavissa ja jaettavissa.</p>\
+<p>Kantavana ajatuksenamme on minimoida ylimääräiset kustannukset ja turha paperityö. Pystymme tuottamaan palvelumme hyvin kilpailukykyiseen hintaan käyttäen moderneja ja automatisoituja tukipalveluita. Toimintamme on lähes kokonaan digitalisoitu ja pyrimme toimimaan kokonaan ympäristöystävällisenä <em><a href="https://en.wikipedia.org/wiki/Paperless_office">paperittomana organisaationa</a></em>. Sen osoittaaksemme <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">olemme solmineet ilmastokumppanuuden</a> Joensuun kaupungin kanssa.</p>\
+<p>Avointen järjestelmien käyttämisen ja tukemisen ohella teemme julkista työajanseurantaa. Katso <a href="https://redmine.hypernova.fi/activity">viimeaikaiset kirjauksemme</a> ja seuraa projektejamme <a href="https://redmine.hypernova.fi/">dokumentaatiojärjestelmässämme</a>.</p>\
+<p>Asiakkainamme on kuntia sekä kotimaisia että ulkomaisia yrityksiä. Kaikki palvelimemme sijaitsevat EU-alueella ja suurin osa Suomessa.</p>\
+<p>Kuten moni muu projektimme, myös tämä sivusto <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">on julkaistu GitHubissa</a>.</p>\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2020-02-07 14:57:11	2020-02-07 14:57:11		33	http://homepage/33-revision-v1/	0	revision		0

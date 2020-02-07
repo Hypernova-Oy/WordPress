@@ -30,3 +30,4 @@
 31	1	wpmdb_dismiss_muplugin_failed_update_1.2	1
 32	1	_wpml_user_dismissed_notices	\N
 33	1	icl_admin_language	en
+65	1	session_tokens	a:1:{s:64:"ddf8ee96e194494276c60a8045896184cdb6af078a94625af24fa2f9569bd4ba";a:4:{s:10:"expiration";i:1581260122;s:2:"ip";s:11:"10.78.167.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0";s:5:"login";i:1581087322;}}

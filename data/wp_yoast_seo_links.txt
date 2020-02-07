@@ -24,9 +24,9 @@
 160	https://redmine.hypernova.fi/activity	2	0	external
 161	https://redmine.hypernova.fi	2	0	external
 162	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	2	0	external
-385	https://en.wikipedia.org/wiki/Free_and_open-source_software	33	0	external
-386	https://en.wikipedia.org/wiki/Paperless_office	33	0	external
-387	http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy	33	0	external
-388	https://redmine.hypernova.fi/activity	33	0	external
-389	https://redmine.hypernova.fi/	33	0	external
-390	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	33	0	external
+397	https://en.wikipedia.org/wiki/Free_and_open-source_software	33	0	external
+398	https://en.wikipedia.org/wiki/Paperless_office	33	0	external
+399	http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy	33	0	external
+400	https://redmine.hypernova.fi/activity	33	0	external
+401	https://redmine.hypernova.fi/	33	0	external
+402	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	33	0	external
