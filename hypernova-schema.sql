@@ -16,6 +16,87 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Table structure for table `wp_actionscheduler_actions`
+--
+
+DROP TABLE IF EXISTS `wp_actionscheduler_actions`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `wp_actionscheduler_actions` (
+  `action_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `hook` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `status` varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `scheduled_date_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `scheduled_date_local` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `args` varchar(191) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `schedule` longtext COLLATE utf8mb4_unicode_ci,
+  `group_id` bigint(20) unsigned NOT NULL DEFAULT '0',
+  `attempts` int(11) NOT NULL DEFAULT '0',
+  `last_attempt_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `last_attempt_local` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `claim_id` bigint(20) unsigned NOT NULL DEFAULT '0',
+  `extended_args` varchar(8000) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`action_id`),
+  KEY `hook` (`hook`),
+  KEY `status` (`status`),
+  KEY `scheduled_date_gmt` (`scheduled_date_gmt`),
+  KEY `args` (`args`),
+  KEY `group_id` (`group_id`),
+  KEY `last_attempt_gmt` (`last_attempt_gmt`),
+  KEY `claim_id` (`claim_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=543 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `wp_actionscheduler_claims`
+--
+
+DROP TABLE IF EXISTS `wp_actionscheduler_claims`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `wp_actionscheduler_claims` (
+  `claim_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `date_created_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  PRIMARY KEY (`claim_id`),
+  KEY `date_created_gmt` (`date_created_gmt`)
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `wp_actionscheduler_groups`
+--
+
+DROP TABLE IF EXISTS `wp_actionscheduler_groups`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `wp_actionscheduler_groups` (
+  `group_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `slug` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  PRIMARY KEY (`group_id`),
+  KEY `slug` (`slug`(191))
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `wp_actionscheduler_logs`
+--
+
+DROP TABLE IF EXISTS `wp_actionscheduler_logs`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `wp_actionscheduler_logs` (
+  `log_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `action_id` bigint(20) unsigned NOT NULL,
+  `message` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `log_date_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `log_date_local` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  PRIMARY KEY (`log_id`),
+  KEY `action_id` (`action_id`),
+  KEY `log_date_gmt` (`log_date_gmt`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
 -- Table structure for table `wp_commentmeta`
 --
 
@@ -262,7 +343,7 @@ CREATE TABLE `wp_icl_string_pages` (
   PRIMARY KEY (`id`),
   KEY `string_to_url_id` (`url_id`),
   KEY `string_id` (`string_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=39290 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=39940 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -336,7 +417,7 @@ CREATE TABLE `wp_icl_string_urls` (
   `url` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `string_string_lang_url` (`language`,`url`(191))
-) ENGINE=InnoDB AUTO_INCREMENT=49 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=54 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -367,7 +448,7 @@ CREATE TABLE `wp_icl_strings` (
   KEY `language_context` (`language`,`context`),
   KEY `icl_strings_name` (`name`),
   KEY `icl_strings_translation_priority` (`translation_priority`)
-) ENGINE=InnoDB AUTO_INCREMENT=25975 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=25980 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -523,7 +604,7 @@ CREATE TABLE `wp_options` (
   PRIMARY KEY (`option_id`),
   UNIQUE KEY `option_name` (`option_name`),
   KEY `autoload` (`autoload`)
-) ENGINE=InnoDB AUTO_INCREMENT=8286 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=8362 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -696,6 +777,22 @@ CREATE TABLE `wp_users` (
   KEY `user_nicename` (`user_nicename`),
   KEY `user_email` (`user_email`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `wp_wpforms_tasks_meta`
+--
+
+DROP TABLE IF EXISTS `wp_wpforms_tasks_meta`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `wp_wpforms_tasks_meta` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+  `action` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `data` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `date` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --

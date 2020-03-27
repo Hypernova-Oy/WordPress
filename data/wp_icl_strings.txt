@@ -6736,3 +6736,8 @@ Green	\N	\N		LINE	\N	0		978c5e2a8be26e359e3f98d079b77d34		\N
 <i class="fa fa-envelope"></i> <a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a><br />\
 <i class="fa fa-phone-square"></i> <a href="tel:+358408383158">+358408383158</a><br />	\N	\N		LINE	\N	0		a4c5282de7b5f0458c4f4ad8c17a598e		\N
 25974	en	loftloader-pro	104d053d0e0a9fe62e15f87c24747769	loader image	\N	\N		LINE	\N	0		2f3052f9260b3cf98cf66b001c6abd16		\N
+25975	en	wpforms-lite	86c428c4f6ebe8d7f664cbc07c86d4f5	Please enable JavaScript in your browser to complete this form.	\N	\N		LINE	\N	0		79e979e0b3b7dc1ba005cafabc93aa4b		\N
+25976	en	wpforms-lite	1f62e6687e4544136a13014459b276ac	File exceeds max size allowed. File was not uploaded.	\N	\N		LINE	\N	0		bff2e17d15b66a15f73ffefb79e9f232		\N
+25977	en	wpforms-lite	01b18d97bd74ec64d1e99fa0f376a885	{count} of {limit} max characters.	\N	\N		LINE	\N	0		3aed8640fcfbc0f599cbf793535b88ef		\N
+25978	en	wpforms-lite	004813f7b1fc7c8b2538c84355a3c42f	{count} of {limit} max words.	\N	\N		LINE	\N	0		2b6889de9c934b4afda141371039ba0a		\N
+25979	en	wpforms-lite	12980bd6c8cebc64296271b3d90a9658	Google reCAPTCHA verification failed, please try again later.	\N	\N		LINE	\N	0		7fa4d03a04665bda86c23efb467b4d21		\N
