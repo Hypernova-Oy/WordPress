@@ -262,7 +262,7 @@ CREATE TABLE `wp_icl_string_pages` (
   PRIMARY KEY (`id`),
   KEY `string_to_url_id` (`url_id`),
   KEY `string_id` (`string_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=39193 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=39290 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -367,7 +367,7 @@ CREATE TABLE `wp_icl_strings` (
   KEY `language_context` (`language`,`context`),
   KEY `icl_strings_name` (`name`),
   KEY `icl_strings_translation_priority` (`translation_priority`)
-) ENGINE=InnoDB AUTO_INCREMENT=25964 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=25975 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -523,7 +523,7 @@ CREATE TABLE `wp_options` (
   PRIMARY KEY (`option_id`),
   UNIQUE KEY `option_name` (`option_name`),
   KEY `autoload` (`autoload`)
-) ENGINE=InnoDB AUTO_INCREMENT=8268 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=8286 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --

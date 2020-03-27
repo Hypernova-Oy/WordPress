@@ -6710,3 +6710,29 @@ Green	\N	\N		LINE	\N	0		978c5e2a8be26e359e3f98d079b77d34		\N
 25961	en	default	4b656867f512d822c59bb202c47ba04f	Could not calculate resized image dimensions	\N	\N		LINE	\N	0		363f9fd6f3e99c5d25b24a9aa671f0a4		\N
 25962	en	default	913fcc0d2b7aef2a632471a00f37823e	%1$s is not one of %2$s.	\N	\N		LINE	\N	0		1482a0f309a7ea9c9d4328438d75b133		\N
 25963	en	Widgets	widget title - a6eb2d3c35efbe6bf37ca47e47d1deee	Ilmastokumppanuus	\N	\N		LINE	\N	0		685ed27d588d0ba8fb985aadb23e1cfe		\N
+25964	en	default	567250e218b2a828bd833029b4cc60eb	A calendar of your site’s posts.	\N	\N		LINE	\N	0		f35d2991f4122d524e93924ed3c7d5b7		\N
+25965	en	default	0bbe939e4430206b8bd42e2c774c268c	Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.	\N	\N		LINE	\N	0		2a3fc2ed5e537ca6091adfc7266b8ee2		\N
+25966	en	default	786a173c90c25b40f9ebc0da90004455	Post-processing of the image failed. If this is a photo or a large image, please scale it down to 2500 pixels and upload it again.	\N	\N		LINE	\N	0		115e52e42ebd433812b610134db6e240		\N
+25967	en	default	a2bc9f554836ab8f3cc8c612322f9df7	Are you sure you want to discard your unpublished changes?	\N	\N		LINE	\N	0		be2763351b5936971ed1698ac6637223		\N
+25968	en	default	b38c55a9dddafa292cd05de365308ca0	FTP hostname is required	\N	\N		LINE	\N	0		4dd84b9c707e3fa06f8bd7ddb6cf8894		\N
+25969	en	default	8101649ef2cc905ad50828cb75bc9f2f	FTP username is required	\N	\N		LINE	\N	0		46f5da81d90324b720f87aa9cb5a6b8a		\N
+25970	en	default	bded914326df6597e1c45a60be6b9807	FTP password is required	\N	\N		LINE	\N	0		70b5c15c47d5549f4d114631cc5215dd		\N
+25971	en	wpforms-lite	4acdfac9158f0d0b90e26d98ad0fd44d	Number Slider	\N	\N		LINE	\N	0		34a37a49e064762c51199c61e8a5c059		\N
+25972	en	default	b53b3a3d6ab90ce0268229151c9bde11	55	\N	\N		LINE	\N	0	excerpt_length	7a4978d132fca63403099399dd5c1da1		\N
+25973	en	Widgets	widget body - de56f25558beb82939282ea5ea607762	Kauppakatu 25 C 409<br />\
+80100 Joensuu<br />\
+<strong>FINLAND</strong><br />\
+<br />\
+<i>VAT ID: FI29256763</i><br />\
+<br />\
+<i class="fa fa-envelope"></i> <a href="mailto:info@hypernova.fi">info@hypernova.fi</a><br />\
+<i class="fa fa-phone-square"></i> <a href="tel:+358449857337">+358449857337</a><br />\
+<br />\
+<h3>Toveri Support</h3>\
+<i class="fa fa-envelope"></i> <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br />\
+<i class="fa fa-phone-square"></i> <a href="tel:+358408383158">+358408383158</a><br />\
+<br />\
+<h3>Lainuri Support</h3>\
+<i class="fa fa-envelope"></i> <a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a><br />\
+<i class="fa fa-phone-square"></i> <a href="tel:+358408383158">+358408383158</a><br />	\N	\N		LINE	\N	0		a4c5282de7b5f0458c4f4ad8c17a598e		\N
+25974	en	loftloader-pro	104d053d0e0a9fe62e15f87c24747769	loader image	\N	\N		LINE	\N	0		2f3052f9260b3cf98cf66b001c6abd16		\N
