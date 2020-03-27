@@ -130,7 +130,7 @@
 242	153	_edit_last	1
 243	153	_wp_page_template	
 244	160	_menu_item_type	post_type
-245	160	_menu_item_menu_item_parent	527
+245	160	_menu_item_menu_item_parent	533
 246	160	_menu_item_object_id	153
 247	160	_menu_item_object	page
 248	160	_menu_item_target	
@@ -138,7 +138,7 @@
 250	160	_menu_item_xfn	
 251	160	_menu_item_url	
 253	161	_menu_item_type	post_type
-254	161	_menu_item_menu_item_parent	528
+254	161	_menu_item_menu_item_parent	534
 255	161	_menu_item_object_id	128
 256	161	_menu_item_object	page
 257	161	_menu_item_target	
@@ -158,7 +158,7 @@
 313	230	_wpml_media_duplicate	1
 314	230	_edit_lock	1578701486:1
 315	232	_menu_item_type	post_type
-316	232	_menu_item_menu_item_parent	528
+316	232	_menu_item_menu_item_parent	534
 317	232	_menu_item_object_id	230
 318	232	_menu_item_object	page
 319	232	_menu_item_target	
@@ -853,7 +853,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 454	386	_last_translation_edit_mode	native-editor
 455	386	_edit_lock	1567208305:1
 456	388	_menu_item_type	post_type
-457	388	_menu_item_menu_item_parent	527
+457	388	_menu_item_menu_item_parent	533
 458	388	_menu_item_object_id	386
 459	388	_menu_item_object	page
 460	388	_menu_item_target	
@@ -1172,7 +1172,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 554	459	_wpml_media_duplicate	1
 555	459	_edit_lock	1581007550:1
 556	461	_menu_item_type	post_type
-557	461	_menu_item_menu_item_parent	528
+557	461	_menu_item_menu_item_parent	534
 558	461	_menu_item_object_id	459
 559	461	_menu_item_object	page
 560	461	_menu_item_target	
@@ -1200,7 +1200,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 583	475	_wpml_media_duplicate	1
 584	475	_edit_lock	1581002654:1
 585	477	_menu_item_type	post_type
-586	477	_menu_item_menu_item_parent	527
+586	477	_menu_item_menu_item_parent	533
 587	477	_menu_item_object_id	475
 588	477	_menu_item_object	page
 589	477	_menu_item_target	
@@ -1269,19 +1269,19 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 664	526	_menu_item_classes	a:1:{i:0;s:0:"";}
 665	526	_menu_item_xfn	
 666	526	_menu_item_url	https://redmine.hypernova.fi
-668	527	_menu_item_type	taxonomy
-669	527	_menu_item_menu_item_parent	0
-670	527	_menu_item_object_id	5
-671	527	_menu_item_object	category
-672	527	_menu_item_target	
-673	527	_menu_item_classes	a:1:{i:0;s:0:"";}
-674	527	_menu_item_xfn	
-675	527	_menu_item_url	
-677	528	_menu_item_type	taxonomy
-678	528	_menu_item_menu_item_parent	0
-679	528	_menu_item_object_id	6
-680	528	_menu_item_object	category
-681	528	_menu_item_target	
-682	528	_menu_item_classes	a:1:{i:0;s:0:"";}
-683	528	_menu_item_xfn	
-684	528	_menu_item_url	
+694	533	_menu_item_type	custom
+695	533	_menu_item_menu_item_parent	0
+696	533	_menu_item_object_id	533
+697	533	_menu_item_object	custom
+698	533	_menu_item_target	
+699	533	_menu_item_classes	a:1:{i:0;s:0:"";}
+700	533	_menu_item_xfn	
+701	533	_menu_item_url	#
+703	534	_menu_item_type	custom
+704	534	_menu_item_menu_item_parent	0
+705	534	_menu_item_object_id	534
+706	534	_menu_item_object	custom
+707	534	_menu_item_target	
+708	534	_menu_item_classes	a:1:{i:0;s:0:"";}
+709	534	_menu_item_xfn	
+710	534	_menu_item_url	#
