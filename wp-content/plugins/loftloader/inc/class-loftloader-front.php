@@ -93,7 +93,7 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 								loftloader_finished();
 							} );
 							if ( loader.dataset && loader.dataset.showCloseTime ) {
-								var showCloseTime = parseInt( loader.dataset.showCloseTime ),
+								var showCloseTime = parseInt( loader.dataset.showCloseTime, 10 ), maxLoadTime = false,
 									closeBtn = loader.getElementsByClassName( 'loader-close-button' );
 								if ( showCloseTime && closeBtn.length ) {
 									setTimeout( function() {
@@ -102,6 +102,15 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 									closeBtn[0].addEventListener( 'click', function( e ) {
 										loftloader_finished();
 									} );
+								}
+							}
+							if ( loader.dataset.maxLoadTime ) {
+								maxLoadTime = loader.dataset.maxLoadTime;
+								maxLoadTime = parseInt( maxLoadTime, 10 );
+								if ( maxLoadTime ) {
+									setTimeout( function() {
+										loftloader_finished();
+									}, maxLoadTime );
 								}
 							}
 						}
@@ -233,6 +242,13 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 			$show_close_time = $this->get_loader_setting( 'loftloader_show_close_timer' );
 			$show_close_time = number_format( $show_close_time, 0, '.', '' );
 			$attrs .= sprintf( ' data-show-close-time="%s"', esc_js( esc_attr( $show_close_time * 1000 ) ) );
+
+			$max_load_time = $this->get_loader_setting( 'loftloader_max_load_time' );
+			$max_load_time = number_format( $max_load_time, 1, '.', '' );
+			if ( ! empty( $max_load_time ) ) {
+				$attrs .= sprintf( ' data-max-load-time="%s"', esc_js( esc_attr( $max_load_time * 1000 ) ) );
+			}
+
 			return apply_filters( 'loftloader_loader_attributes', $attrs );
 		}
 		/**

@@ -4,7 +4,7 @@ Tags: loader, load, preloader, page preloader, prelader spinner, preloader with 
 Donate link:
 Requires at least: 4.7
 Tested up to: 5.3
-Stable tag: 2.1.12
+Stable tag: 2.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -96,6 +96,14 @@ Check some [examples](http://www.loftocean.com/loftloader/example-13/) created b
 8. Pro version: Load Time, Device Control & Smooth Page Transition
 
 == Changelog ==
+= 2.2.1=
+Fixed: Max Load Time did not work when choosing to load LoftLoader JavaScript as inline JavaScript
+
+= 2.2.0
+* New: Option to set a Maximum Load Time
+* Improved: Rearranged options in More section
+* Fixed: Any Page Extension - shortcode did not work on WooCommerce Shop Page
+
 = 2.1.12
 * Fixed: Minor style issues in LoftLoader Settings panel for WordPress 5.3
 * Fixed: Minor CSS issues of Settings Panel UI for RTL sites

@@ -5,7 +5,7 @@
 * @since version 2.0.0
 */
 add_action( 'customize_register', 'loftloader_customize_advanced', 50 );
-function loftloader_customize_advanced( $wp_customize ) {	
+function loftloader_customize_advanced( $wp_customize ) {
 	global $loftloader_default_settings;
 
 	$wp_customize->add_setting( new WP_Customize_Setting( $wp_customize, 'loftloader_inline_js', array(
@@ -30,14 +30,14 @@ function loftloader_customize_advanced( $wp_customize ) {
 	$wp_customize->add_section( new LoftLoader_Customize_Section( $wp_customize, 'loftloader_customize_advanced', array(
 		'title'       => esc_html__( 'Advanced', 'loftloader' ),
 		'description' => '',
-		'priority'    => 50
+		'priority'    => 55
 	) ) );
 
 	$wp_customize->add_control( new LoftLoader_Customize_Control( $wp_customize, 'loftloader_inline_js', array(
 		'type' 			=> 'radio',
 		'label' 		=> esc_html__( 'How to Load LoftLoader\'s JavaScript', 'loftloader' ),
 		'description' 	=> '',
-		'choices'		=> array( 
+		'choices'		=> array(
 			'' => esc_html__( 'External JavaScript', 'loftloader' ),
 			'inline' => esc_html__( 'Inline JavaScript', 'loftloader' )
 		),

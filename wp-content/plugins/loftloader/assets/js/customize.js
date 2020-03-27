@@ -5,12 +5,12 @@
 
 (function(api, $){
 	$('head').append($('<style>', {'id': 'loftloader-hide-site-title', 'text': '.site-title { opacity:  0; }'}));
-	// Main Switch section 
+	// Main Switch section
 	api.LoftLoaderSwitchSection = api.Section.extend({
 		initialize: function () {
 			return api.Section.prototype.initialize.apply( this, arguments );
 		},
-		ready: function(){ 
+		ready: function(){
 			var checked = this.container.find('input[name=loftloader-main-switch]').attr('checked') ? true : false;
 			checked ? '' : $('#customize-theme-controls').addClass('loftloader-settings-disabled');
 			$('#customize-theme-controls').addClass('loftloader-controls-wrapper');
@@ -65,7 +65,7 @@
 
 				$container.children('.placeholder').css('display', 'none').after($image).remove();
 			}
-		}	
+		}
 
 		$('body')
 		.on('change', 'input[type=number]', function(e){
@@ -153,6 +153,7 @@
 				},
 				'loftloader_show_close_timer': {},
 				'loftloader_show_close_tip': {},
+				'loftloader_max_load_time': {},
 				'loftloader_inline_js': {}
 			};
 		var loftloader = type_value = loop = '';
@@ -167,6 +168,11 @@
 					case 'loftloader_bg_opacity':
 					case 'loftloader_bg_animation':
 						loop = [];
+						break;
+					case 'loftloader_max_load_time':
+						if ( ! type_value ) {
+							type_value = 0;
+						}
 						break;
 					default:
 						loop = dependency[id][type_value] ? dependency[id][type_value] : [];

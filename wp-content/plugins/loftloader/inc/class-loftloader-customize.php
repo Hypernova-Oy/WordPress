@@ -137,10 +137,12 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 	// LoftLoader base customize control class: add class properties as displaying dependency.
 	class LoftLoader_Customize_Control extends WP_Customize_Control {
 		public $filter = false;
+		public $text = '';
 		public $parent_setting_id = '';
 		public $show_filter = array();
 		public $img = '';
 		public $href = '';
+		public $note_below = '';
 		public function active_callback() {
 			if ( $this->filter && ( $this->manager->get_setting($this->parent_setting_id ) instanceof WP_Customize_Setting ) && ! empty( $this->show_filter ) ) {
 				$parent_setting_value = $this->manager->get_setting( $this->parent_setting_id )->value();
@@ -190,6 +192,12 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 					</label> <?php break;
 				default:
 					parent::render_content();
+					if ( ! empty( $this->text ) ) {
+						echo esc_html( $this->text ) . '<br/>';
+					}
+					if ( ! empty( $this->note_below ) ) : ?>
+						<span class="description"><?php echo esc_html( $this->note_below ); ?></span><?php
+					endif;
 			}
 		}
 	}
@@ -345,6 +353,24 @@ if ( class_exists( 'WP_Customize_Setting' ) ) {
 			$choices = $setting->manager->get_control( $setting->id )->choices;
 			$choices = array_keys( $choices );
 			return in_array( $input, $choices ) ? $input : $setting->default;
+		}
+	}
+
+	if ( ! function_exists( 'loftloader_sanitize_number' ) ) {
+		/**
+		* Check the value is float with 1 decimal
+		*
+		* @param string the value from user
+		* @param object customize setting object
+		* @return string the value from user or the default setting value
+		*/
+
+		function loftloader_sanitize_number( $value) {
+			if ( ! empty( $value ) ) {
+				$value = floatval( $value );
+				return number_format( $value, 1, '.', '' );
+			}
+			return 0;
 		}
 	}
 }

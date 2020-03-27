@@ -23,6 +23,8 @@ $loftloader_default_settings = array(
 	'loftloader_show_close_timer' 	=> 15,
 	'loftloader_show_close_tip'		=> '',
 
+	'loftloader_max_load_time'		=> 0,
+
 	'loftloader_inline_js'			=> '',
 	'loftloader_enable_any_page' 	=> ''
 );
