@@ -6,8 +6,6 @@ namespace WPForms {
 	 * Main WPForms class.
 	 *
 	 * @since 1.0.0
-	 *
-	 * @package WPForms
 	 */
 	final class WPForms {
 
@@ -167,7 +165,7 @@ namespace WPForms {
 
 				// Load Pro or Lite specific files.
 				if ( self::$instance->pro ) {
-					require_once WPFORMS_PLUGIN_DIR . 'pro/wpforms-pro.php';
+					self::$instance->registry['pro'] = require_once WPFORMS_PLUGIN_DIR . 'pro/wpforms-pro.php';
 				} else {
 					require_once WPFORMS_PLUGIN_DIR . 'lite/wpforms-lite.php';
 				}
@@ -215,6 +213,8 @@ namespace WPForms {
 		 */
 		private function includes() {
 
+			require_once WPFORMS_PLUGIN_DIR . 'includes/class-db.php';
+
 			$this->includes_magic();
 
 			// Global includes.
@@ -253,7 +253,6 @@ namespace WPForms {
 				require_once WPFORMS_PLUGIN_DIR . 'includes/admin/class-importers.php';
 				require_once WPFORMS_PLUGIN_DIR . 'includes/admin/class-about.php';
 				require_once WPFORMS_PLUGIN_DIR . 'includes/admin/ajax-actions.php';
-				require_once WPFORMS_PLUGIN_DIR . 'includes/admin/class-am-deactivation-survey.php';
 			}
 		}
 
@@ -264,8 +263,19 @@ namespace WPForms {
 		 */
 		private function includes_magic() {
 
+			// Action Scheduler requires a special loading procedure.
+			require_once WPFORMS_PLUGIN_DIR . 'vendor/woocommerce/action-scheduler/action-scheduler.php';
+
 			// Autoload Composer packages.
 			require_once WPFORMS_PLUGIN_DIR . 'vendor/autoload.php';
+
+			// Load the class loader.
+			$this->register(
+				[
+					'name' => 'Loader',
+					'hook' => false,
+				]
+			);
 
 			if ( version_compare( phpversion(), '5.5', '>=' ) ) {
 				/*
@@ -311,12 +321,6 @@ namespace WPForms {
 			$this->smart_tags = new \WPForms_Smart_Tags();
 			$this->logs       = new \WPForms_Logging();
 
-			if ( is_admin() ) {
-				if ( $this->pro || ( ! $this->pro && ! file_exists( WP_PLUGIN_DIR . '/wpforms/wpforms.php' ) ) ) {
-					new \AM_Deactivation_Survey( 'WPForms', basename( dirname( __DIR__ ) ) );
-				}
-			}
-
 			// Hook now that all of the WPForms stuff is loaded.
 			do_action( 'wpforms_loaded' );
 		}
@@ -326,33 +330,32 @@ namespace WPForms {
 		 *
 		 * @since 1.5.7
 		 *
-		 * @param string $class_name Class to register.
-		 * @param array  $args       Class registration options.
+		 * @param array $class Class registration info.
 		 */
-		public function register( $class_name, $args = array() ) {
+		public function register( $class ) {
 
-			if ( empty( $class_name ) ) {
+			if ( empty( $class['name'] ) || ! is_string( $class['name'] ) ) {
 				return;
 			}
 
-			if ( isset( $args['condition'] ) && empty( $args['condition'] ) ) {
+			if ( isset( $class['condition'] ) && empty( $class['condition'] ) ) {
 				return;
 			}
 
-			$full_name = $this->pro ? '\WPForms\Pro\\' . $class_name : '\WPForms\Lite\\' . $class_name;
-			$full_name = class_exists( $full_name ) ? $full_name : '\WPForms\\' . $class_name;
+			$full_name = $this->pro ? '\WPForms\Pro\\' . $class['name'] : '\WPForms\Lite\\' . $class['name'];
+			$full_name = class_exists( $full_name ) ? $full_name : '\WPForms\\' . $class['name'];
 
 			if ( ! class_exists( $full_name ) ) {
 				return;
 			}
 
 			$pattern  = '/[^a-zA-Z0-9_\\\-]/';
-			$id       = isset( $args['id'] ) ? $args['id'] : '';
+			$id       = isset( $class['id'] ) ? $class['id'] : '';
 			$id       = $id ? preg_replace( $pattern, '', (string) $id ) : $id;
-			$hook     = isset( $args['hook'] ) ? $args['hook'] : 'wpforms_loaded';
+			$hook     = isset( $class['hook'] ) ? $class['hook'] : 'wpforms_loaded';
 			$hook     = $hook ? preg_replace( $pattern, '', (string) $hook ) : $hook;
-			$run      = isset( $args['run'] ) ? $args['run'] : 'init';
-			$priority = isset( $args['priority'] ) && is_int( $args['priority'] ) ? $args['priority'] : 10;
+			$run      = isset( $class['run'] ) ? $class['run'] : 'init';
+			$priority = isset( $class['priority'] ) && is_int( $class['priority'] ) ? $class['priority'] : 10;
 
 			$callback = function () use ( $full_name, $id, $run ) {
 
@@ -385,8 +388,8 @@ namespace WPForms {
 				return;
 			}
 
-			foreach ( $classes as $class_name => $args ) {
-				$this->register( $class_name, $args );
+			foreach ( $classes as $class ) {
+				$this->register( $class );
 			}
 		}
 
