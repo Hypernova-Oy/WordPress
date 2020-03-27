@@ -9152,7 +9152,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
 <!-- /wp:spacer -->\
 \
-<!-- wp:columns -->\
+<!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
 <p class="has-large-font-size"><strong>Free and open source library system</strong></p>\
@@ -9161,7 +9161,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 \
 <!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
-<p class="has-medium-font-size">Koha is an open source library system with a large user and developer community. Due to principles of free software, the functionality and development of Koha is transparent. A service funded by public funds can therefore enjoy the benefits of free and open source software.</p>\
+<p class="has-medium-font-size">Koha is an open source library system with a large user and developer community. Thanks to the principles of free software, the functionality and development of Koha is transparent. A service funded by public funds can therefore enjoy the benefits of free and open source software.</p>\
 <!-- /wp:paragraph --></div>\
 <!-- /wp:column --></div>\
 <!-- /wp:columns -->\
@@ -9170,7 +9170,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
 <!-- /wp:spacer -->\
 \
-<!-- wp:columns -->\
+<!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
 <p class="has-large-font-size"><strong>Flexible for your needs</strong></p>\
@@ -9188,7 +9188,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
 <!-- /wp:spacer -->\
 \
-<!-- wp:columns -->\
+<!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
 <p class="has-large-font-size"><strong>Our solid experience<br></strong></p>\
@@ -9197,7 +9197,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 \
 <!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
-<p class="has-medium-font-size">Our professionals have together more than ten year of experience. Our team is active in participating to many Koha and free and open source events around the world. Transparency and honesty are important values to us. With Koha, we are able to share these values with our partners.</p>\
+<p class="has-medium-font-size">Hypernova employees have years of Koha hosting and development experience. Our team is active in participating to many free and open source events around the world. Transparency and honesty are important values to us. With Koha, we are able to share these values with our partners.</p>\
 <!-- /wp:paragraph --></div>\
 <!-- /wp:column --></div>\
 <!-- /wp:columns -->\
@@ -9209,7 +9209,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 <!-- /wp:spacer -->\
 \
 <!-- wp:heading {"align":"center"} -->\
-<h2 style="text-align:center"><strong><a href="/koha-hosting/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
+<h2 class="has-text-align-center"><strong><a href="/koha-hosting/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
 <!-- /wp:heading -->\
 \
 <!-- wp:spacer {"height":10} -->\
@@ -9226,7 +9226,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 \
 <!-- wp:paragraph -->\
 <p>More information on the system itself and the community behind it is available at <a href="https://koha-community.org">Koha community website</a>.</p>\
-<!-- /wp:paragraph -->	Koha		publish	closed	closed		koha			2019-08-30 23:19:42	2019-08-30 23:19:42		0	http://homepage/?page_id=386	0	page		0
+<!-- /wp:paragraph -->	Koha		publish	closed	closed		koha			2020-03-27 04:26:49	2020-03-27 04:26:49		0	http://homepage/?page_id=386	0	page		0
 387	1	2019-02-17 17:55:48	2019-02-17 17:55:48	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns: 29% auto;">\
 <figure class="wp-block-media-text__media"><img class="wp-image-261" src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" /></figure>\
@@ -12018,7 +12018,6 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:paragraph -->	Koha		inherit	closed	closed		386-revision-v1			2019-08-30 23:19:42	2019-08-30 23:19:42		386	http://homepage/386-revision-v1/	0	revision		0
 450	1	2019-08-30 23:42:29	2019-08-30 23:42:29		logo_teemme-ilmastotyota_ilmantekstiä		inherit	open	closed		logo_teemme-ilmastotyota_ilmantekstia			2019-08-30 23:42:29	2019-08-30 23:42:29		0	http://homepage/wp-content/uploads/2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png	0	attachment	image/png	0
 451	1	2019-08-30 23:42:29	2019-08-30 23:42:29		logo_teemme-ilmastotyota_ilmantekstiä		inherit	open	closed		logo_teemme-ilmastotyota_ilmantekstia-2			2019-08-30 23:42:29	2019-08-30 23:42:29		0	http://homepage/wp-content/uploads/2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png	0	attachment	image/png	0
-458	1	2019-09-11 14:59:49	0000-00-00 00:00:00		Lainuri		draft	open	open					2019-09-11 14:59:49	2019-09-11 14:59:49		0	http://homepage/?p=458	0	post		0
 459	1	2019-09-11 15:00:54	2019-09-11 15:00:54	<!-- wp:paragraph -->\
 <p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
 <!-- /wp:paragraph -->\
@@ -13380,3 +13379,92 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 530	1	2020-03-27 03:58:33	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-03-27 03:58:33	0000-00-00 00:00:00		0	http://homepage/?p=530	0	post		0
 533	1	2020-03-27 04:16:18	2020-03-27 04:16:18		Services		publish	closed	closed		services			2020-03-27 04:16:18	2020-03-27 04:16:18		0	http://homepage/?p=533	2	nav_menu_item		0
 534	1	2020-03-27 04:17:30	2020-03-27 04:17:30		Palvelut		publish	closed	closed		palvelut			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=534	2	nav_menu_item		0
+536	1	2020-03-27 04:26:39	2020-03-27 04:26:39	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
+<p style="margin-top: 50px; font-size: 38px; text-align: center;"><strong><em>The best library system in the world.</em></strong></p>\
+<!-- /wp:html --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Free and open source library system</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is an open source library system with a large user and developer community. Thanks to the principles of free software, the functionality and development of Koha is transparent. A service funded by public funds can therefore enjoy the benefits of free and open source software.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Flexible for your needs</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is a flexible system with number of features - practically everything a library needs. Koha integrates with multiple other services via APIs (application programming interfaces) such as SIP2 and REST API that expose most functionality of the library system.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Our solid experience<br></strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Hypernova employees have years of Koha hosting and development experience. Our team is active in participating to many free and open source events around the world. Transparency and honesty are important values to us. With Koha, we are able to share these values with our partners.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:sowb/widget-block {"widgetClass":"SiteOrigin_Widget_Headline_Widget","widgetData":{"headline":{"text":"","destination_url":"","new_window":false,"tag":"h1","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"open"},"sub_headline":{"text":"","destination_url":"","new_window":false,"tag":"h3","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"closed"},"divider":{"style":"solid","color":"#EEEEEE","thickness":"1","align":"center","width":"80","width_unit":"%","margin":"","margin_unit":"px","so_field_container_state":"closed"},"order":"headline,divider,sub_headline","fittext":false,"fittext_compressor":"0.85","_sow_form_id":"10502596455c682a0b97c1f087220978","_sow_form_timestamp":""}} /-->\
+\
+<!-- wp:spacer {"height":50} -->\
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:heading {"align":"center"} -->\
+<h2 class="has-text-align-center"><strong><a href="/koha-hosting/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
+<!-- /wp:heading -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:button {"customBackgroundColor":"#7cc445","customTextColor":"#000000","align":"center","className":"is-style-default"} -->\
+<div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" href="/koha-hosting/" style="background-color:#7cc445;color:#000000">Read more<br></a></div>\
+<!-- /wp:button -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>More information on the system itself and the community behind it is available at <a href="https://koha-community.org">Koha community website</a>.</p>\
+<!-- /wp:paragraph -->	Koha		inherit	closed	closed		386-revision-v1			2020-03-27 04:26:39	2020-03-27 04:26:39		386	http://homepage/386-revision-v1/	0	revision		0

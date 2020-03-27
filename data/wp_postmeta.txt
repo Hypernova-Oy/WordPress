@@ -851,7 +851,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 452	386	_wpml_media_duplicate	1
 453	386	_wpml_media_featured	1
 454	386	_last_translation_edit_mode	native-editor
-455	386	_edit_lock	1567208305:1
+455	386	_edit_lock	1585283209:1
 456	388	_menu_item_type	post_type
 457	388	_menu_item_menu_item_parent	533
 458	388	_menu_item_object_id	386
@@ -1143,13 +1143,13 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 535 Authentication Failed
 514	2	_yoast_wpseo_content_score	60
 515	33	_last_translation_edit_mode	native-editor
-516	386	_yoast_wpseo_content_score	30
+516	386	_yoast_wpseo_content_score	60
 517	429	_edit_last	1
 518	429	_wp_page_template	
 519	429	_wpml_media_featured	1
 520	429	_wpml_media_duplicate	1
 521	429	_last_translation_edit_mode	native-editor
-522	429	_edit_lock	1567206171:1
+522	429	_edit_lock	1585282883:1
 523	429	_yoast_wpseo_content_score	30
 524	439	_edit_last	1
 525	439	_yoast_wpseo_content_score	30
@@ -1163,10 +1163,6 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 533	451	_wp_attached_file	2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png
 534	451	wpml_media_processed	1
 535	450	_wp_attachment_metadata	a:5:{s:5:"width";i:744;s:6:"height";i:744;s:4:"file";s:50:"2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
-548	458	_edit_last	1
-549	458	_wpml_media_featured	1
-550	458	_wpml_media_duplicate	1
-551	458	_edit_lock	1568213989:1
 552	459	_edit_last	1
 553	459	_wpml_media_featured	1
 554	459	_wpml_media_duplicate	1

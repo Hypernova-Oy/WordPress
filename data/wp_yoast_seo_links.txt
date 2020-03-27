@@ -1,7 +1,4 @@
 42	/koha-hosting-quote	429	0	internal
-72	/koha-hosting/	386	429	internal
-73	/koha-hosting/	386	429	internal
-74	https://koha-community.org	386	0	external
 103	https://toveri.hypernova.fi	153	0	external
 104	mailto:toveri@hypernova.fi	153	0	external
 105	tel:+358408383158	153	0	external
@@ -30,3 +27,6 @@
 400	https://redmine.hypernova.fi/activity	33	0	external
 401	https://redmine.hypernova.fi/	33	0	external
 402	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	33	0	external
+412	/koha-hosting/	386	429	internal
+413	/koha-hosting/	386	429	internal
+414	https://koha-community.org	386	0	external
