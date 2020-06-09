@@ -59,7 +59,7 @@ CREATE TABLE `wp_actionscheduler_claims` (
   `date_created_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
   PRIMARY KEY (`claim_id`),
   KEY `date_created_gmt` (`date_created_gmt`)
-) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=27 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -400,7 +400,8 @@ CREATE TABLE `wp_icl_string_translations` (
   `batch_id` int(11) NOT NULL DEFAULT '0',
   `translation_date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (`id`),
-  UNIQUE KEY `string_language` (`string_id`,`language`)
+  UNIQUE KEY `string_language` (`string_id`,`language`),
+  KEY `status` (`status`)
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -447,7 +448,9 @@ CREATE TABLE `wp_icl_strings` (
   UNIQUE KEY `uc_domain_name_context_md5` (`domain_name_context_md5`),
   KEY `language_context` (`language`,`context`),
   KEY `icl_strings_name` (`name`),
-  KEY `icl_strings_translation_priority` (`translation_priority`)
+  KEY `icl_strings_translation_priority` (`translation_priority`),
+  KEY `context` (`context`),
+  KEY `string_package_id` (`string_package_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=25980 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -604,7 +607,7 @@ CREATE TABLE `wp_options` (
   PRIMARY KEY (`option_id`),
   UNIQUE KEY `option_name` (`option_name`),
   KEY `autoload` (`autoload`)
-) ENGINE=InnoDB AUTO_INCREMENT=8408 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=8441 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -854,7 +857,7 @@ CREATE TABLE `wp_yoast_indexable` (
   KEY `object_type_and_sub_type` (`object_type`,`object_sub_type`),
   KEY `permalink_hash` (`permalink_hash`),
   KEY `object_id_and_type` (`object_id`,`object_type`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=17 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
