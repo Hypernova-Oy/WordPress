@@ -13376,7 +13376,6 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2020-02-07 14:57:11	2020-02-07 14:57:11		33	http://homepage/33-revision-v1/	0	revision		0
-530	1	2020-03-27 03:58:33	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-03-27 03:58:33	0000-00-00 00:00:00		0	http://homepage/?p=530	0	post		0
 533	1	2020-03-27 04:16:18	2020-03-27 04:16:18		Services		publish	closed	closed		services			2020-03-27 04:16:18	2020-03-27 04:16:18		0	http://homepage/?p=533	2	nav_menu_item		0
 534	1	2020-03-27 04:17:30	2020-03-27 04:17:30		Palvelut		publish	closed	closed		palvelut			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=534	2	nav_menu_item		0
 536	1	2020-03-27 04:26:39	2020-03-27 04:26:39	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
@@ -13468,3 +13467,4 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p>More information on the system itself and the community behind it is available at <a href="https://koha-community.org">Koha community website</a>.</p>\
 <!-- /wp:paragraph -->	Koha		inherit	closed	closed		386-revision-v1			2020-03-27 04:26:39	2020-03-27 04:26:39		386	http://homepage/386-revision-v1/	0	revision		0
+537	1	2020-06-09 08:28:37	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-06-09 08:28:37	0000-00-00 00:00:00		0	http://homepage/?p=537	0	post		0
