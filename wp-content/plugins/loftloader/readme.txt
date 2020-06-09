@@ -3,8 +3,8 @@ Contributors: loftocean
 Tags: loader, load, preloader, page preloader, prelader spinner, preloader with custom logo, animated preloader, CSS3 preloader, customize
 Donate link:
 Requires at least: 4.7
-Tested up to: 5.3
-Stable tag: 2.2.1
+Tested up to: 5.4
+Stable tag: 2.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -96,8 +96,13 @@ Check some [examples](http://www.loftocean.com/loftloader/example-13/) created b
 8. Pro version: Load Time, Device Control & Smooth Page Transition
 
 == Changelog ==
+= 2.2.2 =
+* Improved: Compatibility with lazy loading feature
+* Improved: The same JS code is loaded no matter how to load LoftLoader JavaScript code (External or Inline)
+* Fixed: Any page shortcode inherits the global settings as default settings
+
 = 2.2.1=
-Fixed: Max Load Time did not work when choosing to load LoftLoader JavaScript as inline JavaScript
+* Fixed: Max Load Time did not work when choosing to load LoftLoader JavaScript as inline JavaScript
 
 = 2.2.0
 * New: Option to set a Maximum Load Time

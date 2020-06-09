@@ -44,6 +44,8 @@
 			remove_action('wp_print_styles', 'print_emoji_styles');
 			remove_action('admin_print_styles', 'print_emoji_styles');
 			remove_filter('wp_mail', 'wp_staticize_emoji_for_email');
+			// remove the DNS prefetch
+			add_filter('emoji_svg_url', '__return_false');
 		}
 
 		public function detect_current_page_type(){
@@ -260,16 +262,6 @@
 					}
 				}
 
-				// to check woocommerce_items_in_cart
-				foreach ((array)$_COOKIE as $cookie_key => $cookie_value){
-					//if(preg_match("/^wp\_woocommerce\_session/", $cookie_key)){
-					if(preg_match("/^woocommerce\_items\_in\_cart/", $cookie_key)){
-						ob_start(array($this, "cdn_rewrite"));
-						
-						return 0;
-					}
-				}
-
 				if(isset($_COOKIE) && isset($_COOKIE['safirmobilswitcher'])){
 					ob_start(array($this, "cdn_rewrite"));
 
@@ -326,10 +318,12 @@
 					//must be normal connection
 					if(!$this->isPluginActive('really-simple-ssl/rlrsssl-really-simple-ssl.php')){
 						if(!$this->isPluginActive('really-simple-ssl-pro/really-simple-ssl-pro.php')){
-							if(!$this->isPluginActive('ssl-insecure-content-fixer/ssl-insecure-content-fixer.php')){
-								if(!$this->isPluginActive('https-redirection/https-redirection.php')){
-									if(!$this->isPluginActive('better-wp-security/better-wp-security.php')){
-										return 0;
+							if(!$this->isPluginActive('really-simple-ssl-on-specific-pages/really-simple-ssl-on-specific-pages.php')){
+								if(!$this->isPluginActive('ssl-insecure-content-fixer/ssl-insecure-content-fixer.php')){
+									if(!$this->isPluginActive('https-redirection/https-redirection.php')){
+										if(!$this->isPluginActive('better-wp-security/better-wp-security.php')){
+											return 0;
+										}
 									}
 								}
 							}
@@ -828,6 +822,12 @@
 							$this->createFolder($this->cacheFilePath, $content);
 							do_action('wpfc_is_cacheable_action');
 						}else if($this->is_xml()){
+							if(preg_match("/<link><\/link>/", $buffer)){
+								if(preg_match("/\/feed$/", $_SERVER["REQUEST_URI"])){
+									return $buffer.time();
+								}
+							}
+
 							$this->createFolder($this->cacheFilePath, $buffer, "xml");
 							do_action('wpfc_is_cacheable_action');
 

@@ -1,33 +1,32 @@
-( function( $ ) {
+( function() {
 	function loftloader_finished() {
-		$('body').addClass( 'loaded' );
+		document.body.classList.add( 'loaded' );
 	}
-	if ( $( '#loftloader-wrapper' ).length ) {
-		$( window ).load( function() {
+	var loader = document.getElementById( 'loftloader-wrapper' );
+	if ( loader ) {
+		window.addEventListener( 'load', function( e ) {
 			loftloader_finished();
 		} );
-
-		$( document ).ready( function() {
-			var $loader_wrapper = $( '#loftloader-wrapper' ), show_close_time = '', max_load_time = false;
-			if ( $loader_wrapper.data( 'show-close-time' ) ) {
-				show_close_time = parseInt( $loader_wrapper.data( 'show-close-time' ), 10 );
-				if( show_close_time ) {
-					setTimeout( function(){
-						$loader_wrapper.find( '.loader-close-button' ).css('display', '' );
-					}, show_close_time );
-					$( '.loader-close-button' ).on( 'click', function() {
-						loftloader_finished();
-					} );
-				}
+		if ( loader.dataset && loader.dataset.showCloseTime ) {
+			var showCloseTime = parseInt( loader.dataset.showCloseTime, 10 ), maxLoadTime = false,
+				closeBtn = loader.getElementsByClassName( 'loader-close-button' );
+			if ( showCloseTime && closeBtn.length ) {
+				setTimeout( function() {
+					closeBtn[0].style.display = '';
+				}, showCloseTime );
+				closeBtn[0].addEventListener( 'click', function( e ) {
+					loftloader_finished();
+				} );
 			}
-			if ( $loader_wrapper.data( 'max-load-time' ) ) {
-				max_load_time = parseInt( $loader_wrapper.data( 'max-load-time' ), 10 );
-				if( max_load_time ) {
-					setTimeout( function() { 
-						loftloader_finished();
-					}, max_load_time );
-				}
+		}
+		if ( loader.dataset.maxLoadTime ) {
+			maxLoadTime = loader.dataset.maxLoadTime;
+			maxLoadTime = parseInt( maxLoadTime, 10 );
+			if ( maxLoadTime ) {
+				setTimeout( function() {
+					loftloader_finished();
+				}, maxLoadTime );
 			}
-		} );
+		}
 	}
-} )( jQuery );
+} ) ();

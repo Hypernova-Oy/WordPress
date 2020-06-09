@@ -72,7 +72,7 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 		public function enqueue_scripts() {
 			$loadJSStyle = $this->get_loader_setting( 'loftloader_inline_js' );
 			if ( ! is_customize_preview() && ( 'inline' !== $loadJSStyle ) ) {
-				wp_enqueue_script( 'loftloader-lite-front-main', LOFTLOADER_URI . 'assets/js/loftloader.min.js', array( 'jquery' ), LOFTLOADER_ASSET_VERSION, true );
+				wp_enqueue_script( 'loftloader-lite-front-main', LOFTLOADER_URI . 'assets/js/loftloader.min.js', array(), LOFTLOADER_ASSET_VERSION, true );
 			}
 			wp_enqueue_style('loftloader-lite-animation', LOFTLOADER_URI . 'assets/css/loftloader.min.css', array(), LOFTLOADER_ASSET_VERSION);
 		}
@@ -186,7 +186,11 @@ if ( ! class_exists( 'LoftLoader_Front' ) ) {
 							$html .= $this->get_loader_type_loading_bg_image( $image );
 						}
 						if ( in_array( $this->type, array( 'frame', 'imgloading' ) ) ) {
-							$html .= sprintf( '<img alt="%1$s" src="%2$s">', esc_attr__( 'loader image', 'loftloader-pro' ), esc_url( $image ) );
+							$html .= sprintf(
+								'<img data-no-lazy="1" class="skip-lazy" alt="%1$s" src="%2$s">',
+								esc_attr__( 'loader image', 'loftloader-pro' ),
+								esc_url( $image )
+							);
 						}
 					}
 					$html .= in_array( $this->type, array( 'imgloading' ) ) ? '' : '<span></span>';
