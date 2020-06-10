@@ -3,13 +3,13 @@
 <!-- /wp:separator -->\
 \
 <p><strong>Hypernova Oy</strong> (Ltd) is a Finnish Information Systems company. Our mission is to advance freedom and transparency in society via <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>free and open source software</em></a> and hardware. Hypernova contributes to multiple like-minded communities.</p>\
-<p>Modern digital systems minimizes unnecessary costs and paperwork - thus giving us the ability to provide cost-effective services. Our organization is almost completely digitalized and we strive for environment-friendly, <a href="https://en.wikipedia.org/wiki/Paperless_office">paperless office</a>. We have proudly <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">signed a climate partnership</a> with our headquarters city of Joensuu.</p>\
+<p>Modern digital systems minimize unnecessary costs and paperwork, giving us the ability to provide cost-effective services. Our organization is almost completely digitalized and we strive for environment-friendly, <a href="https://en.wikipedia.org/wiki/Paperless_office">paperless office</a>. We have proudly <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">signed a climate partnership</a> with our headquarters city of Joensuu.</p>\
 <p>Contributions to free software is not our only way of executing transparency - we also log our work in public. See <a href="https://redmine.hypernova.fi/activity">what we did this week</a> as well as a complete list of our projects in our <a href="https://redmine.hypernova.fi">documentation platform</a>.</p>\
 <p>As most our projects, this site is also available on <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">GitHub</a>.</p>\
 \
 <!-- wp:paragraph -->\
 <p></p>\
-<!-- /wp:paragraph -->	Home		publish	closed	open		sample-page			2020-02-06 16:07:37	2020-02-06 16:07:37		0	http://homepage/?page_id=2	0	page		0
+<!-- /wp:paragraph -->	Home		publish	closed	open		sample-page			2020-06-10 07:21:44	2020-06-10 07:21:44		0	http://homepage/?page_id=2	0	page		0
 3	1	2018-09-20 20:50:39	2018-09-20 20:50:39	<h2>Who we are</h2>\
 Our website address is: https://www.hypernova.fi.\
 <h2>What personal data we collect and why we collect it</h2>\
@@ -69,15 +69,15 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 <hr class="wp-block-separator"/>\
 <!-- /wp:separator -->\
 \
-<p><strong>Hypernova Oy</strong> on joensuulainen IT-järjestelmien asiantuntijayritys. Kutsumuksemme on edistää vapautta ja läpinäkyvyyttä yhteiskunnassa <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>vapaiden ja avoimien</em></a> järjestelmien avulla. Sen mukaisesti järjestelmät ovat vapaasti kaikkien käytettävissä, muokattavissa ja jaettavissa.</p>\
-<p>Kantavana ajatuksenamme on minimoida ylimääräiset kustannukset ja turha paperityö. Pystymme tuottamaan palvelumme hyvin kilpailukykyiseen hintaan käyttäen moderneja ja automatisoituja tukipalveluita. Toimintamme on lähes kokonaan digitalisoitu ja pyrimme toimimaan kokonaan ympäristöystävällisenä <em><a href="https://en.wikipedia.org/wiki/Paperless_office">paperittomana organisaationa</a></em>. Sen osoittaaksemme <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">olemme solmineet ilmastokumppanuuden</a> Joensuun kaupungin kanssa.</p>\
+<p><strong>Hypernova Oy</strong> on joensuulainen <em><a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">vapaiden ja avointen</a></em> IT-järjestelmien asiantuntijayritys. Kutsumuksemme on edistää yhteiskuntamme vapautta ja läpinäkyvyyttä vapaasti lisensoidujen järjestelmien avulla. Periaatteen mukaisesti ohjelmistot ja laitteistot ovat vapaasti kaikkien käytettävissä, muokattavissa ja jaettavissa. Malli muodostaa järjestelmien ympärille yhteisöjä, joissa osalliset jakavat osaamistaan yhteisön hyväksi. Avoimesti lisensoidut järjestelmät ovat läpinäkyvyyden kannalta tärkeitä, koska kenellä tahansa on mahdollisuus perehtyä järjestelmän toimintaan vapaasti toisin kuin suljetun koodin järjestelmissä.</p>\
+<p>Kantavana ajatuksenamme on minimoida ylimääräiset kustannukset ja turha paperityö. Pystymme tuottamaan palvelumme hyvin kilpailukykyiseen hintaan käyttäen moderneja ja automatisoituja tukipalveluita. Toimintamme on lähes kokonaan digitalisoitu ja pyrimme toimimaan täysin ympäristöystävällisenä <em><a href="https://en.wikipedia.org/wiki/Paperless_office">paperittomana organisaationa</a></em>. Sen osoittaaksemme <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">olemme sitoutuneet ilmastokumppanuuteen</a> Joensuun kaupungin kanssa.</p>\
 <p>Avointen järjestelmien käyttämisen ja tukemisen ohella teemme julkista työajanseurantaa. Katso <a href="https://redmine.hypernova.fi/activity">viimeaikaiset kirjauksemme</a> ja seuraa projektejamme <a href="https://redmine.hypernova.fi/">dokumentaatiojärjestelmässämme</a>.</p>\
 <p>Asiakkainamme on kuntia sekä kotimaisia että ulkomaisia yrityksiä. Kaikki palvelimemme sijaitsevat EU-alueella ja suurin osa Suomessa.</p>\
 <p>Kuten moni muu projektimme, myös tämä sivusto <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">on julkaistu GitHubissa</a>.</p>\
 \
 <!-- wp:paragraph -->\
 <p></p>\
-<!-- /wp:paragraph -->	Etusivu		publish	closed	open		hypernova			2020-02-07 14:57:12	2020-02-07 14:57:12		0	http://homepage/?page_id=33	0	page		0
+<!-- /wp:paragraph -->	Etusivu		publish	closed	open		hypernova			2020-06-10 07:55:39	2020-06-10 07:55:39		0	http://homepage/?page_id=33	0	page		0
 34	1	2018-12-19 14:21:32	2018-12-19 14:21:32		Hypernova		inherit	closed	closed		33-revision-v1			2018-12-19 14:21:32	2018-12-19 14:21:32		33	http://homepage/33-revision-v1/	0	revision		0
 36	1	2018-12-19 14:24:22	2018-12-19 14:24:22	<p>Our products</p>\
 \
@@ -13468,3 +13468,28 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <p>More information on the system itself and the community behind it is available at <a href="https://koha-community.org">Koha community website</a>.</p>\
 <!-- /wp:paragraph -->	Koha		inherit	closed	closed		386-revision-v1			2020-03-27 04:26:39	2020-03-27 04:26:39		386	http://homepage/386-revision-v1/	0	revision		0
 537	1	2020-06-09 08:28:37	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-06-09 08:28:37	0000-00-00 00:00:00		0	http://homepage/?p=537	0	post		0
+538	1	2020-06-10 07:21:43	2020-06-10 07:21:43	<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<p><strong>Hypernova Oy</strong> (Ltd) is a Finnish Information Systems company. Our mission is to advance freedom and transparency in society via <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>free and open source software</em></a> and hardware. Hypernova contributes to multiple like-minded communities.</p>\
+<p>Modern digital systems minimize unnecessary costs and paperwork, giving us the ability to provide cost-effective services. Our organization is almost completely digitalized and we strive for environment-friendly, <a href="https://en.wikipedia.org/wiki/Paperless_office">paperless office</a>. We have proudly <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">signed a climate partnership</a> with our headquarters city of Joensuu.</p>\
+<p>Contributions to free software is not our only way of executing transparency - we also log our work in public. See <a href="https://redmine.hypernova.fi/activity">what we did this week</a> as well as a complete list of our projects in our <a href="https://redmine.hypernova.fi">documentation platform</a>.</p>\
+<p>As most our projects, this site is also available on <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">GitHub</a>.</p>\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->	Home		inherit	closed	closed		2-revision-v1			2020-06-10 07:21:43	2020-06-10 07:21:43		2	http://homepage/2-revision-v1/	0	revision		0
+541	1	2020-06-10 07:55:38	2020-06-10 07:55:38	<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<p><strong>Hypernova Oy</strong> on joensuulainen <em><a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">vapaiden ja avointen</a></em> IT-järjestelmien asiantuntijayritys. Kutsumuksemme on edistää yhteiskuntamme vapautta ja läpinäkyvyyttä vapaasti lisensoidujen järjestelmien avulla. Periaatteen mukaisesti ohjelmistot ja laitteistot ovat vapaasti kaikkien käytettävissä, muokattavissa ja jaettavissa. Malli muodostaa järjestelmien ympärille yhteisöjä, joissa osalliset jakavat osaamistaan yhteisön hyväksi. Avoimesti lisensoidut järjestelmät ovat läpinäkyvyyden kannalta tärkeitä, koska kenellä tahansa on mahdollisuus perehtyä järjestelmän toimintaan vapaasti toisin kuin suljetun koodin järjestelmissä.</p>\
+<p>Kantavana ajatuksenamme on minimoida ylimääräiset kustannukset ja turha paperityö. Pystymme tuottamaan palvelumme hyvin kilpailukykyiseen hintaan käyttäen moderneja ja automatisoituja tukipalveluita. Toimintamme on lähes kokonaan digitalisoitu ja pyrimme toimimaan täysin ympäristöystävällisenä <em><a href="https://en.wikipedia.org/wiki/Paperless_office">paperittomana organisaationa</a></em>. Sen osoittaaksemme <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">olemme sitoutuneet ilmastokumppanuuteen</a> Joensuun kaupungin kanssa.</p>\
+<p>Avointen järjestelmien käyttämisen ja tukemisen ohella teemme julkista työajanseurantaa. Katso <a href="https://redmine.hypernova.fi/activity">viimeaikaiset kirjauksemme</a> ja seuraa projektejamme <a href="https://redmine.hypernova.fi/">dokumentaatiojärjestelmässämme</a>.</p>\
+<p>Asiakkainamme on kuntia sekä kotimaisia että ulkomaisia yrityksiä. Kaikki palvelimemme sijaitsevat EU-alueella ja suurin osa Suomessa.</p>\
+<p>Kuten moni muu projektimme, myös tämä sivusto <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">on julkaistu GitHubissa</a>.</p>\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2020-06-10 07:55:38	2020-06-10 07:55:38		33	http://homepage/33-revision-v1/	0	revision		0

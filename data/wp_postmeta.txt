@@ -1,7 +1,7 @@
 1	2	_wp_page_template	default
 2	3	_wp_page_template	default
 3	3	_edit_lock	1545235404:1
-4	2	_edit_lock	1581005257:1
+4	2	_edit_lock	1591776963:1
 7	2	_edit_last	1
 8	2	bento_sidebar_layout	full-width
 9	2	bento_title_position	left
@@ -61,8 +61,7 @@
 94	33	_wpml_media_featured	1
 95	2	_wpml_media_duplicate	1
 96	33	_wpml_media_duplicate	1
-98	33	_edit_lock	1581087455:1
-99	33	_generate-sidebar-layout-meta	no-sidebar
+98	33	_edit_lock	1591775739:1
 102	2	_generate-disable-headline	true
 103	46	_wp_attached_file	2018/12/pexels-photo-796602.jpeg
 104	47	_wp_attachment_metadata	a:5:{s:5:"width";i:1280;s:6:"height";i:852;s:4:"file";s:32:"2018/12/pexels-photo-796602.jpeg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-796602-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-796602-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-796602-768x511.jpeg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-796602-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:32:"pexels-photo-796602-272x182.jpeg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
@@ -118,7 +117,7 @@
 218	120	_wp_attachment_metadata	a:5:{s:5:"width";i:771;s:6:"height";i:1028;s:4:"file";s:15:"2018/12/Eno.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"Eno-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"Eno-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:15:"Eno-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"1.9";s:6:"credit";s:0:"";s:6:"camera";s:9:"SM-J510FN";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1497436890";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"3.7";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:18:"0.0092592592592593";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}
 219	120	_wp_attachment_image_alt	Eno Toveri
 220	121	_wp_attachment_image_alt	Toveri Enon kirjastossa
-221	128	_edit_lock	1568671564:1
+221	128	_edit_lock	1591773466:1
 222	128	_edit_last	1
 223	128	_generate-sidebar-layout-meta	no-sidebar
 224	128	_wp_page_template	
