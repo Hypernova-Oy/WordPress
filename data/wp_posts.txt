@@ -2,14 +2,14 @@
 <hr class="wp-block-separator"/>\
 <!-- /wp:separator -->\
 \
-<p><strong>Hypernova Oy</strong> (Ltd) is a Finnish Information Systems company. Our mission is to advance freedom and transparency in society via <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>free and open source software</em></a> and hardware. Hypernova contributes to multiple like-minded communities.</p>\
+<p><strong>Hypernova Oy</strong> (Ltd) is a Finnish Information Systems company. Our mission is to advance freedom and transparency in society via <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>free and open source software</em></a> and hardware. Anyone has the right to use, modify and share freely licensed software and hardware. This ideology forms communities around systems where participants share skills and knowledge for the benefit of all. Freely licensed systems are important to transparent societies, because unlike with proprietary systems, anyone has the freedom to study the functionalities and learn about the methods of data collection.</p>\
 <p>Modern digital systems minimize unnecessary costs and paperwork, giving us the ability to provide cost-effective services. Our organization is almost completely digitalized and we strive for environment-friendly, <a href="https://en.wikipedia.org/wiki/Paperless_office">paperless office</a>. We have proudly <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">signed a climate partnership</a> with our headquarters city of Joensuu.</p>\
 <p>Contributions to free software is not our only way of executing transparency - we also log our work in public. See <a href="https://redmine.hypernova.fi/activity">what we did this week</a> as well as a complete list of our projects in our <a href="https://redmine.hypernova.fi">documentation platform</a>.</p>\
 <p>As most our projects, this site is also available on <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">GitHub</a>.</p>\
 \
 <!-- wp:paragraph -->\
 <p></p>\
-<!-- /wp:paragraph -->	Home		publish	closed	open		sample-page			2020-06-10 07:21:44	2020-06-10 07:21:44		0	http://homepage/?page_id=2	0	page		0
+<!-- /wp:paragraph -->	Home		publish	closed	open		sample-page			2020-06-10 08:18:28	2020-06-10 08:18:28		0	http://homepage/?page_id=2	0	page		0
 3	1	2018-09-20 20:50:39	2018-09-20 20:50:39	<h2>Who we are</h2>\
 Our website address is: https://www.hypernova.fi.\
 <h2>What personal data we collect and why we collect it</h2>\
@@ -13493,3 +13493,15 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2020-06-10 07:55:38	2020-06-10 07:55:38		33	http://homepage/33-revision-v1/	0	revision		0
+542	1	2020-06-10 08:18:27	2020-06-10 08:18:27	<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<p><strong>Hypernova Oy</strong> (Ltd) is a Finnish Information Systems company. Our mission is to advance freedom and transparency in society via <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><em>free and open source software</em></a> and hardware. Anyone has the right to use, modify and share freely licensed software and hardware. This ideology forms communities around systems where participants share skills and knowledge for the benefit of all. Freely licensed systems are important to transparent societies, because unlike with proprietary systems, anyone has the freedom to study the functionalities and learn about the methods of data collection.</p>\
+<p>Modern digital systems minimize unnecessary costs and paperwork, giving us the ability to provide cost-effective services. Our organization is almost completely digitalized and we strive for environment-friendly, <a href="https://en.wikipedia.org/wiki/Paperless_office">paperless office</a>. We have proudly <a href="http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy">signed a climate partnership</a> with our headquarters city of Joensuu.</p>\
+<p>Contributions to free software is not our only way of executing transparency - we also log our work in public. See <a href="https://redmine.hypernova.fi/activity">what we did this week</a> as well as a complete list of our projects in our <a href="https://redmine.hypernova.fi">documentation platform</a>.</p>\
+<p>As most our projects, this site is also available on <a href="https://github.com/Hypernova-Oy/WordPress/tree/hypernova">GitHub</a>.</p>\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->	Home		inherit	closed	closed		2-revision-v1			2020-06-10 08:18:27	2020-06-10 08:18:27		2	http://homepage/2-revision-v1/	0	revision		0
