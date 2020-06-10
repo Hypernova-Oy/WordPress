@@ -70,3 +70,7 @@
 82	tax_category	6	67	fi	en
 86	post_nav_menu_item	533	71	en	\N
 87	post_nav_menu_item	534	72	fi	\N
+88	post_attachment	548	73	en	\N
+89	post_attachment	549	73	fi	en
+90	post_attachment	566	74	fi	\N
+91	post_attachment	567	74	en	fi

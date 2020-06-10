@@ -1,3 +1,4 @@
 1	wpforms_process_entry_emails_meta_cleanup	Wzg2NDAwXQ==	2020-03-27 06:32:54
 2	wpforms_process_entry_emails_meta_cleanup	Wzg2NDAwXQ==	2020-03-27 06:36:34
 3	wpforms_admin_notifications_update	W10=	2020-06-09 08:40:06
+4	wpforms_admin_notifications_update	W10=	2020-06-10 09:07:17

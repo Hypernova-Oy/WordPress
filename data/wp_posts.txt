@@ -414,31 +414,28 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2018-12-27 18:05:57	2018-12-27 18:05:57		33	http://homepage/33-revision-v1/	0	revision		0
-120	1	2018-12-27 18:12:50	2018-12-27 18:12:50		Eno Toveri		inherit	open	closed		eno			2018-12-27 18:13:09	2018-12-27 18:13:09		153	http://homepage/wp-content/uploads/2018/12/Eno.jpg	0	attachment	image/jpeg	0
-121	1	2018-12-27 18:12:50	2018-12-27 18:12:50	Toveri Enon kirjastossa	Toveri Enon kirjastossa	Toveri Enon kirjastossa	inherit	open	closed		eno-2			2018-12-27 18:22:00	2018-12-27 18:22:00		128	http://homepage/wp-content/uploads/2018/12/Eno.jpg	0	attachment	image/jpeg	0
-128	1	2018-12-27 18:17:20	2018-12-27 18:17:20	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri on valmiiksi yhteensopiva Koha-kirjastojärjestelmän kanssa.</p>\
+120	1	2018-12-27 18:12:50	2018-12-27 18:12:50		Toveri at Eno Library		inherit	open	closed		eno			2020-06-10 09:38:38	2020-06-10 09:38:38		153	http://homepage/wp-content/uploads/2018/12/Eno.jpg	0	attachment	image/jpeg	0
+121	1	2018-12-27 18:12:50	2018-12-27 18:12:50	Toveri Enon kirjastossa	Toveri Enon kirjastossa	Toveri Enon kirjastossa	inherit	open	closed		eno-2			2020-06-10 09:38:38	2020-06-10 09:38:38		128	http://homepage/wp-content/uploads/2018/12/Eno.jpg	0	attachment	image/jpeg	0
+128	1	2018-12-27 18:17:20	2018-12-27 18:17:20	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa.</figcaption></figure>\
+<!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
-<p><br></p>\
-<!-- /wp:paragraph -->\
-\
-<!-- wp:media-text {"align":"","mediaId":121,"mediaType":"image","isStackedOnMobile":true} -->\
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->\
 <p></p>\
-<!-- /wp:paragraph -->\
-\
-<!-- wp:paragraph -->\
-<p><em>Kuvassa Toveri Enon kirjastossa.</em><br></p>\
-<!-- /wp:paragraph -->\
-\
-<!-- wp:heading {"level":3} -->\
-<h3>Toveri on Suomen ainoa vapaan koodin kulunvalvontalaite.</h3>\
-<!-- /wp:heading -->\
-\
-<!-- wp:heading {"level":3} -->\
-<h3>Toveri on suunniteltu kestämään suomalaiset ääriolosuhteet, kesähelteistä talven paukkupakkasiin.</h3>\
-<!-- /wp:heading --></div></div>\
-<!-- /wp:media-text -->\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
 \
 <article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
 <div class="elementor-container elementor-column-gap-wider">\
@@ -449,6 +446,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
 <div class="elementor-widget-container">\
 <div class="elementor-text-editor elementor-clearfix">\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
 <p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
 <p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
 </div>\
@@ -466,8 +464,8 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- /wp:separator -->\
 \
 <!-- wp:paragraph -->\
-<p>Yhteystiedot löytyvät sivun alalaidasta.<br></p>\
-<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-kulunvalvontalaite			2019-09-12 14:55:22	2019-09-12 14:55:22		0	http://homepage/?page_id=128	0	page		0
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-kulunvalvontalaite			2020-06-10 10:14:21	2020-06-10 10:14:21		0	http://homepage/?page_id=128	0	page		0
 129	1	2018-12-27 18:17:20	2018-12-27 18:17:20	<!-- wp:columns -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:image {"id":121} -->\
@@ -1595,25 +1593,22 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- wp:paragraph -->\
 <p><br></p>\
 <!-- /wp:paragraph -->	Toveri		inherit	closed	closed		128-revision-v1			2018-12-27 18:30:41	2018-12-27 18:30:41		128	http://homepage/128-revision-v1/	0	revision		0
-153	1	2018-12-27 18:17:20	2018-12-27 18:17:20	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS.</p>\
+153	1	2018-12-27 18:17:20	2018-12-27 18:17:20	<p>Toveri is a fully open source access control device produced by professional library software developers. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Toveri is Finnish quality design. It is designed to withstand extreme weather conditions. Therefore we provide a two-year warranty for the device.</p>\
 \
-<!-- wp:media-text {"align":"","mediaId":120,"mediaType":"image","isStackedOnMobile":true} -->\
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Eno Toveri" class="wp-image-120"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->\
-<p><em>Toveri at Eno Library.</em></p>\
-<!-- /wp:paragraph -->\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":548,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri with wooden casing" class="wp-image-548"/><figcaption>Toveri supports multiple casing materials.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
 \
-<!-- wp:heading {"level":3} -->\
-<h3>Toveri is the only Free Software access control device in Finland.</h3>\
-<!-- /wp:heading -->\
-\
-<!-- wp:heading {"level":3} -->\
-<h3>Toveri is designed to withstand extreme weather conditions.</h3>\
-<!-- /wp:heading --></div></div>\
-<!-- /wp:media-text -->\
-\
-<!-- wp:paragraph -->\
-<p></p>\
-<!-- /wp:paragraph -->\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri at Eno Library" class="wp-image-120"/><figcaption>Toveri in use at Eno Library.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
 \
 <article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
 <div class="elementor-container elementor-column-gap-wider">\
@@ -1624,7 +1619,8 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
 <div class="elementor-widget-container">\
 <div class="elementor-text-editor elementor-clearfix">\
-<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client without any patents nor copyrights from us. However, the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
 </div>\
 </div>\
 </div>\
@@ -1635,19 +1631,13 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 </div>\
 </article>\
 \
-<!-- wp:heading {"level":3} -->\
-<h3>Contact Us</h3>\
-<!-- /wp:heading -->\
-\
-<!-- wp:html -->\
-🌐 <a href="https://toveri.hypernova.fi" target="_blank" rel="noopener noreferrer">https://toveri.hypernova.fi</a><br>\
-📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
-📱 <a href="tel:+358408383158">+358408383158</a><br>\
-<!-- /wp:html -->\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
 \
 <!-- wp:paragraph -->\
-<p><br></p>\
-<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-access-control-device			2019-09-12 14:52:56	2019-09-12 14:52:56		0	http://homepage/toveri-2/	0	page		0
+<p><br>Send us an email (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-access-control-device			2020-06-10 10:00:45	2020-06-10 10:00:45		0	http://homepage/toveri-2/	0	page		0
 155	1	2018-12-27 18:43:29	2018-12-27 18:43:29	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS. Contact us for more software integrations.</p>\
 \
 <!-- wp:columns -->\
@@ -12035,13 +12025,13 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään - Ei turhaa turaamista - Valitse Lainuri!</p>\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
 <!-- /wp:paragraph -->\
 \
-<!-- wp:columns -->\
+<!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:image {"id":483} -->\
-<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä.</figcaption></figure>\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä. Useita materiaalivaihtoehtoja.</figcaption></figure>\
 <!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
@@ -12050,8 +12040,8 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:column -->\
 \
 <!-- wp:column -->\
-<div class="wp-block-column"><!-- wp:image {"id":489} -->\
-<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-1-768x1024.png" alt="Lainuri" class="wp-image-489"/><figcaption>Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<div class="wp-block-column"><!-- wp:image {"id":566,"width":482,"height":658,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="" class="wp-image-566" width="482" height="658"/><figcaption>Lainuri kehityspajalla.</figcaption></figure>\
 <!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
@@ -12061,20 +12051,28 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:columns -->\
 \
 <!-- wp:paragraph -->\
-<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>.<br>Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan.</p>\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<p>Lainuri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Lainurin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Pyydä meiltä tarjousta!</p>\
-<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2019-09-12 15:06:22	2019-09-12 15:06:22		0	http://homepage/?page_id=459	0	page		0
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2020-06-10 10:14:50	2020-06-10 10:14:50		0	http://homepage/?page_id=459	0	page		0
 460	1	2019-09-11 15:00:54	2019-09-11 15:00:54	pimppi	Lainuri		inherit	closed	closed		459-revision-v1			2019-09-11 15:00:54	2019-09-11 15:00:54		459	http://homepage/459-revision-v1/	0	revision		0
 461	1	2019-09-11 15:01:50	2019-09-11 15:01:50	 			publish	closed	closed		461			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=461	7	nav_menu_item		0
 463	1	2019-09-11 15:15:28	2019-09-11 15:15:28		Lainuri		inherit	open	closed		photo_2019-09-11_18-13-57			2019-09-11 15:17:01	2019-09-11 15:17:01		459	http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-57.jpg	0	attachment	image/jpeg	0
@@ -12307,11 +12305,7 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <p>Pyydä meiltä tarjousta!</p>\
 <!-- /wp:paragraph -->	Lainuri-lainausautomaatti		inherit	closed	closed		459-revision-v1			2019-09-11 19:19:02	2019-09-11 19:19:02		459	http://homepage/459-revision-v1/	0	revision		0
 475	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
-<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work.</p>\
-<!-- /wp:paragraph -->\
-\
-<!-- wp:paragraph -->\
-<p>Lainuri uses common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
@@ -12319,17 +12313,13 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Let your staff relax and choose Lainuri!</p>\
-<!-- /wp:paragraph -->\
-\
-<!-- wp:paragraph -->\
-<p>We send Lainuri by post - You plug it in - No hassle - Get Lainuri!</p>\
+<p>Let your staff relax and choose Lainuri! We send the device by mail - you plug it in. No hassle!</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:image {"id":482} -->\
-<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers.</figcaption></figure>\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers. Many types of cover materials.</figcaption></figure>\
 <!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
@@ -12338,8 +12328,8 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:column -->\
 \
 <!-- wp:column -->\
-<div class="wp-block-column"><!-- wp:image {"id":490} -->\
-<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-1-768x1024.png" alt="Lainuri" class="wp-image-490"/><figcaption>Many types of cover materials.</figcaption></figure>\
+<div class="wp-block-column"><!-- wp:image {"id":567,"width":482,"height":657,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="Lainuri prototype" class="wp-image-567" width="482" height="657"/><figcaption>Lainuri at our workshop.</figcaption></figure>\
 <!-- /wp:image -->\
 \
 <!-- wp:paragraph -->\
@@ -12349,20 +12339,24 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 <!-- /wp:columns -->\
 \
 <!-- wp:paragraph -->\
-<p>Choose your own material and color via our partner's <a href="https://cotter.co/materials">material selection</a>. Lainuri comes with your logo by default.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever.</p>\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever. It requires a wireless internet connection and a power socket.</p>\
 <!-- /wp:paragraph -->\
 \
 <!-- wp:paragraph -->\
-<p>Lainuri requires a wireless internet connection and a power socket.</p>\
+<p>Lainuri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Lainuri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
 <!-- /wp:paragraph -->\
 \
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
 <!-- wp:paragraph -->\
-<p>Ask us for a quotation!</p>\
-<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-self-checkout-machine			2020-02-06 15:24:14	2020-02-06 15:24:14		0	http://homepage/?page_id=475	0	page		0
+<p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-self-checkout-machine			2020-06-10 10:15:35	2020-06-10 10:15:35		0	http://homepage/?page_id=475	0	page		0
 476	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
 \
 Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.\
@@ -13505,3 +13499,1345 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Home		inherit	closed	closed		2-revision-v1			2020-06-10 08:18:27	2020-06-10 08:18:27		2	http://homepage/2-revision-v1/	0	revision		0
+544	1	2020-06-10 09:17:02	2020-06-10 09:17:02	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS.</p>\
+\
+<!-- wp:media-text {"align":"","mediaId":120,"mediaType":"image"} -->\
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Eno Toveri" class="wp-image-120"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->\
+<p><em>Toveri at Eno Library.</em></p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Toveri is the only Free Software access control device in Finland.</h3>\
+<!-- /wp:heading -->\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Toveri is designed to withstand extreme weather conditions.</h3>\
+<!-- /wp:heading --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client without any patents nor copyrights from us. However, the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. Toveri's case includes your logo by default.</p>\
+<p>Ask us for a quotation!</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Contact Us</h3>\
+<!-- /wp:heading -->\
+\
+<!-- wp:html -->\
+🌐 <a href="https://toveri.hypernova.fi" target="_blank" rel="noopener noreferrer">https://toveri.hypernova.fi</a><br>\
+📧 <a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a><br>\
+📱 <a href="tel:+358408383158">+358408383158</a><br>\
+<!-- /wp:html -->\
+\
+<!-- wp:paragraph -->\
+<p><br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2020-06-10 09:17:02	2020-06-10 09:17:02		153	http://homepage/153-revision-v1/	0	revision		0
+546	1	2020-06-10 09:28:58	2020-06-10 09:28:58	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS.</p>\
+\
+<!-- wp:media-text {"align":"","mediaId":120,"mediaType":"image"} -->\
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Eno Toveri" class="wp-image-120"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->\
+<p><em>Toveri at Eno Library.</em></p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Toveri is the only Free Software access control device in Finland.</h3>\
+<!-- /wp:heading -->\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Toveri is designed to withstand extreme weather conditions.</h3>\
+<!-- /wp:heading --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client without any patents nor copyrights from us. However, the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<p>Ask us for a quotation!</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:paragraph -->\
+<p><br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2020-06-10 09:28:58	2020-06-10 09:28:58		153	http://homepage/153-revision-v1/	0	revision		0
+547	1	2020-06-10 09:31:50	2020-06-10 09:31:50	<p>Toveri is a fully open source access control device produced by professional library software developers. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Toveri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+\
+<!-- wp:media-text {"align":"","mediaId":120,"mediaType":"image"} -->\
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Eno Toveri" class="wp-image-120"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph -->\
+<p><em>Toveri at Eno Library.</em></p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Toveri is the only Free Software access control device in Finland.</h3>\
+<!-- /wp:heading -->\
+\
+<!-- wp:heading {"level":3} -->\
+<h3>Toveri is designed to withstand extreme weather conditions.</h3>\
+<!-- /wp:heading --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client without any patents nor copyrights from us. However, the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<p>Ask us for a quotation!</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:paragraph -->\
+<p><br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2020-06-10 09:31:50	2020-06-10 09:31:50		153	http://homepage/153-revision-v1/	0	revision		0
+548	1	2020-06-10 09:35:52	2020-06-10 09:35:52		Toveri with wooden casing		inherit	open	closed		toveri-wooden			2020-06-10 09:37:09	2020-06-10 09:37:09		153	http://homepage/wp-content/uploads/2020/06/toveri-wooden.jpg	0	attachment	image/jpeg	0
+549	1	2020-06-10 09:35:52	2020-06-10 09:35:52		toveri-wooden		inherit	open	closed		toveri-wooden-2			2020-06-10 09:37:09	2020-06-10 09:37:09		128	http://homepage/wp-content/uploads/2020/06/toveri-wooden.jpg	0	attachment	image/jpeg	0
+550	1	2020-06-10 09:39:58	2020-06-10 09:39:58	<p>Toveri is a fully open source access control device produced by professional library software developers. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Toveri is Finnish quality design. It is designed to withstand extreme weather conditions. Therefore we provide a two-year warranty for the device.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":548,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri with wooden casing" class="wp-image-548"/><figcaption>Toveri supports multiple casing materials</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri at Eno Library" class="wp-image-120"/><figcaption>Toveri in use at Eno Library</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client without any patents nor copyrights from us. However, the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<p>Ask us for a quotation!</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:paragraph -->\
+<p><br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2020-06-10 09:39:58	2020-06-10 09:39:58		153	http://homepage/153-revision-v1/	0	revision		0
+552	1	2020-06-10 09:43:18	2020-06-10 09:43:18	<p>Toveri is a fully open source access control device produced by professional library software developers. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Toveri is Finnish quality design. It is designed to withstand extreme weather conditions. Therefore we provide a two-year warranty for the device.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":548,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri with wooden casing" class="wp-image-548"/><figcaption>Toveri supports multiple casing materials</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri at Eno Library" class="wp-image-120"/><figcaption>Toveri in use at Eno Library</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client without any patents nor copyrights from us. However, the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+Send us an email (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) and we will be happy to tell you more.</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:paragraph -->\
+<p><br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2020-06-10 09:43:18	2020-06-10 09:43:18		153	http://homepage/153-revision-v1/	0	revision		0
+554	1	2020-06-10 09:52:30	2020-06-10 09:52:30	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri! We send a preconfigured device by mail - you plug it in. No hassle!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":490} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-1-768x1024.png" alt="Lainuri" class="wp-image-490"/><figcaption>Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever. It requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Lainuri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-06-10 09:52:30	2020-06-10 09:52:30		475	http://homepage/475-revision-v1/	0	revision		0
+555	1	2020-06-10 09:53:13	2020-06-10 09:53:13	<p>Toveri is a fully open source access control device produced by professional library software developers. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Toveri is Finnish quality design. It is designed to withstand extreme weather conditions. Therefore we provide a two-year warranty for the device.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":548,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri with wooden casing" class="wp-image-548"/><figcaption>Toveri supports multiple casing materials</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri at Eno Library" class="wp-image-120"/><figcaption>Toveri in use at Eno Library</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+Send us an email (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) and we will be happy to tell you more.</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:paragraph -->\
+<p><br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2020-06-10 09:53:13	2020-06-10 09:53:13		153	http://homepage/153-revision-v1/	0	revision		0
+556	1	2020-06-10 09:54:53	2020-06-10 09:54:53	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite. Laitetta toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri on valmiiksi yhteensopiva Koha-kirjastojärjestelmän kanssa.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Yhteystiedot löytyvät sivun alalaidasta.<br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		128-revision-v1			2020-06-10 09:54:53	2020-06-10 09:54:53		128	http://homepage/128-revision-v1/	0	revision		0
+557	1	2020-06-10 09:57:54	2020-06-10 09:57:54	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Yhteystiedot löytyvät sivun alalaidasta.<br></p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		128-revision-v1			2020-06-10 09:57:54	2020-06-10 09:57:54		128	http://homepage/128-revision-v1/	0	revision		0
+558	1	2020-06-10 09:58:36	2020-06-10 09:58:36	<p>Toveri is a fully open source access control device produced by professional library software developers. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Toveri is Finnish quality design. It is designed to withstand extreme weather conditions. Therefore we provide a two-year warranty for the device.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":548,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri with wooden casing" class="wp-image-548"/><figcaption>Toveri supports multiple casing materials</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri at Eno Library" class="wp-image-120"/><figcaption>Toveri in use at Eno Library</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p><br>Send us an email (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2020-06-10 09:58:36	2020-06-10 09:58:36		153	http://homepage/153-revision-v1/	0	revision		0
+559	1	2020-06-10 09:59:11	2020-06-10 09:59:11	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri! We send a preconfigured device by mail - you plug it in. No hassle!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":490} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-1-768x1024.png" alt="Lainuri" class="wp-image-490"/><figcaption>Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever. It requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Lainuri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-06-10 09:59:11	2020-06-10 09:59:11		475	http://homepage/475-revision-v1/	0	revision		0
+560	1	2020-06-10 09:59:57	2020-06-10 09:59:57	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		128-revision-v1			2020-06-10 09:59:57	2020-06-10 09:59:57		128	http://homepage/128-revision-v1/	0	revision		0
+561	1	2020-06-10 10:00:07	2020-06-10 10:00:07	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		128-revision-v1			2020-06-10 10:00:07	2020-06-10 10:00:07		128	http://homepage/128-revision-v1/	0	revision		0
+562	1	2020-06-10 10:00:17	2020-06-10 10:00:17	<p>Toveri is a fully open source access control device produced by professional library software developers. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Toveri is Finnish quality design. It is designed to withstand extreme weather conditions. Therefore we provide a two-year warranty for the device.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":548,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri with wooden casing" class="wp-image-548"/><figcaption>Toveri supports multiple casing materials.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri at Eno Library" class="wp-image-120"/><figcaption>Toveri in use at Eno Library.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p><br>Send us an email (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2020-06-10 10:00:17	2020-06-10 10:00:17		153	http://homepage/153-revision-v1/	0	revision		0
+564	1	2020-06-10 10:04:37	2020-06-10 10:04:37	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":483} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":489} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-1-768x1024.png" alt="Lainuri" class="wp-image-489"/><figcaption>Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		459-revision-v1			2020-06-10 10:04:37	2020-06-10 10:04:37		459	http://homepage/459-revision-v1/	0	revision		0
+565	1	2020-06-10 10:05:14	2020-06-10 10:05:14	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":483} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":489} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri2-1-768x1024.png" alt="Lainuri" class="wp-image-489"/><figcaption>Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Lainurin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		459-revision-v1			2020-06-10 10:05:14	2020-06-10 10:05:14		459	http://homepage/459-revision-v1/	0	revision		0
+566	1	2020-06-10 10:07:26	2020-06-10 10:07:26		lainuri-prototype		inherit	open	closed		lainuri-prototype			2020-06-10 10:07:26	2020-06-10 10:07:26		459	http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg	0	attachment	image/jpeg	0
+567	1	2020-06-10 10:07:26	2020-06-10 10:07:26		lainuri-prototype		inherit	open	closed		lainuri-prototype-2			2020-06-10 10:10:52	2020-06-10 10:10:52		475	http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg	0	attachment	image/jpeg	0
+568	1	2020-06-10 10:08:13	2020-06-10 10:08:13	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":483} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä. Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":566,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="" class="wp-image-566"/><figcaption>Lainuri kehityspajalla.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Lainurin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		459-revision-v1			2020-06-10 10:08:13	2020-06-10 10:08:13		459	http://homepage/459-revision-v1/	0	revision		0
+569	1	2020-06-10 10:08:52	2020-06-10 10:08:52	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":483} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä. Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":566,"width":768,"height":1024,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="" class="wp-image-566" width="768" height="1024"/><figcaption>Lainuri kehityspajalla.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Lainurin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		459-revision-v1			2020-06-10 10:08:52	2020-06-10 10:08:52		459	http://homepage/459-revision-v1/	0	revision		0
+571	1	2020-06-10 10:09:52	2020-06-10 10:09:52	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":483} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä. Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":566,"width":482,"height":658,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="" class="wp-image-566" width="482" height="658"/><figcaption>Lainuri kehityspajalla.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Lainurin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		459-revision-v1			2020-06-10 10:09:52	2020-06-10 10:09:52		459	http://homepage/459-revision-v1/	0	revision		0
+572	1	2020-06-10 10:11:47	2020-06-10 10:11:47	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri! We send a preconfigured device by mail - you plug it in. No hassle!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers. Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":567,"width":485,"height":662,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="Lainuri prototype" class="wp-image-567" width="485" height="662"/><figcaption>Lainuri at our workshop.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever. It requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Lainuri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-06-10 10:11:47	2020-06-10 10:11:47		475	http://homepage/475-revision-v1/	0	revision		0
+574	1	2020-06-10 10:12:03	2020-06-10 10:12:03	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri! We send a preconfigured device by mail - you plug it in. No hassle!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers. Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":567,"width":483,"height":659,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="Lainuri prototype" class="wp-image-567" width="483" height="659"/><figcaption>Lainuri at our workshop.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever. It requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Lainuri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-06-10 10:12:03	2020-06-10 10:12:03		475	http://homepage/475-revision-v1/	0	revision		0
+575	1	2020-06-10 10:12:18	2020-06-10 10:12:18	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri! We send a preconfigured device by mail - you plug it in. No hassle!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers. Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":567,"width":482,"height":657,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="Lainuri prototype" class="wp-image-567" width="482" height="657"/><figcaption>Lainuri at our workshop.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever. It requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Lainuri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-06-10 10:12:18	2020-06-10 10:12:18		475	http://homepage/475-revision-v1/	0	revision		0
+576	1	2020-06-10 10:14:03	2020-06-10 10:14:03	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		128-revision-v1			2020-06-10 10:14:03	2020-06-10 10:14:03		128	http://homepage/128-revision-v1/	0	revision		0
+577	1	2020-06-10 10:14:20	2020-06-10 10:14:20	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		128-revision-v1			2020-06-10 10:14:20	2020-06-10 10:14:20		128	http://homepage/128-revision-v1/	0	revision		0
+578	1	2020-06-10 10:14:50	2020-06-10 10:14:50	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":483} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä. Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":566,"width":482,"height":658,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="" class="wp-image-566" width="482" height="658"/><figcaption>Lainuri kehityspajalla.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Lainurin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		459-revision-v1			2020-06-10 10:14:50	2020-06-10 10:14:50		459	http://homepage/459-revision-v1/	0	revision		0
+579	1	2020-06-10 10:15:35	2020-06-10 10:15:35	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri! We send the device by mail - you plug it in. No hassle!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers. Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":567,"width":482,"height":657,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="Lainuri prototype" class="wp-image-567" width="482" height="657"/><figcaption>Lainuri at our workshop.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever. It requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Lainuri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-06-10 10:15:35	2020-06-10 10:15:35		475	http://homepage/475-revision-v1/	0	revision		0

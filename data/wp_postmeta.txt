@@ -115,9 +115,9 @@
 216	121	_wp_attached_file	2018/12/Eno.jpg
 217	121	wpml_media_processed	1
 218	120	_wp_attachment_metadata	a:5:{s:5:"width";i:771;s:6:"height";i:1028;s:4:"file";s:15:"2018/12/Eno.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"Eno-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"Eno-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:15:"Eno-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"1.9";s:6:"credit";s:0:"";s:6:"camera";s:9:"SM-J510FN";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1497436890";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"3.7";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:18:"0.0092592592592593";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}
-219	120	_wp_attachment_image_alt	Eno Toveri
+219	120	_wp_attachment_image_alt	Toveri at Eno Library
 220	121	_wp_attachment_image_alt	Toveri Enon kirjastossa
-221	128	_edit_lock	1591773466:1
+221	128	_edit_lock	1591784061:1
 222	128	_edit_last	1
 223	128	_generate-sidebar-layout-meta	no-sidebar
 224	128	_wp_page_template	
@@ -125,7 +125,7 @@
 226	128	_wpml_media_featured	1
 227	128	_oembed_a68ba0532a7543884e52bfe9250f91cc	<blockquote class="wp-embedded-content" data-secret="Yu9czdYcD3"><a href="https://toveri.hypernova.fi/">Etusivu</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://toveri.hypernova.fi/embed/#?secret=Yu9czdYcD3" data-secret="Yu9czdYcD3" width="600" height="338" title="&#8220;Etusivu&#8221; &#8212; Toveri" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 228	128	_oembed_time_a68ba0532a7543884e52bfe9250f91cc	1545935285
-241	153	_edit_lock	1568671554:1
+241	153	_edit_lock	1591783245:1
 242	153	_edit_last	1
 243	153	_wp_page_template	
 244	160	_menu_item_type	post_type
@@ -1165,7 +1165,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 552	459	_edit_last	1
 553	459	_wpml_media_featured	1
 554	459	_wpml_media_duplicate	1
-555	459	_edit_lock	1581007550:1
+555	459	_edit_lock	1591784129:1
 556	461	_menu_item_type	post_type
 557	461	_menu_item_menu_item_parent	534
 558	461	_menu_item_object_id	459
@@ -1188,12 +1188,12 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 576	464	_wp_attachment_image_alt	Lainuri
 577	465	_wp_attachment_image_alt	Lainuri
 578	466	_wp_attachment_image_alt	Lainuri
-579	459	_yoast_wpseo_content_score	60
+579	459	_yoast_wpseo_content_score	30
 580	475	_edit_last	1
 581	475	_wp_page_template	
 582	475	_wpml_media_featured	1
 583	475	_wpml_media_duplicate	1
-584	475	_edit_lock	1581002654:1
+584	475	_edit_lock	1591784136:1
 585	477	_menu_item_type	post_type
 586	477	_menu_item_menu_item_parent	533
 587	477	_menu_item_object_id	475
@@ -1280,3 +1280,16 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 708	534	_menu_item_classes	a:1:{i:0;s:0:"";}
 709	534	_menu_item_xfn	
 710	534	_menu_item_url	#
+711	548	_wp_attached_file	2020/06/toveri-wooden-scaled.jpg
+712	549	_wp_attachment_metadata	a:6:{s:5:"width";i:1932;s:6:"height";i:2560;s:4:"file";s:32:"2020/06/toveri-wooden-scaled.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:25:"toveri-wooden-226x300.jpg";s:5:"width";i:226;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"toveri-wooden-773x1024.jpg";s:5:"width";i:773;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"toveri-wooden-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"toveri-wooden-768x1017.jpg";s:5:"width";i:768;s:6:"height";i:1017;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:27:"toveri-wooden-1159x1536.jpg";s:5:"width";i:1159;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:9:"2048x2048";a:4:{s:4:"file";s:27:"toveri-wooden-1546x2048.jpg";s:5:"width";i:1546;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:25:"toveri-wooden-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"2";s:6:"credit";s:0:"";s:6:"camera";s:5:"G8441";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1568838154";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"4.4";s:3:"iso";s:4:"1000";s:13:"shutter_speed";s:4:"0.02";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:14:"original_image";s:17:"toveri-wooden.jpg";}
+713	549	_wp_attached_file	2020/06/toveri-wooden.jpg
+714	549	wpml_media_processed	1
+715	548	_wp_attachment_metadata	a:6:{s:5:"width";i:1932;s:6:"height";i:2560;s:4:"file";s:32:"2020/06/toveri-wooden-scaled.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:25:"toveri-wooden-226x300.jpg";s:5:"width";i:226;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"toveri-wooden-773x1024.jpg";s:5:"width";i:773;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"toveri-wooden-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:26:"toveri-wooden-768x1017.jpg";s:5:"width";i:768;s:6:"height";i:1017;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:27:"toveri-wooden-1159x1536.jpg";s:5:"width";i:1159;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:9:"2048x2048";a:4:{s:4:"file";s:27:"toveri-wooden-1546x2048.jpg";s:5:"width";i:1546;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:25:"toveri-wooden-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"2";s:6:"credit";s:0:"";s:6:"camera";s:5:"G8441";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1568838154";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"4.4";s:3:"iso";s:4:"1000";s:13:"shutter_speed";s:4:"0.02";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:14:"original_image";s:17:"toveri-wooden.jpg";}
+716	548	_wp_attachment_image_alt	Toveri with wooden casing
+717	549	_wp_attachment_image_alt	Toveri with wooden casing
+718	566	_wp_attached_file	2020/06/lainuri-prototype.jpg
+719	567	_wp_attachment_metadata	a:5:{s:5:"width";i:699;s:6:"height";i:956;s:4:"file";s:29:"2020/06/lainuri-prototype.jpg";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:29:"lainuri-prototype-219x300.jpg";s:5:"width";i:219;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:29:"lainuri-prototype-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:29:"lainuri-prototype-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
+720	567	_wp_attached_file	2020/06/lainuri-prototype.jpg
+721	567	wpml_media_processed	1
+722	566	_wp_attachment_metadata	a:5:{s:5:"width";i:699;s:6:"height";i:956;s:4:"file";s:29:"2020/06/lainuri-prototype.jpg";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:29:"lainuri-prototype-219x300.jpg";s:5:"width";i:219;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:29:"lainuri-prototype-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:29:"lainuri-prototype-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
+723	567	_wp_attachment_image_alt	Lainuri prototype

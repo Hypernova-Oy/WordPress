@@ -1,8 +1,4 @@
 42	/koha-hosting-quote	429	0	internal
-103	https://toveri.hypernova.fi	153	0	external
-104	mailto:toveri@hypernova.fi	153	0	external
-105	tel:+358408383158	153	0	external
-107	https://cotter.co/materials	459	0	external
 110	mailto:info@hypernova.fi	85	0	external
 111	mailto:info@hypernova.fi	90	0	external
 112	/fi/kohan-yllapitopalvelu/	230	314	internal
@@ -14,7 +10,6 @@
 118	https://github.com/KohaSuomi/Koha	230	0	external
 119	https://koha-community.org/download-koha/	230	0	external
 120	/fi/koha-yllapito-tarjouspyynto	314	366	internal
-126	https://cotter.co/materials	475	0	external
 412	/koha-hosting/	386	429	internal
 413	/koha-hosting/	386	429	internal
 414	https://koha-community.org	386	0	external
@@ -30,3 +25,11 @@
 448	https://redmine.hypernova.fi/activity	2	0	external
 449	https://redmine.hypernova.fi	2	0	external
 450	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	2	0	external
+499	https://cotter.co/materials	153	0	external
+500	mailto:toveri@hypernova.fi	153	0	external
+541	https://cotter.co/materials	128	0	external
+542	mailto:toveri@hypernova.fi	128	0	external
+545	https://cotter.co/materials	459	0	external
+546	mailto:lainuri@hypernova.fi	459	0	external
+549	https://cotter.co/materials	475	0	external
+550	mailto:lainuri@hypernova.fi	475	0	external
