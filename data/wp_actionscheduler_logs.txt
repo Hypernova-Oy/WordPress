@@ -11,3 +11,12 @@
 22	546	action created	2020-06-10 09:07:17	2020-06-10 09:07:17
 23	546	action started via Async Request	2020-06-10 09:07:21	2020-06-10 09:07:21
 24	546	action complete via Async Request	2020-06-10 09:07:21	2020-06-10 09:07:21
+25	545	action started via WP Cron	2020-06-13 09:01:10	2020-06-13 09:01:10
+26	545	action complete via WP Cron	2020-06-13 09:01:10	2020-06-13 09:01:10
+27	547	action created	2020-06-13 09:01:10	2020-06-13 09:01:10
+28	547	action started via WP Cron	2020-06-24 10:29:57	2020-06-24 10:29:57
+29	547	action complete via WP Cron	2020-06-24 10:29:57	2020-06-24 10:29:57
+30	548	action created	2020-06-24 10:29:57	2020-06-24 10:29:57
+31	549	action created	2020-06-24 10:30:07	2020-06-24 10:30:07
+32	549	action started via Async Request	2020-06-24 10:31:07	2020-06-24 10:31:07
+33	549	action complete via Async Request	2020-06-24 10:31:07	2020-06-24 10:31:07

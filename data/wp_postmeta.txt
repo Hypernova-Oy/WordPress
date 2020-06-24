@@ -198,7 +198,7 @@
 373	366	_edit_last	1
 374	366	_wpml_media_featured	1
 375	366	_wpml_media_duplicate	1
-376	366	_edit_lock	1550425946:1
+376	366	_edit_lock	1592994603:1
 377	366	_generate-sidebar-layout-meta	no-sidebar
 378	377	success	
 379	377	from_header	Hypernova Oy <no-reply@hypernova.fi>
@@ -1156,7 +1156,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 527	439	_wpml_media_duplicate	1
 528	439	_wpml_media_featured	1
 529	439	_last_translation_edit_mode	native-editor
-530	439	_edit_lock	1567206899:1
+530	439	_edit_lock	1592994620:1
 531	450	_wp_attached_file	2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png
 532	451	_wp_attachment_metadata	a:5:{s:5:"width";i:744;s:6:"height";i:744;s:4:"file";s:50:"2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:50:"logo_teemme-ilmastotyota_ilmantekstiä-272x182.png";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
 533	451	_wp_attached_file	2019/08/logo_teemme-ilmastotyota_ilmantekstiä.png
@@ -1165,7 +1165,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 552	459	_edit_last	1
 553	459	_wpml_media_featured	1
 554	459	_wpml_media_duplicate	1
-555	459	_edit_lock	1591784129:1
+555	459	_edit_lock	1591784090:1
 556	461	_menu_item_type	post_type
 557	461	_menu_item_menu_item_parent	534
 558	461	_menu_item_object_id	459
@@ -1193,7 +1193,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 581	475	_wp_page_template	
 582	475	_wpml_media_featured	1
 583	475	_wpml_media_duplicate	1
-584	475	_edit_lock	1591784136:1
+584	475	_edit_lock	1591797046:1
 585	477	_menu_item_type	post_type
 586	477	_menu_item_menu_item_parent	533
 587	477	_menu_item_object_id	475
@@ -1293,3 +1293,5 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 721	567	wpml_media_processed	1
 722	566	_wp_attachment_metadata	a:5:{s:5:"width";i:699;s:6:"height";i:956;s:4:"file";s:29:"2020/06/lainuri-prototype.jpg";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:29:"lainuri-prototype-219x300.jpg";s:5:"width";i:219;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:29:"lainuri-prototype-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:29:"lainuri-prototype-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}
 723	567	_wp_attachment_image_alt	Lainuri prototype
+724	581	_wp_trash_meta_status	publish
+725	581	_wp_trash_meta_time	1592994683
