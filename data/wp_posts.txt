@@ -40,11 +40,15 @@ If you have an account on this site, or have left comments, you can request to r
 <h2>Where we send your data</h2>\
 Visitor comments may be checked through an automated spam detection service.\
 <h2>Contact information</h2>\
-Hypernova Oy\
-\
-Kauppakatu 25 C 409, 80100 Joensuu. Last modification 28.11.2018.\
-\
-Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		publish	closed	open		privacy-policy			2018-12-19 16:05:42	2018-12-19 16:05:42		0	http://homepage/?page_id=3	0	page		0
+<pre>Hypernova Oy\
+PL 16\
+80101 Joensuu</pre>\
+<strong>Modification history</strong>\
+<ul>\
+ \	<li>31.07.2018: Address update, added modification history section, preformatted address box</li>\
+ \	<li>28.11.2018: First draft</li>\
+</ul>\
+Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		publish	closed	open		privacy-policy			2020-07-30 23:21:28	2020-07-30 23:21:28		0	http://homepage/?page_id=3	0	page		0
 6	1	2018-10-12 18:43:45	2018-10-12 18:43:45	This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:\
 <blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>\
 ...or something like this:\
@@ -267,10 +271,10 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 102	1	2018-12-19 15:52:15	2018-12-19 15:52:15	 			publish	closed	closed		102			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=102	9	nav_menu_item		0
 104	1	2018-12-19 15:53:53	2018-12-19 15:53:53	<div id="content" class="site-content">\
 <h2>Rekisteri- ja tietosuojaseloste</h2>\
-Tämä on Yrityksen henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 28.11.2018. Viimeisin muutos 28.11.2018.\
+Tämä on Yrityksen henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 28.11.2018.\
 \
 <strong>1. Rekisterinpitäjä</strong>\
-Hypernova Oy, Kauppakatu 25 C 409, 80100 Joensuu\
+Hypernova Oy, PL 16, 80101 Joensuu\
 \
 <strong>2. Rekisteristä vastaava yhteyshenkilö</strong>\
 Lari Taskula, info@hypernova.fi, +358 44 985 7337\
@@ -312,7 +316,12 @@ Jokaisella rekisterissä olevalla henkilöllä on oikeus tarkistaa rekisteriin t
 <strong>10. Muut henkilötietojen käsittelyyn liittyvät oikeudet</strong>\
 Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkilötietojen poistamiseen rekisteristä (“oikeus tulla unohdetuksi”). Niin ikään rekisteröidyillä on muut EU:n yleisen tietosuoja-asetuksen mukaiset oikeudet kuten henkilötietojen käsittelyn rajoittaminen tietyissä tilanteissa. Pyynnöt tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa).\
 \
-</div>	Tietosuojaseloste		publish	closed	open		tietosuojaseloste			2018-12-19 15:54:14	2018-12-19 15:54:14		0	http://homepage/?page_id=104	0	page		0
+<strong>Muutoshistoria</strong>\
+<ul>\
+ \	<li>31.07.2020: Osoitteenmuutos, muutoshistoria-osion lisäys</li>\
+ \	<li>28.11.2018: Dokumentti laadittu</li>\
+</ul>\
+</div>	Tietosuojaseloste		publish	closed	open		tietosuojaseloste			2020-07-30 23:22:06	2020-07-30 23:22:06		0	http://homepage/?page_id=104	0	page		0
 105	1	2018-12-19 15:53:53	2018-12-19 15:53:53	<div id="content" class="site-content">\
 <h2>Rekisteri- ja tietosuojaseloste</h2>\
 Tämä on Yrityksen henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 28.11.2018. Viimeisin muutos 28.11.2018.\
@@ -14840,28 +14849,134 @@ Send us an email (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) 
 <!-- wp:paragraph -->\
 <p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
 <!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2020-06-10 10:15:35	2020-06-10 10:15:35		475	http://homepage/475-revision-v1/	0	revision		0
-580	1	2020-06-24 10:30:07	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-06-24 10:30:07	0000-00-00 00:00:00		0	http://homepage/?p=580	0	post		0
-581	1	2020-06-24 10:31:22	2020-06-24 10:31:22	{\
-    "widget_custom_html[3]": {\
-        "value": {\
-            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo3Mzk6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPkZJTkxBTkQ8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPGk+VkFUIElEOiBGSTI5MjU2NzYzPC9pPjxiciAvPg0KPGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmluZm9AaHlwZXJub3ZhLmZpIj5pbmZvQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1waG9uZS1zcXVhcmUiPjwvaT4gPGEgaHJlZj0idGVsOiszNTg0NDk4NTczMzciPiszNTg0NDk4NTczMzc8L2E+PGJyIC8+DQo8YnIgLz4NCjxoMz5Ub3ZlcmkgU3VwcG9ydDwvaDM+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOnRvdmVyaUBoeXBlcm5vdmEuZmkiPnRvdmVyaUBoeXBlcm5vdmEuZmk8L2E+PGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtcGhvbmUtc3F1YXJlIj48L2k+IDxhIGhyZWY9InRlbDorMzU4NDA4MzgzMTU4Ij4rMzU4NDA4MzgzMTU4PC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+TGFpbnVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86bGFpbnVyaUBoeXBlcm5vdmEuZmkiPmxhaW51cmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLXBob25lLXNxdWFyZSI+PC9pPiA8YSBocmVmPSJ0ZWw6KzM1ODQwODM4MzE1OCI+KzM1ODQwODM4MzE1ODwvYT48YnIgLz4iO3M6MTM6IndwbWxfbGFuZ3VhZ2UiO3M6MjoiZW4iO30=",\
-            "title": "Hypernova Oy",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "d120d190de8de8047003ea9daee23593"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2020-06-24 10:31:22"\
-    },\
-    "widget_custom_html[9]": {\
-        "value": {\
-            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo3NTI6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPlNVT01JPC9zdHJvbmc+PGJyIC8+DQo8YnIgLz4NCjxpPlktdHVubnVzOiAyOTI1Njc2LTM8L2k+PGJyIC8+DQo8YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86aW5mb0BoeXBlcm5vdmEuZmkiPmluZm9AaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGkgY2xhc3M9ImZhIGZhLXBob25lLXNxdWFyZSI+PC9pPiA8YSBocmVmPSJ0ZWw6KzM1ODQ0OTg1NzMzNyI+KzM1ODQ0OTg1NzMzNzwvYT48YnIgLz4NCjxiciAvPg0KPGgzPlRvdmVyaSBhc2lha2FzcGFsdmVsdTwvaDM+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOnRvdmVyaUBoeXBlcm5vdmEuZmkiPnRvdmVyaUBoeXBlcm5vdmEuZmk8L2E+PGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtcGhvbmUtc3F1YXJlIj48L2k+IDxhIGhyZWY9InRlbDorMzU4NDA4MzgzMTU4Ij4rMzU4NDA4MzgzMTU4PC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+TGFpbnVyaSBhc2lha2FzcGFsdmVsdTwvaDM+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmxhaW51cmlAaHlwZXJub3ZhLmZpIj5sYWludXJpQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1waG9uZS1zcXVhcmUiPjwvaT4gPGEgaHJlZj0idGVsOiszNTg0MDgzODMxNTgiPiszNTg0MDgzODMxNTg8L2E+PGJyIC8+IjtzOjEzOiJ3cG1sX2xhbmd1YWdlIjtzOjI6ImZpIjt9",\
-            "title": "Hypernova Oy",\
-            "is_widget_customizer_js_value": true,\
-            "instance_hash_key": "58eff32fe63bf06e7851e607925f867d"\
-        },\
-        "type": "option",\
-        "user_id": 1,\
-        "date_modified_gmt": "2020-06-24 10:31:22"\
-    }\
-}			trash	closed	closed		93f1eab3-ab54-45f8-859f-74c2c8da1ece			2020-06-24 10:31:22	2020-06-24 10:31:22		0	http://homepage/93f1eab3-ab54-45f8-859f-74c2c8da1ece/	0	customize_changeset		0
+582	1	2020-07-30 23:21:11	2020-07-30 23:21:11	<h2>Who we are</h2>\
+Our website address is: https://www.hypernova.fi.\
+<h2>What personal data we collect and why we collect it</h2>\
+<h3>Comments</h3>\
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.\
+\
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.\
+<h3>Media</h3>\
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.\
+<h3>Cookies</h3>\
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\
+\
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.\
+\
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.\
+\
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.\
+<h3>Embedded content from other websites</h3>\
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\
+\
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.\
+<h2>How long we retain your data</h2>\
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.\
+\
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.\
+<h2>What rights you have over your data</h2>\
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.\
+<h2>Where we send your data</h2>\
+Visitor comments may be checked through an automated spam detection service.\
+<h2>Contact information</h2>\
+<pre>Hypernova Oy\
+PL 16\
+80101 Joensuu</pre>\
+<strong>Modification history</strong>\
+<ul>\
+ \	<li>31.07.2018: Address update</li>\
+ \	<li>28.11.2018: First draft</li>\
+</ul>\
+Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-revision-v1			2020-07-30 23:21:11	2020-07-30 23:21:11		3	http://homepage/3-revision-v1/	0	revision		0
+583	1	2020-07-30 23:21:28	2020-07-30 23:21:28	<h2>Who we are</h2>\
+Our website address is: https://www.hypernova.fi.\
+<h2>What personal data we collect and why we collect it</h2>\
+<h3>Comments</h3>\
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.\
+\
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.\
+<h3>Media</h3>\
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.\
+<h3>Cookies</h3>\
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\
+\
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.\
+\
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.\
+\
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.\
+<h3>Embedded content from other websites</h3>\
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\
+\
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.\
+<h2>How long we retain your data</h2>\
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.\
+\
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.\
+<h2>What rights you have over your data</h2>\
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.\
+<h2>Where we send your data</h2>\
+Visitor comments may be checked through an automated spam detection service.\
+<h2>Contact information</h2>\
+<pre>Hypernova Oy\
+PL 16\
+80101 Joensuu</pre>\
+<strong>Modification history</strong>\
+<ul>\
+ \	<li>31.07.2018: Address update, added modification history section, preformatted address box</li>\
+ \	<li>28.11.2018: First draft</li>\
+</ul>\
+Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-revision-v1			2020-07-30 23:21:28	2020-07-30 23:21:28		3	http://homepage/3-revision-v1/	0	revision		0
+584	1	2020-07-30 23:22:06	2020-07-30 23:22:06	<div id="content" class="site-content">\
+<h2>Rekisteri- ja tietosuojaseloste</h2>\
+Tämä on Yrityksen henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 28.11.2018.\
+\
+<strong>1. Rekisterinpitäjä</strong>\
+Hypernova Oy, PL 16, 80101 Joensuu\
+\
+<strong>2. Rekisteristä vastaava yhteyshenkilö</strong>\
+Lari Taskula, info@hypernova.fi, +358 44 985 7337\
+\
+<strong>3. Rekisterin nimi</strong>\
+WordPress-sisällönhallintajärjestelmä\
+\
+<strong>4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus</strong>\
+EU:n yleisen tietosuoja-asetuksen mukainen oikeusperuste henkilötietojen käsittelylle on\
+– henkilön suostumus (dokumentoitu, vapaaehtoinen, yksilöity, tietoinen ja yksiselitteinen)\
+– sopimus, jossa rekisteröity on osapuolena\
+– laki (mikä)\
+– julkisen tehtävän hoitaminen (mihin perustuu), tai\
+– rekisterinpitäjän oikeutettu etu (esim. asiakassuhde, työsuhde, jäsenyys).\
+\
+Henkilötietojen käsittelyn tarkoitus on yhteydenpito asiakkaisiin, asiakassuhteen ylläpito, markkinointi tms.\
+\
+Tietoja ei käytetä automatisoituun päätöksentekoon tai profilointiin.\
+\
+<strong>5. Rekisterin tietosisältö</strong>\
+Rekisteriin tallennettavia tietoja ovat: verkkoyhteyden IP-osoite.\
+\
+Tiedot anonymisoidaan 4 viikon kuluessa rekisteröinnistä.\
+\
+<strong>6. Säännönmukaiset tietolähteet</strong>\
+Rekisteriin tallennettavat tiedot saadaan asiakkaalta www-sivulla vierailun yhteydessä.\
+\
+<strong>7. Tietojen säännönmukaiset luovutukset ja tietojen siirto EU:n tai ETA:n ulkopuolelle</strong>\
+Tietoja ei luovuteta säännönmukaisesti muille tahoille. Tietoja voidaan julkaista siltä osin kuin niin on sovittu asiakkaan kanssa.\
+\
+Tietoja voidaan siirtää rekisterinpitäjän toimesta myös EU:n tai ETA:n ulkopuolelle.\
+\
+<strong>8. Rekisterin suojauksen periaatteet</strong>\
+Rekisterin käsittelyssä noudatetaan huolellisuutta ja tietojärjestelmien avulla käsiteltävät tiedot suojataan asianmukaisesti. Kun rekisteritietoja säilytetään Internet-palvelimilla, niiden laitteiston fyysisestä ja digitaalisesta tietoturvasta huolehditaan asiaankuuluvasti. Rekisterinpitäjä huolehtii siitä, että tallennettuja tietoja sekä palvelimien käyttöoikeuksia ja muita henkilötietojen turvallisuuden kannalta kriittisiä tietoja käsitellään luottamuksellisesti ja vain niiden työntekijöiden toimesta, joiden työnkuvaan se kuuluu.\
+\
+<strong>9. Tarkastusoikeus ja oikeus vaatia tiedon korjaamista</strong>\
+Jokaisella rekisterissä olevalla henkilöllä on oikeus tarkistaa rekisteriin tallennetut tietonsa ja vaatia mahdollisen virheellisen tiedon korjaamista tai puutteellisen tiedon täydentämistä. Mikäli henkilö haluaa tarkistaa hänestä tallennetut tiedot tai vaatia niihin oikaisua, pyyntö tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa).\
+\
+<strong>10. Muut henkilötietojen käsittelyyn liittyvät oikeudet</strong>\
+Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkilötietojen poistamiseen rekisteristä (“oikeus tulla unohdetuksi”). Niin ikään rekisteröidyillä on muut EU:n yleisen tietosuoja-asetuksen mukaiset oikeudet kuten henkilötietojen käsittelyn rajoittaminen tietyissä tilanteissa. Pyynnöt tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa).\
+\
+<strong>Muutoshistoria</strong>\
+<ul>\
+ \	<li>31.07.2020: Osoitteenmuutos, muutoshistoria-osion lisäys</li>\
+ \	<li>28.11.2018: Dokumentti laadittu</li>\
+</ul>\
+</div>	Tietosuojaseloste		inherit	closed	closed		104-revision-v1			2020-07-30 23:22:06	2020-07-30 23:22:06		104	http://homepage/104-revision-v1/	0	revision		0
