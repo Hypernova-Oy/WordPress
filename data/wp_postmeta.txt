@@ -117,7 +117,7 @@
 218	120	_wp_attachment_metadata	a:5:{s:5:"width";i:771;s:6:"height";i:1028;s:4:"file";s:15:"2018/12/Eno.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:15:"Eno-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:15:"Eno-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:16:"Eno-768x1024.jpg";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:20:"sow-carousel-default";a:4:{s:4:"file";s:15:"Eno-272x182.jpg";s:5:"width";i:272;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"1.9";s:6:"credit";s:0:"";s:6:"camera";s:9:"SM-J510FN";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1497436890";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"3.7";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:18:"0.0092592592592593";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}
 219	120	_wp_attachment_image_alt	Toveri at Eno Library
 220	121	_wp_attachment_image_alt	Toveri Enon kirjastossa
-221	128	_edit_lock	1591784061:1
+221	128	_edit_lock	1597185536:1
 222	128	_edit_last	1
 223	128	_generate-sidebar-layout-meta	no-sidebar
 224	128	_wp_page_template	
@@ -125,7 +125,7 @@
 226	128	_wpml_media_featured	1
 227	128	_oembed_a68ba0532a7543884e52bfe9250f91cc	<blockquote class="wp-embedded-content" data-secret="Yu9czdYcD3"><a href="https://toveri.hypernova.fi/">Etusivu</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://toveri.hypernova.fi/embed/#?secret=Yu9czdYcD3" data-secret="Yu9czdYcD3" width="600" height="338" title="&#8220;Etusivu&#8221; &#8212; Toveri" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 228	128	_oembed_time_a68ba0532a7543884e52bfe9250f91cc	1545935285
-241	153	_edit_lock	1591783245:1
+241	153	_edit_lock	1597185379:1
 242	153	_edit_last	1
 243	153	_wp_page_template	
 244	160	_menu_item_type	post_type

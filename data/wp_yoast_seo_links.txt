@@ -27,9 +27,9 @@
 450	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	2	0	external
 499	https://cotter.co/materials	153	0	external
 500	mailto:toveri@hypernova.fi	153	0	external
-541	https://cotter.co/materials	128	0	external
-542	mailto:toveri@hypernova.fi	128	0	external
 545	https://cotter.co/materials	459	0	external
 546	mailto:lainuri@hypernova.fi	459	0	external
 549	https://cotter.co/materials	475	0	external
 550	mailto:lainuri@hypernova.fi	475	0	external
+553	https://cotter.co/materials	128	0	external
+554	mailto:toveri@hypernova.fi	128	0	external

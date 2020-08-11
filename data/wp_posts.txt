@@ -456,7 +456,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
 <div class="elementor-widget-container">\
 <div class="elementor-text-editor elementor-clearfix">\
-<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Toverit valmistetaan omalla logollasi kaiverrettuna.</p>\
 <p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
 <p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
 </div>\
@@ -475,7 +475,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:paragraph -->\
 <p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
-<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-kulunvalvontalaite			2020-06-10 10:14:21	2020-06-10 10:14:21		0	http://homepage/?page_id=128	0	page		0
+<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-kulunvalvontalaite			2020-08-11 22:38:56	2020-08-11 22:38:56		0	http://homepage/?page_id=128	0	page		0
 129	1	2018-12-27 18:17:20	2018-12-27 18:17:20	<!-- wp:columns -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:image {"id":121} -->\
@@ -14981,7 +14981,6 @@ Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkil�
  \	<li>28.11.2018: Dokumentti laadittu</li>\
 </ul>\
 </div>	Tietosuojaseloste		inherit	closed	closed		104-revision-v1			2020-07-30 23:22:06	2020-07-30 23:22:06		104	http://homepage/104-revision-v1/	0	revision		0
-585	1	2020-07-30 23:23:42	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-07-30 23:23:42	0000-00-00 00:00:00		0	http://homepage/?p=585	0	post		0
 586	1	2020-07-30 23:24:54	2020-07-30 23:24:54	<h2>Who we are</h2>\
 Our website address is: https://www.hypernova.fi.\
 <h2>What personal data we collect and why we collect it</h2>\
@@ -15022,3 +15021,54 @@ FINLAND</pre>\
  \	<li>28.11.2018: First draft</li>\
 </ul>\
 Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-revision-v1			2020-07-30 23:24:54	2020-07-30 23:24:54		3	http://homepage/3-revision-v1/	0	revision		0
+587	1	2020-08-11 22:35:38	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-08-11 22:35:38	0000-00-00 00:00:00		0	http://homepage/?p=587	0	post		0
+588	1	2020-08-11 22:38:55	2020-08-11 22:38:55	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Toverit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Toveri		inherit	closed	closed		128-revision-v1			2020-08-11 22:38:55	2020-08-11 22:38:55		128	http://homepage/128-revision-v1/	0	revision		0
