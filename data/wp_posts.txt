@@ -15104,3 +15104,24 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
         "date_modified_gmt": "2020-08-24 23:33:57"\
     }\
 }			trash	closed	closed		9f2dc09f-8d79-47d2-8dd4-cb428f2d4d8a			2020-08-24 23:33:57	2020-08-24 23:33:57		0	http://homepage/9f2dc09f-8d79-47d2-8dd4-cb428f2d4d8a/	0	customize_changeset		0
+594	1	2020-08-24 23:34:20	2020-08-24 23:34:20	{\
+    "generate_settings[combine_css]": {\
+        "value": true,\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-08-24 23:34:20"\
+    }\
+}			trash	closed	closed		05abad07-cf81-42be-a645-86e6fc0b7f73			2020-08-24 23:34:20	2020-08-24 23:34:20		0	http://homepage/05abad07-cf81-42be-a645-86e6fc0b7f73/	0	customize_changeset		0
+595	1	2020-08-24 23:36:42	2020-08-24 23:36:42	{\
+    "widget_custom_html[6]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjU6IkxpbmtzIjtzOjc6ImNvbnRlbnQiO3M6MTM5OiI8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vSHlwZXJub3ZhLU95IiB0YXJnZXQ9Il9ibGFuayI+R2l0SHViPC9hPjxiciAvPg0KPGEgaHJlZj0iaHR0cHM6Ly90Lm1lL0h5cGVybm92YU95IiB0YXJnZXQ9Il9ibGFuayI+VGVsZWdyYW08L2E+IjtzOjEzOiJ3cG1sX2xhbmd1YWdlIjtzOjI6ImVuIjt9",\
+            "title": "Links",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "32148e38458aed26186aca31ff2adf5f"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-08-24 23:35:45"\
+    }\
+}			trash	closed	closed		f09ac75f-ad46-4bae-9946-d43ffc2a01dd			2020-08-24 23:36:42	2020-08-24 23:36:42		0	http://homepage/?p=595	0	customize_changeset		0
