@@ -1295,3 +1295,5 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 723	567	_wp_attachment_image_alt	Lainuri prototype
 726	3	_yoast_wpseo_content_score	30
 727	104	_yoast_wpseo_content_score	30
+728	589	_wp_trash_meta_status	publish
+729	589	_wp_trash_meta_time	1598310208
