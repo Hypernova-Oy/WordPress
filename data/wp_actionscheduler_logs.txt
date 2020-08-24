@@ -17,3 +17,6 @@
 49	555	action created	2020-08-24 22:49:24	2020-08-24 22:49:24
 50	555	action started via WP Cron	2020-08-24 22:49:25	2020-08-24 22:49:25
 51	555	action complete via WP Cron	2020-08-24 22:49:26	2020-08-24 22:49:26
+52	556	action created	2020-08-24 23:32:44	2020-08-24 23:32:44
+53	556	action started via Async Request	2020-08-24 23:33:45	2020-08-24 23:33:45
+54	556	action complete via Async Request	2020-08-24 23:33:45	2020-08-24 23:33:45

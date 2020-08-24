@@ -15079,3 +15079,28 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
         "date_modified_gmt": "2020-08-24 23:03:28"\
     }\
 }			trash	closed	closed		6f0eff96-21a1-41a1-9289-52ad96ce8b08			2020-08-24 23:03:28	2020-08-24 23:03:28		0	http://homepage/6f0eff96-21a1-41a1-9289-52ad96ce8b08/	0	customize_changeset		0
+590	1	2020-08-24 23:28:42	0000-00-00 00:00:00		Auto Draft		auto-draft	open	open					2020-08-24 23:28:42	0000-00-00 00:00:00		0	http://homepage/?p=590	0	post		0
+591	1	2020-08-24 23:29:20	0000-00-00 00:00:00	{\
+    "generate_settings[combine_css]": {\
+        "value": true,\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-08-24 23:29:20"\
+    }\
+}			auto-draft	closed	closed		16672c03-fa16-4563-80d7-9b01b96749bb			2020-08-24 23:29:20	0000-00-00 00:00:00		0	http://homepage/?p=591	0	customize_changeset		0
+592	1	2020-08-24 23:29:36	2020-08-24 23:29:36	{\
+    "generate_settings[combine_css]": {\
+        "value": true,\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-08-24 23:29:36"\
+    }\
+}			trash	closed	closed		c31b08b5-37bc-4ef9-8024-f0d51a2a8569			2020-08-24 23:29:36	2020-08-24 23:29:36		0	http://homepage/c31b08b5-37bc-4ef9-8024-f0d51a2a8569/	0	customize_changeset		0
+593	1	2020-08-24 23:33:57	2020-08-24 23:33:57	{\
+    "generate_settings[combine_css]": {\
+        "value": false,\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-08-24 23:33:57"\
+    }\
+}			trash	closed	closed		9f2dc09f-8d79-47d2-8dd4-cb428f2d4d8a			2020-08-24 23:33:57	2020-08-24 23:33:57		0	http://homepage/9f2dc09f-8d79-47d2-8dd4-cb428f2d4d8a/	0	customize_changeset		0

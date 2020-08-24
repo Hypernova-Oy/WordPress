@@ -13,7 +13,7 @@
 13	1	wp_user_level	10
 14	1	dismissed_wp_pointers	wp496_privacy
 15	1	show_welcome_panel	1
-17	1	wp_dashboard_quick_press_last_post_id	587
+17	1	wp_dashboard_quick_press_last_post_id	590
 18	1	community-events-location	a:1:{s:2:"ip";s:11:"10.227.11.0";}
 19	1	icl_admin_language_migrated_to_wp47	1
 20	1	closedpostboxes_page	a:0:{}
@@ -31,5 +31,5 @@
 32	1	_wpml_user_dismissed_notices	\N
 33	1	icl_admin_language	en
 67	1	closedpostboxes_nav-menus	a:0:{}
-70	1	session_tokens	a:1:{s:64:"98d8b354a7171dc7e9bedcef265f4182a09432139aa2fc789ebdd982242be846";a:4:{s:10:"expiration";i:1598482163;s:2:"ip";s:11:"10.227.11.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0";s:5:"login";i:1598309363;}}
+70	1	session_tokens	a:2:{s:64:"98d8b354a7171dc7e9bedcef265f4182a09432139aa2fc789ebdd982242be846";a:4:{s:10:"expiration";i:1598482163;s:2:"ip";s:11:"10.227.11.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0";s:5:"login";i:1598309363;}s:64:"8f66ddd6ec2e0bd6cdf174572fee8986967d841543cbf1f311e2ab962e64eace";a:4:{s:10:"expiration";i:1598484521;s:2:"ip";s:11:"10.227.11.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0";s:5:"login";i:1598311721;}}
 71	1	_yoast_wpseo_profile_updated	1598310124

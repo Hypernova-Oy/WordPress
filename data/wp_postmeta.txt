@@ -1297,3 +1297,9 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 727	104	_yoast_wpseo_content_score	30
 728	589	_wp_trash_meta_status	publish
 729	589	_wp_trash_meta_time	1598310208
+730	591	_edit_lock	1598311760:1
+731	591	_customize_restore_dismissed	1
+732	592	_wp_trash_meta_status	publish
+733	592	_wp_trash_meta_time	1598311776
+734	593	_wp_trash_meta_status	publish
+735	593	_wp_trash_meta_time	1598312037
