@@ -59,7 +59,7 @@ CREATE TABLE `wp_actionscheduler_claims` (
   `date_created_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
   PRIMARY KEY (`claim_id`),
   KEY `date_created_gmt` (`date_created_gmt`)
-) ENGINE=InnoDB AUTO_INCREMENT=125 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=139 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -144,6 +144,53 @@ CREATE TABLE `wp_comments` (
   KEY `comment_parent` (`comment_parent`),
   KEY `comment_author_email` (`comment_author_email`(10))
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `wp_ewwwio_images`
+--
+
+DROP TABLE IF EXISTS `wp_ewwwio_images`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `wp_ewwwio_images` (
+  `id` int(14) unsigned NOT NULL AUTO_INCREMENT,
+  `attachment_id` bigint(20) unsigned DEFAULT NULL,
+  `gallery` varchar(10) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `resize` varchar(75) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `path` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `converted` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `results` varchar(75) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `image_size` int(10) unsigned DEFAULT NULL,
+  `orig_size` int(10) unsigned DEFAULT NULL,
+  `backup` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `level` int(5) unsigned DEFAULT NULL,
+  `pending` tinyint(1) NOT NULL DEFAULT '0',
+  `updates` int(5) unsigned DEFAULT NULL,
+  `updated` timestamp NOT NULL DEFAULT '1971-01-01 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+  `trace` blob,
+  PRIMARY KEY (`id`),
+  KEY `path` (`path`(191)),
+  KEY `attachment_info` (`gallery`(3),`attachment_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=82 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `wp_ewwwio_queue`
+--
+
+DROP TABLE IF EXISTS `wp_ewwwio_queue`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `wp_ewwwio_queue` (
+  `id` int(14) unsigned NOT NULL AUTO_INCREMENT,
+  `attachment_id` bigint(20) unsigned DEFAULT NULL,
+  `gallery` varchar(20) DEFAULT NULL,
+  `scanned` tinyint(3) NOT NULL DEFAULT '0',
+  `new` tinyint(1) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`id`),
+  KEY `attachment_info` (`gallery`(3),`attachment_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=103 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -607,7 +654,7 @@ CREATE TABLE `wp_options` (
   PRIMARY KEY (`option_id`),
   UNIQUE KEY `option_name` (`option_name`),
   KEY `autoload` (`autoload`)
-) ENGINE=InnoDB AUTO_INCREMENT=8967 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=9113 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -754,7 +801,7 @@ CREATE TABLE `wp_usermeta` (
   PRIMARY KEY (`umeta_id`),
   KEY `user_id` (`user_id`),
   KEY `meta_key` (`meta_key`(191))
-) ENGINE=InnoDB AUTO_INCREMENT=72 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=73 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
