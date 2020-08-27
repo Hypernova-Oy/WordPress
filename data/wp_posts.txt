@@ -232,7 +232,7 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 <!-- wp:paragraph -->\
 <p></p>\
 <!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2018-12-19 15:36:53	2018-12-19 15:36:53		33	http://homepage/33-revision-v1/	0	revision		0
-81	1	2018-12-19 15:38:06	2018-12-19 15:38:06	 			publish	closed	closed		81			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=81	1	nav_menu_item		0
+81	1	2018-12-19 15:38:06	2018-12-19 15:38:06	 			publish	closed	closed		81			2020-08-27 00:44:49	2020-08-27 00:44:49		0	http://homepage/?p=81	1	nav_menu_item		0
 85	1	2018-12-19 15:39:59	2018-12-19 15:39:59	<!-- wp:html -->\
 <p>Our contact information can be found at the bottom of this website.</p>\
 <h3>Billing Contact</h3>\
@@ -269,7 +269,7 @@ As a new WordPress user, you should go to <a href="http://homepage/wp-admin/">yo
 <p></p>\
 <!-- /wp:paragraph -->	Yhteystiedot		inherit	closed	closed		90-revision-v1			2018-12-19 15:47:57	2018-12-19 15:47:57		90	http://homepage/90-revision-v1/	0	revision		0
 101	1	2018-12-19 15:52:09	2018-12-19 15:52:09	 			publish	closed	closed		101			2020-03-27 04:16:19	2020-03-27 04:16:19		0	http://homepage/?p=101	9	nav_menu_item		0
-102	1	2018-12-19 15:52:15	2018-12-19 15:52:15	 			publish	closed	closed		102			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=102	9	nav_menu_item		0
+102	1	2018-12-19 15:52:15	2018-12-19 15:52:15	 			publish	closed	closed		102			2020-08-27 00:44:50	2020-08-27 00:44:50		0	http://homepage/?p=102	9	nav_menu_item		0
 104	1	2018-12-19 15:53:53	2018-12-19 15:53:53	<div id="content" class="site-content">\
 <h2>Rekisteri- ja tietosuojaseloste</h2>\
 Tämä on Yrityksen henkilötietolain (10 ja 24 §) ja EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste. Laadittu 28.11.2018.\
@@ -475,7 +475,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:paragraph -->\
 <p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
-<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-kulunvalvontalaite			2020-08-11 22:38:56	2020-08-11 22:38:56		0	http://homepage/?page_id=128	0	page		0
+<!-- /wp:paragraph -->	Toveri kulunvalvontalaite		publish	closed	closed		toveri-kulunvalvontalaite			2020-08-27 00:43:15	2020-08-27 00:43:15		0	http://homepage/?page_id=128	0	page		0
 129	1	2018-12-27 18:17:20	2018-12-27 18:17:20	<!-- wp:columns -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:image {"id":121} -->\
@@ -1647,7 +1647,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:paragraph -->\
 <p><br>Send us an email (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
-<!-- /wp:paragraph -->	Toveri		publish	closed	closed		toveri-access-control-device			2020-06-10 10:00:45	2020-06-10 10:00:45		0	http://homepage/toveri-2/	0	page		0
+<!-- /wp:paragraph -->	Toveri Access Control Device		publish	closed	closed		toveri-access-control-device			2020-08-27 00:41:25	2020-08-27 00:41:25		0	http://homepage/toveri-2/	0	page		0
 155	1	2018-12-27 18:43:29	2018-12-27 18:43:29	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS. Contact us for more software integrations.</p>\
 \
 <!-- wp:columns -->\
@@ -1969,7 +1969,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <p></p>\
 <!-- /wp:paragraph -->	Home		inherit	closed	closed		2-revision-v1			2018-12-27 19:16:29	2018-12-27 19:16:29		2	http://homepage/2-revision-v1/	0	revision		0
 160	1	2018-12-27 19:16:58	2018-12-27 19:16:58	 			publish	closed	closed		160			2020-03-27 04:16:19	2020-03-27 04:16:19		0	http://homepage/?p=160	6	nav_menu_item		0
-161	1	2018-12-27 19:17:10	2018-12-27 19:17:10	 			publish	closed	closed		161			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=161	6	nav_menu_item		0
+161	1	2018-12-27 19:17:10	2018-12-27 19:17:10	 			publish	closed	closed		161			2020-08-27 00:44:49	2020-08-27 00:44:49		0	http://homepage/?p=161	6	nav_menu_item		0
 164	1	2018-12-27 19:19:03	2018-12-27 19:19:03	<p>Toveri is a fully open source access control device produced by professional library software developers. Integrates with Koha ILS. Contact us for more software integrations.</p>\
 \
 <!-- wp:columns -->\
@@ -3544,7 +3544,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- wp:paragraph -->\
 <p><br></p>\
 <!-- /wp:paragraph -->	Toveri		inherit	closed	closed		153-revision-v1			2019-01-24 15:47:52	2019-01-24 15:47:52		153	http://homepage/153-revision-v1/	0	revision		0
-230	1	2019-02-16 14:25:23	2019-02-16 14:25:23	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
+230	1	2019-02-16 14:25:23	2019-02-16 14:25:23	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
 <p style="margin-top:50px;font-size:38px;text-align:center"><strong><em>Pienille kirjastoille maailman paras kirjasto­järjestelmä­ratkaisu.</em></strong></p>\
 <!-- /wp:html --></div></div>\
@@ -3558,7 +3558,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
 <!-- /wp:spacer -->\
 \
-<!-- wp:columns -->\
+<!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
 <p class="has-large-font-size"><strong>Oikeasti avoin kirjasto­järjestelmä</strong></p>\
@@ -3576,7 +3576,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
 <!-- /wp:spacer -->\
 \
-<!-- wp:columns -->\
+<!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
 <p class="has-large-font-size"><strong>Visiomme</strong></p>\
@@ -3594,7 +3594,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
 <!-- /wp:spacer -->\
 \
-<!-- wp:columns -->\
+<!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
 <p class="has-large-font-size"><strong>Mukautuu tarpeisiinne</strong></p>\
@@ -3612,7 +3612,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
 <!-- /wp:spacer -->\
 \
-<!-- wp:columns -->\
+<!-- wp:columns {"className":"has-2-columns"} -->\
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
 <p class="has-large-font-size"><strong>Vankalla kokemuksella</strong></p>\
@@ -3633,7 +3633,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- /wp:spacer -->\
 \
 <!-- wp:heading {"align":"center"} -->\
-<h2 style="text-align:center"><strong><a href="/fi/kohan-yllapitopalvelu/">Valitse paras. Tarjoamme Kohan ylläpitopalvelua.</a></strong></h2>\
+<h2 class="has-text-align-center"><strong><a href="/fi/kohan-yllapitopalvelu/">Valitse paras. Tarjoamme Kohan ylläpitopalvelua.</a></strong></h2>\
 <!-- /wp:heading -->\
 \
 <!-- wp:spacer {"height":10} -->\
@@ -3649,7 +3649,7 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- /wp:separator -->\
 \
 <!-- wp:heading {"align":"center"} -->\
-<h2 style="text-align:center"><strong>Älä usko meitä, tutustu itse Kohaan!</strong></h2>\
+<h2 class="has-text-align-center"><strong>Älä usko meitä, tutustu itse Kohaan!</strong></h2>\
 <!-- /wp:heading -->\
 \
 <!-- wp:paragraph {"fontSize":"medium"} -->\
@@ -3662,9 +3662,9 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 \
 <!-- wp:paragraph {"fontSize":"medium"} -->\
 <p class="has-medium-font-size">Asenna oma Kohasi:<br>   <a href="https://koha-community.org/download-koha/">https://koha-community.org/download-koha/</a></p>\
-<!-- /wp:paragraph -->	Koha		publish	closed	closed		koha			2019-02-28 21:24:30	2019-02-28 21:24:30		0	http://homepage/?page_id=230	0	page		0
+<!-- /wp:paragraph -->	Koha kirjastojärjestelmä		publish	closed	closed		koha			2020-08-27 00:42:07	2020-08-27 00:42:07		0	http://homepage/?page_id=230	0	page		0
 231	1	2019-02-16 14:25:23	2019-02-16 14:25:23	asdasd	Koha-ylläpito		inherit	closed	closed		230-revision-v1			2019-02-16 14:25:23	2019-02-16 14:25:23		230	http://homepage/230-revision-v1/	0	revision		0
-232	1	2019-02-16 14:27:32	2019-02-16 14:27:32	 			publish	closed	closed		232			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=232	3	nav_menu_item		0
+232	1	2019-02-16 14:27:32	2019-02-16 14:27:32		Koha		publish	closed	closed		232			2020-08-27 00:44:49	2020-08-27 00:44:49		0	http://homepage/?p=232	3	nav_menu_item		0
 236	1	2019-02-16 14:37:37	2019-02-16 14:37:37	<!-- wp:columns {"columns":3} -->\
 <div class="wp-block-columns has-3-columns"><!-- wp:column -->\
 <div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
@@ -7633,7 +7633,7 @@ kanssa.</p>\
 <ul><li>Tuoreimman Kohan yhteisöversion tai Koha-Suomi-version asennuksen</li><li>Koha-versiopäivitys kaksi kertaa vuodessa</li><li>Ylläpito- ja monitorointipalvelun. Vastaamme kirjastojärjestelmän saatavuudesta ja reagoimme mahdollisiin vikatilanteisiin nopeasti</li><li>Varmuuskopioinnit ja mahdolliset palautukset</li><li>Verkkoliikenne (palomuuri, DNS, tarvittaessa IPv4-osoite) ja verkkoyhteyksien suojaus (SSL-sertifikaatit)</li></ul>\
 <!-- /wp:list -->	Kohan ylläpitopalvelu		publish	closed	closed		kohan-yllapitopalvelu			2019-02-16 17:15:53	2019-02-16 17:15:53		0	http://homepage/?page_id=314	0	page		0
 315	1	2019-02-16 15:48:18	2019-02-16 15:48:18		Kohan ylläpitopalvelu		inherit	closed	closed		314-revision-v1			2019-02-16 15:48:18	2019-02-16 15:48:18		314	http://homepage/314-revision-v1/	0	revision		0
-316	1	2019-02-16 15:48:38	2019-02-16 15:48:38	 			publish	closed	closed		316			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=316	4	nav_menu_item		0
+316	1	2019-02-16 15:48:38	2019-02-16 15:48:38	 			publish	closed	closed		316			2020-08-27 00:44:49	2020-08-27 00:44:49		0	http://homepage/?p=316	4	nav_menu_item		0
 318	1	2019-02-16 15:50:19	2019-02-16 15:50:19	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"align":"center","placeholder":"Content…","customFontSize":38} -->\
 <p style="font-size:38px;text-align:center"><strong><em>Pienille kirjastoille maailman paras kirjastojärjestelmäratkaisu.</em></strong></p>\
@@ -9138,7 +9138,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 385	1	2019-02-17 17:53:39	2019-02-17 17:53:39	<!-- wp:shortcode -->\
 [wpforms id="374"]\
 <!-- /wp:shortcode -->	Koha ylläpitopalvelu - tarjouspyyntö		inherit	closed	closed		366-revision-v1			2019-02-17 17:53:39	2019-02-17 17:53:39		366	http://homepage/366-revision-v1/	0	revision		0
-386	1	2019-02-17 17:55:48	2019-02-17 17:55:48	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
+386	1	2019-02-17 17:55:48	2019-02-17 17:55:48	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
 <p style="margin-top: 50px; font-size: 38px; text-align: center;"><strong><em>The best library system in the world.</em></strong></p>\
 <!-- /wp:html --></div></div>\
@@ -9226,7 +9226,7 @@ http://homepage	[Hypernova Oy] New Admin Email Address		private	closed	closed		h
 \
 <!-- wp:paragraph -->\
 <p>More information on the system itself and the community behind it is available at <a href="https://koha-community.org">Koha community website</a>.</p>\
-<!-- /wp:paragraph -->	Koha		publish	closed	closed		koha			2020-03-27 04:26:49	2020-03-27 04:26:49		0	http://homepage/?page_id=386	0	page		0
+<!-- /wp:paragraph -->	Koha ILS		publish	closed	closed		koha			2020-08-27 00:41:42	2020-08-27 00:41:42		0	http://homepage/?page_id=386	0	page		0
 387	1	2019-02-17 17:55:48	2019-02-17 17:55:48	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns: 29% auto;">\
 <figure class="wp-block-media-text__media"><img class="wp-image-261" src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" /></figure>\
@@ -12082,9 +12082,9 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 \
 <!-- wp:paragraph -->\
 <p>Lähetä meille sähköpostia (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
-<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-lainausautomaatti			2020-06-10 10:14:50	2020-06-10 10:14:50		0	http://homepage/?page_id=459	0	page		0
+<!-- /wp:paragraph -->	Lainuri lainausautomaatti		publish	closed	closed		lainuri-lainausautomaatti			2020-08-27 00:40:36	2020-08-27 00:40:36		0	http://homepage/?page_id=459	0	page		0
 460	1	2019-09-11 15:00:54	2019-09-11 15:00:54	pimppi	Lainuri		inherit	closed	closed		459-revision-v1			2019-09-11 15:00:54	2019-09-11 15:00:54		459	http://homepage/459-revision-v1/	0	revision		0
-461	1	2019-09-11 15:01:50	2019-09-11 15:01:50	 			publish	closed	closed		461			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=461	7	nav_menu_item		0
+461	1	2019-09-11 15:01:50	2019-09-11 15:01:50	 			publish	closed	closed		461			2020-08-27 00:44:50	2020-08-27 00:44:50		0	http://homepage/?p=461	7	nav_menu_item		0
 463	1	2019-09-11 15:15:28	2019-09-11 15:15:28		Lainuri		inherit	open	closed		photo_2019-09-11_18-13-57			2019-09-11 15:17:01	2019-09-11 15:17:01		459	http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-57.jpg	0	attachment	image/jpeg	0
 464	1	2019-09-11 15:15:28	2019-09-11 15:15:28		photo_2019-09-11_18-13-57	Lainuri	inherit	open	closed		photo_2019-09-11_18-13-57-2			2019-09-11 19:36:00	2019-09-11 19:36:00		475	http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-57.jpg	0	attachment	image/jpeg	0
 465	1	2019-09-11 15:15:37	2019-09-11 15:15:37		Lainuri		inherit	open	closed		photo_2019-09-11_18-13-39			2019-09-11 15:17:33	2019-09-11 15:17:33		459	http://homepage/wp-content/uploads/2019/09/photo_2019-09-11_18-13-39.jpg	0	attachment	image/jpeg	0
@@ -12366,7 +12366,7 @@ Hypernova offers an affordable and professional Koha installation and hosting se
 \
 <!-- wp:paragraph -->\
 <p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
-<!-- /wp:paragraph -->	Lainuri		publish	closed	closed		lainuri-self-checkout-machine			2020-06-10 10:15:35	2020-06-10 10:15:35		0	http://homepage/?page_id=475	0	page		0
+<!-- /wp:paragraph -->	Lainuri Self-Checkout Machine		publish	closed	closed		lainuri-self-checkout-machine			2020-08-27 00:41:08	2020-08-27 00:41:08		0	http://homepage/?page_id=475	0	page		0
 476	1	2019-09-11 19:36:18	2019-09-11 19:36:18	<!-- wp:paragraph -->\
 \
 Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.\
@@ -12911,7 +12911,7 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <!-- /wp:paragraph -->	Lainuri		inherit	closed	closed		475-revision-v1			2019-09-12 15:07:48	2019-09-12 15:07:48		475	http://homepage/475-revision-v1/	0	revision		0
 495	1	2019-09-16 23:01:05	2019-09-16 23:01:05	 			publish	closed	closed		495			2020-03-27 04:16:18	2020-03-27 04:16:18		0	http://homepage/?p=495	4	nav_menu_item		0
 496	1	2019-09-16 23:01:05	2019-09-16 23:01:05		Koha hosting – Request for Quotation		publish	closed	closed		koha-hosting-request-for-quotation			2020-03-27 04:16:18	2020-03-27 04:16:18		0	http://homepage/?p=496	5	nav_menu_item		0
-497	1	2019-09-16 23:01:16	2019-09-16 23:01:16		Koha ylläpitopalvelu – tarjouspyyntö		publish	closed	closed		koha-yllapitopalvelu-tarjouspyynto			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=497	5	nav_menu_item		0
+497	1	2019-09-16 23:01:16	2019-09-16 23:01:16		Koha ylläpitopalvelu – tarjouspyyntö		publish	closed	closed		koha-yllapitopalvelu-tarjouspyynto			2020-08-27 00:44:49	2020-08-27 00:44:49		0	http://homepage/?p=497	5	nav_menu_item		0
 499	1	2020-01-11 00:11:14	2020-01-11 00:11:14	<!-- wp:paragraph -->\
 <p>Lainuri is a free and open source and hardware "plug &amp; play" checkout (and check-in) in machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work.</p>\
 <!-- /wp:paragraph -->\
@@ -13366,7 +13366,7 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <p></p>\
 <!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2020-02-06 16:44:42	2020-02-06 16:44:42		33	http://homepage/33-revision-v1/	0	revision		0
 525	1	2020-02-06 16:45:43	2020-02-06 16:45:43		Documentation		publish	closed	closed		documentation			2020-03-27 04:16:19	2020-03-27 04:16:19		0	http://homepage/?p=525	8	nav_menu_item		0
-526	1	2020-02-06 16:46:04	2020-02-06 16:46:04		Dokumentaatio		publish	closed	closed		dokumentaatio			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=526	8	nav_menu_item		0
+526	1	2020-02-06 16:46:04	2020-02-06 16:46:04		Dokumentaatio		publish	closed	closed		dokumentaatio			2020-08-27 00:44:50	2020-08-27 00:44:50		0	http://homepage/?p=526	8	nav_menu_item		0
 529	1	2020-02-07 14:57:11	2020-02-07 14:57:11	<!-- wp:separator -->\
 <hr class="wp-block-separator"/>\
 <!-- /wp:separator -->\
@@ -13381,7 +13381,7 @@ Lainurit vakiona omalla logollasi kaiverrettuna.</p>\
 <p></p>\
 <!-- /wp:paragraph -->	Etusivu		inherit	closed	closed		33-revision-v1			2020-02-07 14:57:11	2020-02-07 14:57:11		33	http://homepage/33-revision-v1/	0	revision		0
 533	1	2020-03-27 04:16:18	2020-03-27 04:16:18		Services		publish	closed	closed		services			2020-03-27 04:16:18	2020-03-27 04:16:18		0	http://homepage/?p=533	2	nav_menu_item		0
-534	1	2020-03-27 04:17:30	2020-03-27 04:17:30		Palvelut		publish	closed	closed		palvelut			2020-03-27 04:17:30	2020-03-27 04:17:30		0	http://homepage/?p=534	2	nav_menu_item		0
+534	1	2020-03-27 04:17:30	2020-03-27 04:17:30		Palvelut		publish	closed	closed		palvelut			2020-08-27 00:44:49	2020-08-27 00:44:49		0	http://homepage/?p=534	2	nav_menu_item		0
 536	1	2020-03-27 04:26:39	2020-03-27 04:26:39	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29,"isStackedOnMobile":true} -->\
 <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
 <p style="margin-top: 50px; font-size: 38px; text-align: center;"><strong><em>The best library system in the world.</em></strong></p>\
@@ -15125,3 +15125,540 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
         "date_modified_gmt": "2020-08-24 23:35:45"\
     }\
 }			trash	closed	closed		f09ac75f-ad46-4bae-9946-d43ffc2a01dd			2020-08-24 23:36:42	2020-08-24 23:36:42		0	http://homepage/?p=595	0	customize_changeset		0
+596	1	2020-08-27 00:40:19	2020-08-27 00:40:19	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":483} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä. Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":566,"width":482,"height":658,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="" class="wp-image-566" width="482" height="658"/><figcaption>Lainuri kehityspajalla.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Lainurin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri-lainausautomaatti		inherit	closed	closed		459-revision-v1			2020-08-27 00:40:19	2020-08-27 00:40:19		459	http://homepage/459-revision-v1/	0	revision		0
+597	1	2020-08-27 00:40:35	2020-08-27 00:40:35	<!-- wp:paragraph -->\
+<p>Lainuri on Suomen ensimmäinen vapaan koodin ja laitteiston "plug &amp; play" lainausautomaatti. Lainuri mahdollistaa helpon käyttöönoton sitomatta tarpeettomasti henkilökunnan voimavaroja perinteisten lainausautomaattien käyttöönottojen tavoin. Voit säästää jopa 10 tuntia omaa työtä käyttöönottovaiheessa.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on suomalaista suunnittelu- ja laatutyötä. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Säästä henkilökuntaasi, valitse Lainuri!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Me laitamme Lainurin Postiin - Te laitatte töpselin seinään. Ei turhaa turaamista!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":483} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-483"/><figcaption>Kuittitulostin kompaktisti laitteen sisällä. Useita materiaalivaihtoehtoja.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":566,"width":482,"height":658,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="" class="wp-image-566" width="482" height="658"/><figcaption>Lainuri kehityspajalla.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Lainurit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri voidaan asentaa joko pöydälle, tai standardilla VESA 100 -kiinnityksellä seinään, kirjahyllyyn, pilariin tai mihin vaan. Lainuri tarvitsee langattoman internet-yhteyden, sekä virtapistokkeen.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Lainurin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Lainuri lainausautomaatti		inherit	closed	closed		459-revision-v1			2020-08-27 00:40:35	2020-08-27 00:40:35		459	http://homepage/459-revision-v1/	0	revision		0
+598	1	2020-08-27 00:40:49	2020-08-27 00:40:49	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Toverit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Toveri Kulunvalvontalaite		inherit	closed	closed		128-revision-v1			2020-08-27 00:40:49	2020-08-27 00:40:49		128	http://homepage/128-revision-v1/	0	revision		0
+599	1	2020-08-27 00:41:08	2020-08-27 00:41:08	<!-- wp:paragraph -->\
+<p>Lainuri is a free and open source and hardware "plug &amp; play" checkout machine. It features a quick and easy installation without having to spend a significant amount of your staff's work hours, unlike traditional SIP2 machines. You can save up to 10 hours of installation work. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is Finnish quality design. Therefore we provide a two-year warranty for the device.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Let your staff relax and choose Lainuri! We send the device by mail - you plug it in. No hassle!</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":482} -->\
+<figure class="wp-block-image"><img src="http://homepage/wp-content/uploads/2019/09/lainuri-768x1024.png" alt="Lainuri" class="wp-image-482"/><figcaption>Slip printer compactly integrated inside the covers. Many types of cover materials.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":567,"width":482,"height":657,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large is-resized"><img src="http://homepage/wp-content/uploads/2020/06/lainuri-prototype.jpg" alt="Lainuri prototype" class="wp-image-567" width="482" height="657"/><figcaption>Lainuri at our workshop.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:paragraph -->\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri can be installed on a table or via standard VESA 100 mount to a wall, pillar or where-ever. It requires a wireless internet connection and a power socket.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph -->\
+<p>Lainuri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Lainuri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Send us an email (<a href="mailto:lainuri@hypernova.fi">lainuri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Lainuri Self-Checkout Machine		inherit	closed	closed		475-revision-v1			2020-08-27 00:41:08	2020-08-27 00:41:08		475	http://homepage/475-revision-v1/	0	revision		0
+600	1	2020-08-27 00:41:24	2020-08-27 00:41:24	<p>Toveri is a fully open source access control device produced by professional library software developers. The device is using common and open standards for easy and effective usability, installability and maintainability.</p>\
+<p>Toveri is Finnish quality design. It is designed to withstand extreme weather conditions. Therefore we provide a two-year warranty for the device.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":548,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri with wooden casing" class="wp-image-548"/><figcaption>Toveri supports multiple casing materials.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri at Eno Library" class="wp-image-120"/><figcaption>Toveri in use at Eno Library.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Toveri is licensed with CERN OHL and GPLv3 licenses. Our clients have full rights to modify Toveri software or hardware, as long as the new and/or modified documents are publicly shared. The complete device itself will be property of our client. Please note the device contains components to which patents and/or copyrights may apply by their original manufacturers.</p>\
+<p>Multiple casing materials are available at our <a href="https://cotter.co/materials">partner's catalog</a>. We will also engrave your logo onto the device's case.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p><br>Send us an email (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) and we will be happy to tell you more.</p>\
+<!-- /wp:paragraph -->	Toveri Access Control Device		inherit	closed	closed		153-revision-v1			2020-08-27 00:41:24	2020-08-27 00:41:24		153	http://homepage/153-revision-v1/	0	revision		0
+601	1	2020-08-27 00:41:36	2020-08-27 00:41:36	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
+<p style="margin-top: 50px; font-size: 38px; text-align: center;"><strong><em>The best library system in the world.</em></strong></p>\
+<!-- /wp:html --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Free and open source library system</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is an open source library system with a large user and developer community. Thanks to the principles of free software, the functionality and development of Koha is transparent. A service funded by public funds can therefore enjoy the benefits of free and open source software.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Flexible for your needs</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha is a flexible system with number of features - practically everything a library needs. Koha integrates with multiple other services via APIs (application programming interfaces) such as SIP2 and REST API that expose most functionality of the library system.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":20} -->\
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Our solid experience<br></strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Hypernova employees have years of Koha hosting and development experience. Our team is active in participating to many free and open source events around the world. Transparency and honesty are important values to us. With Koha, we are able to share these values with our partners.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:sowb/widget-block {"widgetClass":"SiteOrigin_Widget_Headline_Widget","widgetData":{"headline":{"text":"","destination_url":"","new_window":false,"tag":"h1","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"open"},"sub_headline":{"text":"","destination_url":"","new_window":false,"tag":"h3","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"closed"},"divider":{"style":"solid","color":"#EEEEEE","thickness":"1","align":"center","width":"80","width_unit":"%","margin":"","margin_unit":"px","so_field_container_state":"closed"},"order":"headline,divider,sub_headline","fittext":false,"fittext_compressor":"0.85","_sow_form_id":"10502596455c682a0b97c1f087220978","_sow_form_timestamp":""}} /-->\
+\
+<!-- wp:spacer {"height":50} -->\
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:heading {"align":"center"} -->\
+<h2 class="has-text-align-center"><strong><a href="/koha-hosting/">Choose the best. Choose our Koha hosting services.</a></strong></h2>\
+<!-- /wp:heading -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:button {"customBackgroundColor":"#7cc445","customTextColor":"#000000","align":"center","className":"is-style-default"} -->\
+<div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" href="/koha-hosting/" style="background-color:#7cc445;color:#000000">Read more<br></a></div>\
+<!-- /wp:button -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>More information on the system itself and the community behind it is available at <a href="https://koha-community.org">Koha community website</a>.</p>\
+<!-- /wp:paragraph -->	Koha ILS		inherit	closed	closed		386-revision-v1			2020-08-27 00:41:36	2020-08-27 00:41:36		386	http://homepage/386-revision-v1/	0	revision		0
+602	1	2020-08-27 00:42:07	2020-08-27 00:42:07	<!-- wp:media-text {"align":"","mediaId":261,"mediaType":"image","mediaWidth":29} -->\
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://homepage/wp-content/uploads/2019/02/Koha-logo-1024x294.png" alt="Koha logo" class="wp-image-261"/></figure><div class="wp-block-media-text__content"><!-- wp:html -->\
+<p style="margin-top:50px;font-size:38px;text-align:center"><strong><em>Pienille kirjastoille maailman paras kirjasto­järjestelmä­ratkaisu.</em></strong></p>\
+<!-- /wp:html --></div></div>\
+<!-- /wp:media-text -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Oikeasti avoin kirjasto­järjestelmä</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Koha on vapaan ja avoimen lähdekoodin lisenssillä toteutettu kirjastojärjestelmä, jonka taustalla on laaja kansainvälinen käyttäjä- ja kehittäjäverkosto. Suomi-Koha version koodaukseen on osallistunut 459 henkilöä ympäri maailman. Vapaan lähdekoodin periaatteiden mukaisesti Kohan toiminta ja kehitys on läpinäkyvää, jolloin julkisilla varoilla hankittu palvelu on julkisesti kaikkien käytettävissä ja tarkasteltavissa.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Visiomme</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Tarjota kaikille kirjastoille mahdollisuus olla osa Koha-yhteisöä. Edistää vapaan ja avoimen lähdekoodin käyttöä maailmalla.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Mukautuu tarpeisiinne</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Kohan monipuoliset ominaisuudet takaavat järjestelmän soveltuvuuden eri tarpeisiin. Kohaan sisältyvät käytännössä kaikki toiminallisuudet, joita kirjasto tarvitsee. Koha sisältää ja tukee eri rajapintoja, jonka vuoksi se integroituu vaivattomasti muiden järjestelmien ja laitteiden kanssa. Koha on yhteensopiva usean suomalaisen palvelun, kuten Finnan ja Melindan kanssa.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:columns {"className":"has-2-columns"} -->\
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"large"} -->\
+<p class="has-large-font-size"><strong>Vankalla kokemuksella</strong></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Ammattilaisillamme on yhteensä yli kymmenen vuoden Koha-kokemus. Osallistumme aktiivisesti kansainvälisiin Koha-tapaamisiin, -koulutuksiin sekä muihin vapaan ja avoimen lähdekoodin tapahtumiin. Toimintatapamme on ideologinen valinta, sillä avoimuus, läpinäkyvyys ja rehellisyys ovat meille tärkeitä arvoja. Kohan kautta pääsemme jakamaan näitä arvoja yhteistyökumppaneidemme kanssa.</p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<!-- wp:sowb/widget-block {"widgetClass":"SiteOrigin_Widget_Headline_Widget","widgetData":{"headline":{"text":"","destination_url":"","new_window":false,"tag":"h1","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"open"},"sub_headline":{"text":"","destination_url":"","new_window":false,"tag":"h3","color":"","hover_color":"","font":"default","font_size":"","font_size_unit":"px","align":"center","line_height":"","line_height_unit":"px","margin":"","margin_unit":"px","so_field_container_state":"closed"},"divider":{"style":"solid","color":"#EEEEEE","thickness":"1","align":"center","width":"80","width_unit":"%","margin":"","margin_unit":"px","so_field_container_state":"closed"},"order":"headline,divider,sub_headline","fittext":false,"fittext_compressor":"0.85","_sow_form_id":"10502596455c682a0b97c1f087220978","_sow_form_timestamp":""}} /-->\
+\
+<!-- wp:spacer {"height":40} -->\
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:heading {"align":"center"} -->\
+<h2 class="has-text-align-center"><strong><a href="/fi/kohan-yllapitopalvelu/">Valitse paras. Tarjoamme Kohan ylläpitopalvelua.</a></strong></h2>\
+<!-- /wp:heading -->\
+\
+<!-- wp:spacer {"height":10} -->\
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>\
+<!-- /wp:spacer -->\
+\
+<!-- wp:button {"customBackgroundColor":"#7cc445","customTextColor":"#000000","align":"center","className":"is-style-default"} -->\
+<div class="wp-block-button aligncenter is-style-default"><a class="wp-block-button__link has-text-color has-background" href="/fi/kohan-yllapitopalvelu" style="background-color:#7cc445;color:#000000">Lue lisää<br></a></div>\
+<!-- /wp:button -->\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:heading {"align":"center"} -->\
+<h2 class="has-text-align-center"><strong>Älä usko meitä, tutustu itse Kohaan!</strong></h2>\
+<!-- /wp:heading -->\
+\
+<!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Katso käyttöohje ja lukuisat Youtube/Vimeo-videot Kohan käytöstä:<br>- <a href="https://koha-community.org/manual/178.05/html/">Koha-yhteisön käyttöohje</a><br>- <a href="https://www.youtube.com/results?search_query=koha+ils">Koha-videot Youtubessa</a><br>- <a href="https://vimeo.com/search?q=koha%20ils">Koha-videot Vimeossa</a><br>- <a href="https://vimeo.com/128966803">Paul Poulain esittelee Koha-historiaa</a></p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Kohan lähdekoodi on vapaasti saatavilla ja muokattavissa:<br>   <a href="https://github.com/KohaSuomi/Koha">https://github.com/KohaSuomi/Koha</a></p>\
+<!-- /wp:paragraph -->\
+\
+<!-- wp:paragraph {"fontSize":"medium"} -->\
+<p class="has-medium-font-size">Asenna oma Kohasi:<br>   <a href="https://koha-community.org/download-koha/">https://koha-community.org/download-koha/</a></p>\
+<!-- /wp:paragraph -->	Koha kirjastojärjestelmä		inherit	closed	closed		230-revision-v1			2020-08-27 00:42:07	2020-08-27 00:42:07		230	http://homepage/230-revision-v1/	0	revision		0
+603	1	2020-08-27 00:43:15	2020-08-27 00:43:15	<p>Toveri on suomalainen vapaan koodin kulunvalvontalaite, jota toimittaa kirjastoalan järjestelmäasiantuntijat. Toveri käyttää yleisiä ja avoimia standardeja saumattoman käytettävyyden, asennettavuuden ja ylläpidettävyyden mahdollistamiseksi.</p>\
+<p>Toveri on suomalaista suunnittelu- ja laatutyötä. Se on suunniteltu kestämään äärimmäiset sääolosuhteet. Siksi tarjoamme sille kahden vuoden takuajan.</p>\
+\
+<!-- wp:columns -->\
+<div class="wp-block-columns"><!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":549,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2020/06/toveri-wooden-773x1024.jpg" alt="Toveri puusta tehdyllä koteloinnilla" class="wp-image-549"/><figcaption>Toverin kotelointiin voidaan käyttää useista eri materiaaleja.</figcaption></figure>\
+<!-- /wp:image --></div>\
+<!-- /wp:column -->\
+\
+<!-- wp:column -->\
+<div class="wp-block-column"><!-- wp:image {"id":121,"sizeSlug":"large"} -->\
+<figure class="wp-block-image size-large"><img src="http://homepage/wp-content/uploads/2018/12/Eno-768x1024.jpg" alt="Toveri Enon kirjastossa" class="wp-image-121"/><figcaption>Toveri Enon kirjastossa.</figcaption></figure>\
+<!-- /wp:image -->\
+\
+<!-- wp:paragraph -->\
+<p></p>\
+<!-- /wp:paragraph --></div>\
+<!-- /wp:column --></div>\
+<!-- /wp:columns -->\
+\
+<article class="elementor-element elementor-element-99f31fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="99f31fd" data-element_type="section">\
+<div class="elementor-container elementor-column-gap-wider">\
+<div class="elementor-row">\
+<div class="elementor-element elementor-element-806ae3e elementor-column elementor-col-100 elementor-top-column" data-id="806ae3e" data-element_type="column">\
+<div class="elementor-column-wrap elementor-element-populated">\
+<div class="elementor-widget-wrap">\
+<div class="elementor-element elementor-element-ed3abeb elementor-widget elementor-widget-text-editor" data-id="ed3abeb" data-element_type="text-editor.default">\
+<div class="elementor-widget-container">\
+<div class="elementor-text-editor elementor-clearfix">\
+<p>Valitse oma materiaali ja väri yhteistyökumppanimme <a href="https://cotter.co/materials">materiaalipankista</a>. Toverit valmistetaan omalla logollasi kaiverrettuna.</p>\
+<p>Toveri on soveltuvin osin CERN OHL- ja GPL3-lisensoitu. Tämä tarkoittaa käytännössä sitä, että asiakkaalla on täysi oikeus tehdä mitä tahansa muutoksia Toverin ohjelmistoon tai laitteistoon, niillä edellytyksin että tehdyt/muokatut dokumentit, piirrustukset, kaaviot ja ohjelmakoodi jaetaan vapaasti saataville.</p>\
+<p>Laite itsessään, kokoonpannussa ja asennetussa muodossaan, on kokonaisuudessaan tilaajan omaisuutta ilman minkäänlaisia patentti- tai tekijänoikeusvaateita toimittajalta. Laite sisältää valmiita komponentteja, joiden tekijänoikeudet säilyvät niiden alkuperäisillä omistajilla.</p>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</div>\
+</article>\
+\
+<!-- wp:separator -->\
+<hr class="wp-block-separator"/>\
+<!-- /wp:separator -->\
+\
+<!-- wp:paragraph -->\
+<p>Lähetä meille sähköpostia (<a href="mailto:toveri@hypernova.fi">toveri@hypernova.fi</a>) ja kerromme mielellämme lisää.</p>\
+<!-- /wp:paragraph -->	Toveri kulunvalvontalaite		inherit	closed	closed		128-revision-v1			2020-08-27 00:43:15	2020-08-27 00:43:15		128	http://homepage/128-revision-v1/	0	revision		0
+604	1	2020-08-27 00:44:15	0000-00-00 00:00:00		Kirjastojärjestelmä		draft	closed	closed					2020-08-27 00:44:15	0000-00-00 00:00:00		0	http://homepage/?p=604	1	nav_menu_item		0

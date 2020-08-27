@@ -24,7 +24,7 @@
 25	1	screen_layout_page	2
 26	1	managenav-menuscolumnshidden	a:0:{}
 27	1	metaboxhidden_nav-menus	a:0:{}
-28	1	wp_nav_menu_recently_edited	3
+28	1	wp_nav_menu_recently_edited	4
 29	1	nav_menu_recently_edited	3
 30	1	so_panels_directory_enabled	1
 31	1	wpmdb_dismiss_muplugin_failed_update_1.2	1
@@ -32,4 +32,4 @@
 33	1	icl_admin_language	en
 67	1	closedpostboxes_nav-menus	a:0:{}
 71	1	_yoast_wpseo_profile_updated	1598310124
-72	1	session_tokens	a:1:{s:64:"7f138d1a8fbd44cc91a383c71d3a888f562b1bc8b1a87069994a919f34b498a8";a:4:{s:10:"expiration";i:1598486834;s:2:"ip";s:11:"10.227.11.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0";s:5:"login";i:1598314034;}}
+72	1	session_tokens	a:1:{s:64:"4e965df7b476eb9f6469412ee04662926f06469e794b3abe4dd0dc4ca17ec80f";a:4:{s:10:"expiration";i:1598661534;s:2:"ip";s:11:"10.227.11.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0";s:5:"login";i:1598488734;}}
