@@ -8,3 +8,4 @@
 8	wpforms_admin_notifications_update	W10=	2020-08-24 22:49:24
 9	wpforms_admin_notifications_update	W10=	2020-08-27 00:38:56
 10	wpforms_admin_notifications_update	W10=	2020-08-27 00:39:56
+11	wpforms_admin_notifications_update	W10=	2020-09-09 09:21:29

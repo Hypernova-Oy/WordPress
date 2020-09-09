@@ -155,7 +155,7 @@
 311	230	_wp_page_template	
 312	230	_wpml_media_featured	1
 313	230	_wpml_media_duplicate	1
-314	230	_edit_lock	1598488928:1
+314	230	_edit_lock	1599648962:1
 315	232	_menu_item_type	post_type
 316	232	_menu_item_menu_item_parent	534
 317	232	_menu_item_object_id	230
@@ -178,7 +178,7 @@
 349	314	_edit_last	1
 350	314	_wpml_media_duplicate	1
 351	314	_wpml_media_featured	1
-352	314	_edit_lock	1598488771:1
+352	314	_edit_lock	1599650741:1
 353	316	_menu_item_type	post_type
 354	316	_menu_item_menu_item_parent	232
 355	316	_menu_item_object_id	314
@@ -850,7 +850,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 452	386	_wpml_media_duplicate	1
 453	386	_wpml_media_featured	1
 454	386	_last_translation_edit_mode	native-editor
-455	386	_edit_lock	1598488902:1
+455	386	_edit_lock	1599647858:1
 456	388	_menu_item_type	post_type
 457	388	_menu_item_menu_item_parent	533
 458	388	_menu_item_object_id	386
@@ -1148,7 +1148,7 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 519	429	_wpml_media_featured	1
 520	429	_wpml_media_duplicate	1
 521	429	_last_translation_edit_mode	native-editor
-522	429	_edit_lock	1585282883:1
+522	429	_edit_lock	1599650601:1
 523	429	_yoast_wpseo_content_score	30
 524	439	_edit_last	1
 525	439	_yoast_wpseo_content_score	30
@@ -1297,8 +1297,6 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 727	104	_yoast_wpseo_content_score	30
 728	589	_wp_trash_meta_status	publish
 729	589	_wp_trash_meta_time	1598310208
-730	591	_edit_lock	1598311760:1
-731	591	_customize_restore_dismissed	1
 732	592	_wp_trash_meta_status	publish
 733	592	_wp_trash_meta_time	1598311776
 734	593	_wp_trash_meta_status	publish
@@ -1319,3 +1317,8 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 750	604	_menu_item_xfn	
 751	604	_menu_item_url	#
 752	604	_menu_item_orphaned	1598489055
+753	314	_yoast_wpseo_content_score	60
+754	254	_wp_attachment_image_alt	Koha - Vapaa ja avoin kirjastojärjestelmä
+755	255	_wp_attachment_image_alt	Koha - Free Library System
+756	348	_wp_attachment_image_alt	Koha as a Service
+757	347	_wp_attachment_image_alt	Koha-ylläpitopalvelu
