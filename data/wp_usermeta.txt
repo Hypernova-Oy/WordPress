@@ -32,4 +32,4 @@
 33	1	icl_admin_language	en
 67	1	closedpostboxes_nav-menus	a:0:{}
 71	1	_yoast_wpseo_profile_updated	1598310124
-73	1	session_tokens	a:1:{s:64:"7fe1bab46ef813dbbd62a5914a51477940acfa758e6c8792d7967cbdd109c4d7";a:4:{s:10:"expiration";i:1599816088;s:2:"ip";s:11:"10.227.11.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0";s:5:"login";i:1599643288;}}
+74	1	session_tokens	a:1:{s:64:"9ab44fc9743639bb6578dab8ead2210e7d515794b781be6520811c24d0273dbb";a:4:{s:10:"expiration";i:1599903396;s:2:"ip";s:11:"10.227.11.1";s:2:"ua";s:76:"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0";s:5:"login";i:1599730596;}}

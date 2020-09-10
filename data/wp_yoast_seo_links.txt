@@ -35,3 +35,5 @@
 908	https://koha-community.org	386	0	external
 960	/koha-hosting-quote	429	439	internal
 964	/fi/koha-yllapito-tarjouspyynto	314	366	internal
+970	http://homepage/koha-hosting-quote/	658	439	internal
+972	http://homepage/fi/koha-yllapito-tarjouspyynto/	660	366	internal

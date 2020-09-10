@@ -1322,3 +1322,27 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 755	255	_wp_attachment_image_alt	Koha - Free Library System
 756	348	_wp_attachment_image_alt	Koha as a Service
 757	347	_wp_attachment_image_alt	Koha-ylläpitopalvelu
+758	652	_edit_lock	1599731087:1
+759	652	_wp_trash_meta_status	publish
+760	652	_wp_trash_meta_time	1599731115
+761	653	_edit_lock	1599731386:1
+762	653	_wp_trash_meta_status	publish
+763	653	_wp_trash_meta_time	1599731388
+764	654	_wp_trash_meta_status	publish
+765	654	_wp_trash_meta_time	1599731419
+766	655	_wp_trash_meta_status	publish
+767	655	_wp_trash_meta_time	1599731429
+768	658	_edit_last	1
+769	658	_wpml_media_featured	1
+770	658	_wpml_media_duplicate	1
+771	658	_edit_lock	1599752971:1
+773	660	_edit_last	1
+774	660	_wp_page_template	
+775	660	_wpml_media_featured	1
+776	660	_wpml_media_duplicate	1
+777	660	_edit_lock	1599753036:1
+778	660	_yoast_wpseo_content_score	60
+779	666	_wp_trash_meta_status	publish
+780	666	_wp_trash_meta_time	1599753238
+781	667	_wp_trash_meta_status	publish
+782	667	_wp_trash_meta_time	1599753251

@@ -75,3 +75,5 @@
 90	post_attachment	566	74	fi	\N
 91	post_attachment	567	74	en	fi
 92	post_nav_menu_item	604	75	fi	\N
+93	post_page	658	76	en	\N
+94	post_page	660	76	fi	en

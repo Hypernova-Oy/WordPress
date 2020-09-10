@@ -18760,3 +18760,126 @@ Lari Taskula &lt;info@hypernova.fi&gt;	Privacy Policy		inherit	closed	closed		3-
 <!-- wp:paragraph -->\
 <p>Tarjoamme ylläpitopalvelun ohelle konversiopalvelun, jolla siirrämme kirjastonne nykyisen tietokannan Kohaan. Konversio on tärkeä käyttöönottoprosessi ja paras lopputulos saavutetaan yhteistyössä kirjastonne oman ammattilaisen kanssa. Kirjastoissa on yleensä erilaisia käytäntöjä ja tapoja hallita kirjastojärjestelmää, ja on tärkeää, että nykyiset käytäntönne otetaan huomioon.</p>\
 <!-- /wp:paragraph -->	Kohan ylläpitopalvelu		inherit	closed	closed		314-revision-v1			2020-09-09 11:25:30	2020-09-09 11:25:30		314	http://homepage/314-revision-v1/	0	revision		0
+652	1	2020-09-10 09:45:15	2020-09-10 09:45:15	{\
+    "widget_custom_html[3]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1Njc6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPkZJTkxBTkQ8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPGk+VkFUIElEOiBGSTI5MjU2NzYzPC9pPjxiciAvPg0KPGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmluZm9AaHlwZXJub3ZhLmZpIj5pbmZvQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxiciAvPg0KPHA+UGhvbmUgYXBwb2ludG1lbnRzIGNhbiBiZSBib29rZWQgdmlhIDxhIGhyZWY9Ii9jb250YWN0Ij5jb250YWN0IGZvcm08L2E+Lg0KPC9wPg0KPGJyIC8+DQo8aDM+VG92ZXJpIFN1cHBvcnQ8L2gzPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzp0b3ZlcmlAaHlwZXJub3ZhLmZpIj50b3ZlcmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+TGFpbnVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86bGFpbnVyaUBoeXBlcm5vdmEuZmkiPmxhaW51cmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPiI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJlbiI7fQ==",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "9b31b4fea0dba233d4cd74de4e97ae5c"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-09-10 09:45:15"\
+    }\
+}			trash	closed	closed		a662d257-ddf9-44f7-99d3-96509f654334			2020-09-10 09:45:15	2020-09-10 09:45:15		0	http://homepage/?p=652	0	customize_changeset		0
+653	1	2020-09-10 09:49:48	2020-09-10 09:49:48	{\
+    "widget_custom_html[3]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1Njc6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPkZJTkxBTkQ8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPGk+VkFUIElEOiBGSTI5MjU2NzYzPC9pPjxiciAvPg0KPGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmluZm9AaHlwZXJub3ZhLmZpIj5pbmZvQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxiciAvPg0KPHA+UGhvbmUgYXBwb2ludG1lbnRzIGNhbiBiZSBib29rZWQgdmlhIDxhIGhyZWY9Ii9jb250YWN0Ij5jb250YWN0IGZvcm08L2E+Lg0KPC9wPg0KPGJyIC8+DQo8aDM+VG92ZXJpIFN1cHBvcnQ8L2gzPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzp0b3ZlcmlAaHlwZXJub3ZhLmZpIj50b3ZlcmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+TGFpbnVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86bGFpbnVyaUBoeXBlcm5vdmEuZmkiPmxhaW51cmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPiI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJlbiI7fQ==",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "9b31b4fea0dba233d4cd74de4e97ae5c"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-09-10 09:46:59"\
+    },\
+    "widget_custom_html[9]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1NzM6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPlNVT01JPC9zdHJvbmc+PGJyIC8+DQo8YnIgLz4NCjxpPlktdHVubnVzOiAyOTI1Njc2LTM8L2k+PGJyIC8+DQo8YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86aW5mb0BoeXBlcm5vdmEuZmkiPmluZm9AaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGJyIC8+DQo8cD5Tb2l0dG9haWtvamEgcHVoZWxpbWl0c2Ugdm9pIHZhcmF0YSA8YSBocmVmPSIiPnlodGV5ZGVub3R0b2xvbWFra2VlbjwvYT4ga2F1dHRhLg0KPC9wPg0KPGgzPlRvdmVyaSBhc2lha2FzcGFsdmVsdTwvaDM+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOnRvdmVyaUBoeXBlcm5vdmEuZmkiPnRvdmVyaUBoeXBlcm5vdmEuZmk8L2E+PGJyIC8+DQo8YnIgLz4NCjxoMz5MYWludXJpIGFzaWFrYXNwYWx2ZWx1PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86bGFpbnVyaUBoeXBlcm5vdmEuZmkiPmxhaW51cmlAaHlwZXJub3ZhLmZpPC9hPiI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJmaSI7fQ==",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "60bc23f91276a0be7b3f3b5e1a1708be"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-09-10 09:49:48"\
+    }\
+}			trash	closed	closed		36f07ad8-8617-4aed-9d94-34bb4385231f			2020-09-10 09:49:48	2020-09-10 09:49:48		0	http://homepage/?p=653	0	customize_changeset		0
+654	1	2020-09-10 09:50:19	2020-09-10 09:50:19	{\
+    "widget_custom_html[3]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1NjE6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPkZJTkxBTkQ8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPGk+VkFUIElEOiBGSTI5MjU2NzYzPC9pPjxiciAvPg0KPGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmluZm9AaHlwZXJub3ZhLmZpIj5pbmZvQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxiciAvPg0KPHA+UGhvbmUgYXBwb2ludG1lbnRzIGNhbiBiZSBib29rZWQgdmlhIDxhIGhyZWY9Ii9jb250YWN0Ij5jb250YWN0IGZvcm08L2E+Lg0KPC9wPg0KPGJyIC8+DQo8aDM+VG92ZXJpIFN1cHBvcnQ8L2gzPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzp0b3ZlcmlAaHlwZXJub3ZhLmZpIj50b3ZlcmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+TGFpbnVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86bGFpbnVyaUBoeXBlcm5vdmEuZmkiPmxhaW51cmlAaHlwZXJub3ZhLmZpPC9hPiI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJlbiI7fQ==",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "b79825529f9f14ed0a014a592724fccb"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-09-10 09:50:19"\
+    }\
+}			trash	closed	closed		ab6d318b-f45b-4d8f-9258-100d96b95ad2			2020-09-10 09:50:19	2020-09-10 09:50:19		0	http://homepage/ab6d318b-f45b-4d8f-9258-100d96b95ad2/	0	customize_changeset		0
+655	1	2020-09-10 09:50:29	2020-09-10 09:50:29	{\
+    "widget_custom_html[3]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1NTM6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPkZJTkxBTkQ8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPGk+VkFUIElEOiBGSTI5MjU2NzYzPC9pPjxiciAvPg0KPGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmluZm9AaHlwZXJub3ZhLmZpIj5pbmZvQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxiciAvPg0KPHA+UGhvbmUgYXBwb2ludG1lbnRzIGNhbiBiZSBib29rZWQgdmlhIDxhIGhyZWY9Ii9jb250YWN0Ij5jb250YWN0IGZvcm08L2E+Lg0KPC9wPg0KPGgzPlRvdmVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86dG92ZXJpQGh5cGVybm92YS5maSI+dG92ZXJpQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxiciAvPg0KPGgzPkxhaW51cmkgU3VwcG9ydDwvaDM+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmxhaW51cmlAaHlwZXJub3ZhLmZpIj5sYWludXJpQGh5cGVybm92YS5maTwvYT4iO3M6MTM6IndwbWxfbGFuZ3VhZ2UiO3M6MjoiZW4iO30=",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "d338d250dde52d5ba43229b2751fc35d"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-09-10 09:50:29"\
+    }\
+}			trash	closed	closed		5a95675b-f3f0-41bc-9617-2a55f647f61c			2020-09-10 09:50:29	2020-09-10 09:50:29		0	http://homepage/5a95675b-f3f0-41bc-9617-2a55f647f61c/	0	customize_changeset		0
+656	1	2020-09-10 15:37:02	2020-09-10 15:37:02	{"id":"656","field_id":5,"fields":{"0":{"id":"0","type":"name","label":"Name","format":"first-last","description":"","required":"1","size":"medium","simple_placeholder":"","simple_default":"","first_placeholder":"First Name","first_default":"","middle_placeholder":"","middle_default":"","last_placeholder":"Last Name","last_default":"","sublabel_hide":"1","css":""},"4":{"id":"4","type":"text","label":"Organization","description":"","size":"medium","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"1":{"id":"1","type":"email","label":"Email","description":"","required":"1","size":"medium","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"3":{"id":"3","type":"number","label":"Phone","description":"","size":"medium","placeholder":"","default_value":"","css":""},"2":{"id":"2","type":"textarea","label":"Comment or Message","description":"","required":"1","size":"medium","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Contact Us","form_desc":"","form_class":"","submit_text":"Submit","submit_text_processing":"Sending...","submit_class":"","honeypot":"1","notification_enable":"1","notifications":{"1":{"email":"{admin_email}","subject":"New Entry: Simple Contact Form","sender_name":"Hypernova Oy","sender_address":"{admin_email}","replyto":"{field_id=\\"1\\"}","message":"{all_fields}"}},"confirmations":{"1":{"type":"message","message":"<p>Thanks for contacting us! We will be in touch with you shortly.<\\/p>","message_scroll":"1","page":"85","redirect":""}}},"meta":{"template":"contact"}}	Contact Us		publish	closed	closed		simple-contact-form			2020-09-10 15:40:34	2020-09-10 15:40:34		0	http://homepage/?post_type=wpforms&#038;p=656	0	wpforms		0
+657	1	2020-09-10 15:38:15	2020-09-10 15:38:15	{"id":"657","field_id":4,"fields":{"0":{"id":"0","type":"name","label":"Nimi","format":"first-last","description":"","required":"1","size":"medium","simple_placeholder":"","simple_default":"","first_placeholder":"Etunimi","first_default":"","middle_placeholder":"","middle_default":"","last_placeholder":"Sukunimi","last_default":"","sublabel_hide":"1","css":""},"3":{"id":"3","type":"text","label":"Organisaatio","description":"","size":"medium","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":"","input_mask":""},"1":{"id":"1","type":"email","label":"S\\u00e4hk\\u00f6posti","description":"","required":"1","size":"medium","placeholder":"","confirmation_placeholder":"","default_value":"","css":""},"2":{"id":"2","type":"textarea","label":"Viesti","description":"","required":"1","size":"medium","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"settings":{"form_title":"Ota yhteytt\\u00e4","form_desc":"","form_class":"","submit_text":"L\\u00e4het\\u00e4","submit_text_processing":"L\\u00e4hetet\\u00e4\\u00e4n...","submit_class":"","honeypot":"1","notification_enable":"1","notifications":{"1":{"email":"{admin_email}","subject":"Yhteydenottolomake","sender_name":"Hypernova Oy","sender_address":"{admin_email}","replyto":"{field_id=\\"1\\"}","message":"{all_fields}"}},"confirmations":{"1":{"type":"message","message":"<p>Kiitos yhteydenotosta. Olemme teihin pian yhteydess\\u00e4.<\\/p>","message_scroll":"1","page":"33","redirect":""}}},"meta":{"template":"contact"}}	Ota yhteyttä		publish	closed	closed		ota-yhteytta			2020-09-10 15:51:47	2020-09-10 15:51:47		0	http://homepage/?post_type=wpforms&#038;p=657	0	wpforms		0
+658	1	2020-09-10 15:42:09	2020-09-10 15:42:09	Did you mean <a href="http://homepage/koha-hosting-quote/" data-wplink-url-error="true"><u>Koha hosting - Request for Quotation</u></a>?\
+\
+If not, please use the form below and we will get back to you soon.\
+\
+[wpforms id="656"]	Contact Form		publish	closed	closed		contact-form			2020-09-10 15:49:31	2020-09-10 15:49:31		0	http://homepage/?page_id=658	0	page		0
+659	1	2020-09-10 15:42:09	2020-09-10 15:42:09	[wpforms id="656"]	Contact Form		inherit	closed	closed		658-revision-v1			2020-09-10 15:42:09	2020-09-10 15:42:09		658	http://homepage/658-revision-v1/	0	revision		0
+660	1	2020-09-10 15:42:45	2020-09-10 15:42:45	Halusitteko siirtyä sivulle <u><a href="http://homepage/fi/koha-yllapito-tarjouspyynto/" data-wplink-url-error="true">Kohan ylläpitopalvelun tarjouspyyntö</a></u>?\
+\
+Muissa asioissa voitte käyttää alla olevaa lomaketta. Olemme teihin pian yhteydessä.\
+\
+[wpforms id="657"]	Ota yhteyttä		publish	closed	closed		ota-yhteytta			2020-09-10 15:50:36	2020-09-10 15:50:36		0	http://homepage/?page_id=660	0	page		0
+661	1	2020-09-10 15:42:45	2020-09-10 15:42:45	[wpforms id="657"]	Ota yhteyttä		inherit	closed	closed		660-revision-v1			2020-09-10 15:42:45	2020-09-10 15:42:45		660	http://homepage/660-revision-v1/	0	revision		0
+662	1	2020-09-10 15:45:55	2020-09-10 15:45:55	Tarkoititteko siirtyä sivulle <u><a href="http://homepage/fi/koha-yllapito-tarjouspyynto/" data-wplink-url-error="true">Kohan ylläpitopalvelun tarjouspyyntö</a></u>?\
+\
+Mui\
+\
+[wpforms id="657"]	Ota yhteyttä		inherit	closed	closed		660-revision-v1			2020-09-10 15:45:55	2020-09-10 15:45:55		660	http://homepage/660-revision-v1/	0	revision		0
+663	1	2020-09-10 15:47:58	2020-09-10 15:47:58	Halusitteko siirtyä sivulle <u><a href="http://homepage/fi/koha-yllapito-tarjouspyynto/" data-wplink-url-error="true">Kohan ylläpitopalvelun tarjouspyyntö</a></u>?\
+\
+Muissa asioissa voitte käyttää alla olevaa lomaketta.\
+\
+[wpforms id="657"]	Ota yhteyttä		inherit	closed	closed		660-revision-v1			2020-09-10 15:47:58	2020-09-10 15:47:58		660	http://homepage/660-revision-v1/	0	revision		0
+664	1	2020-09-10 15:49:31	2020-09-10 15:49:31	Did you mean <a href="http://homepage/koha-hosting-quote/" data-wplink-url-error="true"><u>Koha hosting - Request for Quotation</u></a>?\
+\
+If not, please use the form below and we will get back to you soon.\
+\
+[wpforms id="656"]	Contact Form		inherit	closed	closed		658-revision-v1			2020-09-10 15:49:31	2020-09-10 15:49:31		658	http://homepage/658-revision-v1/	0	revision		0
+665	1	2020-09-10 15:50:35	2020-09-10 15:50:35	Halusitteko siirtyä sivulle <u><a href="http://homepage/fi/koha-yllapito-tarjouspyynto/" data-wplink-url-error="true">Kohan ylläpitopalvelun tarjouspyyntö</a></u>?\
+\
+Muissa asioissa voitte käyttää alla olevaa lomaketta. Olemme teihin pian yhteydessä.\
+\
+[wpforms id="657"]	Ota yhteyttä		inherit	closed	closed		660-revision-v1			2020-09-10 15:50:35	2020-09-10 15:50:35		660	http://homepage/660-revision-v1/	0	revision		0
+666	1	2020-09-10 15:53:58	2020-09-10 15:53:58	{\
+    "widget_custom_html[3]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1NTg6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPkZJTkxBTkQ8L3N0cm9uZz48YnIgLz4NCjxiciAvPg0KPGk+VkFUIElEOiBGSTI5MjU2NzYzPC9pPjxiciAvPg0KPGJyIC8+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmluZm9AaHlwZXJub3ZhLmZpIj5pbmZvQGh5cGVybm92YS5maTwvYT48YnIgLz4NCjxiciAvPg0KPHA+UGhvbmUgYXBwb2ludG1lbnRzIGNhbiBiZSBib29rZWQgdmlhIDxhIGhyZWY9Ii9jb250YWN0LWZvcm0iPmNvbnRhY3QgZm9ybTwvYT4uDQo8L3A+DQo8aDM+VG92ZXJpIFN1cHBvcnQ8L2gzPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzp0b3ZlcmlAaHlwZXJub3ZhLmZpIj50b3ZlcmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+TGFpbnVyaSBTdXBwb3J0PC9oMz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86bGFpbnVyaUBoeXBlcm5vdmEuZmkiPmxhaW51cmlAaHlwZXJub3ZhLmZpPC9hPiI7czoxMzoid3BtbF9sYW5ndWFnZSI7czoyOiJlbiI7fQ==",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "04da8358c473f0677df3a69c4406398a"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-09-10 15:53:58"\
+    }\
+}			trash	closed	closed		b3a422a7-e076-4098-91c9-581a57cb8034			2020-09-10 15:53:58	2020-09-10 15:53:58		0	http://homepage/b3a422a7-e076-4098-91c9-581a57cb8034/	0	customize_changeset		0
+667	1	2020-09-10 15:54:11	2020-09-10 15:54:11	{\
+    "widget_custom_html[9]": {\
+        "value": {\
+            "encoded_serialized_instance": "YTozOntzOjU6InRpdGxlIjtzOjEyOiJIeXBlcm5vdmEgT3kiO3M6NzoiY29udGVudCI7czo1ODk6IlBMIDE2PGJyIC8+DQo4MDEwMSBKb2Vuc3V1PGJyIC8+DQo8c3Ryb25nPlNVT01JPC9zdHJvbmc+PGJyIC8+DQo8YnIgLz4NCjxpPlktdHVubnVzOiAyOTI1Njc2LTM8L2k+PGJyIC8+DQo8YnIgLz4NCjxpIGNsYXNzPSJmYSBmYS1lbnZlbG9wZSI+PC9pPiA8YSBocmVmPSJtYWlsdG86aW5mb0BoeXBlcm5vdmEuZmkiPmluZm9AaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGJyIC8+DQo8cD5Tb2l0dG9haWtvamEgcHVoZWxpbWl0c2Ugdm9pIHZhcmF0YSA8YSBocmVmPSIvZmkvb3RhLXlodGV5dHRhIj55aHRleWRlbm90dG9sb21ha2tlZW48L2E+IGthdXR0YS4NCjwvcD4NCjxoMz5Ub3ZlcmkgYXNpYWthc3BhbHZlbHU8L2gzPg0KPGkgY2xhc3M9ImZhIGZhLWVudmVsb3BlIj48L2k+IDxhIGhyZWY9Im1haWx0bzp0b3ZlcmlAaHlwZXJub3ZhLmZpIj50b3ZlcmlAaHlwZXJub3ZhLmZpPC9hPjxiciAvPg0KPGJyIC8+DQo8aDM+TGFpbnVyaSBhc2lha2FzcGFsdmVsdTwvaDM+DQo8aSBjbGFzcz0iZmEgZmEtZW52ZWxvcGUiPjwvaT4gPGEgaHJlZj0ibWFpbHRvOmxhaW51cmlAaHlwZXJub3ZhLmZpIj5sYWludXJpQGh5cGVybm92YS5maTwvYT4iO3M6MTM6IndwbWxfbGFuZ3VhZ2UiO3M6MjoiZmkiO30=",\
+            "title": "Hypernova Oy",\
+            "is_widget_customizer_js_value": true,\
+            "instance_hash_key": "9eb7667c8ccb4e3608b27c7be2fc2e91"\
+        },\
+        "type": "option",\
+        "user_id": 1,\
+        "date_modified_gmt": "2020-09-10 15:54:11"\
+    }\
+}			trash	closed	closed		8e504d39-73f8-4873-bfb7-d1264199f868			2020-09-10 15:54:11	2020-09-10 15:54:11		0	http://homepage/8e504d39-73f8-4873-bfb7-d1264199f868/	0	customize_changeset		0
