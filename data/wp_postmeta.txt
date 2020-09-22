@@ -155,7 +155,7 @@
 311	230	_wp_page_template	
 312	230	_wpml_media_featured	1
 313	230	_wpml_media_duplicate	1
-314	230	_edit_lock	1599648962:1
+314	230	_edit_lock	1600798737:1
 315	232	_menu_item_type	post_type
 316	232	_menu_item_menu_item_parent	534
 317	232	_menu_item_object_id	230
@@ -178,7 +178,7 @@
 349	314	_edit_last	1
 350	314	_wpml_media_duplicate	1
 351	314	_wpml_media_featured	1
-352	314	_edit_lock	1599650741:1
+352	314	_edit_lock	1600794987:1
 353	316	_menu_item_type	post_type
 354	316	_menu_item_menu_item_parent	232
 355	316	_menu_item_object_id	314
@@ -850,7 +850,7 @@ s,=0AAll at Hypernova Oy=0Ahttp://homepage\
 452	386	_wpml_media_duplicate	1
 453	386	_wpml_media_featured	1
 454	386	_last_translation_edit_mode	native-editor
-455	386	_edit_lock	1599647858:1
+455	386	_edit_lock	1600796497:1
 456	388	_menu_item_type	post_type
 457	388	_menu_item_menu_item_parent	533
 458	388	_menu_item_object_id	386
