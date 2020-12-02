@@ -80,12 +80,12 @@
 149	85	_edit_last	1
 150	85	_wpml_media_featured	1
 151	85	_wpml_media_duplicate	1
-152	85	_edit_lock	1568758040:1
+152	85	_edit_lock	1606867819:1
 153	90	_edit_last	1
 154	90	_wp_page_template	
 155	90	_wpml_media_featured	1
 156	90	_wpml_media_duplicate	1
-157	90	_edit_lock	1548343465:1
+157	90	_edit_lock	1606868050:1
 174	101	_menu_item_type	post_type
 175	101	_menu_item_menu_item_parent	0
 176	101	_menu_item_object_id	85
@@ -1295,17 +1295,6 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 723	567	_wp_attachment_image_alt	Lainuri prototype
 726	3	_yoast_wpseo_content_score	30
 727	104	_yoast_wpseo_content_score	30
-728	589	_wp_trash_meta_status	publish
-729	589	_wp_trash_meta_time	1598310208
-732	592	_wp_trash_meta_status	publish
-733	592	_wp_trash_meta_time	1598311776
-734	593	_wp_trash_meta_status	publish
-735	593	_wp_trash_meta_time	1598312037
-736	594	_wp_trash_meta_status	publish
-737	594	_wp_trash_meta_time	1598312060
-738	595	_edit_lock	1598312196:1
-739	595	_wp_trash_meta_status	publish
-740	595	_wp_trash_meta_time	1598312202
 742	386	_generate-disable-headline	true
 743	230	_yoast_wpseo_content_score	60
 744	604	_menu_item_type	custom
@@ -1322,16 +1311,6 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 755	255	_wp_attachment_image_alt	Koha - Free Library System
 756	348	_wp_attachment_image_alt	Koha as a Service
 757	347	_wp_attachment_image_alt	Koha-ylläpitopalvelu
-758	652	_edit_lock	1599731087:1
-759	652	_wp_trash_meta_status	publish
-760	652	_wp_trash_meta_time	1599731115
-761	653	_edit_lock	1599731386:1
-762	653	_wp_trash_meta_status	publish
-763	653	_wp_trash_meta_time	1599731388
-764	654	_wp_trash_meta_status	publish
-765	654	_wp_trash_meta_time	1599731419
-766	655	_wp_trash_meta_status	publish
-767	655	_wp_trash_meta_time	1599731429
 768	658	_edit_last	1
 769	658	_wpml_media_featured	1
 770	658	_wpml_media_duplicate	1
@@ -1342,7 +1321,5 @@ cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 776	660	_wpml_media_duplicate	1
 777	660	_edit_lock	1599753036:1
 778	660	_yoast_wpseo_content_score	60
-779	666	_wp_trash_meta_status	publish
-780	666	_wp_trash_meta_time	1599753238
-781	667	_wp_trash_meta_status	publish
-782	667	_wp_trash_meta_time	1599753251
+783	85	_yoast_wpseo_content_score	30
+784	90	_yoast_wpseo_content_score	60
