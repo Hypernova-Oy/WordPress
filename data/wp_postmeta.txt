@@ -1,7 +1,7 @@
 1	2	_wp_page_template	default
 2	3	_wp_page_template	default
 3	3	_edit_lock	1596151494:1
-4	2	_edit_lock	1598315438:1
+4	2	_edit_lock	1606869049:1
 7	2	_edit_last	1
 8	2	bento_sidebar_layout	full-width
 9	2	bento_title_position	left
@@ -1140,7 +1140,7 @@ bm8tcmVwbHlAbWFpbC5oeXBlcm5vdmEuZmk=\
 334 UGFzc3dvcmQ6\
 cmVwbGFjZS1zbXRwLXBhc3N3b3JkLWhlcmU=\
 535 Authentication Failed
-514	2	_yoast_wpseo_content_score	60
+514	2	_yoast_wpseo_content_score	90
 515	33	_last_translation_edit_mode	native-editor
 516	386	_yoast_wpseo_content_score	60
 517	429	_edit_last	1

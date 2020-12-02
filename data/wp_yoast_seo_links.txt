@@ -4,12 +4,6 @@
 436	https://redmine.hypernova.fi/activity	33	0	external
 437	https://redmine.hypernova.fi/	33	0	external
 438	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	33	0	external
-445	https://en.wikipedia.org/wiki/Free_and_open-source_software	2	0	external
-446	https://en.wikipedia.org/wiki/Paperless_office	2	0	external
-447	http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy	2	0	external
-448	https://redmine.hypernova.fi/activity	2	0	external
-449	https://redmine.hypernova.fi	2	0	external
-450	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	2	0	external
 561	https://cotter.co/materials	459	0	external
 562	mailto:lainuri@hypernova.fi	459	0	external
 569	https://cotter.co/materials	475	0	external
@@ -38,3 +32,9 @@
 1590	https://koha-community.org/download-koha/	230	0	external
 1592	mailto:info@hypernova.fi	85	0	external
 1598	mailto:info@hypernova.fi	90	0	external
+1605	https://en.wikipedia.org/wiki/Free_and_open-source_software	2	0	external
+1606	https://en.wikipedia.org/wiki/Paperless_office	2	0	external
+1607	http://climatejoensuu.fi/-/ilmastokumppani-hypernova-oy	2	0	external
+1608	https://redmine.hypernova.fi/activity	2	0	external
+1609	https://redmine.hypernova.fi	2	0	external
+1610	https://github.com/Hypernova-Oy/WordPress/tree/hypernova	2	0	external
